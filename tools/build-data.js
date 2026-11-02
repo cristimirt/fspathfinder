@@ -29,7 +29,8 @@ const WORLD_OVERRIDE = {
 // areas that only exist during a seasonal event (the wiki files them under Krul Island)
 const EVENT_NAME = /^(Forest of Yule|Springtime Forest|Grannies Cottage|Woodsman Forest|Toad Swamp|The Virtue Desert|Quango|Battleground of Gurgriss|Cursed Ones Frozen Forest|The Decrepit Castle|The Wretched Graveyard|Dark Dwarf|Horrifying Haunt|Happy Bear Woods|The Bears Cottage|Haunt of Tommy Aches|Hallowed Isle|Cursed Ones Autumn Forest|The Overgrown Castle)/;
 // Realms entered straight from the world map when the wiki has no "World Area" exit for the world.
-const ENTRY_OVERRIDE = { 'Krul Island': ['Mountain Path'] };
+// Entries added by hand. An empty list means the world map has no way in from a realm (nothing is guessed for it).
+const ENTRY_OVERRIDE = { 'Krul Island': [] };
 
 // ---- guide: name, level, shops, relics, quests, creatures
 const guide = {};
@@ -284,7 +285,7 @@ worldRows.forEach((w) => {
   });
   master.main.forEach((n) => { if (entries.indexOf(n) === -1) entries.push(n); });
   (ENTRY_OVERRIDE[w.name] || []).forEach((n) => { if (entries.indexOf(n) === -1) entries.push(n); });
-  if (!entries.length) {
+  if (!entries.length && !ENTRY_OVERRIDE[w.name]) {
     // no world-map exit listed: assume the lowest-level realm of the world is the way in
     const members = areas.filter((a) => a.kind === 'realm' && a.world === w.name).sort((p, q) => p.level - q.level || p.name.localeCompare(q.name));
     if (members.length) entries.push(members[0].name);
