@@ -734,6 +734,38 @@
     try { if (localStorage.getItem('fspf_legend') === '1') showLegend(true); } catch (err) { /* ignore */ }
     $('#legendBtn').addEventListener('click', () => showLegend($('#legend').hidden));
 
+    // find realms by the creatures that live there, listed by level
+    const crBox = $('#creatures');
+    const crRace = $('#crRace');
+    const crName = $('#crName');
+    const realms = D.areas.filter((a) => a.kind === 'realm' && a.creatures && a.creatures.length);
+    const raceCount = {};
+    realms.forEach((a) => new Set(a.creatures.map((c) => c.race).filter(Boolean)).forEach((r) => { raceCount[r] = (raceCount[r] || 0) + 1; }));
+    crRace.innerHTML = '<option value="">Any race</option>' + Object.keys(raceCount).sort().map((r) => '<option>' + esc(r) + '</option>').join('');
+    const crDraw = () => {
+      const race = crRace.value;
+      const nm = norm(crName.value);
+      const hit = [];
+      realms.forEach((a) => {
+        const m = a.creatures.filter((c) => (!race || c.race === race) && (!nm || norm(c.name).includes(nm)));
+        if (m.length && (race || nm)) hit.push({ a, m });
+      });
+      hit.sort((x, y) => x.a.level - y.a.level || x.a.name.localeCompare(y.a.name));
+      $('#crCount').textContent = hit.length ? hit.length + ' realm' + (hit.length === 1 ? '' : 's') : '';
+      $('#crList').innerHTML = hit.length ? hit.map((h, i) => '<li data-n="' + esc(h.a.name) + '"><span class="id">Lv ' + h.a.level + '</span><span class="nm">' + esc(h.a.name) + '</span><span class="lv">' + esc(h.a.world) + '</span>' +
+        '<span class="mt">' + esc(h.m.slice(0, 4).map((c) => c.name).join(', ')) + (h.m.length > 4 ? ' +' + (h.m.length - 4) + ' more' : '') + '</span></li>').join('')
+        : '<li class="none">' + (race || nm ? 'No realm has such creatures.' : 'Pick a race or type a creature name.') + '</li>';
+    };
+    const showCreatures = (on) => {
+      crBox.hidden = !on;
+      $('#creatureBtn').setAttribute('aria-expanded', String(on));
+      if (on) { crDraw(); crName.focus(); }
+    };
+    $('#creatureBtn').addEventListener('click', () => showCreatures(crBox.hidden));
+    crRace.addEventListener('change', crDraw);
+    crName.addEventListener('input', crDraw);
+    $('#crList').addEventListener('click', (e) => { const li = e.target.closest('li[data-n]'); if (li) { hideCard(); unfocus(); goTo(li.dataset.n); } });
+
     const map = $('#map');
     map.addEventListener('mouseover', (e) => {
       const n = e.target.closest('.node');
@@ -763,7 +795,7 @@
       if (card.classList.contains('pinned') && !e.target.closest('#card') && !e.target.closest('.node')) hideCard();
     });
     document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') { hideCard(); if (!$('#legend').hidden) showLegend(false); }
+      if (e.key === 'Escape') { hideCard(); if (!$('#legend').hidden) showLegend(false); if (!crBox.hidden) showCreatures(false); }
       if (e.key === '/' && !/INPUT|TEXTAREA/.test((document.activeElement || {}).tagName || '')) { e.preventDefault(); q.focus(); q.select(); }
     });
     card.addEventListener('click', (e) => {

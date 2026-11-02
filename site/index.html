@@ -51,7 +51,16 @@
 <nav id="pageBar">
   <div id="pageTitle"></div>
   <div id="worldStrip" aria-label="World map order"></div>
+  <button id="creatureBtn" type="button" class="ghost" aria-expanded="false" title="Find realms by the creatures living there">Creatures</button>
   <button id="legendBtn" type="button" class="ghost" aria-expanded="false">Legend</button>
+  <section id="creatures" hidden>
+    <div class="crRow">
+      <label>Race <select id="crRace"></select></label>
+      <label>Creature name <input id="crName" type="search" placeholder="e.g. Ice" autocomplete="off"></label>
+      <span id="crCount"></span>
+    </div>
+    <ol id="crList"></ol>
+  </section>
   <section id="legend" hidden></section>
 </nav>
 
