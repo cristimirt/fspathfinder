@@ -756,7 +756,19 @@
       $('#sideScrim').hidden = !on;
       $('#levelsBtn').setAttribute('aria-expanded', String(on));
     };
-    $('#levelsBtn').addEventListener('click', () => showSide(!document.body.classList.contains('sideOpen')));
+    // on wider screens the same button folds the list away; the choice is remembered
+    const narrowScreen = () => window.matchMedia('(max-width: 900px)').matches;
+    const foldSide = (hide, relayout) => {
+      document.body.classList.toggle('sideHidden', hide);
+      $('#levelsBtn').setAttribute('aria-expanded', String(!hide));
+      try { localStorage.setItem('fspf_side', hide ? '0' : '1'); } catch (err) { /* ignore */ }
+      if (relayout) window.dispatchEvent(new Event('resize')); // the map is wider now
+    };
+    try { if (localStorage.getItem('fspf_side') === '0' && !narrowScreen()) foldSide(true, false); else if (!narrowScreen()) $('#levelsBtn').setAttribute('aria-expanded', 'true'); } catch (err) { /* ignore */ }
+    $('#levelsBtn').addEventListener('click', () => {
+      if (narrowScreen()) showSide(!document.body.classList.contains('sideOpen'));
+      else foldSide(!document.body.classList.contains('sideHidden'), true);
+    });
     $('#sideScrim').addEventListener('click', () => showSide(false));
     $('#tabs').addEventListener('click', (e) => {
       const b = e.target.closest('button[data-p]');
@@ -769,6 +781,15 @@
         $('#tabs').querySelectorAll('details[open]').forEach((o) => { if (o !== d) o.open = false; });
       } else if (state.openGroup === d.dataset.g) state.openGroup = null;
     }, true);
+    // on phones the two finders are folded away; their icons in the header show them
+    [['#findBtn', 'pFind', '#q'], ['#routeBtn', 'pRoute', '#rFrom']].forEach(([btn, cls, input]) => {
+      $(btn).addEventListener('click', () => {
+        const on = !document.body.classList.contains(cls);
+        document.body.classList.toggle(cls, on);
+        $(btn).setAttribute('aria-expanded', String(on));
+        if (on) $(input).focus();
+      });
+    });
     // dark or game (parchment) theme; the choice is remembered. The page already has it applied from index.html.
     const themeBtn = $('#themeBtn');
     const setTheme = (name) => {
