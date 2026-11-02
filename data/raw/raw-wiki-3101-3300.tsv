@@ -1,0 +1,213 @@
+Monagoth Forest (Were)¦Monagoth_Forest_(Were)¦The Mandaron Forests¦|Monagoth Mountain (Wastes)|15|6|;|Monagoth Forest (Haunt)|4|18|;World Area|The Mandaron Forests|3|4|
+Monagoth Forest (Haunt)¦Monagoth_Forest_(Haunt)¦The Mandaron Forests¦|Monagoth Forest (Were)|4|2|;|Monagoth Forest (Frenzy)|15|13|
+Monagoth Forest (Frenzy)¦Monagoth_Forest_(Frenzy)¦The Mandaron Forests¦|Hallorath Forest (Horror)|8|5|;|Monagoth Forest (Haunt)|13|17|;|Stages 1-2:|6|12|
+Hallorath Forest (Horror)¦Hallorath_Forest_(Horror)¦The Mandaron Forests¦|Monagoth Forest (Frenzy)|17|5|;|Hallorath Forest (Haunt)|5|17|;Portal|Monagoth Mountain Portal|3|3|;World Area|The Mandaron Forests|14|13|
+Hallorath Forest (Haunt)¦Hallorath_Forest_(Haunt)¦The Mandaron Forests¦|Hallorath Forest (Horror)|4|3|;|Hallorath Forest (Lurk)|12|17|
+Hallorath Forest (Lurk)¦Hallorath_Forest_(Lurk)¦The Mandaron Forests¦Relic|Fiender Corpse|4|2|;|Hallorath Forest (Haunt)|13|4|;|Hallorath Forest (Pack)|3|10|;|Stages 3-4:|10|14|
+Hallorath Forest (Pack)¦Hallorath_Forest_(Pack)¦The Mandaron Forests¦|Hallorath Forest (Hive)|6|3|;|Hallorath Forest (Lurk)|9|14|
+Hallorath Forest (Hive)¦Hallorath_Forest_(Hive)¦The Mandaron Forests¦|Hallorath Forest (Copse)|9|2|;|Hallorath Forest (Pack)|8|15|
+Hallorath Forest (Copse)¦Hallorath_Forest_(Copse)¦The Mandaron Forests¦|Mandaron Forest (Streams)|15|6|;|Hallorath Forest (Hive)|2|17|
+Mandaron Forest (Streams)¦Mandaron_Forest_(Streams)¦The Mandaron Forests¦|Hallorath Forest (Copse)|13|9|;|Mandaron Forest (Scuttle)|4|19|;World Area|The Mandaron Forests|2|11|;|Stage 5:|7|4|
+Mandaron Forest (Scuttle)¦Mandaron_Forest_(Scuttle)¦The Mandaron Forests¦|Mandaron Forest (Streams)|14|2|;|Mandaron Forest (Pale Herds)|4|10|
+Mandaron Forest (Pale Herds)¦Mandaron_Forest_(Pale_Herds)¦The Mandaron Forests¦|Mandaron Forest (Scuttle)|17|4|;|Mandaron Forest (Scramble)|9|16|
+Mandaron Forest (Scramble)¦Mandaron_Forest_(Scramble)¦The Mandaron Forests¦|Mandaron Forest (Pale Herds)|3|3|;|Mandaron Forest (Pride Lands)|7|12|;|Stage 6:|13|7|
+Mandaron Forest (Pride Lands)¦Mandaron_Forest_(Pride_Lands)¦The Mandaron Forests¦|Mandaron Forest (Nests)|3|6|;|Mandaron Forest (Scramble)|15|14|;Portal|Mandaron Forest Portal|10|3|
+Mandaron Forest (Nests)¦Mandaron_Forest_(Nests)¦The Mandaron Forests¦|Mandaron Forest (Pride Lands)|11|2|;|Mandaron Forest (Trap)|7|13|
+Mandaron Forest (Trap)¦Mandaron_Forest_(Trap)¦The Mandaron Forests¦Relic|Venus Man Trap Corpse|13|12|;|Mandaron Forest (Nests)|11|3|;|Mandaron Forest (Growl)|2|13|
+Mandaron Forest (Growl)¦Mandaron_Forest_(Growl)¦The Mandaron Forests¦|Mandaron Forest (Den)|7|3|;|Mandaron Forest (Trap)|4|17|;|Stage 7:|12|9|
+Mandaron Forest (Den)¦Mandaron_Forest_(Den)¦The Mandaron Forests¦|Mandaron Forest (Stalk)|9|3|;|Mandaron Forest (Growl)|13|12|
+Mandaron Forest (Stalk)¦Mandaron_Forest_(Stalk)¦The Mandaron Forests¦|Mandaron Forest (Prowl)|4|5|;|Mandaron Forest (Den)|14|13|
+Mandaron Forest (Prowl)¦Mandaron_Forest_(Prowl)¦The Mandaron Forests¦|Felnat Skylands (Pride)|12|4|;|Mandaron Forest (Stalk)|10|15|
+Felnat Skylands (Pride)¦Felnat_Skylands_(Pride)¦The Mandaron Forests¦|Felnat Skylands (Slither)|4|3|;|Mandaron Forest (Prowl)|14|16|;World Area|The Mandaron Forests|4|14|;|Stage 8:|2|10|
+Felnat Skylands (Slither)¦Felnat_Skylands_(Slither)¦The Mandaron Forests¦|Felnat Skylands (Training Grounds)|2|2|;|Felnat Skylands (Pride)|13|18|
+Felnat Skylands (Training Grounds)¦Felnat_Skylands_(Training_Grounds)¦The Mandaron Forests¦|Felnat Skylands (Range)|13|5|;|Felnat Skylands (Slither)|2|14|
+Felnat Skylands (Range)¦Felnat_Skylands_(Range)¦The Mandaron Forests¦|Felnat Skylands (Armory)|2|8|;|Felnat Skylands (Training Grounds)|16|14|;Portal|Felnat Skylands Portal|9|12|
+Felnat Skylands (Armory)¦Felnat_Skylands_(Armory)¦The Mandaron Forests¦|Felnat Skylands (Temple)|19|3|;|Felnat Skylands (Range)|7|11|;|Felnat Skylands (Herd Lands)|15|14|;|Stage 9:|2|2|
+Felnat Skylands (Temple)¦Felnat_Skylands_(Temple)¦The Mandaron Forests¦|Felnat Skylands (Armory)|12|3|;|Stage 10:|2|12|
+Felnat Skylands (Herd Lands)¦Felnat_Skylands_(Herd_Lands)¦Vantiock Wastes¦Relic|Elnorphant Shrine|15|9|;|Felnat Skylands (Armory)|5|4|;|Felnat Skylands (Rough)|6|21|;World Area|Vantiock Wastes|3|12|
+Felnat Skylands (Rough)¦Felnat_Skylands_(Rough)¦Vantiock Wastes¦|Garnath Wastes (Slither)|13|3|;|Felnat Skylands (Herd Lands)|9|15|
+Garnath Wastes (Slither)¦Garnath_Wastes_(Slither)¦Vantiock Wastes¦|Felnat Skylands (Rough)|17|5|;|Garnath Wastes (Prowl)|7|16|;World Area|Vantiock Wastes|8|10|;|Stages 1-2:|6|3|
+Garnath Wastes (Prowl)¦Garnath_Wastes_(Prowl)¦Vantiock Wastes¦|Garnath Wastes (Slither)|3|3|;|Garnath Wastes (Mound)|19|4|
+Garnath Wastes (Mound)¦Garnath_Wastes_(Mound)¦Vantiock Wastes¦|Garnath Wastes (Scrub)|5|3|;|Garnath Wastes (Prowl)|12|20|
+Garnath Wastes (Scrub)¦Garnath_Wastes_(Scrub)¦Vantiock Wastes¦|Garnath Wastes (Mound)|3|2|;|Garnath Wastes (Hive)|15|14|;|Stage 3:|7|11|
+Garnath Wastes (Hive)¦Garnath_Wastes_(Hive)¦Vantiock Wastes¦|Garnath Wastes (Slime)|8|2|;|Garnath Wastes (Scrub)|5|12|
+Garnath Wastes (Slime)¦Garnath_Wastes_(Slime)¦Vantiock Wastes¦|Garnath Wastes (Hive)|3|9|;|Tywrin Sand (Desolation)|16|16|
+Tywrin Sand (Desolation)¦Tywrin_Sand_(Desolation)¦Vantiock Wastes¦|Garnath Wastes (Slime)|2|5|;|Tywrin Sand (Coils)|14|12|;Portal|Tywrin Portal|16|4|;World Area|Vantiock Wastes|6|14|
+Tywrin Sand (Coils)¦Tywrin_Sand_(Coils)¦Vantiock Wastes¦|Tywrin Sand (Desolation)|11|4|;|Tywrin Sand (Dunes)|3|15|
+Tywrin Sand (Dunes)¦Tywrin_Sand_(Dunes)¦Vantiock Wastes¦Relic|Husk Barrow|15|3|;|Tywrin Sand (Coils)|4|2|;|Tywrin Sand (Drifts)|13|13|;|Stages 4-5:|3|11|
+Tywrin Sand (Drifts)¦Tywrin_Sand_(Drifts)¦Vantiock Wastes¦|Tywrin Sand (Banks)|2|6|;|Tywrin Sand (Dunes)|13|14|
+Tywrin Sand (Banks)¦Tywrin_Sand_(Banks)¦Vantiock Wastes¦|Tywrin Sand (Drifts)|15|3|;|Vantiock Wastes (Roost)|2|14|
+Vantiock Wastes (Roost)¦Vantiock_Wastes_(Roost)¦Vantiock Wastes¦|Tywrin Sand (Banks)|12|3|;|Vantiock Wastes (Prowl)|4|17|;World Area|Vantiock Wastes|14|19|
+Vantiock Wastes (Prowl)¦Vantiock_Wastes_(Prowl)¦Vantiock Wastes¦|Vantiock Wastes (Graze)|5|3|;|Vantiock Wastes (Roost)|14|19|
+Vantiock Wastes (Graze)¦Vantiock_Wastes_(Graze)¦Vantiock Wastes¦|Vantiock Wastes (Prowl)|17|3|;|Vantiock Wastes (Rockery)|5|14|;|Stage 6:|8|6|
+Vantiock Wastes (Rockery)¦Vantiock_Wastes_(Rockery)¦Vantiock Wastes¦|Vantiock Wastes (Graze)|5|4|;|Vantiock Wastes (Murk)|17|16|
+Vantiock Wastes (Murk)¦Vantiock_Wastes_(Murk)¦Vantiock Wastes¦|Vantiock Wastes (Rockery)|4|3|;|Vantiock Wastes (Skitter)|12|19|
+Vantiock Wastes (Skitter)¦Vantiock_Wastes_(Skitter)¦Vantiock Wastes¦|Vantiock Wastes (Nests)|3|7|;|Vantiock Wastes (Murk)|17|14|;Portal|Vantiock Portal|19|3|
+Vantiock Wastes (Nests)¦Vantiock_Wastes_(Nests)¦Vantiock Wastes¦|Vantiock Wastes (Rocks)|15|6|;|Vantiock Wastes (Skitter)|3|8|
+Vantiock Wastes (Rocks)¦Vantiock_Wastes_(Rocks)¦Vantiock Wastes¦Relic|Lizards Basking Rock|8|15|;|Vantiock Wastes (Plain)|2|2|;|Vantiock Wastes (Nests)|15|10|
+Vantiock Wastes (Plain)¦Vantiock_Wastes_(Plain)¦Vantiock Wastes¦|Vantiock Wastes (Rocks)|6|3|;|Vantiock Wastes (Pack)|18|18|
+Vantiock Wastes (Pack)¦Vantiock_Wastes_(Pack)¦Vantiock Wastes¦|Vantiock Wastes (Plain)|16|2|;|Vantiock Wastes (Horror)|5|14|
+Vantiock Wastes (Horror)¦Vantiock_Wastes_(Horror)¦Vantiock Wastes¦|Vantiock Wastes (Grave)|17|4|;|Vantiock Wastes (Pack)|2|16|;|Stage 1:|7|2|
+Vantiock Wastes (Boneyard)¦Vantiock_Wastes_(Boneyard)¦Vantiock Wastes¦|Vantiock Wastes (Grave)|12|2|;|Stage 3:|8|13|
+Vantiock Wastes (Grave)¦Vantiock_Wastes_(Grave)¦Vantiock Wastes¦|Vantiock Wastes (Horror)|6|2|;|Vantiock Wastes (Strike)|15|3|;|Vantiock Wastes (Boneyard)|9|13|;|Stage 2:|13|8|
+Vantiock Wastes (Strike)¦Vantiock_Wastes_(Strike)¦The Yelnatt Region¦|Vantiock Wastes (Scuttle)|12|2|;|Vantiock Wastes (Grave)|13|15|;World Area|The Yelnatt Region|4|12|
+Vantiock Wastes (Scuttle)¦Vantiock_Wastes_(Scuttle)¦The Yelnatt Region¦|Vantiock Wastes (Soar)|11|3|;|Vantiock Wastes (Strike)|2|10|
+Vantiock Wastes (Soar)¦Vantiock_Wastes_(Soar)¦The Yelnatt Region¦|Vantiock Wastes (Haunt)|2|6|;|Vantiock Wastes (Scuttle)|16|14|
+Vantiock Wastes (Haunt)¦Vantiock_Wastes_(Haunt)¦The Yelnatt Region¦|Vantiock Wastes (Soar)|10|2|;|Talaras Town (Gate)|2|16|
+Talaras Town (Gate)¦Talaras_Town_(Gate)¦The Yelnatt Region¦|Vantiock Wastes (Haunt)|3|2|;|Talaras Town (Barracks)|16|18|;World Area|The Yelnatt Region|18|4|
+Talaras Town (Barracks)¦Talaras_Town_(Barracks)¦The Yelnatt Region¦|Talaras Town (Gate)|6|1|;|Talaras Town (Wall)|18|15|
+Talaras Town (Wall)¦Talaras_Town_(Wall)¦The Yelnatt Region¦|Talaras Town (Merc Quarter)|13|2|;|Talaras Town (Barracks)|2|8|
+Talaras Town (Merc Quarter)¦Talaras_Town_(Merc_Quarter)¦The Yelnatt Region¦|Talaras Town (Square)|5|1|;|Talaras Town (Wall)|12|14|
+Talaras Town (Square)¦Talaras_Town_(Square)¦The Yelnatt Region¦|Talaras Town (Construction Yard)|5|5|;|Talaras Town (Merc Quarter)|13|17|
+Talaras Town (Construction Yard)¦Talaras_Town_(Construction_Yard)¦The Yelnatt Region¦|Talaras Town (Square)|1|7|;|Talaras Town (Park)|15|18|
+Talaras Town (Park)¦Talaras_Town_(Park)¦The Yelnatt Region¦|Talaras Town (Alleys)|14|3|;|Talaras Town (Construction Yard)|3|15|
+Talaras Town (Alleys)¦Talaras_Town_(Alleys)¦The Yelnatt Region¦|Talaras Town (Park)|2|3|;|Talaras Town (Market)|11|13|
+Talaras Town (Market)¦Talaras_Town_(Market)¦The Yelnatt Region¦|Talaras Town (Alleys)|6|4|;|Yelnatt Forest (Contagion)|13|15|
+Yelnatt Forest (Contagion)¦Yelnatt_Forest_(Contagion)¦The Yelnatt Region¦|Yelnatt Forest (Hive)|2|9|;|Talaras Town (Market)|14|13|;World Area|The Yelnatt Region|15|3|
+Yelnatt Forest (Hive)¦Yelnatt_Forest_(Hive)¦The Yelnatt Region¦|Yelnatt Forest (Contagion)|3|3|;|Yelnatt Forest (Herd Grove)|8|17|
+Yelnatt Forest (Herd Grove)¦Yelnatt_Forest_(Herd_Grove)¦The Yelnatt Region¦|Yelnatt Forest (Watch Post)|11|2|;|Yelnatt Forest (Hive)|5|17|
+Yelnatt Forest (Watch Post)¦Yelnatt_Forest_(Watch_Post)¦The Yelnatt Region¦|Yelnatt Forest (Orc Camp)|2|2|;|Yelnatt Forest (Herd Grove)|17|12|
+Yelnatt Forest (Orc Camp)¦Yelnatt_Forest_(Orc_Camp)¦The Yelnatt Region¦|Yelnatt Forest (Watch Post)|18|3|;|Yelnatt Forest (Prisoner Glade)|5|16|
+Yelnatt Forest (Prisoner Glade)¦Yelnatt_Forest_(Prisoner_Glade)¦The Yelnatt Region¦|Yelnatt Forest (Orc Camp)|6|2|;|Yelnatt Forest (Troll Haunt)|11|18|
+Yelnatt Forest (Troll Haunt)¦Yelnatt_Forest_(Troll_Haunt)¦The Yelnatt Region¦|Yelnatt Forest (Prisoner Glade)|6|4|;|Yelnatt Forest (Grave)|14|14|
+Yelnatt Forest (Grave)¦Yelnatt_Forest_(Grave)¦The Yelnatt Region¦|Yelnatt Forest (Troll Haunt)|3|3|;|Yelnatt Forest (Feral Copse)|9|15|;World Area|The Yelnatt Region|11|4|
+Yelnatt Forest (Feral Copse)¦Yelnatt_Forest_(Feral_Copse)¦The Yelnatt Region¦|Yelnatt Forest (Hog Glade)|5|2|;|Yelnatt Forest (Grave)|14|15|
+Yelnatt Forest (Hog Glade)¦Yelnatt_Forest_(Hog_Glade)¦The Yelnatt Region¦|Yelnatt Forest (Dark Haunt)|11|5|;|Yelnatt Forest (Feral Copse)|7|15|
+Yelnatt Forest (Dark Haunt)¦Yelnatt_Forest_(Dark_Haunt)¦The Yelnatt Region¦|Yelnatt Forest (Hog Glade)|3|3|;|Yelnatt Forest (Dark Glade)|18|14|
+Yelnatt Forest (Dark Glade)¦Yelnatt_Forest_(Dark_Glade)¦The Yelnatt Region¦|Yelnatt Forest (Dark Haunt)|14|6|;|Yelnatt Forest (Lair)|4|15|;|Yelnatt Forest (Haunt)|16|17|
+Yelnatt Forest (Lair)¦Yelnatt_Forest_(Lair)¦The Yelnatt Region¦|Yelnatt Forest (Dark Glade)|6|4|
+Yelnatt Forest (Haunt)¦Yelnatt_Forest_(Haunt)¦Celgar Region¦|Yelnatt Forest (Prowl)|6|2|;|Yelnatt Forest (Dark Glade)|18|12|;World Area|Celgar Region|4|10|
+Yelnatt Forest (Prowl)¦Yelnatt_Forest_(Prowl)¦Celgar Region¦|Yelnatt Forest (Haunt)|12|3|;|Celgar Forest (Nest)|3|15|
+Celgar Forest (Nest)¦Celgar_Forest_(Nest)¦Celgar Region¦|Yelnatt Forest (Prowl)|3|3|;|Celgar Forest (Ambush)|12|13|;World Area|Celgar Region|6|16|
+Celgar Forest (Ambush)¦Celgar_Forest_(Ambush)¦Celgar Region¦|Celgar Forest (Range)|6|5|;|Celgar Forest (Nest)|16|17|
+Celgar Forest (Range)¦Celgar_Forest_(Range)¦Celgar Region¦|Celgar Forest (Ambush)|2|2|;|Celgar Forest (Camp)|15|14|
+Celgar Forest (Camp)¦Celgar_Forest_(Camp)¦Celgar Region¦|Celgar Forest (Range)|6|5|;|Celgar Forest (Perimeter)|15|15|
+Celgar Forest (Perimeter)¦Celgar_Forest_(Perimeter)¦Celgar Region¦|Celgar Forest (Camp)|3|2|;|Celgar Forest (Copse)|12|15|
+Celgar Forest (Copse)¦Celgar_Forest_(Copse)¦Celgar Region¦|Celgar Forest (Barracks)|18|3|;|Celgar Forest (Perimeter)|5|17|
+Celgar Forest (Barracks)¦Celgar_Forest_(Barracks)¦Celgar Region¦|Celgar Forest (Copse)|15|3|;|Celgar Forest (Phalanx)|6|12|
+Celgar Forest (Phalanx)¦Celgar_Forest_(Phalanx)¦Celgar Region¦|Celgar Forest (Roost)|4|1|;|Celgar Forest (Barracks)|3|16|;World Area|Celgar Region|16|3|
+Celgar Forest (Roost)¦Celgar_Forest_(Roost)¦Celgar Region¦|Celgar Forest (Stable)|17|4|;|Celgar Forest (Phalanx)|7|15|
+Celgar Forest (Stable)¦Celgar_Forest_(Stable)¦Celgar Region¦|Celgar Forest (Mage Towers)|16|2|;|Celgar Forest (Roost)|1|15|
+Celgar Forest (Mage Towers)¦Celgar_Forest_(Mage_Towers)¦Celgar Region¦|Celgar Forest (Guard Rooms)|13|2|;|Celgar Forest (Stable)|2|9|
+Celgar Forest (Guard Rooms)¦Celgar_Forest_(Guard_Rooms)¦Celgar Region¦|Celgar Forest (Temple)|17|5|;|Celgar Forest (Mage Towers)|5|17|
+Celgar Forest (Temple)¦Celgar_Forest_(Temple)¦Celgar Region¦|Celgar Forest (Guard Rooms)|1|2|;|Yulgor Caverns (Entrance)|16|19|
+Yulgor Caverns (Entrance)¦Yulgor_Caverns_(Entrance)¦Celgar Region¦|Celgar Forest (Temple)|13|3|;|Yulgor Caverns (Prowl)|2|14|;World Area|Celgar Region|15|15|
+Yulgor Caverns (Prowl)¦Yulgor_Caverns_(Prowl)¦Celgar Region¦|Yulgor Caverns (Entrance)|3|5|;|Yulgor Caverns (Crawl)|14|16|
+Yulgor Caverns (Crawl)¦Yulgor_Caverns_(Crawl)¦Celgar Region¦|Yulgor Caverns (Prowl)|3|3|;|Yulgor Caverns (Slither)|16|8|
+Yulgor Caverns (Slither)¦Yulgor_Caverns_(Slither)¦Celgar Region¦|Yulgor Caverns (Crawl)|16|3|;|Yulgor Caverns (Depths)|2|16|
+Yulgor Caverns (Depths)¦Yulgor_Caverns_(Depths)¦Celgar Region¦|Yulgor Caverns (Darkness)|3|3|;|Yulgor Caverns (Slither)|16|9|
+Yulgor Caverns (Darkness)¦Yulgor_Caverns_(Darkness)¦Celgar Region¦|Yulgor Caverns (Depths)|15|2|;|Yulgor Caverns (Tunnels)|8|14|
+Yulgor Caverns (Tunnels)¦Yulgor_Caverns_(Tunnels)¦Celgar Region¦|Yulgor Caverns (Darkness)|3|3|;|Yulgor Caverns (Haunt)|8|15|
+Yulgor Caverns (Haunt)¦Yulgor_Caverns_(Haunt)¦Celgar Region¦|Yulgor Caverns (Tunnels)|8|2|;|Yulgor Caverns (Stables)|10|13|
+Yulgor Caverns (Stables)¦Yulgor_Caverns_(Stables)¦Celgar Region¦|Yulgor Caverns (Barracks)|2|2|;|Yulgor Caverns (Haunt)|7|13|
+Yulgor Caverns (Barracks)¦Yulgor_Caverns_(Barracks)¦Celgar Region¦|Yulgor Caverns (Stables)|12|5|;|Yulgor Caverns (Lake Edge)|13|16|
+Yulgor Caverns (Lake Edge)¦Yulgor_Caverns_(Lake_Edge)¦Jabari Grasslands¦|Yulgor Caverns (Barracks)|8|4|;|Yulgor Caverns (Dark Waters)|13|15|;World Area|Jabari Grasslands|16|8|;|Stages 1-2:|2|16|
+Yulgor Caverns (Dark Waters)¦Yulgor_Caverns_(Dark_Waters)¦Jabari Grasslands¦|Yulgor Caverns (Lake Edge)|8|2|;|Yulgor Caverns (Sludge)|7|16|;|Stage 3:|15|4|
+Yulgor Caverns (Sludge)¦Yulgor_Caverns_(Sludge)¦Jabari Grasslands¦|Yulgor Caverns (Dark Waters)|5|5|;|Balacath Caverns (Grasp)|14|16|;|Stage 4:|15|4|
+Balacath Caverns (Grasp)¦Balacath_Caverns_(Grasp)¦Jabari Grasslands¦|Balacath Caverns (Slither)|6|7|;|Yulgor Caverns (Sludge)|11|18|;Portal|Balacath Portal|16|4|
+Balacath Caverns (Slither)¦Balacath_Caverns_(Slither)¦Jabari Grasslands¦|Balacath Caverns (Grasp)|18|4|;|Balacath Caverns (Clacks)|7|12|
+Balacath Caverns (Clacks)¦Balacath_Caverns_(Clacks)¦Jabari Grasslands¦Relic|Cave Scuttler Corpse|14|14|;|Balacath Caverns (Slither)|12|4|;|Balacath Caverns (Burrow)|3|12|
+Balacath Caverns (Burrow)¦Balacath_Caverns_(Burrow)¦Jabari Grasslands¦|Balacath Caverns (Tunnels)|3|3|;|Balacath Caverns (Clacks)|22|22|;World Area|Jabari Grasslands|4|17|
+Balacath Caverns (Tunnels)¦Balacath_Caverns_(Tunnels)¦Jabari Grasslands¦|Balacath Caverns (Burrow)|9|2|;|Balacath Caverns (Mines)|3|15|
+Balacath Caverns (Mines)¦Balacath_Caverns_(Mines)¦Jabari Grasslands¦|Balacath Caverns (Tunnels)|19|3|;|Balacath Caverns (Edge)|4|10|
+Balacath Caverns (Edge)¦Balacath_Caverns_(Edge)¦Jabari Grasslands¦|Balacath Caverns (Warrens)|3|3|;|Balacath Caverns (Mines)|10|22|
+Balacath Caverns (Warrens)¦Balacath_Caverns_(Warrens)¦Jabari Grasslands¦|Balacath Caverns (Edge)|15|3|;|Balacath Caverns (Sneak)|6|13|;|Stages 1-2:|2|8|
+Balacath Caverns (Sneak)¦Balacath_Caverns_(Sneak)¦Jabari Grasslands¦|Balacath Caverns (Midden)|3|3|;|Balacath Caverns (Warrens)|14|13|
+Balacath Caverns (Midden)¦Balacath_Caverns_(Midden)¦Jabari Grasslands¦|Balacath Caverns (Sneak)|14|5|;|Jabari Grasslands (Hole)|2|14|;|Stages 3-4:|15|12|
+Jabari Grasslands (Hole)¦Jabari_Grasslands_(Hole)¦Jabari Grasslands¦|Jabari Grasslands (Prowl)|15|3|;|Balacath Caverns (Midden)|11|15|;Portal|Jabari Grasslands Portal|4|2|;World Area|Jabari Grasslands|3|11|
+Jabari Grasslands (Prowl)¦Jabari_Grasslands_(Prowl)¦Jabari Grasslands¦|Jabari Grasslands (Slither)|3|3|;|Jabari Grasslands (Hole)|11|15|
+Jabari Grasslands (Slither)¦Jabari_Grasslands_(Slither)¦Jabari Grasslands¦Relic|Chimera Corpse|4|12|;|Jabari Grasslands (Prowl)|16|3|;|Jabari Grasslands (Hunt)|3|18|
+Jabari Grasslands (Hunt)¦Jabari_Grasslands_(Hunt)¦Jabari Grasslands¦|Jabari Grasslands (Slither)|2|3|;|Jabari Grasslands (Brush)|21|13|
+Jabari Grasslands (Brush)¦Jabari_Grasslands_(Brush)¦Jabari Grasslands¦|Jabari Grasslands (Hunt)|2|2|;|Jabari Grasslands (Pride)|14|20|
+Jabari Grasslands (Pride)¦Jabari_Grasslands_(Pride)¦Jabari Grasslands¦|Jabari Grasslands (Brush)|3|3|;|Jabari Grasslands (Graze)|12|16|
+Jabari Grasslands (Graze)¦Jabari_Grasslands_(Graze)¦Jabari Grasslands¦|Jabari Grasslands (Pride)|14|3|;|Jabari Grasslands (Dash)|5|16|
+Jabari Grasslands (Dash)¦Jabari_Grasslands_(Dash)¦Jabari Grasslands¦|Jabari Grasslands (Graze)|13|7|;|Jabari Grasslands (Edge)|4|17|
+Jabari Grasslands (Edge)¦Jabari_Grasslands_(Edge)¦Jabari Grasslands¦|Jabari Grasslands (Walls)|3|3|;|Jabari Grasslands (Dash)|22|7|;World Area|Jabari Grasslands|17|14|;|Stages 1-3:|8|13|
+Jabari Grasslands (Walls)¦Jabari_Grasslands_(Walls)¦Jabari Grasslands¦|Jabari Grasslands (Range)|3|3|;|Jabari Grasslands (Edge)|15|14|
+Jabari Grasslands (Range)¦Jabari_Grasslands_(Range)¦Jabari Grasslands¦|Jabari Grasslands (Walls)|15|3|;|Jabari Grasslands (Ritual Site)|3|8|;Portal|Jabari Grasslands Portal|8|13|;|Stage 4:|12|9|
+Jabari Grasslands (Chiefs Lands)¦Jabari_Grasslands_(Chiefs_Lands)¦Jabari Grasslands¦|Jabari Grasslands (Ritual Site)|7|10|;|Stage 5:|12|3|
+Jabari Grasslands (Ritual Site)¦Jabari_Grasslands_(Ritual_Site)¦Jabari Grasslands¦|Jabari Grasslands (Range)|12|3|;|Jabari Grasslands (Raptor Nest)|2|5|;|Jabari Grasslands (Chiefs Lands)|6|20|
+Quango Island (Haunt)¦Quango_Island_(Haunt)¦Arrin Moors¦|Quango Island|2|3|;|Stages 1-2|7|16|
+Springtime Forest (Desolation)¦Springtime_Forest_(Desolation)¦Krul Island¦|Springtime Forest (Outer Grove)|11|9|
+Jabari Grasslands (Raptor Nest)¦Jabari_Grasslands_(Raptor_Nest)¦Tenarite Region¦Relic|Raptor Nest|6|6|;|Tenarite Grasslands (Graze)|13|3|;|Jabari Grasslands (Ritual Site)|10|20|;World Area|Tenarite Region|11|13|;|Stages 1-2:|3|12|
+Tenarite Grasslands (Graze)¦Tenarite_Grasslands_(Graze)¦Tenarite Region¦|Jabari Grasslands (Raptor Nest)|4|3|;|Tenarite Grasslands (Pack Lands)|20|8|
+Tenarite Grasslands (Pack Lands)¦Tenarite_Grasslands_(Pack_Lands)¦Tenarite Region¦|Tenarite Grasslands (Rocks)|14|3|;|Tenarite Grasslands (Graze)|3|10|
+Tenarite Grasslands (Rocks)¦Tenarite_Grasslands_(Rocks)¦Tenarite Region¦|Tenarite Grasslands (Tribe Land)|9|3|;|Tenarite Grasslands (Pack Lands)|14|17|
+Tenarite Grasslands (Tribe Land)¦Tenarite_Grasslands_(Tribe_Land)¦Tenarite Region¦|Tenarite Grasslands (Rocks)|13|5|;|Tenarite Grasslands (Crawl)|2|17|;|Stages 1-3:|4|3|
+Tenarite Grasslands (Crawl)¦Tenarite_Grasslands_(Crawl)¦Tenarite Region¦|Tenarite Grasslands (Tribe Land)|4|3|;|Tenarite Grasslands (Slither)|13|11|
+Tenarite Grasslands (Slither)¦Tenarite_Grasslands_(Slither)¦Tenarite Region¦|Tenarite Grasslands (Coil)|15|3|;|Tenarite Grasslands (Crawl)|3|8|;|Stage 4:|9|13|
+Tenarite Grasslands (Coil)¦Tenarite_Grasslands_(Coil)¦Tenarite Region¦|Tenarite Grasslands (Range)|20|3|;|Tenarite Grasslands (Slither)|14|20|;World Area|Tenarite Region|3|5|
+Tenarite Grasslands (Range)¦Tenarite_Grasslands_(Range)¦Tenarite Region¦|Tenarite Grasslands (Plains)|19|5|;|Tenarite Grasslands (Coil)|5|10|;Portal|Tenarite Grasslands Portal|10|13|;|Stage 5:|3|3|
+Tenarite Grasslands (Plains)¦Tenarite_Grasslands_(Plains)¦Tenarite Region¦|Tenarite Grasslands (Range)|12|3|;|Tenarite Grasslands (Steppes)|7|21|
+Tenarite Grasslands (Steppes)¦Tenarite_Grasslands_(Steppes)¦Tenarite Region¦Relic|Terror Bird Nest|9|10|;|Tenarite Grasslands (Prairie)|14|6|;|Tenarite Grasslands (Plains)|5|16|;|Stage 6:|16|15|
+Tenarite Grasslands (Prairie)¦Tenarite_Grasslands_(Prairie)¦Tenarite Region¦|Tenarite Grasslands (Warp)|15|2|;|Tenarite Grasslands (Steppes)|3|15|
+Tenarite Grasslands (Warp)¦Tenarite_Grasslands_(Warp)¦Tenarite Region¦|Tenarite Grasslands (Spines)|2|5|;|Tenarite Grasslands (Prairie)|13|14|
+Tenarite Grasslands (Spines)¦Tenarite_Grasslands_(Spines)¦Tenarite Region¦|Tenarite Grasslands (Warp)|12|4|;|Gellaroth Coast (Shallows)|4|16|
+Gellaroth Coast (Shallows)¦Gellaroth_Coast_(Shallows)¦Tenarite Region¦|Gellaroth Coast (Pools)|17|2|;|Tenarite Grasslands (Spines)|2|13|;World Area|Tenarite Region|4|3|
+Gellaroth Coast (Pools)¦Gellaroth_Coast_(Pools)¦Tenarite Region¦|Gellaroth Coast (Salt)|4|4|;|Gellaroth Coast (Shallows)|9|19|
+Gellaroth Coast (Salt)¦Gellaroth_Coast_(Salt)¦Tenarite Region¦|Gellaroth Coast (Depths)|3|3|;|Gellaroth Coast (Pools)|14|10|
+Gellaroth Coast (Depths)¦Gellaroth_Coast_(Depths)¦Tenarite Region¦|Gellaroth Coast (Crawl)|12|3|;|Gellaroth Coast (Salt)|4|12|
+Gellaroth Coast (Crawl)¦Gellaroth_Coast_(Crawl)¦Tenarite Region¦|Gellaroth Coast (Thrash)|14|5|;|Gellaroth Coast (Depths)|7|14|;Portal|Gellaroth Coast Portal|8|3|
+Gellaroth Coast (Thrash)¦Gellaroth_Coast_(Thrash)¦Tenarite Region¦|Gellaroth Coast (Crawl)|3|3|;|Gellaroth Coast (Dunes)|15|11|
+Gellaroth Coast (Dunes)¦Gellaroth_Coast_(Dunes)¦Tenarite Region¦Relic|Pirate Rum Stash|20|15|;|Gellaroth Coast (Thrash)|19|3|;|Gellaroth Coast (Sting)|6|12|;World Area|Tenarite Region|16|10|;|Stages 1-2:|4|6|
+Gellaroth Coast (Sting)¦Gellaroth_Coast_(Sting)¦Tenarite Region¦|Gellaroth Coast (Dunes)|2|13|;|Gellaroth Coast (Boom)|24|13|
+Gellaroth Coast (Boom)¦Gellaroth_Coast_(Boom)¦Tenarite Region¦|Gellaroth Coast (Sting)|13|2|;|Gellaroth Coast (Village)|4|11|;|Stage 3:|14|14|
+Gellaroth Coast (Village)¦Gellaroth_Coast_(Village)¦Tenarite Region¦|Gellaroth Coast (Dock)|2|2|;|Gellaroth Coast (Boom)|15|9|
+Appleseed Sewers¦Appleseed_Sewers¦Tenarite Region¦|Appleseed Town|2|10|;|Stage 4:|2|10|;|Stages 5-8:|14|5|;|Stages 9-11:|16|16|
+Appleseed Town¦Appleseed_Town¦Tenarite Region¦|Appleseed Sewers|11|7|;|The Grimmnor Forest|6|13|;|Stage 1:|6|12|;|Stages 2-3:|10|3|;|Stage 12:|10|3|
+Gellaroth Coast (Dock)¦Gellaroth_Coast_(Dock)¦Tenarite Region¦|Gellaroth Coast (Outskirts)|2|2|;|Gellaroth Coast (Moxies Manor)|16|3|;|Gellaroth Coast (Village)|11|12|;|Stages 4-5:|4|10|
+Gellaroth Coast (Moxies Manor)¦Gellaroth_Coast_(Moxies_Manor)¦Tenarite Region¦|Gellaroth Coast (Dock)|11|14|
+Gellaroth Coast (Outskirts)¦Gellaroth_Coast_(Outskirts)¦The Zorgoth Seas¦|Gellaroth Coast (Dock)|15|4|;|Zorgoth Reef (Twist)|4|16|;World Area|The Zorgoth Seas|14|20|
+Zorgoth Reef (Twist)¦Zorgoth_Reef_(Twist)¦The Zorgoth Seas¦|Gellaroth Coast (Outskirts)|3|2|;|Zorgoth Reef (Venom)|21|18|
+Zorgoth Reef (Venom)¦Zorgoth_Reef_(Venom)¦The Zorgoth Seas¦|Zorgoth Reef (Writhe)|15|2|;|Zorgoth Reef (Twist)|1|16|
+Zorgoth Reef (Writhe)¦Zorgoth_Reef_(Writhe)¦The Zorgoth Seas¦|Zorgoth Reef (Slime)|6|9|;|Zorgoth Reef (Venom)|20|20|;Portal|Zorgoth Portal|12|2|
+Zorgoth Reef (Slime)¦Zorgoth_Reef_(Slime)¦The Zorgoth Seas¦|Zorgoth Reef (Sting)|3|2|;|Zorgoth Reef (Writhe)|22|18|
+Zorgoth Reef (Sting)¦Zorgoth_Reef_(Sting)¦The Zorgoth Seas¦Relic|Viper Seaslug Nest|3|4|;|Zorgoth Reef (Thrash)|18|3|;|Zorgoth Reef (Slime)|12|22|;World Area|The Zorgoth Seas|15|10|
+Zorgoth Reef (Thrash)¦Zorgoth_Reef_(Thrash)¦The Zorgoth Seas¦|Zorgoth Reef (Sting)|1|5|;|Zorgoth Reef (Coral)|19|14|
+Zorgoth Reef (Coral)¦Zorgoth_Reef_(Coral)¦The Zorgoth Seas¦|Zorgoth Reef (Thrash)|6|5|;|Zorgoth Reef (Barracks)|17|18|;|Stages 1-2:|2|14|
+Zorgoth Reef (Barracks)¦Zorgoth_Reef_(Barracks)¦The Zorgoth Seas¦|Zorgoth Reef (Coral)|5|2|;|Zorgoth Reef (Front)|2|17|
+Zorgoth Reef (Front)¦Zorgoth_Reef_(Front)¦The Zorgoth Seas¦|Zorgoth Reef (Barracks)|18|5|;|Zorgoth Reef (Battle)|2|18|;|Stage 3:|4|4|
+Zorgoth Reef (Battle)¦Zorgoth_Reef_(Battle)¦The Zorgoth Seas¦|Zorgoth Reef (Front)|18|3|;|Zorgoth Reef (Armory)|1|20|
+Zorgoth Reef (Armory)¦Zorgoth_Reef_(Armory)¦The Zorgoth Seas¦|Zorgoth Reef (Chum)|15|4|;|Zorgoth Reef (Battle)|5|19|;World Area|The Zorgoth Seas|1|2|;|Stage 4:|17|20|
+Zorgoth Reef (Chum)¦Zorgoth_Reef_(Chum)¦The Zorgoth Seas¦|Zorgoth Surf (Frenzy)|2|1|;|Zorgoth Reef (Armory)|18|15|;|Stages 5-6:|20|3|
+Zorgoth Surf (Frenzy)¦Zorgoth_Surf_(Frenzy)¦The Zorgoth Seas¦|Zorgoth Surf (Sponge)|12|7|;|Zorgoth Reef (Chum)|7|21|;Portal|Zorgoth Surf Portal|3|3|
+Zorgoth Surf (Sponge)¦Zorgoth_Surf_(Sponge)¦The Zorgoth Seas¦|Zorgoth Surf (Frenzy)|3|3|;|Zorgoth Surf (Pools)|12|13|
+Zorgoth Surf (Pools)¦Zorgoth_Surf_(Pools)¦The Zorgoth Seas¦Relic|Starfish Pools|12|2|;|Zorgoth Surf (Sponge)|24|3|;|Zorgoth Surf (Shallows)|4|13|
+Zorgoth Surf (Shallows)¦Zorgoth_Surf_(Shallows)¦The Zorgoth Seas¦|Zorgoth Surf (Pools)|3|3|;|Zorgoth Surf (Thrash)|9|16|;World Area|The Zorgoth Seas|15|10|
+Zorgoth Surf (Thrash)¦Zorgoth_Surf_(Thrash)¦The Zorgoth Seas¦|Zorgoth Surf (Shallows)|13|3|;|Zorgoth Surf (Scum)|4|13|
+Zorgoth Surf (Scum)¦Zorgoth_Surf_(Scum)¦The Zorgoth Seas¦|Zorgoth Surf (Thrash)|3|3|;|Zorgoth Surf (Deeps)|14|10|;|Stages 1-2:|2|16|
+Zorgoth Surf (Deeps)¦Zorgoth_Surf_(Deeps)¦The Zorgoth Seas¦|Zorgoth Surf (Scum)|21|3|;|Zorgoth Surf (Dune)|3|7|
+Zorgoth Surf (Dune)¦Zorgoth_Surf_(Dune)¦The Zorgoth Seas¦|Zorgoth Surf (Prey)|3|3|;|Zorgoth Surf (Deeps)|14|17|;|Stage 3:|16|7|
+Zorgoth Surf (Prey)¦Zorgoth_Surf_(Prey)¦The Zorgoth Seas¦|Zorgoth Surf (Dune)|14|3|;|Zorgoth Surf (Grasp)|2|21|;World Area|The Zorgoth Seas|15|14|
+Zorgoth Surf (Grasp)¦Zorgoth_Surf_(Grasp)¦The Zorgoth Seas¦|Zorgoth Surf (Crush)|2|2|;|Zorgoth Surf (Prey)|19|20|;|Stage 4:|21|4|
+Zorgoth Surf (Crush)¦Zorgoth_Surf_(Crush)¦The Zorgoth Seas¦|Zorgoth Surf (Grasp)|13|3|;|Zorgoth Surf (Colony)|4|13|;Portal|Zorgoth Surf Portal 2|14|12|
+Zorgoth Surf (Colony)¦Zorgoth_Surf_(Colony)¦The Zorgoth Seas¦|Zorgoth Surf (Lair)|2|2|;|Zorgoth Surf (Miasma)|4|10|;|Zorgoth Surf (Crush)|11|15|;|Stages 5-6:|15|3|
+Zorgoth Surf (Lair)¦Zorgoth_Surf_(Lair)¦The Zorgoth Seas¦|Zorgoth Surf (Colony)|6|12|
+Zorgoth Surf (Miasma)¦Zorgoth_Surf_(Miasma)¦Wiranage Seas¦Relic|Ghostly Grave|16|3|;|Zorgoth Surf (Rock Pools)|5|5|;|Zorgoth Surf (Colony)|13|20|;World Area|Wiranage Seas|4|15|
+Zorgoth Surf (Rock Pools)¦Zorgoth_Surf_(Rock_Pools)¦Wiranage Seas¦|Zorgoth Surf (Miasma)|17|4|;|Birannith Shore (Stalk)|11|17|
+Birannith Shore (Stalk)¦Birannith_Shore_(Stalk)¦Wiranage Seas¦|Birannith Shore (Surf)|5|2|;|Zorgoth Surf (Rock Pools)|12|16|
+Birannith Shore (Surf)¦Birannith_Shore_(Surf)¦Wiranage Seas¦|Birannith Shore (Stalk)|10|5|;|Birannith Shore (Brawl)|22|14|
+Birannith Shore (Brawl)¦Birannith_Shore_(Brawl)¦Wiranage Seas¦|Birannith Shore (Surf)|15|4|;|Birannith Shore (Frenzy)|4|14|
+Birannith Shore (Frenzy)¦Birannith_Shore_(Frenzy)¦Wiranage Seas¦|Birannith Shore (Brawl)|4|3|;|Wiranage Seas (Haunt)|14|14|
+Wiranage Seas (Haunt)¦Wiranage_Seas_(Haunt)¦Wiranage Seas¦|Birannith Shore (Frenzy)|13|3|;|Wiranage Seas (Colony)|9|21|;World Area|Wiranage Seas|3|12|
+Wiranage Seas (Colony)¦Wiranage_Seas_(Colony)¦Wiranage Seas¦|Wiranage Seas (Lurk)|5|3|;|Wiranage Seas (Haunt)|15|15|
+Wiranage Seas (Lurk)¦Wiranage_Seas_(Lurk)¦Wiranage Seas¦|Wiranage Seas (Thrash)|16|3|;|Wiranage Seas (Colony)|7|17|;Portal|Wiranage Portal|4|7|
+Wiranage Seas (Thrash)¦Wiranage_Seas_(Thrash)¦Wiranage Seas¦|Wiranage Seas (Lurk)|12|3|;|Wiranage Seas (Pools)|3|16|
+Wiranage Seas (Pools)¦Wiranage_Seas_(Pools)¦Wiranage Seas¦Relic|Giant Ice Crab Shell|15|5|;|Wiranage Seas (Thrash)|3|3|;|Wiranage Seas (Shores)|14|14|
+Wiranage Seas (Shores)¦Wiranage_Seas_(Shores)¦Wiranage Seas¦|Wiranage Seas (Nests)|3|3|;|Wiranage Seas (Pools)|17|18|
+Wiranage Seas (Nests)¦Wiranage_Seas_(Nests)¦Wiranage Seas¦|Wiranage Seas (Surf)|2|2|;|Wiranage Seas (Shores)|10|15|
+Wiranage Seas (Surf)¦Wiranage_Seas_(Surf)¦Wiranage Seas¦|Wiranage Seas (Hunt)|16|6|;|Wiranage Seas (Nests)|5|12|
+Wiranage Seas (Hunt)¦Wiranage_Seas_(Hunt)¦Wiranage Seas¦|Wiranage Seas (Surf)|3|2|;|Wiranage Seas (Plain)|14|14|
+Wiranage Seas (Plain)¦Wiranage_Seas_(Plain)¦Wiranage Seas¦|Wiranage Seas (Hunt)|15|3|;|Wiranage Seas (Shelf)|3|14|;World Area|Wiranage Seas|16|16|
+Wiranage Seas (Shelf)¦Wiranage_Seas_(Shelf)¦Wiranage Seas¦|Wiranage Seas (Plain)|2|4|;|Wiranage Seas (Crash)|12|14|
+Wiranage Seas (Crash)¦Wiranage_Seas_(Crash)¦Wiranage Seas¦|Wiranage Seas (Shelf)|15|3|;|Wiranage Seas (Glacier)|5|14|
+Wiranage Seas (Glacier)¦Wiranage_Seas_(Glacier)¦Wiranage Seas¦|Wiranage Seas (Scurry)|4|2|;|Wiranage Seas (Crash)|14|14|;Portal|Wiranage Seas Portal|15|3|
+Wiranage Seas (Scurry)¦Wiranage_Seas_(Scurry)¦Wiranage Seas¦|Wiranage Seas (Pod)|2|5|;|Wiranage Seas (Glacier)|11|15|
+Wiranage Seas (Pod)¦Wiranage_Seas_(Pod)¦Wiranage Seas¦Relic|Narwhal Carcass|3|3|;|Wiranage Seas (Darkness)|12|5|;|Wiranage Seas (Scurry)|5|15|;World Area|Wiranage Seas|14|17|
+Wiranage Seas (Darkness)¦Wiranage_Seas_(Darkness)¦Wiranage Seas¦|Wiranage Seas (Bask)|3|2|;|Wiranage Seas (Pod)|16|14|
+Wiranage Seas (Bask)¦Wiranage_Seas_(Bask)¦Wiranage Seas¦|Wiranage Seas (Darkness)|4|3|;|Wiranage Seas (Soar)|17|11|
+Wiranage Seas (Soar)¦Wiranage_Seas_(Soar)¦Wiranage Seas¦|Wiranage Seas (Bask)|10|3|;|Wiranage Seas (Guard)|4|17|
+Forest of Yule (Churchfence)¦Forest_of_Yule_(Churchfence)¦Krul Island¦|Forest of Yule (Howling Hole)|14|2|;|Forest of Yule (Clearing)|9|21|;|Stages 1-7:|11|9|
+Forest of Yule (Howling Hole)¦Forest_of_Yule_(Howling_Hole)¦Krul Island¦|Forest of Yule (Churchfence)|9|9|
+Wiranage Seas (Depths)¦Wiranage_Seas_(Depths)¦Wiranage Seas¦|Wiranage Seas (Guard)|10|4|
+Wiranage Seas (Guard)¦Wiranage_Seas_(Guard)¦Wiranage Seas¦|Wiranage Seas (Soar)|15|3|;|Wiranage Seas (Creep)|5|8|;|Wiranage Seas (Depths)|7|14|

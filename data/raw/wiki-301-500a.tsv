@@ -1,0 +1,128 @@
+Selari (North)¦Selari (North)¦Rhoi¦Shop|Venna Market|3|10|;|Selari (South)|4|3|;|Sabertooth Lair|10|4|;World Area|Rhoi|7|12|
+Selari (South)¦Selari (South)¦Rhoi¦|Selari (North)|6|3|;|Selari (East)|13|7|
+Selari (East)¦Selari (East)¦Rhoi¦Relic|Pyramid of Annot|11|5|;Shop|Cupal Market|10|12|;|Selari (West)|9|2|;|Selari (South)|4|3|
+Selari (West)¦Selari (West)¦Rhoi¦|Selari (East)|8|2|
+Eosi (North)¦Eosi (North)¦Rhoi¦Shop|Belloa Market|3|12|;|Eosi (South)|4|3|;World Area|Rhoi|8|10|
+Eosi (South)¦Eosi (South)¦Rhoi¦Shop|Eosal Market|3|10|;|Eosi (East)|5|2|;|Eosi (North)|13|3|
+Eosi (East)¦Eosi (East)¦Rhoi¦|Eosi (West)|4|3|;|Eosi (South)|11|3|;Portal|Eosi Portal|12|10|
+Eosi (West)¦Eosi (West)¦Rhoi¦|Eosi (East)|4|3|
+Hyghe (North)¦Hyghe (North)¦Rhoi¦|Hyghe (South)|2|6|;World Area|Rhoi|9|14|
+Hyghe (South)¦Hyghe (South)¦Rhoi¦|Trvons Clearing|10|3|;|Hyghe (North)|9|9|;|Cereas (North)|4|14|
+Trvons Clearing¦Trvons Clearing¦Rhoi¦|Hyghe (South)|4|2|
+Cereas (North)¦Cereas (North)¦Magenhor¦Shop|Sereil Market|13|11|;|Cereas (South)|11|3|;|Hyghe (South)|9|14|;World Area|Magenhor|2|4|
+Cereas (South)¦Cereas (South)¦Magenhor¦|Cereas (East)|5|3|;|Cereas (North)|11|3|
+Cereas (East)¦Cereas (East)¦Magenhor¦Shop|Luciala Market|5|8|;|Cereas (South)|11|3|;|Cereas (West)|4|4|
+Cereas (West)¦Cereas (West)¦Magenhor¦Relic|Leora Becon|1|3|;|Cereas (East)|14|14|
+Inual (North)¦Inual (North)¦Magenhor¦Shop|Dinalo Market|16|4|;|Inual (South)|4|3|;World Area|Magenhor|9|9|
+Inual (South)¦Inual (South)¦Magenhor¦|Inual (East)|12|5|;|Inual (North)|11|11|
+Inual (East)¦Inual (East)¦Magenhor¦|Inual (West)|2|5|;|Inual (South)|2|9|
+Inual (West)¦Inual (West)¦Magenhor¦Relic|Tree of Eternal Fire|12|10|;Shop|Asala Market|7|13|;|Inual (East)|3|3|
+Aquia (North)¦Aquia (North)¦Magenhor¦Shop|Hypnyra|2|14|;|Aquia (South)|8|4|;Portal|Aquia Portal|15|20|;World Area|Magenhor|10|11|
+Aquia (South)¦Aquia (South)¦Magenhor¦|Peitha (North)|6|3|;|Devkas Lair|19|4|;|Aquia (North)|5|20|
+Devkas Lair¦Devkas Lair¦Magenhor¦|Aquia (South)|4|3|
+Peitha (North)¦Peitha (North)¦Ereuas¦Shop|Kruthale Market|12|12|;|Peitha (South)|11|2|;|Aquia (South)|8|10|;World Area|Ereuas|4|4|
+Peitha (South)¦Peitha (South)¦Ereuas¦|Peitha (North)|4|3|;|Peitha (East)|12|10|
+Peitha (East)¦Peitha (East)¦Ereuas¦Shop|Batuza Bazaar|8|9|;|Peitha (West)|8|2|;|Peitha (South)|10|13|
+Peitha (West)¦Peitha (West)¦Ereuas¦Relic|Mists of Concealment|12|7|;|Peitha (East)|3|4|
+Tyali (North)¦Tyali (North)¦Ereuas¦Shop|Kylanda Trading Post|12|13|;|Tyali (South)|2|12|;World Area|Ereuas|5|3|
+Tyali (South)¦Tyali (South)¦Ereuas¦|Tyali (East)|5|3|;|Tyali (North)|9|3|
+Tyali (East)¦Tyali (East)¦Ereuas¦Shop|Tuthranti Exchange|2|2|;|Tyali (West)|9|5|;|Tyali (South)|3|7|
+Tyali (West)¦Tyali (West)¦Ereuas¦|Tyali (East)|11|7|
+Ponea (North)¦Ponea (North)¦Ereuas¦Shop|Ponthreath Emporium|12|13|;|Ponea (South)|2|2|;World Area|Ereuas|13|2|
+Ponea (South)¦Ponea (South)¦Ereuas¦|Troodon Lair|9|2|;|Aeresi (North)|3|4|;|Ponea (North)|2|11|
+Troodon Lair¦Troodon Lair¦Ereuas¦|Ponea (South)|6|8|
+Aeresi (North)¦Aeresi (North)¦Nereas¦Shop|Neartha Market|3|14|;|Aeresi (South)|16|4|;|Ponea (South)|6|9|;World Area|Nereas|17|14|
+Aeresi (South)¦Aeresi (South)¦Nereas¦Relic|Temple of Mar|8|3|;|Aeresi (North)|3|6|;|Aeresi (East)|13|8|
+Aeresi (East)¦Aeresi (East)¦Nereas¦|Aeresi (South)|15|3|;|Aeresi (West)|5|8|;Portal|Aeresi Portal|14|11|
+Aeresi (West)¦Aeresi (West)¦Nereas¦Shop|Gilkantha Bazaar|6|14|;|Aeresi (East)|16|8|
+Erodum (North)¦Erodum (North)¦Nereas¦|Erodum (South)|15|9|;World Area|Nereas|8|2|
+Erodum (South)¦Erodum (South)¦Nereas¦Relic|Ice Claws|12|14|;Shop|Tubinal Trader|11|6|;|Erodum (North)|3|5|;|Erodum (East)|3|12|
+Erodum (East)¦Erodum (East)¦Nereas¦|Erodum (West)|12|2|;|Erodum (South)|3|10|
+Erodum (West)¦Erodum (West)¦Nereas¦Shop|Heathlok Shop|2|16|;|Erodum (East)|9|10|
+Luivak (North)¦Luivak (North)¦Nereas¦Shop|Hendrur Exchange|18|6|;|Luivak (South)|22|22|;World Area|Nereas|12|12|
+Craydar Pit¦Craydar Pit¦Nereas¦|Luivak (South)|7|7|
+Luivak (South)¦Luivak (South)¦Nereas¦|Craydar Pit|2|2|;|Korundor (North)|10|12|;|Luivak (North)|22|22|
+Korundor (North)¦Korundor (North)¦Ruzdum¦Shop|Jorun Outpost|3|20|;|Korundor (South)|2|2|;|Luivak (South)|7|18|;World Area|Ruzdum|17|18|
+Korundor (South)¦Korundor (South)¦Ruzdum¦|Korundor (North)|2|6|;|Korundor (East)|14|10|
+Korundor (East)¦Korundor (East)¦Ruzdum¦|Korundor (South)|5|6|;|Korundor (West)|13|11|
+Korundor (West)¦Korundor (West)¦Ruzdum¦Relic|Ruzdum Keep|9|10|;Shop|Trader Vorik|15|11|;|Dark Vale (North)|14|2|;|Korundor (East)|6|9|
+Dark Vale (North)¦Dark Vale (North)¦Ruzdum¦|Korundor (West)|2|2|;|Dark Vale (South)|7|10|;World Area|Ruzdum|13|2|
+Dark Vale (South)¦Dark Vale (South)¦Ruzdum¦Shop|Yuhlthara Store|6|8|;|Dark Vale (East)|3|4|;|Dark Vale (North)|12|12|
+Dark Vale (East)¦Dark Vale (East)¦Ruzdum¦|Dark Vale (South)|11|3|;|Dark Vale (West)|10|14|
+Dark Vale (West)¦Dark Vale (West)¦Ruzdum¦Shop|Vale Valley Market|12|7|;|Dark Vale (East)|2|6|;|Maw of Dagoresh|12|12|
+Maw of Dagoresh¦Maw of Dagoresh¦Ruzdum¦Relic|Ward of Dagoresh|12|10|;|Dark Vale (West)|2|2|;|Domain of Dagoresh|8|6|;|Mountain Heights|7|11|;World Area|Ruzdum|2|9|
+Domain of Dagoresh¦Domain of Dagoresh¦Ruzdum¦|Maw of Dagoresh|7|9|;Portal|Dagoresh Portal|12|2|
+Morukan¦Morukan¦The Grumble Mountains¦Shop|Finzuk's Weapons|5|13|;Shop|Armor Alcove|7|13|;Shop|Morukan Wares|8|14|;Shop|Ertain's Goods|5|15|;Shop|Morukan Market|12|16|;|Kings Chamber|2|2|;|Cutting Room|15|2|;|Glitter Vein Mine|15|5|;|Fire Gem Halls|12|8|;|Nuzron Caves|14|15|;|Tal Tent|7|16|;|Mountain Heights|9|17|
+Mountain Heights¦Mountain Heights¦The Grumble Mountains¦Relic|Enchanted Cottage|2|2|;|Morukan|13|2|;|Maw of Dagoresh|13|13|;World Area|The Grumble Mountains|2|9|
+Tal Tent¦Tal Tent¦The Grumble Mountains¦|Morukan|2|3|
+Cutting Room¦Cutting Room¦The Grumble Mountains¦|Morukan|2|3|
+Fire Gem Halls¦Fire Gem Halls¦The Grumble Mountains¦|Morukan|2|12|
+Glitter Vein Mine¦Glitter Vein Mine¦The Grumble Mountains¦|Glitter Mine Depths|4|2|;|Morukan|15|3|
+Nuzron Caves¦Nuzron Caves¦The Grumble Mountains¦|Underground Passages (Inner)|2|16|;|Morukan|13|16|
+Glitter Mine Depths¦Glitter Mine Depths¦The Grumble Mountains¦|Glitter Vein Mine|2|10|
+Kings Chamber¦Kings Chamber¦The Grumble Mountains¦|Morukan|2|3|
+Underground Passages (Inner)¦Underground Passages (Inner)¦The Grumble Mountains¦|Underground Passages (Outer)|10|2|;|Nuzron Caves|13|13|
+Underground Passages (Outer)¦Underground Passages (Outer)¦Ausaron¦|Underground Passages (Inner)|2|4|;|Sunlit Valley|15|14|;Portal|Underground Portal|15|4|;World Area|Ausaron|10|8|
+Sunlit Valley¦Sunlit Valley¦Ausaron¦Shop|Tusrani Trader|3|10|;|Underground Passages (Outer)|13|3|;|Great Plains (North)|4|16|
+Great Plains (North)¦Great Plains (North)¦Ausaron¦|Sunlit Valley|2|2|;|Great Plains (South)|6|18|
+Great Plains (South)¦Great Plains (South)¦Ausaron¦Shop|Ollanofs Wares|6|7|;|Great Plains (North)|15|3|
+Burning Sands (North)¦Burning Sands (North)¦Ausaron¦|Burning Sands (East)|2|2|;World Area|Ausaron|2|15|
+Burning Sands (East)¦Burning Sands (East)¦Ausaron¦Shop|Rilldar Stock|2|8|;|Burning Sands (North)|6|2|;|Burning Sands (South)|7|12|
+Burning Sands (South)¦Burning Sands (South)¦Ausaron¦|Burning Sands (East)|2|2|;|Temple of Sobek|7|6|;|Burning Sands (West)|2|13|
+Inner Sanctum of Sobek¦Inner Sanctum of Sobek¦Ausaron¦|Temple of Sobek|4|7|
+Temple of Sobek¦Temple of Sobek¦Ausaron¦|Inner Sanctum of Sobek|11|3|;|Burning Sands (South)|7|14|
+Burning Sands (West)¦Burning Sands (West)¦Ausaron¦Shop|Trokdom Market|8|8|;|Burning Sands (South)|2|2|;|Hidden Valley (North)|9|13|;Portal|Burning Sands Portal|2|11|
+The Domain of Thothmes¦The Domain of Thothmes¦¦
+The Domain of Thothmes (Edge)¦The Domain of Thothmes (Edge)¦¦
+Hidden Valley (Grove North)¦Hidden Valley (Grove North)¦Ausaron¦|Hidden Valley (Grove)|2|18|
+Hidden Valley (Grove South)¦Hidden Valley (Grove South)¦Ausaron¦|Hidden Valley (Grove)|11|1|
+Hidden Valley (Grove)¦Hidden Valley (Grove)¦Ausaron¦|Hidden Valley (Grove North)|9|1|;|Hidden Valley (Grove South)|17|18|
+Hidden Valley (North)¦Hidden Valley (North)¦Ausaron¦|Hidden Valley (West)|2|2|;|Burning Sands (West)|2|16|;World Area|Ausaron|10|1|
+Hidden Valley (West)¦Hidden Valley (West)¦Ausaron¦Shop|Imdal Exchange|6|2|;|Hidden Valley (North)|6|1|;|Hidden Valley (East)|12|8|
+Hidden Valley (East)¦Hidden Valley (East)¦Ausaron¦Relic|Elithra Crystal Cluster|14|8|;|Hidden Valley (South)|1|2|;|Hidden Valley (West)|13|16|
+Hidden Valley (South)¦Hidden Valley (South)¦Ausaron¦Shop|Brinshal Shop|3|2|;|Fools Gold Vale (Outer)|13|1|;|Hidden Valley (East)|9|13|
+Fools Gold Vale (Outer)¦Fools Gold Vale (Outer)¦Ausaron¦|Hidden Valley (South)|9|4|;|Fools Gold Vale (Inner)|2|14|
+Fools Gold Vale (Inner)¦Fools Gold Vale (Inner)¦Ausaron¦Shop|Rullthok Bazaar|10|6|;|Fools Gold Vale (Outer)|4|6|;|Temple of Semerkhet|13|16|
+Temple of Semerkhet¦Temple of Semerkhet¦Ausaron¦|Canyon Mouth|6|1|;|Fools Gold Vale (Inner)|4|7|
+Canyon Mouth¦Canyon Mouth¦Searing Wilds¦|Canyon Pass|4|2|;|Temple of Semerkhet|14|2|;|Sphinx Lair|2|13|;World Area|Searing Wilds|13|12|
+Canyon Pass¦Canyon Pass¦Searing Wilds¦Shop|Teranna Trader|6|14|;|Canyon Mouth|3|2|;|Canyon Depths|12|12|
+Canyon Depths¦Canyon Depths¦Searing Wilds¦|Canyon Pass|6|2|;|Canyon Rise|13|14|
+Canyon Rise¦Canyon Rise¦Searing Wilds¦Shop|Hilltop Market|9|3|;|Canyon Depths|2|7|;|Broken Lands (South)|12|7|
+Broken Lands (South)¦Broken Lands (South)¦Searing Wilds¦Relic|Glowing Lava Crystal|10|3|;|Canyon Rise|2|7|;|Broken Lands (West)|11|16|;World Area|Searing Wilds|8|13|
+Broken Lands (West)¦Broken Lands (West)¦Searing Wilds¦Shop|Rilnos Shop|11|14|;|Broken Lands (East)|2|7|;|Broken Lands (South)|8|7|
+Broken Lands (East)¦Broken Lands (East)¦Searing Wilds¦|Broken Lands (West)|2|2|;|Broken Lands (North)|8|13|
+Broken Lands (North)¦Broken Lands (North)¦Searing Wilds¦Shop|Hrimnar Store|15|13|;|Broken Lands (East)|4|2|;|Forgotten Plateau (Outer)|15|2|
+Forgotten Plateau (Outer)¦Forgotten Plateau (Outer)¦Searing Wilds¦|Broken Lands (North)|2|2|;|Howler Den|11|2|;|Wasteland (South)|12|11|;|Forgotten Plateau (Inner)|14|15|;World Area|Searing Wilds|2|15|
+Howler Den¦Howler Den¦Searing Wilds¦|Forgotten Plateau (Outer)|2|9|
+Forgotten Plateau (Inner)¦Forgotten Plateau (Inner)¦Searing Wilds¦Shop|Puurfect Gifts|2|15|;|Forgotten Plateau (Outer)|13|14|;Portal|Plateau Portal|7|8|
+Sphinx Lair¦Sphinx Lair¦Searing Wilds¦|Canyon Mouth|6|6|
+Wasteland (South)¦Wasteland (South)¦Stompin Grounds¦Relic|Searing Orb|13|3|;|Wasteland (West)|2|15|;|Forgotten Plateau (Outer)|13|16|;World Area|Stompin Grounds|14|9|
+Wasteland (West)¦Wasteland (West)¦Stompin Grounds¦Shop|Ameinoth's Treasures|9|15|;|Wasteland (East)|2|5|;|Wasteland (South)|6|16|
+Wasteland (East)¦Wasteland (East)¦Stompin Grounds¦|Wasteland (West)|2|6|;|Wasteland (North)|14|16|;Portal|Savaged Portal|2|2|
+Wasteland (North)¦Wasteland (North)¦Stompin Grounds¦Shop|Wasteland Wares|12|14|;|Wasteland (East)|7|2|;|Clan Gate|2|7|
+Clan Gate¦Clan Gate¦Stompin Grounds¦Relic|Orc Fighting Pit|10|4|;|Wasteland (North)|2|7|;|Crushing Fist Clan Lands|13|14|;World Area|Stompin Grounds|8|10|
+Crushing Fist Clan Lands¦Crushing Fist Clan Lands¦Stompin Grounds¦Shop|War Depot|12|11|;|Blood Eye Clan Lands|2|5|;|Clan Gate|2|16|
+Blood Eye Clan Lands¦Blood Eye Clan Lands¦Stompin Grounds¦|Broken Fang Clan Lands|10|9|;|Crushing Fist Clan Lands|3|14|
+Broken Fang Clan Lands¦Broken Fang Clan Lands¦Stompin Grounds¦Shop|ZugKazook's Store|13|3|;|Dark Blade Clan Lands|2|3|;|Blood Eye Clan Lands|13|13|
+Dark Blade Clan Lands¦Dark Blade Clan Lands¦Stompin Grounds¦|Broken Fang Clan Lands|7|6|;|Ug Grash Main|2|14|
+Halls of Ko Lash¦Halls of Ko Lash¦Stompin Grounds¦|Ug Grash Main|5|9|
+Ug Grash Main¦Ug Grash Main¦Stompin Grounds¦|Halls of Ko Lash|7|3|;|Ug Grash Tower (North Ground)|1|4|;|Ug Grash Tower (East Ground)|12|4|;|Dar GromSol (Desert)|6|5|;|Ug Grash Tower (West Ground)|1|7|;|Ug Grash Tower (South Ground)|12|7|;|Dark Blade Clan Lands|6|13|
+Ug Grash Tower (East Ground)¦Ug Grash Tower (East Ground)¦Stompin Grounds¦|Ug Grash Tower (East Top)|7|1|;|Ug Grash Main|4|8|
+Ug Grash Tower (East Top)¦Ug Grash Tower (East Top)¦Stompin Grounds¦|Ug Grash Tower (East Ground)|6|1|
+Ug Grash Tower (North Ground)¦Ug Grash Tower (North Ground)¦Stompin Grounds¦|Ug Grash Tower (North Top)|7|1|;|Ug Grash Main|5|8|
+Ug Grash Tower (North Top)¦Ug Grash Tower (North Top)¦Stompin Grounds¦|Ug Grash Tower (North Ground)|5|8|
+Ug Grash Tower (South Ground)¦Ug Grash Tower (South Ground)¦Stompin Grounds¦|Ug Grash Tower (South Top)|5|4|;|Ug Grash Main|4|8|
+Ug Grash Tower (South Top)¦Ug Grash Tower (South Top)¦Stompin Grounds¦|Ug Grash Tower (South Ground)|5|8|
+Ug Grash Tower (West Ground)¦Ug Grash Tower (West Ground)¦Stompin Grounds¦|Ug Grash Tower (West Top)|4|2|;|Ug Grash Main|2|8|
+Ug Grash Tower (West Top)¦Ug Grash Tower (West Top)¦Stompin Grounds¦|Ug Grash Tower (West Ground)|5|8|
+Dar GromSol (Desert)¦Dar GromSol (Desert)¦Dar GromSol¦Shop|Bartook's Store|8|2|;|Ug Grash Main|17|2|;|Gates of Forever|2|5|;|Dar GromSol Dungeon|12|5|;|Treasure Rooms of Dar GromSol|18|17|;|Dar GromSol Cellars|2|18|;World Area|Dar GromSol|8|9|
+Dar GromSol Cellars¦Dar GromSol Cellars¦Dar GromSol¦|Dar GromSol (Desert)|8|2|;|Fractured Foundations|2|12|;World Area|Dar GromSol|13|8|
+Fractured Foundations¦Fractured Foundations¦Dar GromSol¦Relic|Aspiring Formation|4|2|;Shop|Elrim Bazaar|12|12|;|Dar GromSol Cellars|8|8|
+Dar GromSol Dungeon¦Dar GromSol Dungeon¦Dar GromSol¦|Dar GromSol (Desert)|13|2|;|Dar GromSol Sewers|2|4|
+Dar GromSol Sewers¦Dar GromSol Sewers¦Dar GromSol¦Shop|Lokzar's Market|2|13|;|Dar GromSol Dungeon|7|7|;Portal|Sewers Portal|13|2|
+Treasure Rooms Guard Room¦Treasure Rooms Guard Room¦Dar GromSol¦|Treasure Rooms of Dar GromSol|16|8|
+Treasure Rooms of Dar GromSol¦Treasure Rooms of Dar GromSol¦Dar GromSol¦|Dar GromSol (Desert)|2|1|;|Catacombs of Dar GromSol|4|7|;|Treasure Rooms Guard Room|1|11|
+Gates of Forever¦Gates of Forever¦Dar GromSol¦Shop|Dormak Shop|2|5|;|Catacombs of Dar GromSol|16|6|;|Dar GromSol (Desert)|6|12|;World Area|Dar GromSol|14|1|
+Ancient Catacombs of Dar GromSol¦Ancient Catacombs of Dar GromSol¦Dar GromSol¦|Catacombs of Dar GromSol|2|16|
+Catacombs of Dar GromSol¦Catacombs of Dar GromSol¦Dar GromSol¦|Gates of Forever|2|5|;|Ancient Catacombs of Dar GromSol|10|6|;|Seething Caverns|2|9|;|Treasure Rooms of Dar GromSol|2|15|
+Seething Caverns¦Seething Caverns¦Dar GromSol¦Relic|Wretched Abyss|10|5|;Shop|Roltani Stand|3|8|;|Catacombs of Dar GromSol|14|8|;World Area|Dar GromSol|15|5|;World Area|Xinderoth|9|8|

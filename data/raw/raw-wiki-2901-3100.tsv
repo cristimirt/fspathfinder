@@ -1,0 +1,213 @@
+Grefflian Keep (Ruins)¦Grefflian_Keep_(Ruins)¦The Grefflian Region¦|Kelran Grasslands (Soar)|9|1|;|Grefflian Keep (Gallows)|14|17|;World Area|Kelran Grasslands|9|10|
+Kelran Grasslands (Soar)¦Kelran_Grasslands_(Soar)¦Kelran Grasslands¦|Grefflian Keep (Ruins)|11|2|;|Kelran Grasslands (Range)|9|15|
+Kelran Grasslands (Range)¦Kelran_Grasslands_(Range)¦Kelran Grasslands¦|Kelran Grasslands (Plains)|12|4|;|Kelran Grasslands (Soar)|3|14|
+Kelran Grasslands (Plains)¦Kelran_Grasslands_(Plains)¦Kelran Grasslands¦|Kelran Grasslands (Range)|2|4|;|Kelran Grasslands (Graze)|13|15|;Portal|Kelran Portal|9|7|
+Kelran Grasslands (Graze)¦Kelran_Grasslands_(Graze)¦Kelran Grasslands¦|Kelran Grasslands (Plains)|14|5|;|Kelran Grasslands (Herd Lands)|3|8|
+Kelran Grasslands (Herd Lands)¦Kelran_Grasslands_(Herd_Lands)¦Kelran Grasslands¦Relic|Karka Gravesite|12|5|;|Kelran Grasslands (Graze)|3|3|;|Kelran Grasslands (Nest)|13|16|;|Stages 1-2:|5|15|
+Kelran Grasslands (Nest)¦Kelran_Grasslands_(Nest)¦Kelran Grasslands¦|Kelran Grasslands (Herd Lands)|16|6|;|Kelran Grasslands (Mire)|5|18|
+Kelran Grasslands (Mire)¦Kelran_Grasslands_(Mire)¦Kelran Grasslands¦|Kelran Grasslands (Nest)|16|2|;|Kelran Grasslands (Brush)|2|15|;|Stage 3:|15|15|
+Kelran Grasslands (Brush)¦Kelran_Grasslands_(Brush)¦Kelran Grasslands¦|Kelran Grasslands (Mire)|4|8|;|Kelran Grasslands (Wastes)|19|11|
+Kelran Grasslands (Wastes)¦Kelran_Grasslands_(Wastes)¦Kelran Grasslands¦|Kelran Grasslands (Brush)|3|5|;|Kelran Grasslands (Ruins)|11|17|;World Area|Kelran Grasslands|14|7|;|Stages 4-5:|4|14|
+Kelran Grasslands (Ruins)¦Kelran_Grasslands_(Ruins)¦Kelran Grasslands¦|Kelran Grasslands (Wastes)|3|3|;|Kelran Grasslands (Empty Plains)|16|16|;|Stages 6-7:|1|17|
+Kelran Grasslands (Empty Plains)¦Kelran_Grasslands_(Empty_Plains)¦Kelran Grasslands¦|Kelran Grasslands (Hunt)|5|3|;|Kelran Grasslands (Ruins)|11|13|
+Kelran Grasslands (Hunt)¦Kelran_Grasslands_(Hunt)¦Kelran Grasslands¦|Kelran Grasslands (Empty Plains)|19|4|;|Kelran Grasslands (Battle)|7|12|
+Kelran Grasslands (Battle)¦Kelran_Grasslands_(Battle)¦Kelran Grasslands¦|Kelran Grasslands (Field)|5|4|;|Kelran Grasslands (Hunt)|28|11|;Portal|Kelran Grasslands Portal|16|6|
+Kelran Grasslands (Field)¦Kelran_Grasslands_(Field)¦Kelran Grasslands¦|Kelran Grasslands (Battle)|11|3|;|Multuubo Savannah (Plains)|10|30|
+Multuubo Savannah (Plains)¦Multuubo_Savannah_(Plains)¦Kelran Grasslands¦Relic|Cheetah Kill|16|14|;|Kelran Grasslands (Field)|13|3|;|Multuubo Savannah (Fires)|4|12|;World Area|Kelran Grasslands|18|6|
+Multuubo Savannah (Fires)¦Multuubo_Savannah_(Fires)¦Kelran Grasslands¦|Multuubo Savannah (Plains)|7|2|;|Multuubo Savannah (Dustflats)|2|17|
+Multuubo Savannah (Dustflats)¦Multuubo_Savannah_(Dustflats)¦Kelran Grasslands¦|Multuubo Savannah (Trample)|15|4|;|Multuubo Savannah (Fires)|4|14|
+Multuubo Savannah (Trample)¦Multuubo_Savannah_(Trample)¦Kelran Grasslands¦|Multuubo Savannah (Training)|12|3|;|Multuubo Savannah (Dustflats)|4|19|;|Stages 1-3:|3|8|
+Multuubo Savannah (Training)¦Multuubo_Savannah_(Training)¦Kelran Grasslands¦|Multuubo Savannah (Trample)|12|4|;|Multuubo Savannah (Hills)|10|17|
+Multuubo Savannah (Hills)¦Multuubo_Savannah_(Hills)¦Kelran Grasslands¦|Multuubo Savannah (Training)|3|2|;|Multuubo Savannah (Range)|11|15|;World Area|Kelran Grasslands|15|9|;|Stages 4-6:|13|4|
+Multuubo Savannah (Range)¦Multuubo_Savannah_(Range)¦Kelran Grasslands¦|Multuubo Savannah (Hills)|13|3|;|Multuubo Savannah (Shaman Circle)|8|18|
+Multuubo Savannah (Shaman Circle)¦Multuubo_Savannah_(Shaman_Circle)¦Kelran Grasslands¦|Multuubo Savannah (Hunting Ground)|4|4|;|Multuubo Savannah (Range)|22|8|;|Stage 7:|12|11|
+Multuubo Savannah (Hunting Ground)¦Multuubo_Savannah_(Hunting_Ground)¦Kelran Grasslands¦|Multuubo Savannah (Paddocks)|13|4|;|Multuubo Savannah (Shaman Circle)|6|26|;Portal|Multuubo Portal|4|14|
+Multuubo Savannah (Chiefs Land)¦Multuubo_Savannah_(Chiefs_Land)¦Kelran Grasslands¦|Multuubo Savannah (Paddocks)|9|11|
+Multuubo Savannah (Paddocks)¦Multuubo_Savannah_(Paddocks)¦Kelran Grasslands¦|Multuubo Savannah (Chiefs Land)|14|3|;|Gannilos Savannah (Plains)|16|12|;|Multuubo Savannah (Hunting Ground)|10|17|;|Stages 8-9:|7|6|
+Springtime Forest (Argillaceous Orchard)¦Springtime_Forest_(Argillaceous_Orchard)¦Krul Island¦|Springtime Forest (Outer Grove)|15|11|
+Gannilos Savannah (Plains)¦Gannilos_Savannah_(Plains)¦Narrac Tunnels¦Relic|Sandstone Obelisk|2|15|;|Multuubo Savannah (Paddocks)|4|4|;|Gannilos Savannah (Prowl)|11|12|;World Area|Narrac Tunnels|15|6|
+Gannilos Savannah (Prowl)¦Gannilos_Savannah_(Prowl)¦Narrac Tunnels¦|Gannilos Savannah (Plains)|6|3|;|Gannilos Savannah (Graze)|14|18|;|Stages 1-2:|4|12|
+Gannilos Savannah (Graze)¦Gannilos_Savannah_(Graze)¦Narrac Tunnels¦|Gannilos Savannah (Prowl)|25|4|;|Gannilos Savannah (Hunt)|8|11|
+Gannilos Savannah (Hunt)¦Gannilos_Savannah_(Hunt)¦Narrac Tunnels¦|Gannilos Savannah (Village)|11|4|;|Gannilos Savannah (Graze)|5|25|
+Gannilos Savannah (Village)¦Gannilos_Savannah_(Village)¦Narrac Tunnels¦|Gannilos Savannah (Hunt)|10|4|;|Gannilos Savannah (Haunt)|7|12|;|Stages 3-5:|13|13|
+Gannilos Savannah (Haunt)¦Gannilos_Savannah_(Haunt)¦Narrac Tunnels¦|Gannilos Savannah (Village)|2|5|;|Gannilos Savannah (Grave)|13|12|;World Area|Narrac Tunnels|5|16|
+Gannilos Savannah (Grave)¦Gannilos_Savannah_(Grave)¦Narrac Tunnels¦|Gannilos Savannah (Slither)|15|3|;|Gannilos Savannah (Haunt)|4|15|;|Stages 6-8:|3|5|
+Gannilos Savannah (Slither)¦Gannilos_Savannah_(Slither)¦Narrac Tunnels¦|Gannilos Savannah (Grave)|14|4|;|Gannilos Savannah (Horror)|4|12|
+Gannilos Savannah (Horror)¦Gannilos_Savannah_(Horror)¦Narrac Tunnels¦|Gannilos Savannah (Flats)|12|5|;|Gannilos Savannah (Slither)|5|14|;Portal|Gannilos Savannah Portal|3|6|
+Gannilos Savannah (Flats)¦Gannilos_Savannah_(Flats)¦Narrac Tunnels¦|Narrac Tunnels (Stalk)|20|6|;|Gannilos Savannah (Horror)|3|8|
+Narrac Tunnels (Stalk)¦Narrac_Tunnels_(Stalk)¦Narrac Tunnels¦Relic|Raptor Graveyard|1|21|;|Narrac Tunnels (Nest)|4|3|;|Gannilos Savannah (Flats)|9|19|;World Area|Narrac Tunnels|12|6|;|Stages 1-2:|9|11|
+Narrac Tunnels (Nest)¦Narrac_Tunnels_(Nest)¦Narrac Tunnels¦|Narrac Tunnels (Stalk)|4|3|;|Narrac Tunnels (Hive)|15|13|
+Narrac Tunnels (Hive)¦Narrac_Tunnels_(Hive)¦Narrac Tunnels¦|Narrac Tunnels (Nest)|12|4|;|Narrac Tunnels (Roost)|2|18|
+Narrac Tunnels (Roost)¦Narrac_Tunnels_(Roost)¦Narrac Tunnels¦|Narrac Tunnels (Caverns)|11|3|;|Narrac Tunnels (Hive)|13|15|;|Stages 3-4:|3|5|
+Narrac Tunnels (Caverns)¦Narrac_Tunnels_(Caverns)¦Narrac Tunnels¦|Narrac Tunnels (Roost)|16|6|;|Narrac Tunnels (Shamble)|3|16|
+Narrac Tunnels (Shamble)¦Narrac_Tunnels_(Shamble)¦Narrac Tunnels¦|Narrac Tunnels (Mound)|3|6|;|Narrac Tunnels (Caverns)|12|21|
+Narrac Tunnels (Mound)¦Narrac_Tunnels_(Mound)¦Narrac Tunnels¦|Narrac Tunnels (Shamble)|11|4|;|Narrac Tunnels (Tomb)|3|15|;|Stages 5-6:|15|9|
+Narrac Tunnels (Tomb)¦Narrac_Tunnels_(Tomb)¦Narrac Tunnels¦|Narrac Tunnels (Mound)|10|3|;|Narrac Tunnels (Network)|3|14|
+Narrac Tunnels (Network)¦Narrac_Tunnels_(Network)¦Narrac Tunnels¦|Narrac Tunnels (Tomb)|3|3|;|Narrac Tunnels (Bone Yard)|16|18|;Portal|Narrac Tunnels Portal|13|5|;|Stage 7:|5|16|
+Narrac Tunnels (Bone Yard)¦Narrac_Tunnels_(Bone_Yard)¦Narrac Tunnels¦|Narrac Tunnels (Network)|3|6|;|Narrac Tunnels (Flesh Pit)|14|13|
+Narrac Tunnels (Flesh Pit)¦Narrac_Tunnels_(Flesh_Pit)¦Narrac Tunnels¦Relic|Subterranean Gas Vent|5|4|;|Narrac Tunnels (Darkness)|15|5|;|Narrac Tunnels (Bone Yard)|2|12|;World Area|Narrac Tunnels|7|15|
+Narrac Tunnels (Darkness)¦Narrac_Tunnels_(Darkness)¦Narrac Tunnels¦|Narrac Tunnels (Flesh Pit)|5|5|;|Narrac Tunnels (Void)|16|12|;|Stage 8:|4|13|
+Narrac Tunnels (Void)¦Narrac_Tunnels_(Void)¦Narrac Tunnels¦|Narrac Tunnels (Darkness)|3|4|;|Narrac Tunnels (Charnal Cave)|8|18|
+Narrac Tunnels (Charnal Cave)¦Narrac_Tunnels_(Charnal_Cave)¦Narrac Tunnels¦|Narrac Tunnels (Void)|17|3|;|Narrac Tunnels (Guard Caves)|8|13|
+Fischart Forest¦Fischart_Forest¦Krul Island¦|The Grimmnor Forest|7|4|;|Popart Castle|15|12|
+Narrac Tunnels (Guard Caves)¦Narrac_Tunnels_(Guard_Caves)¦Narrac Tunnels¦|Narrac Tunnels (Charnal Cave)|3|4|;|Narrac Tunnels (Crypt)|11|6|;|Narrac Tunnels (Ritual Cave)|12|15|;|Stages 9-11:|16|3|
+Narrac Tunnels (Ritual Cave)¦Narrac_Tunnels_(Ritual_Cave)¦Narrac Tunnels¦|Narrac Tunnels (Guard Caves)|9|12|
+Popart Castle¦Popart_Castle¦Narrac Tunnels¦|Fischart Forest|9|15|
+Narrac Tunnels (Crypt)¦Narrac_Tunnels_(Crypt)¦Vanator Lava Tubes¦|Narrac Tunnels (Barrow)|18|3|;|Narrac Tunnels (Guard Caves)|14|15|;World Area|Vanator Lava Tubes|6|4|
+Narrac Tunnels (Barrow)¦Narrac_Tunnels_(Barrow)¦Vanator Lava Tubes¦|Narrac Tunnels (Crypt)|6|4|;|Narrac Tunnels (Barracks)|10|20|
+Narrac Tunnels (Barracks)¦Narrac_Tunnels_(Barracks)¦Vanator Lava Tubes¦|Narrac Tunnels (Barrow)|16|3|;|Narrac Tunnels (Battleground)|7|11|;|Stages 1-2:|14|14|
+Narrac Tunnels (Battleground)¦Narrac_Tunnels_(Battleground)¦Vanator Lava Tubes¦|Narrac Tunnels (Barracks)|3|3|;|Narrac Tunnels (Depths)|15|19|;Portal|Narrac Tunnels Portal 2|9|12|
+Narrac Tunnels (Depths)¦Narrac_Tunnels_(Depths)¦Vanator Lava Tubes¦|Narrac Tunnels (Opening)|13|5|;|Narrac Tunnels (Battleground)|3|15|
+Narrac Tunnels (Opening)¦Narrac_Tunnels_(Opening)¦Vanator Lava Tubes¦Relic|Shattered Elemental|4|3|;|Vanator Lava Tubes (Graves)|13|5|;|Narrac Tunnels (Depths)|8|21|;|Stage 3:|3|12|
+Vanator Lava Tubes (Graves)¦Vanator_Lava_Tubes_(Graves)¦Vanator Lava Tubes¦|Vanator Lava Tubes (Obsidian Fields)|12|2|;|Narrac Tunnels (Opening)|2|12|;World Area|Vanator Lava Tubes|10|14|
+Vanator Lava Tubes (Obsidian Fields)¦Vanator_Lava_Tubes_(Obsidian_Fields)¦Vanator Lava Tubes¦|Vanator Lava Tubes (Graves)|15|3|;|Vanator Lava Tubes (Ash Plumes)|3|13|
+Vanator Lava Tubes (Ash Plumes)¦Vanator_Lava_Tubes_(Ash_Plumes)¦Vanator Lava Tubes¦|Vanator Lava Tubes (Fire Fields)|10|5|;|Vanator Lava Tubes (Obsidian Fields)|7|19|;|Stages 4-5:|5|26|
+Vanator Lava Tubes (Fire Fields)¦Vanator_Lava_Tubes_(Fire_Fields)¦Vanator Lava Tubes¦|Vanator Lava Tubes (Ash Plumes)|24|7|;|Vanator Lava Tubes (Flight)|4|10|
+Vanator Lava Tubes (Flight)¦Vanator_Lava_Tubes_(Flight)¦Vanator Lava Tubes¦|Vanator Lava Tubes (Fire Fields)|4|4|;|Vanator Lava Tubes (Blaze)|8|16|
+Vanator Lava Tubes (Blaze)¦Vanator_Lava_Tubes_(Blaze)¦Vanator Lava Tubes¦|Vanator Lava Tubes (Flight)|4|3|;|Vanator Lava Tubes (Fields)|15|13|;|Stage 6:|3|15|
+Vanator Lava Tubes (Fields)¦Vanator_Lava_Tubes_(Fields)¦Vanator Lava Tubes¦|Vanator Lava Tubes (Martial Grounds)|16|3|;|Vanator Lava Tubes (Blaze)|6|13|
+Vanator Lava Tubes (Martial Grounds)¦Vanator_Lava_Tubes_(Martial_Grounds)¦Vanator Lava Tubes¦|Vanator Lava Tubes (Fields)|8|9|;|Vanator Lava Tubes (Depths)|3|17|;Portal|Vanator Portal|5|3|;World Area|Vanator Lava Tubes|11|14|
+Vanator Lava Tubes (Depths)¦Vanator_Lava_Tubes_(Depths)¦Vanator Lava Tubes¦|Vanator Lava Tubes (Martial Grounds)|6|3|;|Vanator Lava Tubes (Elemental Haunt)|13|18|
+Vanator Lava Tubes (Elemental  Haunt)¦Vanator_Lava_Tubes_(Elemental__Haunt)¦Vanator Lava Tubes¦Relic|Vanator Lava Pit|7|3|;|Vanator Lava Tubes (Ash Flow)|16|5|;|Vanator Lava Tubes (Depths)|2|20|
+Vanator Lava Tubes (Ash Flow)¦Vanator_Lava_Tubes_(Ash_Flow)¦Vanator Lava Tubes¦|Vanator Lava Tubes (Mage Circles)|2|2|;|Vanator Lava Tubes (Elemental Haunt)|10|13|
+Vanator Lava Tubes (Mage Circles)¦Vanator_Lava_Tubes_(Mage_Circles)¦Vanator Lava Tubes¦|Vanator Lava Tubes (Ash Flow)|4|4|;|Vanator Lava Tubes (Ritual Circle)|12|15|
+Vanator Lava Tubes (Ritual Circle)¦Vanator_Lava_Tubes_(Ritual_Circle)¦Vanator Lava Tubes¦|Valali Magma Plains (Demon Flats)|3|5|;|Vanator Lava Tubes (Mage Circles)|16|14|
+Valali Magma Plains (Demon Flats)¦Valali_Magma_Plains_(Demon_Flats)¦Vanator Lava Tubes¦|Vanator Lava Tubes (Ritual Circle)|17|3|;|Valali Magma Plains (Battle Fields)|5|14|;World Area|Vanator Lava Tubes|6|5|;|Stage 1:|15|17|
+Valali Magma Plains (Battle Fields)¦Valali_Magma_Plains_(Battle_Fields)¦Vanator Lava Tubes¦|Valali Magma Plains (Demon Flats)|3|3|;|Valali Magma Plains (Guard Posts)|4|16|
+Valali Magma Plains (Guard Posts)¦Valali_Magma_Plains_(Guard_Posts)¦Vanator Lava Tubes¦|Valali Magma Plains (Battle Fields)|13|3|;|Valali Magma Plains (Fury)|4|16|;|Stage 2:|2|8|
+Valali Magma Plains (Fury)¦Valali_Magma_Plains_(Fury)¦Vanator Lava Tubes¦|Valali Magma Plains (Gaol)|5|3|;|Valali Magma Plains (Guard Posts)|16|10|
+Valali Magma Plains (Gaol)¦Valali_Magma_Plains_(Gaol)¦Vanator Lava Tubes¦|Valali Magma Plains (Fury)|7|3|;|Valali Magma Plains (Horror)|10|17|;Portal|Valali Portal|4|14|
+Valali Magma Plains (Daemon Realm)¦Valali_Magma_Plains_(Daemon_Realm)¦Vanator Lava Tubes¦|Valali Magma Plains (Horror)|7|5|
+Valali Magma Plains (Horror)¦Valali_Magma_Plains_(Horror)¦Vanator Lava Tubes¦|Valali Magma Plains (Ichor)|4|4|;|Valali Magma Plains (Gaol)|9|7|;|Valali Magma Plains (Daemon Realm)|16|17|;|Stages 3-5:|6|19|
+Valali Magma Plains (Ichor)¦Valali_Magma_Plains_(Ichor)¦Valali Magma Plains¦Relic|Ichor Pit|7|17|;|Valali Magma Plains (Bone Plains)|17|3|;|Valali Magma Plains (Horror)|3|7|;World Area|Valali Magma Plains|14|11|
+Valali Magma Plains (Bone Plains)¦Valali_Magma_Plains_(Bone_Plains)¦Valali Magma Plains¦|Valali Magma Plains (Vents)|14|3|;|Valali Magma Plains (Ichor)|5|12|
+Valali Magma Plains (Vents)¦Valali_Magma_Plains_(Vents)¦Valali Magma Plains¦|Valali Magma Plains (Bone Plains)|9|2|;|Valali Magma Plains (Thermals)|2|16|
+Valali Magma Plains (Thermals)¦Valali_Magma_Plains_(Thermals)¦Valali Magma Plains¦|Valali Magma Plains (Boneyard)|2|2|;|Valali Magma Plains (Vents)|13|12|
+Valali Magma Plains (Boneyard)¦Valali_Magma_Plains_(Boneyard)¦Valali Magma Plains¦|Valali Magma Plains (Thermals)|4|3|;|Valali Magma Plains (Pools)|6|20|
+Valali Magma Plains (Pools)¦Valali_Magma_Plains_(Pools)¦Valali Magma Plains¦|Valali Magma Plains (Stalk)|3|3|;|Valali Magma Plains (Boneyard)|14|14|
+Valali Magma Plains (Stalk)¦Valali_Magma_Plains_(Stalk)¦Valali Magma Plains¦|Valali Magma Plains (Burn)|4|2|;|Valali Magma Plains (Pools)|14|14|
+Valali Magma Plains (Burn)¦Valali_Magma_Plains_(Burn)¦Valali Magma Plains¦|Valali Magma Plains (Stalk)|15|4|;|Valali Magma Plains (Snot Plain)|3|15|;World Area|Valali Magma Plains|5|6|
+Valali Magma Plains (Snot Plain)¦Valali_Magma_Plains_(Snot_Plain)¦Valali Magma Plains¦|Valali Magma Plains (Burn)|3|4|;|Valali Magma Plains (Fungal Fields)|14|6|;Portal|Valali Magma Portal|13|15|
+Valali Magma Plains (Fungal Fields)¦Valali_Magma_Plains_(Fungal_Fields)¦Valali Magma Plains¦|Valali Magma Plains (Lair)|8|5|;|Valali Magma Plains (Snot Plain)|4|19|
+Valali Magma Plains (Lair)¦Valali_Magma_Plains_(Lair)¦Valali Magma Plains¦Relic|Varanus Nest|3|3|;|Valali Magma Plains (Fungal Fields)|10|2|;|Valali Magma Plains (Geoform)|9|13|
+Valali Magma Plains (Geoform)¦Valali_Magma_Plains_(Geoform)¦Valali Magma Plains¦|Valali Magma Plains (Lair)|17|3|;|Daranoth Fortress (Depths)|4|13|
+Daranoth Fortress (Depths)¦Daranoth_Fortress_(Depths)¦Valali Magma Plains¦|Valali Magma Plains (Geoform)|1|4|;|Daranoth Fortress (Facade)|11|15|
+Daranoth Fortress (Facade)¦Daranoth_Fortress_(Facade)¦Valali Magma Plains¦|Daranoth Fortress (Knave)|13|2|;|Daranoth Fortress (Depths)|1|15|
+Daranoth Fortress (Knave)¦Daranoth_Fortress_(Knave)¦Valali Magma Plains¦|Daranoth Fortress (Crossing)|2|1|;|Daranoth Fortress (Facade)|16|17|;World Area|Valali Magma Plains|2|14|
+Daranoth Fortress (Crossing)¦Daranoth_Fortress_(Crossing)¦Valali Magma Plains¦|Daranoth Fortress (Apse)|17|3|;|Daranoth Fortress (Knave)|2|15|
+Daranoth Fortress (Apse)¦Daranoth_Fortress_(Apse)¦Valali Magma Plains¦|Daranoth Fortress (Crossing)|13|4|;|Daranoth Fortress (Rockery)|4|19|
+Daranoth Fortress (Rockery)¦Daranoth_Fortress_(Rockery)¦Valali Magma Plains¦|Daranoth Fortress (Apse)|8|3|;|Daranoth Fortress (Charnel Pit)|9|15|
+Daranoth Fortress (Charnel Pit)¦Daranoth_Fortress_(Charnel_Pit)¦Valali Magma Plains¦|Daranoth Fortress (Rockery)|7|2|;|Daranoth Fortress (Haunt)|16|14|
+Daranoth Fortress (Haunt)¦Daranoth_Fortress_(Haunt)¦Valali Magma Plains¦|Daranoth Fortress (Barracks)|14|3|;|Daranoth Fortress (Charnel Pit)|1|12|
+Daranoth Fortress (Barracks)¦Daranoth_Fortress_(Barracks)¦Valali Magma Plains¦Relic|Shroud Swordrack|11|14|;|Daranoth Fortress (Haunt)|15|3|;|Daranoth Fortress (Armory)|4|11|;World Area|Valali Magma Plains|2|1|
+Daranoth Fortress (Armory)¦Daranoth_Fortress_(Armory)¦Valali Magma Plains¦|Daranoth Fortress (Barracks)|5|6|;|Daranoth Fortress (Parapet)|10|18|
+Daranoth Fortress (Parapet)¦Daranoth_Fortress_(Parapet)¦Valali Magma Plains¦|Daranoth Fortress (Range)|5|4|;|Daranoth Fortress (Armory)|10|16|
+Daranoth Fortress (Range)¦Daranoth_Fortress_(Range)¦Valali Magma Plains¦|Daranoth Fortress (Crypt)|2|4|;|Daranoth Fortress (Parapet)|10|14|
+Daranoth Fortress (Crypt)¦Daranoth_Fortress_(Crypt)¦Valali Magma Plains¦|Daranoth Fortress (Museum)|5|3|;|Daranoth Fortress (Range)|11|6|;|Daranoth Fortress (Sepulchure)|6|19|
+Daranoth Fortress (Sepulchure)¦Daranoth_Fortress_(Sepulchure)¦Valali Magma Plains¦|Daranoth Fortress (Crypt)|5|5|
+Daranoth Fortress (Museum)¦Daranoth_Fortress_(Museum)¦The Zellgort Forest¦|Daranoth Fortress (Guard Halls)|4|4|;|Daranoth Fortress (Crypt)|9|15|;World Area|The Zellgort Forest|12|2|
+Daranoth Fortress (Guard Halls)¦Daranoth_Fortress_(Guard_Halls)¦The Zellgort Forest¦|Zellgort Forest (Nest)|12|3|;|Daranoth Fortress (Museum)|3|12|
+Zellgort Forest (Nest)¦Zellgort_Forest_(Nest)¦The Zellgort Forest¦|Daranoth Fortress (Guard Halls)|12|3|;|Zellgort Forest (Graze)|6|13|
+Zellgort Forest (Graze)¦Zellgort_Forest_(Graze)¦The Zellgort Forest¦|Zellgort Forest (Herd)|14|5|;|Zellgort Forest (Nest)|2|13|;Portal|Zellgort Portal|3|3|
+Zellgort Forest (Herd)¦Zellgort_Forest_(Herd)¦The Zellgort Forest¦|Zellgort Forest (Graze)|3|3|;|Zellgort Forest (Pack Lands)|14|9|
+Zellgort Forest (Pack Lands)¦Zellgort_Forest_(Pack_Lands)¦The Zellgort Forest¦Relic|Wolf Lair|17|3|;|Zellgort Forest (Armory)|3|5|;|Zellgort Forest (Herd)|15|14|;World Area|The Zellgort Forest|6|12|
+Zellgort Forest (Armory)¦Zellgort_Forest_(Armory)¦The Zellgort Forest¦|Zellgort Forest (Pack Lands)|11|4|;|Zellgort Forest (Haunt)|10|18|
+Zellgort Forest (Haunt)¦Zellgort_Forest_(Haunt)¦The Zellgort Forest¦|Zellgort Forest (Armory)|3|3|;|Zellgort Forest (Stalk)|13|19|
+Zellgort Forest (Stalk)¦Zellgort_Forest_(Stalk)¦The Zellgort Forest¦|Zellgort Forest (Haunt)|18|3|;|Zellgort Forest (Briar)|5|11|
+Zellgort Forest (Briar)¦Zellgort_Forest_(Briar)¦The Zellgort Forest¦|Zellgort Forest (Bear Lands)|3|3|;|Zellgort Forest (Stalk)|5|16|
+Zellgort Forest (Bear Lands)¦Zellgort_Forest_(Bear_Lands)¦The Zellgort Forest¦|Zellgort Forest (Briar)|14|2|;|Zellgort Forest (Decay)|2|15|
+Zellgort Forest (Decay)¦Zellgort_Forest_(Decay)¦The Zellgort Forest¦|Zellgort Forest (Bear Lands)|3|5|;|Zellgort Forest (Bushes)|12|18|;World Area|The Zellgort Forest|14|7|
+Zellgort Forest (Bushes)¦Zellgort_Forest_(Bushes)¦The Zellgort Forest¦|Zellgort Forest (Decay)|12|4|;|Zellgort Forest (Lair)|2|11|
+Zellgort Forest (Lair)¦Zellgort_Forest_(Lair)¦The Zellgort Forest¦|Zellgort Forest (Grave)|3|3|;|Zellgort Forest (Bushes)|9|20|;Portal|Zellgort Forest Portal|7|14|
+Zellgort Forest (Grave)¦Zellgort_Forest_(Grave)¦The Zellgort Forest¦|Zellgort Forest (Bog)|13|4|;|Zellgort Forest (Lair)|7|13|
+Zellgort Forest (Bog)¦Zellgort_Forest_(Bog)¦The Zellgort Forest¦Relic|Crocodile Corpse|13|4|;|Zellgort Forest (Grave)|2|2|;|Zellgort Forest (Depths)|11|14|
+Zellgort Forest (Depths)¦Zellgort_Forest_(Depths)¦The Zellgort Forest¦|Zellgort Forest (Canopy)|2|4|;|Zellgort Forest (Bog)|12|11|
+Zellgort Forest (Canopy)¦Zellgort_Forest_(Canopy)¦The Zellgort Forest¦|Zellgort Forest (Clearing)|10|2|;|Zellgort Forest (Depths)|3|16|
+Zellgort Forest (Clearing)¦Zellgort_Forest_(Clearing)¦The Zellgort Forest¦|Zellgort Forest (Nursery)|13|4|;|Zellgort Forest (Canopy)|9|17|;World Area|The Zellgort Forest|6|2|
+Zellgort Forest (Nursery)¦Zellgort_Forest_(Nursery)¦The Zellgort Forest¦|Zellgort Forest (Clearing)|3|4|;|Zellgort Forest (Prowl)|11|15|
+Zellgort Forest (Prowl)¦Zellgort_Forest_(Prowl)¦The Zellgort Forest¦|Zellgort Forest (Nursery)|7|3|;|Zellgort Forest (Holdup)|17|10|
+Zellgort Forest (Holdup)¦Zellgort_Forest_(Holdup)¦The Zellgort Forest¦|Zellgort Forest (Prowl)|2|5|;|Zellgort Forest (Range)|16|11|
+Zellgort Forest (Range)¦Zellgort_Forest_(Range)¦The Zellgort Forest¦|Zellgort Forest (Ambush)|12|2|;|Zellgort Forest (Holdup)|2|18|
+Zellgort Forest (Ambush)¦Zellgort_Forest_(Ambush)¦The Zellgort Forest¦|Zellgort Forest (Camp)|12|4|;|Zellgort Forest (Range)|7|14|;Portal|Zellgort Forest Portal 2|3|3|
+Zellgort Forest (Camp)¦Zellgort_Forest_(Camp)¦The Zellgort Forest¦|Zellgort Forest (Thieves Hideout)|15|3|;|Zellgort Forest (Copse)|5|5|;|Zellgort Forest (Ambush)|18|14|
+Zellgort Forest (Thieves Hideout)¦Zellgort_Forest_(Thieves_Hideout)¦The Zellgort Forest¦|Zellgort Forest (Camp)|6|5|
+Zellgort Forest (Copse)¦Zellgort_Forest_(Copse)¦The Yannamare Grassland¦Relic|Treeman Corpse|5|6|;|Zellgort Forest (Grove)|14|4|;|Zellgort Forest (Camp)|4|14|;World Area|The Yannamare Grassland|17|15|
+Zellgort Forest (Grove)¦Zellgort_Forest_(Grove)¦The Yannamare Grassland¦|Zellgort Forest (Roots)|3|4|;|Zellgort Forest (Copse)|14|14|
+Zellgort Forest (Roots)¦Zellgort_Forest_(Roots)¦The Yannamare Grassland¦|Zellgort Forest (Grove)|20|2|;|Zellgort Forest (Rampart)|4|9|
+Zellgort Forest (Rampart)¦Zellgort_Forest_(Rampart)¦The Yannamare Grassland¦|Zellgort Forest (Roots)|3|3|;|Zellgort Forest (Timber)|10|15|
+Zellgort Forest (Timber)¦Zellgort_Forest_(Timber)¦The Yannamare Grassland¦|Zellgort Forest (Swamp)|10|2|;|Zellgort Forest (Rampart)|2|15|
+Zellgort Forest (Swamp)¦Zellgort_Forest_(Swamp)¦The Yannamare Grassland¦|Zellgort Forest (Despair)|3|3|;|Zellgort Forest (Timber)|11|15|
+Zellgort Forest (Despair)¦Zellgort_Forest_(Despair)¦The Yannamare Grassland¦|Zellgort Forest (Swamp)|12|3|;|Bolroth Jungle (Swamp)|5|18|
+Bolroth Jungle (Swamp)¦Bolroth_Jungle_(Swamp)¦The Yannamare Grassland¦|Zellgort Forest (Despair)|4|2|;|Bolroth Jungle (Stalk)|17|16|;World Area|The Yannamare Grassland|19|2|
+Bolroth Jungle (Stalk)¦Bolroth_Jungle_(Stalk)¦The Yannamare Grassland¦|Bolroth Jungle (Swamp)|7|3|;|Bolroth Jungle (Herd)|10|14|;Portal|Bolroth Portal|14|3|
+Bolroth Jungle (Herd)¦Bolroth_Jungle_(Herd)¦The Yannamare Grassland¦|Bolroth Jungle (Hive)|13|7|;|Bolroth Jungle (Stalk)|2|16|
+Bolroth Jungle (Hive)¦Bolroth_Jungle_(Hive)¦The Yannamare Grassland¦Relic|Strike Bee Hive|3|3|;|Bolroth Jungle (Hunt)|13|3|;|Bolroth Jungle (Herd)|6|16|
+Bolroth Jungle (Hunt)¦Bolroth_Jungle_(Hunt)¦The Yannamare Grassland¦|Bolroth Jungle (Skitter)|15|7|;|Bolroth Jungle (Hive)|5|20|
+Bolroth Jungle (Skitter)¦Bolroth_Jungle_(Skitter)¦The Yannamare Grassland¦|Bolroth Jungle (Hunt)|5|6|;|Bolroth Jungle (Soar)|18|17|
+Bolroth Jungle (Soar)¦Bolroth_Jungle_(Soar)¦The Yannamare Grassland¦|Bolroth Jungle (Nest)|13|3|;|Bolroth Jungle (Skitter)|2|14|
+Bolroth Jungle (Nest)¦Bolroth_Jungle_(Nest)¦The Yannamare Grassland¦|Bolroth Jungle (Soar)|12|4|;|Yannamare Grassland (Pack)|13|20|
+Yannamare Grassland (Pack)¦Yannamare_Grassland_(Pack)¦The Yannamare Grassland¦|Yannamare Grassland (Ambush)|4|3|;|Bolroth Jungle (Nest)|14|14|;World Area|The Yannamare Grassland|3|11|
+Yannamare Grassland (Ambush)¦Yannamare_Grassland_(Ambush)¦The Yannamare Grassland¦|Yannamare Grassland (Herd)|12|2|;|Yannamare Grassland (Pack)|13|15|
+Yannamare Grassland (Herd)¦Yannamare_Grassland_(Herd)¦The Yannamare Grassland¦|Yannamare Grassland (Ambush)|3|4|;|Yannamare Grassland (Squirm)|16|7|
+Yannamare Grassland (Squirm)¦Yannamare_Grassland_(Squirm)¦The Yannamare Grassland¦|Yannamare Grassland (Herd)|18|6|;|Yannamare Grassland (Slop)|4|14|;Portal|Yannamare Portal|3|3|
+Yannamare Grassland (Slop)¦Yannamare_Grassland_(Slop)¦The Yannamare Grassland¦|Yannamare Grassland (Squirm)|5|3|;|Yannamare Grassland (Squish)|9|19|
+Yannamare Grassland (Squish)¦Yannamare_Grassland_(Squish)¦The Yannamare Grassland¦Relic|Deathworm Burrow|13|15|;|Yannamare Grassland (Slop)|14|3|;|Yannamare Grassland (Stalk)|2|15|
+Yannamare Grassland (Stalk)¦Yannamare_Grassland_(Stalk)¦The Yannamare Grassland¦|Yannamare Grassland (Squish)|3|4|;|Yannamare Grassland (Tribeland)|11|16|;World Area|The Yannamare Grassland|13|7|
+Yannamare Grassland (Tribeland)¦Yannamare_Grassland_(Tribeland)¦The Yannamare Grassland¦|Yannamare Grassland (Stalk)|15|3|;|Yannamare Grassland (Arena)|4|11|
+Yannamare Grassland (Arena)¦Yannamare_Grassland_(Arena)¦The Yannamare Grassland¦|Yannamare Grassland (Tribeland)|8|2|;|Yannamare Grassland (Sloth)|3|14|
+Yannamare Grassland (Pride)¦Yannamare_Grassland_(Pride)¦The Yannamare Grassland¦|Yannamare Grassland (Sloth)|4|6|
+Yannamare Grassland (Sloth)¦Yannamare_Grassland_(Sloth)¦The Yannamare Grassland¦|Yannamare Grassland (Range)|3|3|;|Yannamare Grassland (Pride)|12|4|;|Yannamare Grassland (Arena)|5|13|
+Yannamare Grassland (Range)¦Yannamare_Grassland_(Range)¦The Nalrath Flatlands¦|Yannamare Grassland (Sloth)|12|4|;|Nalrath Plains (Soar)|3|16|;World Area|The Nalrath Flatlands|15|18|
+Nalrath Plains (Soar)¦Nalrath_Plains_(Soar)¦The Nalrath Flatlands¦|Yannamare Grassland (Range)|3|8|;|Nalrath Plains (Pride)|16|13|
+Nalrath Plains (Pride)¦Nalrath_Plains_(Pride)¦The Nalrath Flatlands¦|Nalrath Plains (Soar)|11|2|;|Nalrath Plains (Haunt)|4|12|
+Nalrath Plains (Haunt)¦Nalrath_Plains_(Haunt)¦The Nalrath Flatlands¦|Nalrath Plains (Troll Lands)|17|2|;|Nalrath Plains (Pride)|7|14|;Portal|Nalrath Portal|14|12|
+Nalrath Plains (Troll Lands)¦Nalrath_Plains_(Troll_Lands)¦The Nalrath Flatlands¦|Nalrath Plains (Haunt)|3|5|;|Nalrath Plains (Wastes)|14|19|
+Nalrath Plains (Wastes)¦Nalrath_Plains_(Wastes)¦The Nalrath Flatlands¦Relic|Stone Walker Statue|3|7|;|Nalrath Plains (Troll Lands)|9|3|;|Nalrath Plains (Winds)|5|21|
+Nalrath Plains (Winds)¦Nalrath_Plains_(Winds)¦The Nalrath Flatlands¦|Nalrath Plains (Wastes)|3|3|;|Nalrath Plains (Quarry)|20|8|
+Nalrath Plains (Quarry)¦Nalrath_Plains_(Quarry)¦The Nalrath Flatlands¦|Nalrath Plains (Spook)|16|2|;|Nalrath Plains (Winds)|4|11|;World Area|The Nalrath Flatlands|14|14|
+Nalrath Plains (Spook)¦Nalrath_Plains_(Spook)¦The Nalrath Flatlands¦|Nalrath Plains (Quarry)|5|3|;|Nalrath Plains (Hunger)|16|16|
+Nalrath Plains (Hunger)¦Nalrath_Plains_(Hunger)¦The Nalrath Flatlands¦|Nalrath Plains (Bear Haunt)|13|6|;|Nalrath Plains (Spook)|2|16|
+Nalrath Plains (Bear Haunt)¦Nalrath_Plains_(Bear_Haunt)¦The Nalrath Flatlands¦|Nalrath Plains (Hunger)|5|3|;|Nalrath Plains (Howl)|13|10|
+Nalrath Plains (Howl)¦Nalrath_Plains_(Howl)¦The Nalrath Flatlands¦|Nalrath Plains (Bear Haunt)|3|8|;|Nalrath Wastes (Haunt)|18|12|
+Nalrath Wastes (Haunt)¦Nalrath_Wastes_(Haunt)¦The Nalrath Flatlands¦|Nalrath Plains (Howl)|5|3|;|Nalrath Wastes (Hive)|9|17|;World Area|The Nalrath Flatlands|14|9|
+Nalrath Wastes (Hive)¦Nalrath_Wastes_(Hive)¦The Nalrath Flatlands¦|Nalrath Wastes (Crawl)|14|2|;|Nalrath Wastes (Haunt)|4|12|;Portal|Nalrath Wastes Portal|5|4|
+Nalrath Wastes (Crawl)¦Nalrath_Wastes_(Crawl)¦The Nalrath Flatlands¦|Nalrath Wastes (Hive)|2|2|;|Nalrath Wastes (Stalk)|14|9|
+Nalrath Wastes (Stalk)¦Nalrath_Wastes_(Stalk)¦The Nalrath Flatlands¦Relic|Dipsoshell Shell|4|6|;|Nalrath Wastes (Herd)|14|2|;|Nalrath Wastes (Crawl)|5|15|
+Nalrath Wastes (Herd)¦Nalrath_Wastes_(Herd)¦The Nalrath Flatlands¦|Nalrath Wastes (Soar)|11|3|;|Nalrath Wastes (Stalk)|8|17|
+Nalrath Wastes (Soar)¦Nalrath_Wastes_(Soar)¦The Nalrath Flatlands¦|Nalrath Wastes (Plague)|3|3|;|Nalrath Wastes (Herd)|9|16|
+Nalrath Wastes (Plague)¦Nalrath_Wastes_(Plague)¦The Nalrath Flatlands¦|Nalrath Wastes (Tundra)|14|7|;|Nalrath Wastes (Soar)|5|15|;World Area|The Nalrath Flatlands|8|4|
+Nalrath Wastes (Tundra)¦Nalrath_Wastes_(Tundra)¦The Nalrath Flatlands¦|Nalrath Wastes (Plague)|3|3|;|Nalrath Wastes (Caves)|11|13|
+Nalrath Wastes (Caves)¦Nalrath_Wastes_(Caves)¦The Nalrath Flatlands¦|Nalrath Wastes (Tundra)|14|4|;|Nalrath Wastes (Nest)|2|13|
+Nalrath Wastes (Nest)¦Nalrath_Wastes_(Nest)¦The Nalrath Flatlands¦|Nalrath Wastes (Terror)|5|3|;|Nalrath Wastes (Caves)|10|16|
+Nalrath Wastes (Terror)¦Nalrath_Wastes_(Terror)¦The Nalrath Flatlands¦|Nalrath Wastes (Nest)|8|3|;|Nalrath Wastes (Slime)|11|16|
+Nalrath Wastes (Slime)¦Nalrath_Wastes_(Slime)¦The Nalrath Flatlands¦|Nalrath Wastes (Terror)|2|4|;|Nalrath Wastes (Ritual)|15|13|;Portal|Nalrath Wastes Portal 2|3|13|
+Nalrath Wastes (Druid Retreat)¦Nalrath_Wastes_(Druid_Retreat)¦The Nalrath Flatlands¦|Nalrath Wastes (Ritual)|10|8|
+Nalrath Wastes (Ritual)¦Nalrath_Wastes_(Ritual)¦The Nalrath Flatlands¦|Nalrath Wastes (Slime)|3|3|;|Monagoth Forest (Herds)|15|7|;|Nalrath Wastes (Druid Retreat)|4|14|
+Monagoth Forest (Herds)¦Monagoth_Forest_(Herds)¦The Monagoth Snow Realms¦Relic|Muskox Dungpile|3|12|;|Nalrath Wastes (Ritual)|6|5|;|Monagoth Forest (Relic)|12|15|;World Area|The Monagoth Snow Realms|13|4|
+Monagoth Forest (Relic)¦Monagoth_Forest_(Relic)¦The Monagoth Snow Realms¦|Monagoth Forest (Herds)|15|3|;|Monagoth Forest (Giant Region)|5|11|
+Monagoth Forest (Giant Region)¦Monagoth_Forest_(Giant_Region)¦The Monagoth Snow Realms¦|Monagoth Forest (Relic)|3|3|;|Monagoth Forest (Howl)|11|19|
+Monagoth Forest (Howl)¦Monagoth_Forest_(Howl)¦The Monagoth Snow Realms¦|Monagoth Forest (Giant Region)|10|2|;|Monagoth Forest (Tribe Land)|5|15|
+Monagoth Forest (Tribe Land)¦Monagoth_Forest_(Tribe_Land)¦The Monagoth Snow Realms¦|Monagoth Forest (Howl)|16|2|;|Monagoth Forest (Grave)|3|9|
+Monagoth Forest (Grave)¦Monagoth_Forest_(Grave)¦The Monagoth Snow Realms¦|Monagoth Forest (Ice)|4|4|;|Monagoth Forest (Tribe Land)|16|19|
+Monagoth Forest (Ice)¦Monagoth_Forest_(Ice)¦The Monagoth Snow Realms¦|Monagoth Forest (Cairn)|14|2|;|Monagoth Forest (Grave)|7|15|;World Area|The Monagoth Snow Realms|4|5|
+Monagoth Forest (Cairn)¦Monagoth_Forest_(Cairn)¦The Monagoth Snow Realms¦|Monagoth Forest (Ice)|2|2|;|Monagoth Forest (Pack)|12|13|
+Monagoth Forest (Pack)¦Monagoth_Forest_(Pack)¦The Monagoth Snow Realms¦|Monagoth Forest (Cairn)|10|4|;|Monagoth Forest (Horror)|9|16|;Portal|Monagoth Portal|3|13|
+Monagoth Forest (Horror)¦Monagoth_Forest_(Horror)¦The Monagoth Snow Realms¦|Monagoth Forest (Pack)|4|2|;|Monagoth Mountain (Prowl)|14|14|
+Monagoth Mountain (Prowl)¦Monagoth_Mountain_(Prowl)¦The Monagoth Snow Realms¦Relic|Lion Hide Curing Rack|3|9|;|Monagoth Forest (Horror)|5|1|;|Monagoth Mountain (Pasture)|15|11|;World Area|The Monagoth Snow Realms|7|16|
+Monagoth Mountain (Pasture)¦Monagoth_Mountain_(Pasture)¦The Monagoth Snow Realms¦|Monagoth Mountain (Prowl)|13|4|;|Monagoth Mountain (Horror)|4|13|
+Monagoth Mountain (Horror)¦Monagoth_Mountain_(Horror)¦The Monagoth Snow Realms¦|Monagoth Mountain (Pasture)|9|9|;|Monagoth Mountain (Caves)|16|19|
+Monagoth Mountain (Caves)¦Monagoth_Mountain_(Caves)¦The Monagoth Snow Realms¦|Monagoth Mountain (Horror)|2|2|;|Monagoth Mountain (Scree)|8|16|
+Monagoth Mountain (Scree)¦Monagoth_Mountain_(Scree)¦The Monagoth Snow Realms¦|Monagoth Mountain (Caves)|11|2|;|Monagoth Mountain (Cliff)|1|13|
+Monagoth Mountain (Cliff)¦Monagoth_Mountain_(Cliff)¦The Monagoth Snow Realms¦|Monagoth Mountain (Shingle)|2|2|;|Monagoth Mountain (Scree)|14|10|
+Monagoth Mountain (Shingle)¦Monagoth_Mountain_(Shingle)¦The Monagoth Snow Realms¦|Monagoth Mountain (Haunt)|14|8|;|Monagoth Mountain (Cliff)|2|17|
+Monagoth Mountain (Haunt)¦Monagoth_Mountain_(Haunt)¦The Monagoth Snow Realms¦|Monagoth Mountain (Shingle)|2|4|;|Monagoth Mountain (Spirit)|12|14|
+Monagoth Mountain (Spirit)¦Monagoth_Mountain_(Spirit)¦The Monagoth Snow Realms¦|Monagoth Mountain (Haunt)|8|1|;|Monagoth Mountain (Grave)|16|13|;Portal|Monagoth Mountain Portal|3|6|;World Area|The Monagoth Snow Realms|2|12|
+Monagoth Mountain (Grave)¦Monagoth_Mountain_(Grave)¦The Monagoth Snow Realms¦|Monagoth Mountain (Cairn)|12|1|;|Monagoth Mountain (Spirit)|1|17|
+Monagoth Mountain (Cairn)¦Monagoth_Mountain_(Cairn)¦The Monagoth Snow Realms¦Relic|Monagoth Barrow|17|7|;|Monagoth Mountain (Soar)|1|2|;|Monagoth Mountain (Grave)|16|14|
+Monagoth Mountain (Soar)¦Monagoth_Mountain_(Soar)¦The Monagoth Snow Realms¦|Monagoth Mountain (Nest)|9|2|;|Monagoth Mountain (Cairn)|17|12|
+Monagoth Mountain (Nest)¦Monagoth_Mountain_(Nest)¦The Monagoth Snow Realms¦|Monagoth Mountain (Boneyard)|8|1|;|Monagoth Mountain (Soar)|11|15|
+Monagoth Mountain (Boneyard)¦Monagoth_Mountain_(Boneyard)¦The Monagoth Snow Realms¦|Monagoth Mountain (Wastes)|3|4|;|Monagoth Mountain (Nest)|12|17|
+Forest of Yule (Volfango Town)¦Forest_of_Yule_(Volfango_Town)¦Krul Island¦|Forest of Yule (Wolf Den)|2|2|;|Forest of Yule (Clearing)|7|5|;|Stage 1:|17|13|;|Stage 2:|4|11|;|Stage 3:|18|2|;|Stage 4:|11|13|;|Stage 5:|5|2|;|Stages 6-7:|17|13|
+Forest of Yule (Wolf Den)¦Forest_of_Yule_(Wolf_Den)¦Krul Island¦|Forest of Yule (Volfango Town)|9|2|
+Monagoth Mountain (Coils)¦Monagoth_Mountain_(Coils)¦The Monagoth Snow Realms¦|Monagoth Mountain (Wastes)|4|3|
+Monagoth Mountain (Wastes)¦Monagoth_Mountain_(Wastes)¦The Monagoth Snow Realms¦|Monagoth Mountain (Coils)|1|2|;|Monagoth Mountain (Boneyard)|15|6|;|Monagoth Forest (Were)|4|15|

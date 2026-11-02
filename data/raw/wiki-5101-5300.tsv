@@ -1,0 +1,211 @@
+Barotic Castle (Tomb)¦Barotic_Castle_(Tomb)¦The Durmeth Sewers¦|Kelmore Dungeon (Chamber)|15|5|;|Barotic Castle (Conclave)|2|18|;World Area|The Durmeth Sewers|11|15|
+Kelmore Dungeon (Chamber)¦Kelmore_Dungeon_(Chamber)¦The Durmeth Sewers¦|Barotic Castle (Tomb)|2|1|;|Kelmore Dungeon (Barrow)|19|16|
+Kelmore Dungeon (Barrow)¦Kelmore_Dungeon_(Barrow)¦The Durmeth Sewers¦|Kelmore Dungeon (Graves)|18|4|;|Kelmore Dungeon (Chamber)|3|13|
+Kelmore Dungeon (Graves)¦Kelmore_Dungeon_(Graves)¦The Durmeth Sewers¦|Kelmore Dungeon (Barrow)|14|3|;|Kelmore Caves (Lair)|7|15|;Portal|Kelmore Portal|2|2|
+Kelmore Caves (Lair)¦Kelmore_Caves_(Lair)¦The Durmeth Sewers¦|Kelmore Dungeon (Graves)|4|4|;|Kelmore Caves (Satyr Enclave)|12|20|
+Kelmore Caves (Satyr Enclave)¦Kelmore_Caves_(Satyr_Enclave)¦The Durmeth Sewers¦Relic|Satyr Totem|14|7|;|Kelmore Caves (Defile)|22|4|;|Kelmore Caves (Lair)|4|10|
+Kelmore Caves (Defile)¦Kelmore_Caves_(Defile)¦The Durmeth Sewers¦|Kelmore Caves (Bulwark)|11|3|;|Kelmore Caves (Satyr Enclave)|3|20|;World Area|The Durmeth Sewers|13|22|
+Kelmore Caves (Bulwark)¦Kelmore_Caves_(Bulwark)¦The Durmeth Sewers¦|Kelmore Caves (Defile)|16|3|;|Kelmore Caves (Guardpost)|3|17|
+Kelmore Caves (Guardpost)¦Kelmore_Caves_(Guardpost)¦The Durmeth Sewers¦|Kelmore Caves (Barracks)|20|3|;|Kelmore Caves (Bulwark)|3|9|
+Kelmore Caves (Barracks)¦Kelmore_Caves_(Barracks)¦The Durmeth Sewers¦|Kelmore Caves (Halls)|4|3|;|Kelmore Caves (Guardpost)|14|15|
+Kelmore Caves (Halls)¦Kelmore_Caves_(Halls)¦The Durmeth Sewers¦|Kelmore Caves (Barracks)|13|2|;|Kelmore Caves (Hide)|2|19|
+Kelmore Caves (Hide)¦Kelmore_Caves_(Hide)¦The Durmeth Sewers¦|Durmeth Sewers (Seam)|13|3|;|Kelmore Caves (Halls)|4|12|
+Durmeth Sewers (Seam)¦Durmeth_Sewers_(Seam)¦The Durmeth Sewers¦|Kelmore Caves (Hide)|3|4|;|Durmeth Sewers (Warren)|17|13|;World Area|The Durmeth Sewers|2|16|
+Durmeth Sewers (Warren)¦Durmeth_Sewers_(Warren)¦The Durmeth Sewers¦|Durmeth Sewers (Nest)|3|2|;|Durmeth Sewers (Seam)|18|15|;Portal|Durmeth Portal|17|3|
+Durmeth Sewers (Nest)¦Durmeth_Sewers_(Nest)¦The Durmeth Sewers¦|Durmeth Sewers (Warren)|4|2|;|Durmeth Sewers (Burrow)|13|17|
+Durmeth Sewers (Burrow)¦Durmeth_Sewers_(Burrow)¦The Durmeth Sewers¦Relic|Worm Hole|14|18|;|Durmeth Sewers (Crawl)|10|1|;|Durmeth Sewers (Nest)|5|21|
+Durmeth Sewers (Crawl)¦Durmeth_Sewers_(Crawl)¦The Durmeth Sewers¦|Durmeth Sewers (Burrow)|2|1|;|Durmeth Sewers (Dwell)|16|16|
+Durmeth Sewers (Dwell)¦Durmeth_Sewers_(Dwell)¦The Durmeth Sewers¦|Durmeth Sewers (Filth)|4|1|;|Durmeth Sewers (Crawl)|16|20|
+Durmeth Sewers (Filth)¦Durmeth_Sewers_(Filth)¦The Durmeth Sewers¦|Durmeth Sewers (Scum)|17|1|;|Durmeth Sewers (Dwell)|2|17|
+Durmeth Sewers (Scum)¦Durmeth_Sewers_(Scum)¦The Durmeth Sewers¦|Durmeth Sewers (Filth)|2|1|;|Durmeth Sewers (Dregs)|15|17|
+Durmeth Sewers (Dregs)¦Durmeth_Sewers_(Dregs)¦The Durmeth Sewers¦|Durmeth Sewers (Scum)|13|2|;|Durmeth Sewers (Abomination)|2|15|;World Area|The Durmeth Sewers|17|15|
+Durmeth Sewers (Abomination)¦Durmeth_Sewers_(Abomination)¦The Durmeth Sewers¦|Durmeth Sewers (Site)|17|3|;|Durmeth Sewers (Dregs)|4|17|
+Durmeth Sewers (Site)¦Durmeth_Sewers_(Site)¦The Durmeth Sewers¦|Durmeth Sewers (Tool Rooms)|4|1|;|Durmeth Sewers (Abomination)|15|18|
+Durmeth Sewers (Tool Rooms)¦Durmeth_Sewers_(Tool_Rooms)¦The Durmeth Sewers¦|Durmeth Sewers (Bomb Site)|2|2|;|Durmeth Sewers (Site)|8|22|;Portal|Durmeth Sewers Portal|12|6|
+Durmeth Sewers (Bomb Site)¦Durmeth_Sewers_(Bomb_Site)¦The Durmeth Sewers¦|Durmeth Sewers (Tool Rooms)|2|2|;|Durmeth Sewers (Lair)|16|5|;|Benart City (Dock)|16|14|
+Durmeth Sewers (Lair)¦Durmeth_Sewers_(Lair)¦The Durmeth Sewers¦|Durmeth Sewers (Bomb Site)|8|5|
+Quango Island (Graves)¦Quango_Island_(Graves)¦Arrin Moors¦Shop|Shining Shoppe|5|15|;|Quango Island|2|4|;|Stages 1-4:|12|20|;|Stage 5:|4|2|;|Stages 6-7:|12|2|;|Stage 8:|3|21|;|Stage 9:|12|2|
+Benart City (Dock)¦Benart_City_(Dock)¦Benart City¦Relic|Dock Stores|10|15|;|Durmeth Sewers (Bomb Site)|10|4|;|Benart City (Dock Guard House)|1|21|;World Area|Benart City|12|21|
+Benart City (Dock Guard House)¦Benart_City_(Dock_Guard_House)¦Benart City¦|Benart City (Dock)|3|2|;|Benart City (Dock Bars)|16|15|
+Benart City (Dock Bars)¦Benart_City_(Dock_Bars)¦Benart City¦|Benart City (Market)|5|4|;|Benart City (Dock Guard House)|15|12|
+Benart City (Market)¦Benart_City_(Market)¦Benart City¦|Benart City (Dock Bars)|12|4|;|Benart City (Party)|7|16|
+Benart City (Party)¦Benart_City_(Party)¦Benart City¦|Benart City (Market)|12|6|;|Benart City (Alleys)|3|17|
+Benart City (Alleys)¦Benart_City_(Alleys)¦Benart City¦|Benart City (Darkness)|18|6|;|Benart City (Party)|4|17|;World Area|Benart City|2|5|
+Benart City (Darkness)¦Benart_City_(Darkness)¦Benart City¦|Benart City (Town Houses)|19|4|;|Benart City (Alleys)|3|9|
+Benart City (Town Houses)¦Benart_City_(Town_Houses)¦Benart City¦|Benart City (Noble Quarter)|15|2|;|Benart City (Darkness)|2|17|
+Benart City (Noble Quarter)¦Benart_City_(Noble_Quarter)¦Benart City¦|Benart City (Town Houses)|2|4|;|Benart City (Stalls)|14|16|;Portal|Benart Portal|12|9|
+Benart City (Stalls)¦Benart_City_(Stalls)¦Benart City¦|Benart City (Temple)|1|2|;|Benart City (Noble Quarter)|15|16|
+Benart City (Temple)¦Benart_City_(Temple)¦Benart City¦Relic|Shrine of the Light|3|17|;|Benart City (Stalls)|18|2|;|Benart City (Kennels)|1|17|
+Benart City (Kennels)¦Benart_City_(Kennels)¦Benart City¦|Kantorite Forest (Edge)|1|8|;|Benart City (Temple)|21|13|
+Kantorite Forest (Edge)¦Kantorite_Forest_(Edge)¦Benart City¦|Benart City (Kennels)|7|2|;|Kantorite Forest (Haunt)|13|14|;World Area|Benart City|3|14|
+Kantorite Forest (Haunt)¦Kantorite_Forest_(Haunt)¦Benart City¦|Kantorite Forest (Edge)|2|2|;|Kantorite Forest (Lair)|13|17|
+Kantorite Forest (Lair)¦Kantorite_Forest_(Lair)¦Benart City¦|Kantorite Forest (Buzz)|3|4|;|Kantorite Forest (Haunt)|17|15|
+Kantorite Forest (Buzz)¦Kantorite_Forest_(Buzz)¦Benart City¦|Kantorite Forest (Lair)|18|3|;|Kantorite Forest (Hideout)|2|14|
+Kantorite Forest (Hideout)¦Kantorite_Forest_(Hideout)¦Benart City¦|Kantorite Forest (Buzz)|2|3|;|Kantorite Forest (Graze)|16|19|
+Kantorite Forest (Graze)¦Kantorite_Forest_(Graze)¦Benart City¦|Kantorite Forest (Stalk)|13|3|;|Kantorite Forest (Hideout)|2|16|
+Kantorite Forest (Stalk)¦Kantorite_Forest_(Stalk)¦Benart City¦|Kantorite Forest (Graze)|12|3|;|Kantorite Forest (Grove)|3|20|;Portal|Kantorite Portal|12|16|
+Kantorite Forest (Grove)¦Kantorite_Forest_(Grove)¦Benart City¦|Kantorite Forest (Stalk)|4|2|;|Kantorite Forest (Copse)|17|15|
+Kantorite Forest (Copse)¦Kantorite_Forest_(Copse)¦Benart City¦Relic|Ankylosaurus Corpse|9|9|;|Kantorite Forest (Grove)|2|2|;|Kantorite Forest (Patch)|17|15|;World Area|Benart City|4|14|
+Kantorite Forest (Patch)¦Kantorite_Forest_(Patch)¦Benart City¦|Kantorite Forest (Copse)|9|2|;|Kantorite Forest (Meadow)|3|16|
+Kantorite Forest (Meadow)¦Kantorite_Forest_(Meadow)¦Benart City¦|Kantorite Forest (Red Wood)|6|4|;|Kantorite Forest (Patch)|21|12|
+Kantorite Forest (Red Wood)¦Kantorite_Forest_(Red_Wood)¦Benart City¦|Kantorite Forest (Meadow)|14|3|;|Kantorite Forest (Pine)|3|15|
+Kantorite Forest (Clearing)¦Kantorite_Forest_(Clearing)¦Benart City¦|Kantorite Forest (Pine)|7|6|
+Kantorite Forest (Pine)¦Kantorite_Forest_(Pine)¦Benart City¦|Kantorite Forest (Red Wood)|16|2|;|Hiedrich Forest (Forage)|4|5|;|Kantorite Forest (Clearing)|16|16|
+Hiedrich Forest (Forage)¦Hiedrich_Forest_(Forage)¦Renagar Reefs¦|Kantorite Forest (Pine)|3|3|;|Hiedrich Forest (Bane)|14|15|;World Area|Renagar Reefs|15|6|
+Hiedrich Forest (Bane)¦Hiedrich_Forest_(Bane)¦Renagar Reefs¦|Hiedrich Forest (Outpost)|4|2|;|Hiedrich Forest (Forage)|9|17|
+Hiedrich Forest (Outpost)¦Hiedrich_Forest_(Outpost)¦Renagar Reefs¦|Hiedrich Forest (Bane)|15|2|;|Hiedrich Forest (Wreck)|6|12|
+Hiedrich Forest (Wreck)¦Hiedrich_Forest_(Wreck)¦Renagar Reefs¦|Hiedrich Forest (Copse)|16|2|;|Hiedrich Forest (Outpost)|6|17|;Portal|Hiedrich Portal|7|9|
+Hiedrich Forest (Copse)¦Hiedrich_Forest_(Copse)¦Renagar Reefs¦|Hiedrich Forest (Wreck)|15|3|;|Hiedrich Forest (Training Ground)|2|16|
+Hiedrich Forest (Training Ground)¦Hiedrich_Forest_(Training_Ground)¦Renagar Reefs¦Relic|Orcish Effigy|3|7|;|Onagoth Jungle (Village)|18|5|;|Hiedrich Forest (Copse)|4|17|
+Onagoth Jungle (Village)¦Onagoth_Jungle_(Village)¦Renagar Reefs¦|Hiedrich Forest (Training Ground)|15|1|;|Onagoth Jungle (Magic Grove)|1|14|;World Area|Renagar Reefs|1|6|
+Onagoth Jungle (Magic Grove)¦Onagoth_Jungle_(Magic_Grove)¦Renagar Reefs¦|Onagoth Jungle (Glade)|2|1|;|Onagoth Jungle (Village)|21|16|
+Onagoth Jungle (Glade)¦Onagoth_Jungle_(Glade)¦Renagar Reefs¦|Onagoth Jungle (Magic Grove)|15|4|;|Onagoth Jungle (Shadows)|1|15|
+Onagoth Jungle (Shadows)¦Onagoth_Jungle_(Shadows)¦Renagar Reefs¦|Onagoth Jungle (Outskirts)|2|3|;|Onagoth Jungle (Glade)|15|15|
+Onagoth Jungle (Outskirts)¦Onagoth_Jungle_(Outskirts)¦Renagar Reefs¦|Onagoth Jungle (Shadows)|15|2|;|Onagoth Jungle (Battleground)|2|16|
+Onagoth Jungle (Battleground)¦Onagoth_Jungle_(Battleground)¦Renagar Reefs¦|Onagoth Jungle (Outskirts)|2|3|;|Onagoth Jungle (Magical Loci)|18|18|
+Onagoth Jungle (Magical Loci)¦Onagoth_Jungle_(Magical_Loci)¦Renagar Reefs¦|Onagoth Jungle (Battleground)|18|2|;|Onagoth Jungle (Herd)|2|17|
+Onagoth Jungle (Herd)¦Onagoth_Jungle_(Herd)¦Renagar Reefs¦|Onagoth Jungle (Magical Loci)|5|1|;|Onagoth Jungle (River)|23|12|;Portal|Onagoth Portal|11|7|
+Onagoth Jungle (River)¦Onagoth_Jungle_(River)¦Renagar Reefs¦|Onagoth Jungle (Herd)|1|2|;|Renagar Reef (Surf)|12|23|
+Renagar Reef (Surf)¦Renagar_Reef_(Surf)¦Renagar Reefs¦Relic|Glittering Coral Bounty|8|14|;|Onagoth Jungle (River)|10|2|;|Renagar Reef (Froth)|1|26|;World Area|Renagar Reefs|3|19|
+Renagar Reef (Froth)¦Renagar_Reef_(Froth)¦Renagar Reefs¦|Renagar Reef (Surf)|27|3|;|Renagar Reef (Churn)|5|13|
+Renagar Reef (Churn)¦Renagar_Reef_(Churn)¦Renagar Reefs¦|Renagar Reef (Froth)|3|2|;|Renagar Reef (Pools)|18|17|
+Renagar Reef (Pools)¦Renagar_Reef_(Pools)¦Renagar Reefs¦|Renagar Reef (Writhe)|14|2|;|Renagar Reef (Churn)|1|15|
+Renagar Reef (Writhe)¦Renagar_Reef_(Writhe)¦Renagar Reefs¦|Renagar Reef (Shallows)|18|3|;|Renagar Reef (Pools)|9|20|
+Renagar Reef (Shallows)¦Renagar_Reef_(Shallows)¦Renagar Reefs¦|Renagar Reef (Writhe)|1|2|;|Renagar Reef (Fronds)|14|17|
+Renagar Reef (Fronds)¦Renagar_Reef_(Fronds)¦Renagar Reefs¦|Renagar Reef (Shallows)|14|2|;|Renagar Reef (Surge)|2|15|;World Area|Renagar Reefs|10|16|
+Renagar Reef (Surge)¦Renagar_Reef_(Surge)¦Renagar Reefs¦|Renagar Reef (Fronds)|1|2|;|Renagar Reef (Outcrop)|14|14|
+Renagar Reef (Outcrop)¦Renagar_Reef_(Outcrop)¦Renagar Reefs¦|Renagar Reef (Surge)|2|3|;|Renagar Reef (Training Ground)|22|13|;Portal|Renagar Portal|10|5|
+Renagar Reef (Lair)¦Renagar_Reef_(Lair)¦Renagar Reefs¦|Renagar Reef (Training Ground)|12|2|
+Renagar Reef (Training Ground)¦Renagar_Reef_(Training_Ground)¦Renagar Reefs¦|Renagar Reef (Outcrop)|3|2|;|Wendaraq Coast (Crash)|12|2|;|Renagar Reef (Lair)|8|23|
+Wendaraq Coast (Crash)¦Wendaraq_Coast_(Crash)¦The Wendaraq Coast¦Relic|Gorgon Statue|15|7|;|Renagar Reef (Training Ground)|5|5|;|Wendaraq Coast (Surf)|14|22|;World Area|The Wendaraq Coast|6|18|
+Wendaraq Coast (Surf)¦Wendaraq_Coast_(Surf)¦The Wendaraq Coast¦|Wendaraq Coast (Crash)|3|2|;|Wendaraq Coast (Pools)|11|14|
+Wendaraq Coast (Pools)¦Wendaraq_Coast_(Pools)¦The Wendaraq Coast¦|Wendaraq Coast (Surf)|11|3|;|Wendaraq Coast (Shallows)|2|18|
+Wendaraq Coast (Shallows)¦Wendaraq_Coast_(Shallows)¦The Wendaraq Coast¦|Wendaraq Coast (Thrash)|3|3|;|Wendaraq Coast (Pools)|16|14|
+Wendaraq Coast (Thrash)¦Wendaraq_Coast_(Thrash)¦The Wendaraq Coast¦|Wendaraq Coast (Haunt)|4|4|;|Wendaraq Coast (Shallows)|18|18|
+Wendaraq Coast (Haunt)¦Wendaraq_Coast_(Haunt)¦The Wendaraq Coast¦|Wendaraq Coast (Thrash)|14|2|;|Wendaraq Coast (Curse)|2|11|
+Wendaraq Coast (Curse)¦Wendaraq_Coast_(Curse)¦The Wendaraq Coast¦|Wendaraq Coast (Haunt)|6|2|;|Wendaraq Coast (Rock Pools)|10|18|
+Wendaraq Coast (Rock Pools)¦Wendaraq_Coast_(Rock_Pools)¦The Wendaraq Coast¦|Wendaraq Coast (Lurk)|3|3|;|Wendaraq Coast (Curse)|17|15|;World Area|The Wendaraq Coast|15|2|
+Wendaraq Coast (Lurk)¦Wendaraq_Coast_(Lurk)¦The Wendaraq Coast¦|Wendaraq Coast (Monstrous Cove)|14|5|;|Wendaraq Coast (Rock Pools)|4|15|;Portal|Wendaraq Portal|3|3|
+Wendaraq Coast (Monstrous Cove)¦Wendaraq_Coast_(Monstrous_Cove)¦The Wendaraq Coast¦|Wendaraq Coast (Lurk)|3|3|;|Wendaraq Coast (Shore)|18|16|
+Wendaraq Coast (Shore)¦Wendaraq_Coast_(Shore)¦The Wendaraq Coast¦Relic|Mermaid Icon|2|4|;|Wendaraq Coast (Lure)|13|3|;|Wendaraq Coast (Monstrous Cove)|4|16|
+Wendaraq Coast (Lure)¦Wendaraq_Coast_(Lure)¦The Wendaraq Coast¦|Wendaraq Coast (Froth)|7|2|;|Wendaraq Coast (Shore)|16|13|
+Wendaraq Coast (Froth)¦Wendaraq_Coast_(Froth)¦The Wendaraq Coast¦|Wendaraq Coast (Lure)|11|2|;|Wendaraq Coast (Depths)|3|20|
+Wendaraq Coast (Depths)¦Wendaraq_Coast_(Depths)¦The Wendaraq Coast¦|Wendaraq Coast (Froth)|3|3|;|Wendaraq Coast (Chum)|16|15|;World Area|The Wendaraq Coast|6|12|
+Wendaraq Coast (Chum)¦Wendaraq_Coast_(Chum)¦The Wendaraq Coast¦|Wendaraq Coast (Depths)|12|2|;|Wendaraq Coast (Twist)|9|14|
+Wendaraq Coast (Twist)¦Wendaraq_Coast_(Twist)¦The Wendaraq Coast¦|Wendaraq Coast (Chum)|11|2|;|Wendaraq Coast (Sponge Pools)|8|17|
+Wendaraq Coast (Sponge Pools)¦Wendaraq_Coast_(Sponge_Pools)¦The Wendaraq Coast¦|Wendaraq Coast (Twist)|15|3|;|Wendaraq Coast (Tide Pools)|2|17|
+Wendaraq Coast (Tide Pools)¦Wendaraq_Coast_(Tide_Pools)¦The Wendaraq Coast¦|Wendaraq Coast (Sponge Pools)|6|2|;|Wendaraq Coast (Rockfall)|19|20|
+Wendaraq Coast (Rockfall)¦Wendaraq_Coast_(Rockfall)¦The Wendaraq Coast¦|Wendaraq Coast (Stormfront)|7|4|;|Wendaraq Coast (Tide Pools)|19|20|;Portal|Wendaraq Coast Portal|6|18|
+Wendaraq Coast (Stormfront)¦Wendaraq_Coast_(Stormfront)¦The Wendaraq Coast¦|Wendaraq Coast (Rockfall)|7|2|;|Wendaraq Coast (Soar)|18|20|;World Area|The Wendaraq Coast|5|17|
+Wendaraq Coast (Soar)¦Wendaraq_Coast_(Soar)¦The Wendaraq Coast¦Relic|Eagle Nest|4|7|;|Wendaraq Coast (Lair)|15|3|;|Wendaraq Coast (Stormfront)|5|18|
+Wendaraq Coast (Lair)¦Wendaraq_Coast_(Lair)¦The Wendaraq Coast¦|Wendaraq Coast (Soar)|10|2|;|Wendaraq Coast (Cove)|2|14|
+Wendaraq Coast (Cove)¦Wendaraq_Coast_(Cove)¦The Wendaraq Coast¦|Wendaraq Coast (Lair)|14|4|;|Wendaraq Coast (Corpse Tide)|3|13|
+Wendaraq Coast (Corpse Tide)¦Wendaraq_Coast_(Corpse_Tide)¦The Wendaraq Coast¦|Wendaraq Coast (Squall)|13|3|;|Wendaraq Coast (Cove)|7|14|
+Wendaraq Coast (Rift)¦Wendaraq_Coast_(Rift)¦The Wendaraq Coast¦|Wendaraq Coast (Squall)|4|7|
+Wendaraq Coast (Squall)¦Wendaraq_Coast_(Squall)¦The Wendaraq Coast¦|Wendaraq Coast (Corpse Tide)|15|2|;|Wendaraq Coast (Rift)|3|3|;|Idnea Coast (Leap)|6|13|
+Idnea Coast (Leap)¦Idnea_Coast_(Leap)¦Idnea Frozen Realms¦|Idnea Coast (Crawl)|6|2|;|Wendaraq Coast (Squall)|17|14|;World Area|Idnea Frozen Realms|2|8|
+Idnea Coast (Crawl)¦Idnea_Coast_(Crawl)¦Idnea Frozen Realms¦|Idnea Coast (Leap)|3|3|;|Idnea Coast (Soar)|13|17|
+Idnea Coast (Soar)¦Idnea_Coast_(Soar)¦Idnea Frozen Realms¦|Idnea Coast (Crawl)|3|2|;|Idnea Coast (Pools)|17|13|
+Idnea Coast (Pools)¦Idnea_Coast_(Pools)¦Idnea Frozen Realms¦|Idnea Coast (Breach)|3|6|;|Idnea Coast (Soar)|25|13|;Portal|Idnea Portal|24|3|
+Idnea Coast (Breach)¦Idnea_Coast_(Breach)¦Idnea Frozen Realms¦|Idnea Coast (Floe)|13|3|;|Idnea Coast (Pools)|8|15|
+Idnea Coast (Floe)¦Idnea_Coast_(Floe)¦Idnea Frozen Realms¦Relic|Seal Carcass|7|2|;|Idnea Coast (Hunt)|16|3|;|Idnea Coast (Breach)|8|17|;World Area|Idnea Frozen Realms|5|9|
+Idnea Coast (Hunt)¦Idnea_Coast_(Hunt)¦Idnea Frozen Realms¦|Idnea Coast (Skitter)|14|3|;|Idnea Coast (Floe)|3|14|
+Idnea Coast (Skitter)¦Idnea_Coast_(Skitter)¦Idnea Frozen Realms¦|Idnea Coast (Hunt)|17|3|;|Idnea Coast (Dread)|5|16|
+Idnea Coast (Dread)¦Idnea_Coast_(Dread)¦Idnea Frozen Realms¦|Idnea Coast (Skitter)|5|2|;|Idnea Coast (Flats)|9|17|
+Idnea Coast (Flats)¦Idnea_Coast_(Flats)¦Idnea Frozen Realms¦|Idnea Forest (Fury)|6|3|;|Idnea Coast (Dread)|7|16|
+Idnea Forest (Fury)¦Idnea_Forest_(Fury)¦Idnea Frozen Realms¦|Idnea Coast (Flats)|11|2|;|Idnea Forest (Prowl)|4|21|
+Idnea Forest (Prowl)¦Idnea_Forest_(Prowl)¦Idnea Frozen Realms¦|Idnea Forest (Herd)|20|3|;|Idnea Forest (Fury)|2|12|
+Idnea Forest (Herd)¦Idnea_Forest_(Herd)¦Idnea Frozen Realms¦|Idnea Forest (Prowl)|21|2|;|Idnea Forest (Tribe)|4|13|;World Area|Idnea Frozen Realms|3|3|
+Idnea Forest (Tribe)¦Idnea_Forest_(Tribe)¦Idnea Frozen Realms¦|Idnea Forest (Herd)|5|2|;|Idnea Forest (Village)|9|22|;Portal|Idnea Portal|12|3|
+Idnea Forest (Village)¦Idnea_Forest_(Village)¦Idnea Frozen Realms¦|Idnea Forest (Tribe)|3|2|;|Idnea Forest (Stalk)|13|19|
+Idnea Forest (Stalk)¦Idnea_Forest_(Stalk)¦Idnea Frozen Realms¦Relic|Leopard Den|10|6|;|Idnea Forest (Stomp)|3|4|;|Idnea Forest (Village)|12|14|
+Idnea Forest (Stomp)¦Idnea_Forest_(Stomp)¦Idnea Frozen Realms¦|Idnea Forest (Stalk)|4|4|;|Idnea Forest (Grave)|17|17|
+Idnea Forest (Grave)¦Idnea_Forest_(Grave)¦Idnea Frozen Realms¦|Idnea Forest (Tomb)|3|4|;|Idnea Forest (Stomp)|12|15|
+Idnea Forest (Tomb)¦Idnea_Forest_(Tomb)¦Idnea Frozen Realms¦|Idnea Forest (Cairn)|3|4|;|Idnea Forest (Grave)|17|20|
+Idnea Forest (Cairn)¦Idnea_Forest_(Cairn)¦Idnea Frozen Realms¦|Idnea Forest (Pack)|15|4|;|Idnea Forest (Tomb)|2|16|;World Area|Idnea Frozen Realms|17|16|
+Idnea Forest (Pack)¦Idnea_Forest_(Pack)¦Idnea Frozen Realms¦|Idnea Forest (Cairn)|2|3|;|Idnea Forest (Den)|23|12|
+Idnea Forest (Den)¦Idnea_Forest_(Den)¦Idnea Frozen Realms¦|Idnea Forest (Pack)|15|5|;|Idnea Forest (Graze)|2|15|
+Idnea Forest (Graze)¦Idnea_Forest_(Graze)¦Idnea Frozen Realms¦|Idnea Forest (Den)|3|3|;|Idnea Forest (Battle)|14|17|
+Idnea Forest (Battle)¦Idnea_Forest_(Battle)¦Idnea Frozen Realms¦|Idnea Forest (Graze)|15|3|;|Idnea Forest (Beast Lair)|2|18|;Portal|Idnea Portal|16|16|
+Idnea Forest (Alphas Copse)¦Idnea_Forest_(Alphas_Copse)¦Idnea Frozen Realms¦|Idnea Forest (Beast Lair)|7|11|
+Idnea Forest (Beast Lair)¦Idnea_Forest_(Beast_Lair)¦Idnea Frozen Realms¦|Orthania Woods (Thistle Grove)|3|3|;|Idnea Forest (Alphas Copse)|15|4|;|Idnea Forest (Battle)|17|18|
+Orthania Woods (Thistle Grove)¦Orthania_Woods_(Thistle_Grove)¦Orthania Woods¦Relic|Thistle Patch|14|12|;|Idnea Forest (Beast Lair)|17|3|;|Orthania Woods (Copse)|2|14|;World Area|Orthania Woods|4|6|
+Orthania Woods (Copse)¦Orthania_Woods_(Copse)¦Orthania Woods¦|Orthania Woods (Flame)|5|3|;|Orthania Woods (Thistle Grove)|13|20|
+Orthania Woods (Flame)¦Orthania_Woods_(Flame)¦Orthania Woods¦|Orthania Woods (Copse)|3|3|;|Orthania Woods (Ravage)|13|17|
+Orthania Woods (Ravage)¦Orthania_Woods_(Ravage)¦Orthania Woods¦|Orthania Woods (Incendia)|10|4|;|Orthania Woods (Flame)|4|17|
+Orthania Woods (Incendia)¦Orthania_Woods_(Incendia)¦Orthania Woods¦|Orthania Woods (Ravage)|2|2|;|Orthania Woods (Whipvine)|13|14|
+Orthania Woods (Whipvine)¦Orthania_Woods_(Whipvine)¦Orthania Woods¦|Orthania Woods (Incendia)|3|2|;|Orthania Woods (Grove)|15|15|;World Area|Orthania Woods|6|13|
+Orthania Woods (Grove)¦Orthania_Woods_(Grove)¦Orthania Woods¦|Orthania Woods (Hive)|16|3|;|Orthania Woods (Whipvine)|2|14|
+Orthania Woods (Hive)¦Orthania_Woods_(Hive)¦Orthania Woods¦|Orthania Woods (Grove)|3|2|;|Orthania Woods (Glimmer)|18|14|
+Orthania Woods (Glimmer)¦Orthania_Woods_(Glimmer)¦Orthania Woods¦|Orthania Woods (Drone)|11|3|;|Orthania Woods (Hive)|16|16|;Portal|Orthania Portal|3|10|
+Orthania Woods (Drone)¦Orthania_Woods_(Drone)¦Orthania Woods¦|Orthania Woods (Soar)|22|2|;|Orthania Woods (Glimmer)|3|12|
+Orthania Woods (Soar)¦Orthania_Woods_(Soar)¦Orthania Woods¦Relic|Giant Gnat Nest|13|15|;|Orthania Woods (Drone)|12|4|;|Orthania Woods (Stalk)|3|15|
+Orthania Woods (Stalk)¦Orthania_Woods_(Stalk)¦Orthania Woods¦|Orthania Woods (Death Orchard)|20|2|;|Orthania Woods (Soar)|2|10|
+Orthania Woods (Death Orchard)¦Orthania_Woods_(Death_Orchard)¦Orthania Woods¦|Orthania Woods (Stalk)|3|4|;|Orthania Woods (Guard)|15|12|;World Area|Orthania Woods|3|14|
+Orthania Woods (Guard)¦Orthania_Woods_(Guard)¦Orthania Woods¦|Orthania Woods (Death Orchard)|9|2|;|Orthania Woods (Berserk)|14|17|
+Orthania Woods (Berserk)¦Orthania_Woods_(Berserk)¦Orthania Woods¦|Orthania Woods (Guard)|2|2|;|Orthania Woods (Glade)|17|17|
+Orthania Woods (Glade)¦Orthania_Woods_(Glade)¦Orthania Woods¦|Orthania Woods (Berserk)|14|2|;|Orthania Woods (Hatchery)|4|15|
+Orthania Woods (Hatchery)¦Orthania_Woods_(Hatchery)¦Orthania Woods¦|Orthania Woods (Glade)|13|3|;|Orthania Woods (Nursery)|2|20|
+Orthania Woods (Nursery)¦Orthania_Woods_(Nursery)¦Orthania Woods¦|Orthania Woods (Hatchery)|15|5|;|Orthania Woods (Shifting Copse)|6|15|
+Orthania Woods (Shifting Copse)¦Orthania_Woods_(Shifting_Copse)¦Orthania Woods¦|Orthania Woods (Den)|15|4|;|Orthania Woods (Nursery)|5|22|;Portal|Orthania Woods Portal|16|16|
+Orthania Woods (Den)¦Orthania_Woods_(Den)¦Orthania Woods¦|Orthania Woods (Shifting Copse)|4|3|;|Orthania Woods (Rampage)|12|19|
+Orthania Woods (Rampage)¦Orthania_Woods_(Rampage)¦Orthania Woods¦Relic|Grofflesnout Carcass|2|2|;|Orthania Woods (Den)|17|3|;|Orthania Woods (Trap)|3|16|;World Area|Orthania Woods|17|15|
+Orthania Woods (Trap)¦Orthania_Woods_(Trap)¦Orthania Woods¦|Orthania Woods (Rampage)|2|2|;|Orthania Woods (Frenzy)|10|17|
+Orthania Woods (Frenzy)¦Orthania_Woods_(Frenzy)¦Orthania Woods¦|Orthania Woods (Dash)|6|3|;|Orthania Woods (Trap)|20|12|
+Orthania Woods (Dash)¦Orthania_Woods_(Dash)¦Orthania Woods¦|Orthania Woods (Frenzy)|16|3|;|Orthania Woods (Pine)|3|15|
+Orthania Woods (Brood Den)¦Orthania_Woods_(Brood_Den)¦Orthania Woods¦|Orthania Woods (Pine)|6|7|
+Orthania Woods (Pine)¦Orthania_Woods_(Pine)¦Orthania Woods¦|Orthania Woods (Brood Den)|15|2|;|Orniak Caves (Goo)|4|4|;|Orthania Woods (Dash)|4|13|
+Orniak Caves (Goo)¦Orniak_Caves_(Goo)¦Orniak Caves¦|Orthania Woods (Pine)|4|2|;|Orniak Caves (Tomb)|16|16|;World Area|Orniak Caves|2|14|
+Orniak Caves (Tomb)¦Orniak_Caves_(Tomb)¦Orniak Caves¦|Orniak Caves (Tunnels)|14|3|;|Orniak Caves (Goo)|3|13|
+Orniak Caves (Tunnels)¦Orniak_Caves_(Tunnels)¦Orniak Caves¦|Orniak Caves (Tomb)|5|3|;|Orniak Caves (Stalk)|13|17|
+Orniak Caves (Stalk)¦Orniak_Caves_(Stalk)¦Orniak Caves¦|Orniak Caves (Howl)|3|2|;|Orniak Caves (Tunnels)|13|14|
+Orniak Caves (Howl)¦Orniak_Caves_(Howl)¦Orniak Caves¦|Orniak Caves (Hell Webs)|15|5|;|Orniak Caves (Stalk)|5|15|
+Orniak Caves (Hell Webs)¦Orniak_Caves_(Hell_Webs)¦Orniak Caves¦Relic|Hell Web Cocoon|13|9|;|Orniak Caves (Howl)|3|3|;|Orniak Caves (Gloom)|12|19|
+Orniak Caves (Gloom)¦Orniak_Caves_(Gloom)¦Orniak Caves¦|Orniak Caves (Roost)|13|3|;|Orniak Caves (Hell Webs)|8|15|
+Orniak Caves (Roost)¦Orniak_Caves_(Roost)¦Orniak Caves¦|Orniak Caves (Gloom)|4|2|;|Orniak Caves (Grave)|15|11|
+Orniak Caves (Grave)¦Orniak_Caves_(Grave)¦Orniak Caves¦|Orniak Caves (Charnel Pit)|17|7|;|Orniak Caves (Roost)|2|17|
+Orniak Caves (Charnel Pit)¦Orniak_Caves_(Charnel_Pit)¦Orniak Caves¦|Orniak Caves (Pit)|15|4|;|Orniak Caves (Grave)|4|13|
+Orniak Caves (Pit)¦Orniak_Caves_(Pit)¦Orniak Caves¦|Orniak Caves (Charnel Pit)|10|4|;|Orniak Caves (Shimmer)|12|20|;World Area|Orniak Caves|2|10|
+Orniak Caves (Shimmer)¦Orniak_Caves_(Shimmer)¦Orniak Caves¦|Orniak Caves (Mist)|14|5|;|Orniak Caves (Pit)|4|20|
+Orniak Caves (Mist)¦Orniak_Caves_(Mist)¦Orniak Caves¦|Orniak Caves (Glimmer)|14|3|;|Orniak Caves (Shimmer)|7|16|
+Orniak Caves (Glimmer)¦Orniak_Caves_(Glimmer)¦Orniak Caves¦|Orniak Caves (Mist)|2|4|;|Orniak Caves (Lair)|12|15|
+Orniak Caves (Lair)¦Orniak_Caves_(Lair)¦Orniak Caves¦|Orniak Caves (Grub Holes)|15|2|;|Orniak Caves (Glimmer)|7|14|
+Orniak Caves (Grub Holes)¦Orniak_Caves_(Grub_Holes)¦Orniak Caves¦Relic|Ubergrub Burrow Pit|4|10|;|Orniak Caves (Doom)|12|3|;|Orniak Caves (Lair)|8|17|
+Orniak Caves (Doom)¦Orniak_Caves_(Doom)¦Orniak Caves¦|Orniak Caves (Grub Holes)|2|5|;|Vendaro Plains (Ash)|12|22|
+Vendaro Plains (Ash)¦Vendaro_Plains_(Ash)¦Orniak Caves¦|Orniak Caves (Doom)|4|4|;|Vendaro Plains (Quarry)|18|14|;World Area|Orniak Caves|16|2|
+Vendaro Plains (Quarry)¦Vendaro_Plains_(Quarry)¦Orniak Caves¦|Vendaro Plains (Lava)|4|2|;|Vendaro Plains (Ash)|15|15|
+Vendaro Plains (Lava)¦Vendaro_Plains_(Lava)¦Orniak Caves¦|Vendaro Plains (Stalk)|4|2|;|Vendaro Plains (Quarry)|14|18|
+Vendaro Plains (Stalk)¦Vendaro_Plains_(Stalk)¦Orniak Caves¦|Vendaro Plains (Soar)|16|4|;|Vendaro Plains (Lava)|2|18|
+Vendaro Plains (Soar)¦Vendaro_Plains_(Soar)¦Orniak Caves¦|Vendaro Plains (Magma)|15|2|;|Vendaro Plains (Stalk)|2|15|
+Vendaro Plains (Magma)¦Vendaro_Plains_(Magma)¦Orniak Caves¦|Vendaro Plains (Smoke)|3|4|;|Vendaro Plains (Soar)|16|16|;World Area|Orniak Caves|14|4|
+Vendaro Plains (Smoke)¦Vendaro_Plains_(Smoke)¦Orniak Caves¦|Vendaro Plains (Magma)|3|4|;|Vendaro Plains (Sting)|16|13|
+Vendaro Plains (Brood Mothers Nest)¦Vendaro_Plains_(Brood_Mothers_Nest)¦Orniak Caves¦|Vendaro Plains (Sting)|7|13|
+Vendaro Plains (Sting)¦Vendaro_Plains_(Sting)¦Orniak Caves¦|Vendaro Plains (Smoke)|13|3|;|Vendaro Plains (Brood Mothers Nest)|3|14|;|Fadova Fields (Flames)|12|15|
+Fadova Fields (Flames)¦Fadova_Fields_(Flames)¦Ketoric Realms¦Relic|Runic Firepit|3|11|;|Vendaro Plains (Sting)|4|4|;|Fadova Fields (Blaze)|14|20|;World Area|Ketoric Realms|13|5|
+Fadova Fields (Blaze)¦Fadova_Fields_(Blaze)¦Ketoric Realms¦|Fadova Fields (Fell Plains)|14|2|;|Fadova Fields (Flames)|3|16|
+Fadova Fields (Fell Plains)¦Fadova_Fields_(Fell_Plains)¦Ketoric Realms¦|Fadova Fields (Fire)|4|3|;|Fadova Fields (Blaze)|17|14|
+Fadova Fields (Fire)¦Fadova_Fields_(Fire)¦Ketoric Realms¦|Fadova Fields (Fell Plains)|11|2|;|Fadova Fields (Pit)|6|21|
+Fadova Fields (Pit)¦Fadova_Fields_(Pit)¦Ketoric Realms¦|Fadova Fields (Conflagration)|6|2|;|Fadova Fields (Fire)|13|15|
+Fadova Fields (Conflagration)¦Fadova_Fields_(Conflagration)¦Ketoric Realms¦|Ketoric Wastes (Thermals)|18|3|;|Fadova Fields (Pit)|3|14|
+Ketoric Wastes (Thermals)¦Ketoric_Wastes_(Thermals)¦Ketoric Realms¦|Fadova Fields (Conflagration)|7|3|;|Ketoric Wastes (Sparks)|18|15|;World Area|Ketoric Realms|2|11|
+Ketoric Wastes (Sparks)¦Ketoric_Wastes_(Sparks)¦Ketoric Realms¦|Ketoric Wastes (Inferno)|10|2|;|Ketoric Wastes (Thermals)|4|20|
+Ketoric Wastes (Inferno)¦Ketoric_Wastes_(Inferno)¦Ketoric Realms¦|Ketoric Wastes (Sparks)|4|4|;|Ketoric Wastes (Fungal Grotto)|13|18|
+Ketoric Wastes (Fungal Grotto)¦Ketoric_Wastes_(Fungal_Grotto)¦Ketoric Realms¦|Ketoric Wastes (Thorns)|5|4|;|Ketoric Wastes (Inferno)|15|16|
+Ketoric Wastes (Thorns)¦Ketoric_Wastes_(Thorns)¦Ketoric Realms¦Relic|Varanus Nest2|5|10|;|Ketoric Wastes (Fungal Grotto)|2|2|;|Ketoric Wastes (Sulphur)|19|13|
+Ketoric Wastes (Sulphur)¦Ketoric_Wastes_(Sulphur)¦Ketoric Realms¦|Ketoric Wastes (Thorns)|4|2|;|Ketoric Wastes (Haunt)|16|15|
+Ketoric Wastes (Haunt)¦Ketoric_Wastes_(Haunt)¦Ketoric Realms¦|Ketoric Wastes (Stalk)|11|6|;|Ketoric Wastes (Sulphur)|3|20|
+Ketoric Wastes (Stalk)¦Ketoric_Wastes_(Stalk)¦Ketoric Realms¦|Ketoric Wastes (Lair)|14|5|;|Ketoric Wastes (Haunt)|2|18|
+Ketoric Wastes (Lair)¦Ketoric_Wastes_(Lair)¦Ketoric Realms¦|Ketoric Wastes (Stalk)|2|2|;|Ketoric Wastes (Ash)|13|20|;World Area|Ketoric Realms|3|21|
+Ketoric Wastes (Ash)¦Ketoric_Wastes_(Ash)¦Ketoric Realms¦|Ketoric Wastes (Lair)|6|2|;|Ketoric Wastes (Fury)|22|22|
+Ketoric Wastes (Fury)¦Ketoric_Wastes_(Fury)¦Ketoric Realms¦|Ketoric Wastes (Guard)|3|3|;|Ketoric Wastes (Ash)|15|15|
+Ketoric Wastes (Guard)¦Ketoric_Wastes_(Guard)¦Ketoric Realms¦|Ketoric Wastes (Berserk)|19|2|;|Ketoric Wastes (Fury)|3|15|
+Ketoric Wastes (Berserk)¦Ketoric_Wastes_(Berserk)¦Ketoric Realms¦|Ketoric Wastes (Guard)|5|2|;|Ketoric Wastes (Fields)|17|17|
+Ketoric Wastes (Fields)¦Ketoric_Wastes_(Fields)¦Ketoric Realms¦|Ketoric Wastes (Execution Yard)|12|2|;|Ketoric Wastes (Berserk)|4|16|
+Ketoric Wastes (Execution Yard)¦Ketoric_Wastes_(Execution_Yard)¦Ketoric Realms¦Relic|Executioners Block|9|8|;|Ketoric Wastes (Fields)|3|2|;|Ketoric Fortress (Gate)|13|21|
+Ketoric Fortress (Gate)¦Ketoric_Fortress_(Gate)¦Ketoric Realms¦|Ketoric Wastes (Execution Yard)|9|1|;|Ketoric Fortress (Alchemist Workshop)|21|17|;World Area|Ketoric Realms|1|10|
+Ketoric Fortress (Alchemist Workshop)¦Ketoric_Fortress_(Alchemist_Workshop)¦Ketoric Realms¦|Ketoric Fortress (Barracks)|15|4|;|Ketoric Fortress (Gate)|2|15|
+Ketoric Fortress (Barracks)¦Ketoric_Fortress_(Barracks)¦Ketoric Realms¦|Ketoric Fortress (Alchemist Workshop)|1|2|;|Ketoric Fortress (Audience Chamber)|21|16|
+Forest of Yule (Howling Depths)¦Forest_of_Yule_(Howling_Depths)¦Krul Island¦|Forest of Yule (Howling Grove)|12|14|
+Forest of Yule (Howling Grove)¦Forest_of_Yule_(Howling_Grove)¦Krul Island¦|Forest of Yule (Howling Depths)|18|2|;|Forest of Yule (Clearing)|6|12|;|Stage 1:|6|13|;|Stage 2:|13|16|;|Stages 3-4:|4|3|;|Stages 5-6:|11|7|;|Stages 7-8:|18|3|
+Ketoric Fortress (Antechamber)¦Ketoric_Fortress_(Antechamber)¦Ketoric Realms¦|Ketoric Fortress (Audience Chamber)|4|8|
+Ketoric Fortress (Audience Chamber)¦Ketoric_Fortress_(Audience_Chamber)¦Ketoric Realms¦|Ketoric Fortress (Barracks)|14|1|;|Ketoric Mines (Entrance)|11|6|;|Ketoric Fortress (Antechamber)|3|22|

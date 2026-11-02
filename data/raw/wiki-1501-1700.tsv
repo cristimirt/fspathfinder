@@ -1,0 +1,254 @@
+Ostorin City (Slums)¦Ostorin_City_(Slums)¦The Ostorin Morass¦World Area|The Ostorin Morass|14|1|;|Ostorin City (Center)|3|4|;|Ostorin Sewers (Explosive Store)|16|14|;|Stages 1-2:|16|13|
+Ostorin City (Center)¦Ostorin_City_(Center)¦The Ostorin Morass¦|Ostorin City (Barracks)|3|2|;|Ostorin City (Slums)|18|11|
+Ostorin City (Barracks)¦Ostorin_City_(Barracks)¦The Ostorin Morass¦|Ostorin Fens (Edge)|3|7|;|Ostorin City (Center)|13|18|
+Ostorin Fens (Edge)¦Ostorin_Fens_(Edge)¦The Ostorin Morass¦World Area|The Ostorin Morass|7|2|;|Ostorin Fens (Murk)|14|5|;|Ostorin City (Barracks)|2|15|;|Stages 1-2:|11|13|
+Ostorin Fens (Murk)¦Ostorin_Fens_(Murk)¦The Ostorin Morass¦|Mephitic Marsh (Gas Bog)|4|4|;portal|Portal|13|6|;|Ostorin Fens (Edge)|11|13|
+Mephitic Marsh (Gas Bog)¦Mephitic_Marsh_(Gas_Bog)¦The Ostorin Morass¦|Ostorin Fens (Murk)|1|3|;|Mephitic Marsh (Mire)|12|13|;world area|The Ostorin Morass|16|15|;|Stages 1-2:|9|6|
+Mephitic Marsh (Mire)¦Mephitic_Marsh_(Mire)¦The Ostorin Morass¦|Mephitic Marsh (Gas Bog)|10|1|;|Mephitic Marsh (Foetid Bog)|16|11|;|Stages 3-4:|7|3|
+Mephitic Marsh (Foetid Bog)¦Mephitic_Marsh_(Foetid_Bog)¦The Ostorin Morass¦|Old Ostorin Wood (Haunt)|1|3|;|Mephitic Marsh (Mire)|6|9|;|Stage 5:|10|2|;|Stage 6:|9|15|;|Stage 7:|10|2|
+Old Ostorin Wood (Haunt)¦Old_Ostorin_Wood_(Haunt)¦The Ostorin Morass¦world area|The Ostorin Morass|2|2|;|Old Ostorin Wood (Gloom)|16|4|;|Mephitic Marsh (Foetid Bog)|4|12|;relic|Living Totem|16|10|;|Stages 1-2:|8|7|
+Old Ostorin Wood (Gloom)¦Old_Ostorin_Wood_(Gloom)¦The Ostorin Morass¦|Old Ostorin Wood (Nest)|3|3|;|Zhang Steppes (Plains)|5|12|;|Old Ostorin Wood (Haunt)|11|14|;|Stage 3:|10|5|
+Old Ostorin Wood (Nest)¦Old_Ostorin_Wood_(Nest)¦The Ostorin Morass¦|Old Ostorin Wood (Gloom)|9|10|;|Stage 4-6:|5|6|
+Zhang Steppes (Plains)¦Zhang_Steppes_(Plains)¦The Zhang Heath¦|Old Ostorin Wood (Gloom)|4|3|;|Zhang Steppes (Fields)|10|8|;World Area|The Zhang Heath|16|2|
+Zhang Steppes (Fields)¦Zhang_Steppes_(Fields)¦The Zhang Heath¦|Zhang Highlands (Brush)|9|6|;|Zhang Steppes (Plains)|8|18|
+Zhang Highlands (Brush)¦Zhang_Highlands_(Brush)¦The Zhang Heath¦Shop|Zhang Bush Store Hut|3|13|;|Zhang Highlands (Flats)|9|2|;|Zhang Steppes (Fields)|10|9|;World Area|The Zhang Heath|13|14|;|Stages 1-2:|3|3|
+Zhang Highlands (Flats)¦Zhang_Highlands_(Flats)¦The Zhang Heath¦|Zhang Highlands (Grasslands)|18|6|;|Zhang Highlands (Brush)|5|14|;Portal|Zhang Portal|4|3|;|Stage 3:|7|8|
+Zhang Highlands (Grasslands)¦Zhang_Highlands_(Grasslands)¦The Zhang Heath¦|Po Wilderness (Ruins)|13|5|;|Zhang Highlands (Flats)|6|10|;|Stages 4-5:|15|13|
+Po Wilderness (Ruins)¦Po_Wilderness_(Ruins)¦The Zhang Heath¦|Zhang Highlands (Grasslands)|11|3|;|Po Wilderness (Desolation)|6|15|;World Area|The Zhang Heath|3|8|
+Po Wilderness (Desolation)¦Po_Wilderness_(Desolation)¦The Zhang Heath¦|Po Wilderness (Ruins)|16|2|;|Zhang Plains (Scrub)|5|8|;Relic|Emperor Po's Tomb|12|6|
+Zhang Plains (Scrub)¦Zhang_Plains_(Scrub)¦The Zhang Heath¦|Zhang Plains (Tangle)|2|2|;|Po Wilderness (Desolation)|9|16|;World Area|The Zhang Heath|3|11|;|Stages 1-2:|11|9|
+Zhang Plains (Tangle)¦Zhang_Plains_(Tangle)¦The Zhang Heath¦|Zhang Plains (Scrub)|15|3|;|Zhang Plains (Training Grounds)|5|13|
+Zhang Plains (Arena of the Horse Lord)¦Zhang_Plains_(Arena_of_the_Horse_Lord)¦The Zhang Heath¦|Zhang Plains (Training Grounds)|4|6|;|Stage 5:|11|3|
+Zhang Plains (Training Grounds)¦Zhang_Plains_(Training_Grounds)¦The Kingdom of Ancon¦|Zhang Plains (Arena of the Horse Lord)|13|2|;|Zhang Plains (Tangle)|17|16|;|Ancon Tableland (Canyon)|3|18|;|Stages 3-4:|14|9|
+Ancon Tableland (Canyon)¦Ancon_Tableland_(Canyon)¦The Kingdom of Ancon¦|Zhang Plains (Training Grounds)|4|2|;|Ancon Tableland (Cracks)|15|9|;World Area|The Kingdom of Ancon|17|3|;|Stages 1-2:|3|11|
+Ancon Tableland (Cracks)¦Ancon_Tableland_(Cracks)¦The Kingdom of Ancon¦|Ancon Tableland (Canyon)|3|4|;|Ancon Tableland (Crevice)|8|19|
+Ancon Tableland (Crevice)¦Ancon_Tableland_(Crevice)¦The Kingdom of Ancon¦|Kameria Savannah (Plains)|13|3|;|Ancon Tableland (Cracks)|10|13|
+Kameria Savannah (Plains)¦Kameria_Savannah_(Plains)¦The Kingdom of Ancon¦|Ancon Tableland (Crevice)|3|4|;|Kameria Savannah (Grasslands)|17|6|;Portal|Kameria Portal|7|9|;World Area|The Kingdom of Ancon|12|3|
+Kameria Savannah (Grasslands)¦Kameria_Savannah_(Grasslands)¦The Kingdom of Ancon¦|Ancon Desert (Dunes)|4|4|;|Kameria Savannah (Plains)|10|18|
+Ancon Desert (Dunes)¦Ancon_Desert_(Dunes)¦The Kingdom of Ancon¦|Kameria Savannah (Grasslands)|4|3|;|Ancon Desert (Oasis)|14|9|;World Area|The Kingdom of Ancon|11|4|;|Stages 1-2:|7|13|
+Ancon Desert (Oasis)¦Ancon_Desert_(Oasis)¦The Kingdom of Ancon¦|Ancon City (Gate)|11|4|;|Ancon Desert (Dunes)|2|10|;Relic|Star Rock|15|12|
+Ancon City (Gate)¦Ancon_City_(Gate)¦The Kingdom of Ancon¦|Ancon City (Center)|17|2|;|Ancon Desert (Oasis)|1|13|;World Area|The Kingdom of Ancon|4|3|;|Stages 1-2:|13|10|
+Ancon City (Center)¦Ancon_City_(Center)¦The Kingdom of Ancon¦|Ancon City (Palace Grounds)|13|3|;|Ancon City (Gate)|4|14|;|Stage 3:|3|3|
+Ancon City (Kings Private Sparring Arena)¦Ancon_City_(Kings_Private_Sparring_Arena)¦The Kingdom of Ancon¦|Ancon City (Palace Grounds)|11|12|;|Stages 5-7:|11|11|
+Ancon City (Palace Grounds)¦Ancon_City_(Palace_Grounds)¦The Kingdom of Ancon¦|Ancon City (Center)|2|7|;|Ancon City (Kings Private Sparring Arena)|15|8|;|Sloclorin Grove (Nursery)|18|19|;|Stage 4:|3|11|
+Springtime Forest (Tapios Nursery)¦Springtime_Forest_(Tapios_Nursery)¦Krul Island¦|Springtime Forest (Outer Grove)|4|4|
+Sloclorin Grove (Nursery)¦Sloclorin_Grove_(Nursery)¦The Sundering Forest¦|Ancon City (Palace Grounds)|8|4|;|Sloclorin Grove (Thicket)|9|9|;World Area|The Sundering Forest|15|6|;|Stages 1-2:|17|2|
+Sloclorin Grove (Thicket)¦Sloclorin_Grove_(Thicket)¦The Sundering Forest¦|Kanna Swamp (Mire)|3|3|;|Sloclorin Grove (Nursery)|11|9|;|Stages 3-4:|9|4|
+Kanna Swamp (Mire)¦Kanna_Swamp_(Mire)¦The Sundering Forest¦|Kanna Swamp (Foetid Pools)|3|3|;|Sloclorin Grove (Thicket)|10|6|;Portal|Kanna Portal|4|13|;World Area|The Sundering Forest|11|12|
+Kanna Swamp (Foetid Pools)¦Kanna_Swamp_(Foetid_Pools)¦The Sundering Forest¦|Kanna Swamp (Sludge)|6|4|;|Kanna Swamp (Mire)|14|9|
+Kanna Swamp (Sludge)¦Kanna_Swamp_(Sludge)¦The Sundering Forest¦|Kanna Swamp (Foetid Pools)|11|8|;|Varank Grove (Nook)|2|13|;|Stages 1-2:|10|15|
+Varank Grove (Nook)¦Varank_Grove_(Nook)¦The Sundering Forest¦|Kanna Swamp (Sludge)|13|2|;|Varank Grove (Hunting Grounds)|2|9|;World Area|The Sundering Forest|6|13|;|Stage 1:|11|9|
+Varank Grove (Hunting Grounds)¦Varank_Grove_(Hunting_Grounds)¦The Sundering Forest¦|Varank Grove (Nook)|3|7|;|Gotra Grove (Snarl)|14|14|;|Stage 2:|5|16|
+Gotra Grove (Snarl)¦Gotra_Grove_(Snarl)¦The Sundering Forest¦|Gotra Grove (Glade)|9|2|;|Varank Grove (Hunting Grounds)|17|20|;World Area|The Sundering Forest|2|14|
+Gotra Grove (Glade)¦Gotra_Grove_(Glade)¦The Sundering Forest¦|Gotra Grove (Snarl)|3|4|;|Gotra Grove (Copse)|3|15|;|Stages 1-2:|11|9|
+Gotra Grove (Copse)¦Gotra_Grove_(Copse)¦The Sundering Forest¦Relic|Sacrificial Drop Pit|10|8|;|Forest of Moans (Edges)|13|2|;|Gotra Grove (Glade)|4|8|;|Gotra Grove (Haunt of Gotra Gotra)|11|8|;|Stages 3-4:|4|9|
+Gotra Grove (Haunt of Gotra Gotra)¦Gotra_Grove_(Haunt_of_Gotra_Gotra)¦The Sundering Forest¦|Gotra Grove (Copse)|5|11|
+Forest of Moans (Edges)¦Forest_of_Moans_(Edges)¦Hanzdrumz¦|Forest of Moans (Depths)|4|5|;|Gotra Grove (Copse)|14|11|;World Area|Hanzdrumz|2|12|;|Stages 1-2:|9|16|
+Forest of Moans (Depths)¦Forest_of_Moans_(Depths)¦Hanzdrumz¦|Hell Forge of Hrus (Smithy)|3|3|;|Forest of Moans (Edges)|12|11|;|Stage 3:|6|8|
+Hell Forge of Hrus (Smithy)¦Hell_Forge_of_Hrus_(Smithy)¦Hanzdrumz¦|Forest of Moans (Depths)|3|6|;|Hell Forge of Hrus (Alchemists Labs)|13|16|;|Stages 4-5:|9|11|
+Hell Forge of Hrus (Alchemists Labs)¦Hell_Forge_of_Hrus_(Alchemists_Labs)¦Hanzdrumz¦|Hell Forge of Hrus (Weapon Storage)|6|2|;|Hell Forge of Hrus (Smithy)|1|17|;World Area|Hanzdrumz|12|17|;|Stage 6:|13|9|
+Hell Forge of Hrus (Weapon Storage)¦Hell_Forge_of_Hrus_(Weapon_Storage)¦Hanzdrumz¦|Dark Union Camp (Training Grounds)|7|1|;|Hell Forge of Hrus (Alchemists Labs)|9|12|;|Stage 7:|13|4|
+Dark Union Camp (Training Grounds)¦Dark_Union_Camp_(Training_Grounds)¦Hanzdrumz¦Relic|The Cold Rock|12|18|;|Dark Union Camp (Command Quarters)|10|3|;|Dorthan (Wilds)|3|8|;|Hell Forge of Hrus (Weapon Storage)|2|17|;World Area|Hanzdrumz|2|2|;|Stages 1-2:|8|12|
+Dark Union Camp (Command Quarters)¦Dark_Union_Camp_(Command_Quarters)¦Hanzdrumz¦|Dark Union Camp (Training Grounds)|12|4|;|Dark Fortress of Zator (Gates)|3|12|;|Stage 3:|13|13|
+Dark Fortress of Zator (Gates)¦Dark_Fortress_of_Zator_(Gates)¦Hanzdrumz¦|Dark Fortress of Zator (Barracks)|14|3|;|Dark Union Camp (Command Quarters)|9|12|;World Area|Hanzdrumz|8|1|;|Stage 4:|3|5|
+Dark Fortress of Zator (Barracks)¦Dark_Fortress_of_Zator_(Barracks)¦Hanzdrumz¦|Dark Fortress of Zator (Armory)|12|4|;|Dark Fortress of Zator (Gates)|3|18|;|Stage 5:|3|8|
+Dark Fortress of Zator (Armory)¦Dark_Fortress_of_Zator_(Armory)¦Hanzdrumz¦Shop|Zator Quatermaster|4|4|;|Dark Fortress of Zator (Barracks)|11|3|;|Dark Fortress of Zator (Inner Chambers)|4|13|
+Dark Fortress of Zator (Inner Chambers)¦Dark_Fortress_of_Zator_(Inner_Chambers)¦Hanzdrumz¦|Dark Fortress of Zator (Armory)|10|7|;|Stage 6:|10|8|
+Dorthan (Wilds)¦Dorthan_(Wilds)¦The Wilds of Dorthan¦Shop|Karrin Bazaar|15|14|;|Dorthan (Plain)|15|2|;|Dark Union Camp (Training Grounds)|2|16|;World Area|The Wilds of Dorthan|2|2|;|Stages 1-3:|5|6|
+Dorthan (Plain)¦Dorthan_(Plain)¦The Wilds of Dorthan¦|Dorthan (Wilds)|2|2|;|Dorthan (Vale)|8|16|
+Dorthan (Vale)¦Dorthan_(Vale)¦The Wilds of Dorthan¦|Dorthan (Plain)|5|2|;|Dorthan Wood (North)|2|12|;|Stages 4-5:|10|8|
+Dorthan Wood (North)¦Dorthan_Wood_(North)¦The Wilds of Dorthan¦Relic|Stone of Power|2|2|;Shop|Dorthan Shack|6|7|;|Dorthan (Vale)|19|2|;|Dorthan (Darkhome)|10|7|;|Dorthan Wood (South)|12|14|;World Area|The Wilds of Dorthan|2|14|;|Stages 1-2:|13|3|
+Dorthan (Darkhome)¦Dorthan_(Darkhome)¦The Wilds of Dorthan¦Shop|Darkhome Supplies|9|10|;|Dorthan Wood (North)|8|1|;|Stages 3-5:|8|2|
+Dorthan Wood (South)¦Dorthan_Wood_(South)¦The Wilds of Dorthan¦|Dorthan Wood (North)|11|2|;|Crestoun Road (Winding)|2|14|
+Crestoun Road (Cave Entrance)¦Crestoun_Road_(Cave_Entrance)¦The Wilds of Dorthan¦|Crestoun Road (Giants Cave)|2|2|;|Crestoun Road (Winding)|2|5|
+Crestoun Road (Giants Cave)¦Crestoun_Road_(Giants_Cave)¦The Wilds of Dorthan¦|Crestoun Road (Cave Entrance)|7|7|;|Stages 2-3:|2|2|;|Stage 5:|2|2|
+Crestoun Road (Winding)¦Crestoun_Road_(Winding)¦The Wilds of Dorthan¦Shop|Winding Market|10|12|;|Dorthan Wood (South)|16|2|;|Crestoun Road (Cave Entrance)|4|3|;|Crestoun Road (Broad)|5|16|;World Area|The Wilds of Dorthan|16|15|;|Stage 1:|11|8|;|Stage 4:|11|8|
+Crestoun Road (Broad)¦Crestoun_Road_(Broad)¦The Wilds of Dorthan¦Shop|Roadside Trader|10|16|;|Crestoun Road (Winding)|12|2|;|Crestoun Road (Worn)|6|17|;|Stages 1-2:|16|3|;|Stages 3-5:|5|7|;|Stage 6:|16|3|
+Crestoun Road (Worn)¦Crestoun_Road_(Worn)¦The Wilds of Dorthan¦|Crestoun Road (Broad)|13|2|;|Crestoun (Outskirts)|3|16|
+Crestoun (Graveyard)¦Crestoun_(Graveyard)¦The Wilds of Dorthan¦|Crestoun (Graveyard Line)|4|2|;|Crestoun (Outskirts)|1|12|;|Stages 5-7:|7|8|
+Crestoun (Outskirts)¦Crestoun_(Outskirts)¦The Wilds of Dorthan¦|Crestoun Road (Worn)|13|2|;|Crestoun (Unconsecrated Tomb)|2|9|;|Crestoun (Graveyard)|17|10|;|Crestoun (East Gate)|8|15|;|Stage 1:|17|2|;|Stage 4:|17|2|
+Crestoun (Unconsecrated Tomb)¦Crestoun_(Unconsecrated_Tomb)¦The Wilds of Dorthan¦|Crestoun (Outskirts)|7|4|;|Stages 2-3:|3|4|
+Crestoun (East Gate)¦Crestoun_(East_Gate)¦Crestoun¦|Crestoun (East Gate Line)|3|2|;|Crestoun (Outskirts)|1|4|;|Crestoun (East Street)|5|4|;|Stages 1-2:|3|4|
+Crestoun (East Street)¦Crestoun_(East_Street)¦Crestoun¦|Crestoun (Trader Lane)|8|1|;|Crestoun (East Line)|3|3|;|Crestoun (East Gate)|1|8|;|Crestoun (Shamble Alley)|15|8|;|Crestoun (High Terrace)|8|15|;World Area|Crestoun|1|14|;|Stages 3-4:|3|8|
+Crestoun (Trader Lane)¦Crestoun_(Trader_Lane)¦Crestoun¦Shop|Timpson's Market|12|11|;|Crestoun (Trader Line)|6|2|;|Crestoun (North Street)|15|6|;|Crestoun (East Street)|8|15|;|Stage 5:|8|13|;|Stages 6-7:|2|7|;|Stage 8:|8|13|
+Crestoun (High Terrace)¦Crestoun_(High_Terrace)¦Crestoun¦Shop|Nathaniel's Emporium|14|2|;|Crestoun (East Street)|8|1|;|Crestoun (High Line)|4|2|;|Crestoun (Gypsy Crescent)|15|9|;|Crestoun (South Ward)|4|14|;|Crestoun (Broad Lane)|8|15|;|Stages 9-10:|8|3|
+Crestoun (Broad Line)¦Crestoun_(Broad_Line)¦Crestoun¦|Crestoun (High Line)|3|1|;|Crestoun (Gypsy Line)|17|1|;World Area|Crestoun|2|6|;|Crestoun (Broad Lane)|11|9|
+Crestoun (East Gate Line)¦Crestoun_(East_Gate_Line)¦Crestoun¦|Crestoun (East Gate)|2|2|;|Crestoun (Main Line)|5|4|
+Crestoun (East Line)¦Crestoun_(East_Line)¦Crestoun¦|Crestoun (Trader Line)|8|1|;|Crestoun (East Street)|2|2|;|Crestoun (Shamble Line)|15|7|;|Crestoun (Main Line)|1|8|;|Crestoun (High Line)|2|15|
+Crestoun (Graveyard Line)¦Crestoun_(Graveyard_Line)¦Crestoun¦|Crestoun (Graveyard)|2|2|;|Crestoun (Main Line)|2|13|
+Crestoun (Gypsy Line)¦Crestoun_(Gypsy_Line)¦Crestoun¦|Crestoun (Shamble Line)|8|1|;|Crestoun (High Line)|1|14|;|Crestoun (Gypsy Crescent)|14|14|;|Crestoun (Broad Line)|14|15|
+Crestoun (High Line)¦Crestoun_(High_Line)¦Crestoun¦|Crestoun (East Line)|2|1|;|Crestoun (High Terrace)|2|2|;|Crestoun (Tower Line)|1|10|;|Crestoun (Gypsy Line)|15|13|;|Crestoun (Broad Line)|7|15|
+Crestoun (Main Line)¦Crestoun_(Main_Line)¦Crestoun¦|Crestoun (Graveyard Line)|19|1|;|Crestoun (East Gate Line)|1|3|;|Crestoun (East Line)|3|7|
+Crestoun (North Line)¦Crestoun_(North_Line)¦Crestoun¦|Crestoun (Ward Line)|7|1|;|Crestoun (Trader Line)|1|8|;|Crestoun (North Street)|14|9|;|Crestoun (Church Line)|15|14|;|Crestoun (Shamble Line)|5|15|
+Crestoun (Shamble Line)¦Crestoun_(Shamble_Line)¦Crestoun¦|Crestoun (North Line)|4|1|;|Crestoun (Shamble Alley)|4|2|;|Crestoun (East Line)|1|9|;|Crestoun (Noble Line)|14|14|;|Crestoun (Gypsy Line)|10|15|
+Crestoun (South Line)¦Crestoun_(South_Line)¦Crestoun¦
+Crestoun (South Ward)¦Crestoun_(South_Ward)¦Crestoun¦Shop|Waldorf Trader|12|10|;|Crestoun (High Terrace)|7|1|;|Crestoun (Tower Line)|2|10|;|Stages 1-3:|7|2|
+Crestoun (Tower Line)¦Crestoun_(Tower_Line)¦Crestoun¦|Crestoun (High Line)|13|7|;|Crestoun (South Ward)|2|11|
+Crestoun (Trader Line)¦Crestoun_(Trader_Line)¦Crestoun¦|Crestoun (Trader Lane)|7|2|;|Crestoun (North Line)|15|7|;|Crestoun (East Line)|9|15|
+Crestoun (Broad Lane)¦Crestoun_(Broad_Lane)¦Crestoun¦Shop|Lane Stall|6|11|;|Crestoun (High Terrace)|3|1|;|Crestoun (Gypsy Crescent)|16|1|;|Crestoun (Broad Line)|15|9|;|Stages 1-2:|3|3|
+Crestoun (Gypsy Crescent)¦Crestoun_(Gypsy_Crescent)¦Crestoun¦Shop|Fortune Shoppe|12|5|;|Crestoun (Shamble Alley)|8|1|;|Crestoun (High Terrace)|1|8|;|Crestoun (Gypsy Line)|14|14|;|Crestoun (Broad Lane)|8|15|;|Stages 1-2:|8|13|
+Crestoun (Shamble Alley)¦Crestoun_(Shamble_Alley)¦Crestoun¦Relic|Crestoun Clock Tower|8|8|;Shop|Alley Shop|14|14|;|Crestoun (North Street)|8|1|;|Crestoun (Shamble Line)|2|2|;|Crestoun (East Street)|1|8|;|Crestoun (Noble Rise)|15|8|;|Crestoun (Gypsy Crescent)|8|15|;|Stage 1:|8|13|;|Stages 2-3:|13|1|;|Stage 4:|8|13|
+Crestoun (North Street)¦Crestoun_(North_Street)¦Crestoun¦Shop|North Street Wares|12|12|;|Crestoun (North Ward)|2|2|;|Crestoun (Trader Lane)|1|8|;|Crestoun (North Line)|13|8|;|Crestoun (Church Plaza)|15|8|;|Crestoun (Shamble Alley)|8|15|;|Stage 1:|8|13|;|Stage 2:|8|7|;|Stage 3:|8|13|
+Crestoun (North Ward)¦Crestoun_(North_Ward)¦Crestoun¦|Crestoun (Ward Line)|12|2|;|Crestoun (North Street)|7|13|;World Area|Crestoun|1|11|;|Stages 4-5:|7|12|
+Crestoun (Ward Line)¦Crestoun_(Ward_Line)¦Crestoun¦Shop|Ward Trader|2|12|;|Crestoun (North Ward)|14|2|;|Crestoun (Church Line)|15|14|;|Crestoun (North Line)|8|15|;|Stage 6:|14|4|;|Stage 7:|7|7|;|Stage 8:|14|4|;|Stage 9:|7|7|
+Crestoun (Church Line)¦Crestoun_(Church_Line)¦Crestoun¦Shop|Patterson Mart|14|14|;|Crestoun (Ward Line)|1|2|;|Crestoun (Hidden Sanctum)|15|8|;|Crestoun (North Line)|1|13|;|Crestoun (Church Plaza)|5|14|;|Crestoun (Noble Line)|5|15|;|Stage 10:|6|9|;|Stage 11:|11|2|;|Stage 12:|6|9|
+Crestoun (Hidden Sanctum)¦Crestoun_(Hidden_Sanctum)¦Crestoun¦|Crestoun (Church Line)|1|8|;|Stage 13:|2|2|;|Stage 14:|12|3|;|Stage 15:|2|2|
+Crestoun (Church Plaza)¦Crestoun_(Church_Plaza)¦Crestoun¦Shop|Plaza Market|14|10|;|Crestoun (Church)|13|3|;|Crestoun (North Street)|1|8|;|Crestoun (Church Line)|5|14|;|Crestoun (Noble Rise)|9|15|;|Stages 1-2:|5|12|
+Crestoun (Church)¦Crestoun_(Church)¦Crestoun¦|Crestoun (Inner Chapel)|5|1|;|Crestoun (Church Plaza)|5|8|;|Stage 3:|5|2|
+Crestoun (Inner Chapel)¦Crestoun_(Inner_Chapel)¦Crestoun¦|Crestoun (Church)|4|6|;|Stages 4-5:|3|2|
+Crestoun (Noble Line)¦Crestoun_(Noble_Line)¦Crestoun¦Shop|Line Hut|2|14|;|Crestoun (Church Line)|2|1|;|Crestoun (Noble Rise)|14|2|;|Crestoun (Maintenance Locker)|12|10|;|Crestoun (Shamble Line)|1|14|;|Stages 1-2:|10|5|
+Crestoun (Noble Rise)¦Crestoun_(Noble_Rise)¦Crestoun¦Shop|Noble Curios|2|2|;|Crestoun (Church Plaza)|8|1|;|Crestoun (Noble Line)|14|2|;|Crestoun (West Gate)|15|7|;|Crestoun (Shamble Alley)|1|8|;|Greenvale (Garden)|14|14|;|Stages 3-4:|7|8|
+Greenvale (Garden)¦Greenvale_(Garden)¦Crestoun¦Relic|Twisted Tree|2|14|;Shop|Garden Supplies|13|4|;|Crestoun (Noble Rise)|2|1|;|Greenvale (Lobby)|8|10|;|Stage 5:|2|2|;|Stages 6-7:|14|14|;|Stage 8:|2|2|
+Greenvale (Lobby)¦Greenvale_(Lobby)¦Crestoun¦|Greenvale (Garden)|8|1|;|Greenvale (Corridor)|8|16|;|Stages 1-2:|8|15|;|Stage 3:|11|9|;|Stage 4:|15|9|;|Stage 5:|2|8|;|Stage 6:|8|15|
+Greenvale (Corridor)¦Greenvale_(Corridor)¦Crestoun¦|Greenvale (Lobby)|10|1|;|Greenvale (Game Room)|1|2|;|Greenvale (Library)|20|6|;|Greenvale (Dining Room)|1|9|;|Greenvale (Chambers)|13|10|;|Stages 1-2:|2|2|;|Stage 3:|16|2|;|Stage 4:|2|2|
+Greenvale (Game Room)¦Greenvale_(Game_Room)¦Crestoun¦Shop|Game Market|5|16|;|Greenvale (Corridor)|17|8|;|Stage 1:|16|8|;|Stages 2-3:|2|8|;|Stage 4:|16|8|
+Greenvale (Dining Room)¦Greenvale_(Dining_Room)¦Crestoun¦|Greenvale (Corridor)|16|2|;|Stage 1:|15|8|;|Stages 2-3:|8|2|;|Stage 4:|15|8|
+Greenvale (Library)¦Greenvale_(Library)¦Crestoun¦Shop|Copyclerk Supplies|2|14|;|Greenvale (Corridor)|1|8|;|Stage 1:|8|8|;|Stage 2:|14|14|;|Stage 3:|8|8|
+Crestoun (Maintenance Locker)¦Crestoun_(Maintenance_Locker)¦Crestoun¦|Greenvale (Hidden Room)|2|1|;|Crestoun (Noble Line)|2|5|
+Greenvale (Attic)¦Greenvale_(Attic)¦Crestoun¦|Greenvale (Chambers)|6|7|;|Stages 8-10:|2|8|
+Greenvale (Chambers)¦Greenvale_(Chambers)¦Crestoun¦Shop|Chambers Stall|4|10|;|Greenvale (Corridor)|8|1|;|Greenvale (Attic)|7|7|;|Greenvale (Hidden Room)|1|14|;|Stage 4:|8|2|;|Stages 5-6:|14|11|;|Stage 7:|8|2|
+Greenvale (Hidden Room)¦Greenvale_(Hidden_Room)¦Crestoun¦|Crestoun (Maintenance Locker)|2|2|;|Greenvale (Chambers)|3|2|
+Crestoun (Coast Road)¦Crestoun_(Coast_Road)¦Stillwater Coast¦Shop|Roadside Market|8|4|;|Crestoun (West Gate)|2|7|;|Stillwater (Dunes)|11|12|;World Area|Stillwater Coast|2|12|;|Stage 1:|4|3|;|Stages 2-4:|17|12|;|Stage 5:|4|3|
+Crestoun (West Gate)¦Crestoun_(West_Gate)¦Stillwater Coast¦|Crestoun (Noble Rise)|1|2|;|Crestoun (Coast Road)|3|2|
+Stillwater (Dunes)¦Stillwater_(Dunes)¦Stillwater Coast¦|Crestoun (Coast Road)|12|2|;|Stillwater (Sands)|2|9|
+Stillwater (Sands)¦Stillwater_(Sands)¦Stillwater Coast¦|Stillwater (Dunes)|15|2|;|Stillwater (Village)|3|3|;|Stillwater (Shallows)|9|15|;|Stages 6-7:|12|3|
+Stillwater (Village)¦Stillwater_(Village)¦Stillwater Coast¦|Stillwater (Sands)|17|5|;|Stillwater (Caves)|1|13|;World Area|Stillwater Coast|2|1|;|Stage 8:|16|5|;|Stages 9-10:|9|8|;|Stages 11-12:|16|5|
+Stillwater (Shallows)¦Stillwater_(Shallows)¦Stillwater Coast¦Relic|Lookout Rock|15|16|;|Stillwater (Sands)|9|2|
+Stillwater (Caves)¦Stillwater_(Caves)¦Stillwater Coast¦|Stillwater (Village)|13|2|;|Stillwater (Tunnels)|6|14|;|Stage 13:|13|3|;|Stage 14:|2|2|;|Stage 15:|13|3|
+Stillwater (Tunnels)¦Stillwater_(Tunnels)¦Stillwater Coast¦|Stillwater (Caves)|6|2|;|Stillwater (Murk)|2|9|;World Area|Stillwater Coast|15|13|
+Stillwater (Murk)¦Stillwater_(Murk)¦Stillwater Coast¦|Stillwater (Tunnels)|16|2|;|Sea Razor Isle (Shore)|16|13|;|Stages 16-17:|9|7|
+Sea Razor Isle (Shore)¦Sea_Razor_Isle_(Shore)¦Stillwater Coast¦Shop|Seashore Store|15|15|;|Stillwater (Murk)|9|2|;|Sea Razor Isle (Reef)|15|8|;|Stage 18:|10|11|;|Stage 19:|2|11|;|Stage 20:|10|11|
+Sea Razor Isle (Dark Cave)¦Sea_Razor_Isle_(Dark_Cave)¦Stillwater Coast¦|Sea Razor Isle (Reef)|2|2|;|Sea Razor Isle (Wreck)|4|2|;|Stage 1:|3|2|;|Stage 4:|3|2|
+Sea Razor Isle (Reef)¦Sea_Razor_Isle_(Reef)¦Stillwater Coast¦|Sea Razor Isle (Dark Cave)|17|5|;|Sea Razor Isle (Shore)|2|6|;|Sea Razor Isle (Rock Pool)|10|9|;|Stages 21-22:|9|2|
+Sea Razor Isle (Wreck)¦Sea_Razor_Isle_(Wreck)¦Stillwater Coast¦|Sea Razor Isle (Dark Cave)|2|7|;|Stages 2-3:|2|8|
+Sea Razor Isle (Rock Pool)¦Sea_Razor_Isle_(Rock_Pool)¦Sea Razor Isle¦|Sea Razor Isle (Reef)|10|2|;|Sea Razor Isle (Blackwater)|16|9|;World Area|Sea Razor Isle|2|15|;|Stage 1:|3|5|;|Stage 2:|8|15|;|Stage 3:|3|5|
+Sea Razor Isle (Blackwater)¦Sea_Razor_Isle_(Blackwater)¦Sea Razor Isle¦Shop|Blackwater Hovel|9|11|;|Sea Razor Isle (Rock Pool)|2|2|;|Sea Razor Isle (Bitterstream)|14|11|;|Sea Razor Isle (Languid Deep)|3|15|;|Stages 4-5:|6|5|
+Sea Razor Isle (Bitterstream)¦Sea_Razor_Isle_(Bitterstream)¦Sea Razor Isle¦|Sea Razor Isle (Blackwater)|2|7|
+Sea Razor Isle (Languid Deep)¦Sea_Razor_Isle_(Languid_Deep)¦Sea Razor Isle¦|Sea Razor Isle (Blackwater)|8|2|;|Sea Razor Isle (Vile Cove)|2|17|;|Stage 6:|7|2|;|Stages 7-8:|8|9|;|Stage 9:|7|2|
+Sea Razor Isle (Vile Cove)¦Sea_Razor_Isle_(Vile_Cove)¦Sea Razor Isle¦|Sea Razor Isle (Languid Deep)|2|2|;|Sea Razor Isle (Depths)|15|16|;World Area|Sea Razor Isle|5|10|;|Stage 10:|6|2|;|Stages 11-12:|9|11|;|Stage 13:|6|2|
+Sea Razor Isle (Depths)¦Sea_Razor_Isle_(Depths)¦Sea Razor Isle¦Relic|Blasphemous Altar|5|5|;|Sea Razor Isle (Vile Cove)|14|3|;|Sea Razor Isle (Cold Vale)|5|14|
+Sea Razor Isle (Cold Vale)¦Sea_Razor_Isle_(Cold_Vale)¦Sea Razor Isle¦Shop|Vale Store|15|9|;|Sea Razor Isle (Depths)|10|2|;|Sea Razor Isle (Rancid Spring)|2|11|;|Stage 1:|6|2|;|Stage 2:|8|13|;|Stage 3:|6|2|
+Sea Razor Isle (Rancid Spring)¦Sea_Razor_Isle_(Rancid_Spring)¦Sea Razor Isle¦|Sea Razor Isle (Cold Vale)|14|4|;|Sea Razor Isle (Floodplain)|3|17|;World Area|Sea Razor Isle|4|5|;|Stages 4-5:|13|4|
+Sea Razor Isle (Floodplain)¦Sea_Razor_Isle_(Floodplain)¦Sea Razor Isle¦|Sea Razor Isle (Rancid Spring)|5|2|;|Sea Razor Isle (Coastline)|15|8|;|Stage 6:|9|2|;|Stages 7-8:|8|7|;|Stage 9:|9|2|
+Castle of the Dead¦Castle_of_the_Dead¦Krul Island¦|Queens Quarters|5|8|;|The Grimmnor Forest|11|20|;|Stages 1-2:|11|19|;|Stage 3:|17|3|;|Stage 4:|11|19|;|Stage 5:|1|9|;|Stage 6:|20|1|;|Stage 7:|18|14|;|Stage 9:|11|19|
+Quango Island (Frozen Wastes)¦Quango_Island_(Frozen_Wastes)¦Arrin Moors¦|Quango Island|4|2|;|Stages 1-3:|11|13|
+Queens Quarters¦Queens_Quarters¦Krul Island¦|Castle of the Dead|12|12|;|Stage 8:|4|10|
+Sea Razor Isle (Bleaksands)¦Sea_Razor_Isle_(Bleaksands)¦Sea Razor Isle¦|Sea Razor Isle (Cursed Coast)|2|15|
+Sea Razor Isle (Coastline)¦Sea_Razor_Isle_(Coastline)¦Sea Razor Isle¦|Sea Razor Isle (Dark Spring)|11|6|;|Sea Razor Isle (Floodplain)|2|7|;|Sea Razor Isle (Taint)|8|12|;|Stages 10-11:|8|2|
+Sea Razor Isle (Coldbrook)¦Sea_Razor_Isle_(Coldbrook)¦Sea Razor Isle¦|Sea Razor Isle (Dark Spring)|11|6|;|Sea Razor Isle (Floodplain)|2|7|;|Sea Razor Isle (Taint)|8|12|;|Stages 10-11:|8|2|
+Sea Razor Isle (Cursed Coast)¦Sea_Razor_Isle_(Cursed_Coast)¦Sea Razor Isle¦|Sea Razor Isle (Shattered Stone)|2|2|;|Sea Razor Isle (Bleaksands)|4|2|;|Sea Razor Isle (Treacherous Currents)|6|2|;|Sea Razor Isle (Evil Depths)|8|2|;|Sea Razor Isle (Stormbreach)|10|2|;|Sea Razor Isle (Coldbrook)|12|2|;|Sea Razor Isle (Darkstone)|14|2|;|Sea Razor Isle (Malevolent Margin)|16|2|;|Sea Razor Isle (Taint)|2|5|;|Sea Razor Isle (Pirate Cave)|7|7|;|Sea Razor Isle (Morbid Lagoon)|17|7|;|Stages 1-4:|12|7|
+Sea Razor Isle (Dark Chambers)¦Sea_Razor_Isle_(Dark_Chambers)¦Sea Razor Isle¦Shop|Holders Store|2|4|;|Sea Razor Isle (Pirate Cave)|2|2|
+Sea Razor Isle (Darkstone)¦Sea_Razor_Isle_(Darkstone)¦Sea Razor Isle¦|Sea Razor Isle (Cursed Coast)|8|15|
+Sea Razor Isle (Evil Depths)¦Sea_Razor_Isle_(Evil_Depths)¦Sea Razor Isle¦|Sea Razor Isle (Cursed Coast)|9|15|
+Sea Razor Isle (Malevolent Margin)¦Sea_Razor_Isle_(Malevolent_Margin)¦Sea Razor Isle¦|Sea Razor Isle (Cursed Coast)|11|15|
+Sea Razor Isle (Morbid Lagoon)¦Sea_Razor_Isle_(Morbid_Lagoon)¦Sea Razor Isle¦|Sea Razor Isle (Cursed Coast)|2|9|
+Sea Razor Isle (Pirate Cave)¦Sea_Razor_Isle_(Pirate_Cave)¦Sea Razor Isle¦Shop|Weaver Mart|5|4|;|Sea Razor Isle (Cursed Coast)|4|2|;|Sea Razor Isle (Dark Chambers)|2|7|
+Sea Razor Isle (Shattered Stone)¦Sea_Razor_Isle_(Shattered_Stone)¦Sea Razor Isle¦|Sea Razor Isle (Cursed Coast)|10|15|
+Sea Razor Isle (Stormbreach)¦Sea_Razor_Isle_(Stormbreach)¦Sea Razor Isle¦|Sea Razor Isle (Cursed Coast)|5|15|
+Sea Razor Isle (Taint)¦Sea_Razor_Isle_(Taint)¦Sea Razor Isle¦|Sea Razor Isle (Cursed Coast)|5|15|
+Sea Razor Isle (Treacherous Currents)¦Sea_Razor_Isle_(Treacherous_Currents)¦Sea Razor Isle¦|Sea Razor Isle (Cursed Coast)|9|15|
+Sea Razor Isle (Dark Spring)¦Sea_Razor_Isle_(Dark_Spring)¦The Chill Wind Mountains¦|Sea Razor Isle (Corrupt Coral)|11|2|;|Sea Razor Isle (Coastline)|5|13|;World Area|The Chill Wind Mountains|4|4|;|Stages 1-2:|13|10|
+Sea Razor Isle (Corrupt Coral)¦Sea_Razor_Isle_(Corrupt_Coral)¦The Chill Wind Mountains¦|Sea Razor Isle (Feeding Depths)|16|4|;|Sea Razor Isle (Dark Spring)|2|12|;|Stage 3:|9|10|
+Sea Razor Isle (Feeding Depths)¦Sea_Razor_Isle_(Feeding_Depths)¦The Chill Wind Mountains¦|Sea Razor Isle (Corrupt Coral)|10|11|;|Sea Razor Isle (Outcrop)|2|13|
+Sea Razor Isle (Outcrop)¦Sea_Razor_Isle_(Outcrop)¦The Chill Wind Mountains¦|Sea Razor Isle (Crustacean Crag)|10|3|;|Sea Razor Isle (Feeding Depths)|8|12|;Portal|Sea Razor Portal|11|18|
+Sea Razor Isle (Crustacean Crag)¦Sea_Razor_Isle_(Crustacean_Crag)¦The Chill Wind Mountains¦|Chill Wind Isle (Clearing Waters)|11|6|;|Sea Razor Isle (Outcrop)|2|15|;|Stage 4:|8|10|
+Chill Wind Isle (Clearing Waters)¦Chill_Wind_Isle_(Clearing_Waters)¦The Chill Wind Mountains¦|Sea Razor Isle (Crustacean Crag)|5|5|;|Chill Wind Isle (Selkie Haunt)|10|15|
+Chill Wind Isle (Selkie Haunt)¦Chill_Wind_Isle_(Selkie_Haunt)¦The Chill Wind Mountains¦Shop|Chill Wind Supplies|3|10|;|Chill Wind Isle (Clearing Waters)|8|2|;|Chill Wind Forest (Edge)|11|11|;|Stages 5-6:|5|6|
+Chill Wind Forest (Edge)¦Chill_Wind_Forest_(Edge)¦The Chill Wind Mountains¦Relic|Frost Rimed Tomb|2|15|;|Chill Wind Forest (Copse)|12|5|;|Chill Wind Isle (Selkie Haunt)|11|15|;World Area|The Chill Wind Mountains|3|3|
+Chill Wind Forest (Copse)¦Chill_Wind_Forest_(Copse)¦The Chill Wind Mountains¦|Chill Wind Forest (Tangle)|13|4|;|Chill Wind Forest (Edge)|2|12|
+Chill Wind Forest (Tangle)¦Chill_Wind_Forest_(Tangle)¦The Chill Wind Mountains¦|Chill Wind Forest (Copse)|12|7|;|Chill Wind Forest (Depths)|3|11|
+Chill Wind Forest (Depths)¦Chill_Wind_Forest_(Depths)¦The Chill Wind Mountains¦|Chill Wind Forest (Snarl)|10|3|;|Chill Wind Forest (Tangle)|2|13|
+Chill Wind Forest (Snarl)¦Chill_Wind_Forest_(Snarl)¦The Chill Wind Mountains¦|Chill Mountain (Scree)|5|3|;|Chill Wind Forest (Depths)|13|4|
+Chill Mountain (Scree)¦Chill_Mountain_(Scree)¦The Chill Wind Mountains¦|Chill Mountain (Climb)|13|2|;|Chill Wind Forest (Snarl)|4|13|;World Area|The Chill Wind Mountains|1|3|;|Stages 1-2:|7|5|
+Chill Mountain (Climb)¦Chill_Mountain_(Climb)¦The Chill Wind Mountains¦|Chill Mountain (Scree)|5|4|;|Chill Mountain (Brush)|8|13|;Portal|Chill Mountain Portal|13|2|
+Chill Mountain (Brush)¦Chill_Mountain_(Brush)¦The Chill Wind Mountains¦|Chill Mountain (Climb)|5|2|;|Chill Mountain (Cliff)|2|10|;|Stage 3:|9|10|
+Chill Mountain (Cliff)¦Chill_Mountain_(Cliff)¦The Chill Wind Mountains¦|Chill Mountain (Brush)|6|3|;|Chill Mountain (Heights)|16|8|
+Chill Mountain (Heights)¦Chill_Mountain_(Heights)¦The Chill Wind Mountains¦Relic|Hippogryph Nest|11|13|;|Chill Mountain (Cliff)|11|4|;|Chill Mountain (Descent)|3|17|
+Chill Mountain (Descent)¦Chill_Mountain_(Descent)¦The Chill Wind Mountains¦|Chill Mountain (Heights)|13|3|;|Chill Mountain (Crack)|1|14|
+Chill Mountain (Crack)¦Chill_Mountain_(Crack)¦The Chill Wind Mountains¦|Chill Caverns (Mouth)|14|2|;|Chill Mountain (Descent)|19|7|;|Stage 4:|14|3|
+Chill Caverns (Mouth)¦Chill_Caverns_(Mouth)¦The Chill Wind Mountains¦|Chill Caverns (Hollows)|12|5|;|Chill Mountain (Crack)|10|19|;World Area|The Chill Wind Mountains|2|1|
+Chill Caverns (Hollows)¦Chill_Caverns_(Hollows)¦The Chill Wind Mountains¦|Chill Caverns (Winding Paths)|14|2|;|Chill Caverns (Mouth)|2|12|
+Chill Caverns (Winding Paths)¦Chill_Caverns_(Winding_Paths)¦The Chill Wind Mountains¦|Chill Caverns (Darkness)|15|2|;|Chill Caverns (Hollows)|8|18|;|Stage 5:|15|10|
+Chill Caverns (Darkness)¦Chill_Caverns_(Darkness)¦The Chill Wind Mountains¦|Chill Caverns (Alcove)|9|3|;|Chill Caverns (Winding Paths)|2|12|
+Chill Caverns (Alcove)¦Chill_Caverns_(Alcove)¦The Chill Wind Mountains¦|Chill Caverns (Darkness)|19|11|;|Chill Caverns (Temple Grounds)|3|12|;Portal|Chill Caverns Portal|3|2|
+Chill Caverns (Temple Grounds)¦Chill_Caverns_(Temple_Grounds)¦The Chill Wind Mountains¦|Chill Caverns (Temple)|9|4|;|Chill Caverns (Alcove)|4|12|;|Chill Caverns (Thaw)|13|15|;|Stages 6-7:|9|5|
+Chill Caverns (Temple)¦Chill_Caverns_(Temple)¦The Chill Wind Mountains¦|Chill Caverns (Temple Grounds)|9|13|
+Chill Caverns (Thaw)¦Chill_Caverns_(Thaw)¦The Chill Wind Mountains¦Relic|Hot Water Spring|3|2|;|Rawneth Caves (Darkness)|11|2|;|Chill Caverns (Temple Grounds)|1|12|;World Area|The Realms of Rawneth|11|15|;|Stage 1:|8|9|
+Rawneth Caves (Darkness)¦Rawneth_Caves_(Darkness)¦The Realms of Rawneth¦|Chill Caverns (Thaw)|8|4|;|Rawneth Caves (Deeps)|5|12|;|Stage 2:|2|5|
+Rawneth Caves (Deeps)¦Rawneth_Caves_(Deeps)¦The Realms of Rawneth¦|Rawneth Caves (Darkness)|7|2|;|Rawneth Caves (Gloom)|11|11|
+Rawneth Caves (Gloom)¦Rawneth_Caves_(Gloom)¦The Realms of Rawneth¦|Rawneth Caves (Hunting Grounds)|14|4|;|Rawneth Caves (Deeps)|4|14|;|Stage 3:|5|8|
+Rawneth Caves (Hunting Grounds)¦Rawneth_Caves_(Hunting_Grounds)¦The Realms of Rawneth¦|Rawneth Caves (Slime Pit)|13|3|;|Rawneth Caves (Gloom)|5|13|
+Rawneth Caves (Slime Pit)¦Rawneth_Caves_(Slime_Pit)¦The Realms of Rawneth¦|Rawnethian Burrows (Larva Chamber)|9|2|;|Rawneth Caves (Hunting Grounds)|7|12|;|Stages 4-5:|15|13|
+Rawnethian Burrows (Larva Chamber)¦Rawnethian_Burrows_(Larva_Chamber)¦The Realms of Rawneth¦|Rawneth Caves (Slime Pit)|13|7|;|Rawnethian Burrows (Royal Quarters)|4|15|;World Area|The Realms of Rawneth|6|2|
+Rawnethian Burrows (Royal Quarters)¦Rawnethian_Burrows_(Royal_Quarters)¦The Realms of Rawneth¦|Rawnethian Burrows (Mandible Quarters)|8|4|;|Rawnethian Burrows (Larva Chamber)|13|14|;Portal|Rawnethian Burrows Portal|3|3|;|Stages 1-2:|15|5|
+Rawnethian Burrows (Mandible Quarters)¦Rawnethian_Burrows_(Mandible_Quarters)¦The Realms of Rawneth¦|Rawnethian Burrows (Royal Quarters)|12|4|;|Rawnethian Burrows (Devil Drag)|11|16|
+Rawnethian Burrows (Devil Drag)¦Rawnethian_Burrows_(Devil_Drag)¦The Realms of Rawneth¦|Rawnethian Burrows (Slasher Hollow)|3|5|;|Rawnethian Burrows (Mandible Quarters)|12|17|
+Rawnethian Burrows (Slasher Hollow)¦Rawnethian_Burrows_(Slasher_Hollow)¦The Realms of Rawneth¦|Rawnethian Burrows (Barracks)|3|2|;|Rawnethian Burrows (Devil Drag)|12|9|;|Stage 3:|4|12|
+Rawnethian Burrows (Barracks)¦Rawnethian_Burrows_(Barracks)¦The Realms of Rawneth¦Relic|Rawnethian Weapon Cache|11|5|;|Rawnethian Wilds (Entrance)|3|2|;|Rawnethian Burrows (Slasher Hollow)|10|15|
+Rawnethian Wilds (Entrance)¦Rawnethian_Wilds_(Entrance)¦The Realms of Rawneth¦|Rawnethian Burrows (Barracks)|14|3|;|Rawnethian Wilds (Edge)|3|13|;World Area|The Realms of Rawneth|16|12|;|Stage 4:|4|5|
+Rawnethian Wilds (Edge)¦Rawnethian_Wilds_(Edge)¦The Realms of Rawneth¦|Rawneth Woods (Edge)|4|4|;|Rawnethian Wilds (Entrance)|13|14|
+Rawneth Woods (Edge)¦Rawneth_Woods_(Edge)¦The Realms of Rawneth¦|Rawnethian Wilds (Edge)|2|9|;|Rawneth Woods (Thicket)|14|16|
+Rawneth Woods (Thicket)¦Rawneth_Woods_(Thicket)¦The Realms of Rawneth¦|Rawneth Woods (Grove)|7|3|;|Rawneth Woods (Edge)|12|13|
+Rawneth Woods (Grove)¦Rawneth_Woods_(Grove)¦The Realms of Rawneth¦|Rawneth Woods (Thicket)|14|2|;|Rawneth Forest (Copse)|2|11|
+Rawneth Forest (Copse)¦Rawneth_Forest_(Copse)¦The Realms of Rawneth¦|Rawneth Forest (Depths)|3|5|;|Rawneth Woods (Grove)|12|15|;World Area|The Realms of Rawneth|11|3|
+Rawneth Forest (Depths)¦Rawneth_Forest_(Depths)¦The Realms of Rawneth¦|Rawneth Forest (Copse)|2|2|;|Rawneth Forest (Wilds)|11|8|;Portal|Rawneth Forest Portal|7|12|
+Rawneth Forest (Wilds)¦Rawneth_Forest_(Wilds)¦The Realms of Rawneth¦|Rawneth Forest (Haunt)|5|7|;|Rawneth Forest (Depths)|16|14|;|Stages 1-2:|4|7|
+Rawneth Forest (Haunt)¦Rawneth_Forest_(Haunt)¦The Realms of Rawneth¦Relic|Glorious Fae Flowers|9|16|;|Rawneth Forest (Clearing)|13|8|;|Rawneth Forest (Wilds)|2|12|
+Rawneth Forest (Clearing)¦Rawneth_Forest_(Clearing)¦The Realms of Rawneth¦|Rawneth Forest (Haunt)|2|6|;|Rawneth Forest (Snarl)|17|11|
+Rawneth Forest (Snarl)¦Rawneth_Forest_(Snarl)¦The Realms of Rawneth¦|Rawneth Forest (Tangle)|10|4|;|Rawneth Forest (Clearing)|4|13|;|Stage 3:|10|17|
+Rawneth Forest (Tangle)¦Rawneth_Forest_(Tangle)¦The Realms of Rawneth¦|Rawneth Forest (Glade)|5|3|;|Rawneth Forest (Snarl)|12|12|
+Rawneth Forest (Glade)¦Rawneth_Forest_(Glade)¦The Realms of Rawneth¦|Rawneth Grove (Interior)|4|1|;|Rawneth Forest (Meadow)|3|9|;|Rawneth Forest (Tangle)|11|18|;|Stages 4-5:|14|4|
+Rawneth Forest (Meadow)¦Rawneth_Forest_(Meadow)¦The Realms of Rawneth¦|Rawneth Forest (Glade)|3|11|
+Rawneth Grove (Interior)¦Rawneth_Grove_(Interior)¦The Quindaneth Wilds¦|Rawneth Grove (Edge)|11|3|;|Rawneth Forest (Glade)|10|16|;World Area|The Quindaneth Wilds|13|10|;|Stages 1-2:|5|12|
+Rawneth Grove (Edge)¦Rawneth_Grove_(Edge)¦The Quindaneth Wilds¦|Quindaneth Woods (Copse)|12|3|;|Rawneth Grove (Interior)|2|7|
+Quindaneth Woods (Copse)¦Quindaneth_Woods_(Copse)¦The Quindaneth Wilds¦|Quindaneth Woods (Thicket)|17|6|;|Rawneth Grove (Edge)|3|17|;|Stage 3:|9|9|
+Quindaneth Woods (Thicket)¦Quindaneth_Woods_(Thicket)¦The Quindaneth Wilds¦|Quindaneth Woods (Copse)|3|4|;|Quindaneth Woods (Haunt)|16|4|;Portal|Quindaneth Woods Portal|13|15|
+Quindaneth Woods (Haunt)¦Quindaneth_Woods_(Haunt)¦The Quindaneth Wilds¦|Quindaneth Woods (Thicket)|3|3|;|Quindaneth Woods (Hunting Ground)|16|12|
+Quindaneth Woods (Hunting Ground)¦Quindaneth_Woods_(Hunting_Ground)¦The Quindaneth Wilds¦Relic|Phosaur Skeleton|9|12|;|Quindaneth Woods (Haunt)|5|2|;|Quindaneth Forest (Carnosaur Hide)|1|19|;|Stages 4-5:|4|9|
+Quindaneth Forest (Carnosaur Hide)¦Quindaneth_Forest_(Carnosaur_Hide)¦The Quindaneth Wilds¦|Quindaneth Forest (Grazing Land)|6|6|;|Quindaneth Woods (Hunting Ground)|13|12|;World Area|The Quindaneth Wilds|2|16|
+Quindaneth Forest (Grazing Land)¦Quindaneth_Forest_(Grazing_Land)¦The Quindaneth Wilds¦|Quindaneth Forest (Fighting Grove)|11|4|;|Quindaneth Forest (Carnosaur Hide)|3|9|;|Stage 6:|9|13|
+Quindaneth Forest (Fighting Grove)¦Quindaneth_Forest_(Fighting_Grove)¦The Quindaneth Wilds¦|Quindaneth Forest (Deathly Copse)|4|2|;|Quindaneth Forest (Grazing Land)|11|16|
+Quindaneth Forest (Deathly Copse)¦Quindaneth_Forest_(Deathly_Copse)¦The Quindaneth Wilds¦|Quindaneth Forest (Smashed Thicket)|4|3|;|Quindaneth Forest (Fighting Grove)|12|12|
+Quindaneth Forest (Smashed Thicket)¦Quindaneth_Forest_(Smashed_Thicket)¦The Quindaneth Wilds¦|Quindaneth Plains (Herdlands)|4|4|;|Quindaneth Forest (Deathly Copse)|9|18|
+Quindaneth Plains (Herdlands)¦Quindaneth_Plains_(Herdlands)¦The Quindaneth Wilds¦|Quindaneth Forest (Smashed Thicket)|9|2|;|Quindaneth Plains (Predator Plains)|2|11|
+Quindaneth Plains (Predator Plains)¦Quindaneth_Plains_(Predator_Plains)¦The Quindaneth Wilds¦|Quindaneth Plains (Open Ground)|3|3|;|Quindaneth Plains (Herdlands)|11|11|
+Quindaneth Plains (Open Ground)¦Quindaneth_Plains_(Open_Ground)¦The Quindaneth Wilds¦|Quindaneth Plains (Predator Plains)|5|6|;|Quindaneth Plains (Thundering Plains)|17|14|;Portal|Quindaneth Plains Portal|15|4|
+Quindaneth Plains (Thundering Plains)¦Quindaneth_Plains_(Thundering_Plains)¦The Quindaneth Wilds¦|Quindaneth Plains (Open Ground)|11|2|;|Quindaneth Wastes (Scrub)|5|12|
+Quindaneth Wastes (Scrub)¦Quindaneth_Wastes_(Scrub)¦The Quindaneth Wilds¦Relic|Dinosauroid Burial Grounds|14|8|;|Quindaneth Wastes (Haunt)|11|2|;|Quindaneth Plains (Thundering Plains)|6|11|;World Area|The Quindaneth Wilds|11|14|;|Stages 1-2:|5|4|
+Quindaneth Wastes (Haunt)¦Quindaneth_Wastes_(Haunt)¦The Quindaneth Wilds¦|Quindaneth Wastes (Thermals)|4|3|;|Quindaneth Wastes (Scrub)|11|15|
+Quindaneth Wastes (Thermals)¦Quindaneth_Wastes_(Thermals)¦The Quindaneth Wilds¦|Quindaneth Wastes (Haunt)|11|5|;|Quindaneth Wastes (Desolation)|9|13|
+Quindaneth Wastes (Desolation)¦Quindaneth_Wastes_(Desolation)¦The Quindaneth Wilds¦|Quindaneth Coast (Prey Lands)|13|2|;|Quindaneth Wastes (Thermals)|5|11|
+Quindaneth Coast (Prey Lands)¦Quindaneth_Coast_(Prey_Lands)¦The Quindaneth Wilds¦|Quindaneth Wastes (Desolation)|14|4|;|Quindaneth Coast (Deadly Depths)|6|10|;|Stages 3-4:|4|4|
+Quindaneth Coast (Deadly Depths)¦Quindaneth_Coast_(Deadly_Depths)¦The Quindaneth Wilds¦|Quindaneth Coast (Prey Lands)|4|3|;|Quindaneth Coast (Guard Post)|11|18|
+Quindaneth Coast (Guard Post)¦Quindaneth_Coast_(Guard_Post)¦The Quindaneth Wilds¦|Quindaneth Coast (Deadly Depths)|14|2|;|Quindaneth Forest (Hatchery)|3|15|
+Quindaneth Forest (Hatchery)¦Quindaneth_Forest_(Hatchery)¦The Quindaneth Wilds¦|Quindaneth Caves (Guardian Barracks)|5|3|;|Quindaneth Coast (Guard Post)|13|18|
+Quindaneth Caves (Guardian Barracks)¦Quindaneth_Caves_(Guardian_Barracks)¦The Quindaneth Wilds¦|Quindaneth Forest (Hatchery)|12|2|;|Quindaneth Caves (Mage Quarters)|7|11|;Portal|Quindaneth Caves Portal|6|4|;World Area|The Quindaneth Wilds|13|8|
+Quindaneth Caves (Harakars Temple)¦Quindaneth_Caves_(Harakars_Temple)¦The Quindaneth Wilds¦|Quindaneth Caves (Mage Quarters)|6|11|
+Quindaneth Caves (Mage Quarters)¦Quindaneth_Caves_(Mage_Quarters)¦The Quindaneth Wilds¦|Quindaneth Caves (Harakars Temple)|12|5|;|Quindaneth Caves (Guardian Barracks)|2|15|;|Syroth Caverns (Depths)|16|16|;|Stages 5-7:|15|12|
+Syroth Caverns (Depths)¦Syroth_Caverns_(Depths)¦The Depths of Tylock¦Relic|Grub Nest|13|12|;|Syroth Caverns (Darkness)|17|2|;|Quindaneth Caves (Mage Quarters)|5|4|;World Area|The Depths of Tylock|2|16|
+Syroth Caverns (Darkness)¦Syroth_Caverns_(Darkness)¦The Depths of Tylock¦|Syroth Caverns (Depths)|4|6|;|Syroth Caverns (Hollows)|12|14|
+Syroth Caverns (Hollows)¦Syroth_Caverns_(Hollows)¦The Depths of Tylock¦|Syroth Caverns (Chambers)|4|4|;|Syroth Caverns (Darkness)|14|11|
+Syroth Caverns (Chambers)¦Syroth_Caverns_(Chambers)¦The Depths of Tylock¦|Syroth Caverns (Gas Vents)|3|3|;|Syroth Caverns (Hollows)|12|14|
+Syroth Caverns (Gas Vents)¦Syroth_Caverns_(Gas_Vents)¦The Depths of Tylock¦|Syroth Caverns (Chambers)|13|2|;|Syroth Castle (Gate)|2|12|
+Syroth Castle (Gate)¦Syroth_Castle_(Gate)¦The Depths of Tylock¦|Syroth Caverns (Gas Vents)|2|3|;|Syroth Castle (Barracks)|14|15|;World Area|The Depths of Tylock|13|2|
+Syroth Castle (Barracks)¦Syroth_Castle_(Barracks)¦The Depths of Tylock¦|Syroth Castle (Gate)|2|6|;|Syroth Castle (Lab)|10|17|
+Syroth Castle (Lab)¦Syroth_Castle_(Lab)¦The Depths of Tylock¦|Syroth Castle (Barracks)|3|1|;|Syroth Castle (Smithy)|14|13|
+Syroth Castle (Smithy)¦Syroth_Castle_(Smithy)¦The Depths of Tylock¦|Syroth Castle (Weapon Store)|2|3|;|Syroth Castle (Lab)|2|14|;Portal|Syroth Castle Portal|11|3|
+Syroth Castle (Weapon Store)¦Syroth_Castle_(Weapon_Store)¦The Depths of Tylock¦|Syroth Castle (Smithy)|12|2|;|Syroth Castle (Armoury)|2|14|
+Syroth Castle (Armoury)¦Syroth_Castle_(Armoury)¦The Depths of Tylock¦Relic|Syroth Armor Rack|2|6|;|Syroth Castle (Weapon Store)|12|1|;|Syroth Castle (Courtyard)|11|13|
+Syroth Castle (Courtyard)¦Syroth_Castle_(Courtyard)¦The Depths of Tylock¦|Syroth Castle (Guardhouse)|14|2|;|Syroth Castle (Armoury)|2|13|;World Area|The Depths of Tylock|1|2|;|Stages 1-2:|8|9|
+Syroth Castle (Guardhouse)¦Syroth_Castle_(Guardhouse)¦The Depths of Tylock¦|Syroth Castle (Barricade)|14|2|;|Syroth Castle (Courtyard)|6|13|
+Syroth Castle (Barricade)¦Syroth_Castle_(Barricade)¦The Depths of Tylock¦|Syroth Castle (Guardhouse)|1|2|;|Syroth Castle (Darkness)|12|9|
+Syroth Castle (Darkness)¦Syroth_Castle_(Darkness)¦The Depths of Tylock¦|Syroth Castle (Wildness)|1|2|;|Syroth Castle (Barricade)|5|15|
+Syroth Castle (Wildness)¦Syroth_Castle_(Wildness)¦The Depths of Tylock¦|Syroth Castle (Haunt)|2|1|;|Syroth Castle (Darkness)|8|6|;|Stages 1-2:|13|3|
+Syroth Castle (Haunt)¦Syroth_Castle_(Haunt)¦The Depths of Tylock¦|Tylock Depths (Den)|1|6|;|Syroth Castle (Wildness)|12|19|
+Tylock Depths (Den)¦Tylock_Depths_(Den)¦The Depths of Tylock¦|Syroth Castle (Haunt)|15|4|;|Tylock Depths (Grazing)|5|9|
+Tylock Depths (Grazing)¦Tylock_Depths_(Grazing)¦The Depths of Tylock¦|Tylock Depths (Tunnels)|2|2|;|Tylock Depths (Den)|15|9|;Portal|Tylock Depths Portal|14|3|
+Tylock Depths (Tunnels)¦Tylock_Depths_(Tunnels)¦The Depths of Tylock¦|Tylock Depths (Haunt)|4|4|;|Tylock Depths (Grazing)|7|13|;World Area|The Depths of Tylock|10|2|
+Tylock Depths (Haunt)¦Tylock_Depths_(Haunt)¦The Depths of Tylock¦Relic|Disturbed Grave|3|7|;|Tylock Depths (Mists)|12|3|;|Tylock Depths (Tunnels)|14|10|
+Tylock Depths (Mists)¦Tylock_Depths_(Mists)¦The Depths of Tylock¦|Tylock Depths (Hive)|13|4|;|Tylock Depths (Haunt)|5|12|
+Tylock Depths (Hive)¦Tylock_Depths_(Hive)¦The Depths of Tylock¦|Tylock Depths (Mists)|4|3|;|Tylock Depths (Grave)|18|7|;|Stages 1-2:|2|14|
+Tylock Depths (Grave)¦Tylock_Depths_(Grave)¦The Depths of Tylock¦|Tylock Depths (Gloom)|14|2|;|Tylock Depths (Hive)|3|13|
+Forest of Yule (Ore Mountain)¦Forest_of_Yule_(Ore_Mountain)¦Krul Island¦|Forest of Yule (Clearing)|9|7|;|Stages 1-3:|5|14|;|Stages 4-6:|17|4|
+Tylock Depths (Gloom)¦Tylock_Depths_(Gloom)¦The Depths of Tylock¦|Tylock Depths (Grave)|15|2|;|Tylock Depths (Shadows)|9|7|;|Tylock Depths (Maganors Lair)|3|13|
+Tylock Depths (Maganors Lair)¦Tylock_Depths_(Maganors_Lair)¦The Depths of Tylock¦|Tylock Depths (Gloom)|8|5|

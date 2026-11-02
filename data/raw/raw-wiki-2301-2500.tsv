@@ -1,0 +1,214 @@
+Kiefur Forest (Edge)¦Kiefur_Forest_(Edge)¦Forne Edge¦|Kiefur Forest (Thicket)|5|5|;|Wantoni Catacombs (Halls)|11|18|;World Area|Forne Edge|16|7|
+Kiefur Forest (Thicket)¦Kiefur_Forest_(Thicket)¦Forne Edge¦|Kiefur Forest (Edge)|5|6|;|Kiefur Forest (Clearing)|9|15|
+Kiefur Forest (Clearing)¦Kiefur_Forest_(Clearing)¦Forne Edge¦|Kiefur Forest (Undergrowth)|17|6|;|Kiefur Forest (Thicket)|7|10|;|Stages 1-2:|3|4|
+Kiefur Forest (Undergrowth)¦Kiefur_Forest_(Undergrowth)¦Forne Edge¦|Kiefur Forest (Clearing)|14|13|;|Kiefur Forest (Ridge)|2|19|;Portal|Kiefur Forest Portal|11|4|
+Kiefur Forest (Ridge)¦Kiefur_Forest_(Ridge)¦Forne Edge¦|Kiefur Forest (Overgrowth)|3|4|;|Kiefur Forest (Undergrowth)|4|14|
+Kiefur Forest (Overgrowth)¦Kiefur_Forest_(Overgrowth)¦Forne Edge¦Relic|Kiefur Pillar|15|10|;|Kiefur Forest (Ridge)|12|4|;|Pixluir (Outskirts)|10|13|
+Pixluir (Outskirts)¦Pixluir_(Outskirts)¦Forne Edge¦|Pixluir (Overgrowth)|16|7|;|Kiefur Forest (Overgrowth)|2|15|;World Area|Forne Edge|7|8|
+Pixluir (Overgrowth)¦Pixluir_(Overgrowth)¦Forne Edge¦|Pixluir (Undergrowth)|2|1|;|Pixluir (Outskirts)|9|7|
+Pixluir (Undergrowth)¦Pixluir_(Undergrowth)¦Forne Edge¦|Pixluir (Overgrowth)|4|1|;|Pixluir (Clearing)|14|13|
+Pixluir (Clearing)¦Pixluir_(Clearing)¦Forne Edge¦|Pixluir (Ridge)|3|3|;|Pixluir (Undergrowth)|14|4|
+Pixluir (Ridge)¦Pixluir_(Ridge)¦Forne Edge¦|Pixluir (Clearing)|2|5|;|Pixluir (Descent)|18|8|
+Pixluir (Descent)¦Pixluir_(Descent)¦Forne Edge¦|Pixluir (Hills)|11|2|;|Pixluir (Ridge)|3|8|;|Stages 1-2:|13|14|
+Pixluir (Hills)¦Pixluir_(Hills)¦Forne Edge¦|Pixluir (Descent)|17|1|;|Pixluir (Tall Trees)|3|8|
+Pixluir (Tall Trees)¦Pixluir_(Tall_Trees)¦Forne Edge¦|Naal Plains (Edge)|12|5|;|Pixluir (Hills)|3|9|;Portal|Pixluir Portal|11|12|
+Naal Plains (Edge)¦Naal_Plains_(Edge)¦Forne Edge¦|Pixluir (Tall Trees)|2|2|;|Naal Plains (Pasture)|8|16|;World Area|Forne Edge|12|4|
+Naal Plains (Pasture)¦Naal_Plains_(Pasture)¦Forne Edge¦Relic|Naal Burial Circle|10|5|;|Naal Plains (Wastes)|15|3|;|Naal Plains (Edge)|9|12|
+Naal Plains (Wastes)¦Naal_Plains_(Wastes)¦Forne Edge¦|Naal Plains (Pasture)|13|2|;|Naal Plains (Woods)|2|3|
+Naal Plains (Woods)¦Naal_Plains_(Woods)¦Forne Edge¦|Naal Plains (Open Ground)|9|2|;|Naal Plains (Wastes)|5|14|
+Naal Plains (Open Ground)¦Naal_Plains_(Open_Ground)¦Forne Edge¦|Naal Plains (Woods)|9|8|;|Naal Plains (Wilderness)|3|15|
+Naal Plains (Wilderness)¦Naal_Plains_(Wilderness)¦Forne Edge¦|Ryiek Depths (Haunt)|14|3|;|Naal Plains (Open Ground)|9|15|
+Ryiek Depths (Haunt)¦Ryiek_Depths_(Haunt)¦Forne Edge¦|Naal Plains (Wilderness)|9|4|;|Ryiek Depths (Mists)|16|9|;World Area|Forne Edge|3|16|
+Ryiek Depths (Mists)¦Ryiek_Depths_(Mists)¦Forne Edge¦|Ryiek Depths (Cavern Lakes)|3|3|;|Ryiek Depths (Haunt)|10|10|
+Ryiek Depths (Cavern Lakes)¦Ryiek_Depths_(Cavern_Lakes)¦Forne Edge¦|Ryiek Depths (Mists)|15|3|;|Ryiek Depths (Gloom)|4|11|
+Ryiek Depths (Gloom)¦Ryiek_Depths_(Gloom)¦Forne Edge¦|Ryiek Depths (Vents)|11|3|;|Ryiek Depths (Cavern Lakes)|2|6|;Portal|Ryiek Depths Portal|7|11|
+Quango Jungle (Darkness)¦Quango_Jungle_(Darkness)¦Arrin Moors¦Shop|Quango Shop Shack|4|15|;|Quango Island|20|19|;|Stages 1-3:|9|6|
+Ryiek Depths (Lair)¦Ryiek_Depths_(Lair)¦Forne Edge¦|Ryiek Depths (Vents)|6|4|
+Ryiek Depths (Vents)¦Ryiek_Depths_(Vents)¦Forne Edge¦|Ryiek Depths (Lair)|2|3|;|Aknir Depths (Entrance)|13|17|;|Ryiek Depths (Gloom)|4|18|;|Stages 1-2:|11|9|
+Aknir Depths (Entrance)¦Aknir_Depths_(Entrance)¦Zathe Crossing¦Relic|Dark Sphere|14|10|;|Aknir Depths (Tunnels)|15|2|;|Ryiek Depths (Vents)|3|17|;World Area|Zathe Crossing|3|2|
+Aknir Depths (Tunnels)¦Aknir_Depths_(Tunnels)¦Zathe Crossing¦|Aknir Depths (Entrance)|3|2|;|Aknir Depths (Gloom)|9|12|
+Aknir Depths (Gloom)¦Aknir_Depths_(Gloom)¦Zathe Crossing¦|Aknir Depths (Tunnels)|7|5|;|Aknir Depths (Descent)|12|12|
+Aknir Depths (Descent)¦Aknir_Depths_(Descent)¦Zathe Crossing¦|Aknir Depths (Recess)|7|6|;|Aknir Depths (Gloom)|14|14|
+Aknir Depths (Recess)¦Aknir_Depths_(Recess)¦Zathe Crossing¦|Aknir Depths (Haunt)|19|4|;|Aknir Depths (Descent)|11|14|
+Aknir Depths (Haunt)¦Aknir_Depths_(Haunt)¦Zathe Crossing¦|Aknir Depths (Recess)|13|4|;|Aknir Depths (Pits)|3|12|;|Stages 1-2:|7|8|
+Aknir Depths (Pits)¦Aknir_Depths_(Pits)¦Zathe Crossing¦|Aknir Depths (Wastes)|2|8|;|Aknir Depths (Haunt)|12|11|
+Aknir Depths (Wastes)¦Aknir_Depths_(Wastes)¦Zathe Crossing¦|Chari Canyon (Outskirts)|13|3|;|Aknir Depths (Pits)|2|4|
+Chari Canyon (Outskirts)¦Chari_Canyon_(Outskirts)¦Zathe Crossing¦|Aknir Depths (Wastes)|4|5|;|Chari Canyon (Haunt)|16|16|;Portal|Chari Canyon Portal|11|10|;World Area|Zathe Crossing|14|4|
+Chari Canyon (Haunt)¦Chari_Canyon_(Haunt)¦Zathe Crossing¦|Chari Canyon (Outskirts)|5|7|;|Chari Canyon (Gully)|15|15|
+Chari Canyon (Gully)¦Chari_Canyon_(Gully)¦Zathe Crossing¦Relic|Chari Boneyard|5|8|;|Chari Canyon (Ravine)|10|4|;|Chari Canyon (Haunt)|3|16|
+Chari Canyon (Ravine)¦Chari_Canyon_(Ravine)¦Zathe Crossing¦|Chari Canyon (Range)|6|3|;|Chari Canyon (Gully)|15|11|
+Chari Canyon (Range)¦Chari_Canyon_(Range)¦Zathe Crossing¦|Chari Canyon (Mouth)|3|5|;|Chari Canyon (Ravine)|4|11|
+Chari Canyon (Mouth)¦Chari_Canyon_(Mouth)¦Zathe Crossing¦|Chari Canyon (Narrows)|5|2|;|Chari Canyon (Range)|14|10|;|Stages 1-2:|3|7|
+Chari Canyon (Narrows)¦Chari_Canyon_(Narrows)¦Zathe Crossing¦|Chari Canyon (Rise)|10|3|;|Chari Canyon (Mouth)|12|8|
+Chari Canyon (Rise)¦Chari_Canyon_(Rise)¦Zathe Crossing¦|Chari Canyon (Narrows)|12|3|;|Xinak Coast (Outer)|3|9|
+Xinak Coast (Outer)¦Xinak_Coast_(Outer)¦Zathe Crossing¦|Chari Canyon (Rise)|3|6|;|Xinak Coast (Shingle)|14|9|;World Area|Zathe Crossing|12|16|
+Xinak Coast (Shingle)¦Xinak_Coast_(Shingle)¦Zathe Crossing¦|Xinak Coast (Outer)|4|7|;|Xinak Coast (Sea View)|16|13|
+Xinak Coast (Sea View)¦Xinak_Coast_(Sea_View)¦Zathe Crossing¦|Xinak Coast (Shoreline)|16|5|;|Xinak Coast (Shingle)|6|15|;Portal|Xinak Portal|10|8|
+Xinak Coast (Shoreline)¦Xinak_Coast_(Shoreline)¦Zathe Crossing¦|Xinak Coast (Port)|3|3|;|Xinak Coast (Sea View)|5|13|
+Xinak Coast (Port)¦Xinak_Coast_(Port)¦Zathe Crossing¦Relic|Xinak Relic|6|13|;|Xinak Coast (Shoreline)|9|2|;|Weke Snow Forest (Outskirts)|12|10|
+Weke Snow Forest (Outskirts)¦Weke_Snow_Forest_(Outskirts)¦Zathe Crossing¦|Xinak Coast (Port)|3|3|;|Weke Snow Forest (Thicket)|13|7|;World Area|Zathe Crossing|9|12|
+Weke Snow Forest (Thicket)¦Weke_Snow_Forest_(Thicket)¦Zathe Crossing¦|Weke Snow Forest (Canopy)|9|5|;|Weke Snow Forest (Outskirts)|2|14|
+Weke Snow Forest (Canopy)¦Weke_Snow_Forest_(Canopy)¦Zathe Crossing¦|Weke Snow Forest (Thicket)|10|2|;|Weke Snow Forest (Clearing)|5|12|
+Noble House¦Noble_House¦Krul Island¦|Town of Zezolla|8|16|;|Stages 4-7:|11|8|;|Stages 10-11:|11|8|
+Town of Zezolla¦Town_of_Zezolla¦Krul Island¦|Zezolla Palace|13|3|;|Noble House|6|15|;|The Grimmnor Forest|16|17|;|Stages 1-3:|13|9|
+Weke Snow Forest (Clearing)¦Weke_Snow_Forest_(Clearing)¦Zathe Crossing¦|Telcor Flats (North)|16|5|;|Weke Snow Forest (Fortress)|5|10|;|Weke Snow Forest (Canopy)|15|13|
+Weke Snow Forest (Fortress)¦Weke_Snow_Forest_(Fortress)¦Zathe Crossing¦|Weke Snow Forest (Clearing)|2|1|;|Stages 1-2:|2|2|
+Zezolla Palace¦Zezolla_Palace¦Krul Island¦|Town of Zezolla|10|18|;|Stages 8-9:|10|7|
+Telcor Flats (North)¦Telcor_Flats_(North)¦Ryfell Domain¦|Weke Snow Forest (Clearing)|3|2|;|Telcor Flats (East)|18|5|;World Area|Ryfell Domain|17|14|
+Telcor Flats (East)¦Telcor_Flats_(East)¦Ryfell Domain¦|Telcor Flats (South)|10|2|;|Telcor Flats (North)|3|6|
+Telcor Flats (South)¦Telcor_Flats_(South)¦Ryfell Domain¦|Telcor Flats (East)|13|2|;|Telcor Flats (West)|2|11|
+Telcor Flats (West)¦Telcor_Flats_(West)¦Ryfell Domain¦|Telcor Flats (Descent)|15|9|;|Telcor Flats (South)|1|10|;Portal|Telcor Portal|6|5|
+Telcor Flats (Descent)¦Telcor_Flats_(Descent)¦Ryfell Domain¦|Relican Arids (Entrance)|13|2|;|Telcor Flats (West)|7|9|
+Relican Arids (Entrance)¦Relican_Arids_(Entrance)¦Ryfell Domain¦Relic|Arid Fellhole|5|13|;|Telcor Flats (Descent)|4|2|;|Relican Arids (Undergrowth)|16|4|;World Area|Ryfell Domain|13|17|
+Relican Arids (Undergrowth)¦Relican_Arids_(Undergrowth)¦Ryfell Domain¦|Relican Arids (Entrance)|5|4|;|Relican Arids (Ridge)|14|14|
+Relican Arids (Ridge)¦Relican_Arids_(Ridge)¦Ryfell Domain¦|Relican Arids (Undergrowth)|12|3|;|Relican Arids (Dunes)|5|17|;|Stages 1-2:|4|8|
+Relican Arids (Dunes)¦Relican_Arids_(Dunes)¦Ryfell Domain¦|Relican Arids (Ascent)|3|5|;|Relican Arids (Ridge)|7|12|
+Relican Arids (Ascent)¦Relican_Arids_(Ascent)¦Ryfell Domain¦|Relican Arids (Dunes)|12|2|;|Relican Arids (Wastes)|9|8|
+Relican Arids (Wastes)¦Relican_Arids_(Wastes)¦Ryfell Domain¦|Relican Arids (Wilds)|14|4|;|Relican Arids (Ascent)|6|16|
+Relican Arids (Wilds)¦Relican_Arids_(Wilds)¦Ryfell Domain¦|Relican Arids (Arid Vale)|8|5|;|Relican Arids (Wastes)|19|9|
+Relican Arids (Arid Vale)¦Relican_Arids_(Arid_Vale)¦Ryfell Domain¦|Relican Arids (Wilds)|3|3|;|Relican Arids (Descent)|12|4|
+Relican Arids (Descent)¦Relican_Arids_(Descent)¦Ryfell Domain¦|Relican Arids (Edge)|5|3|;|Relican Arids (Arid Vale)|6|17|;Portal|Relican Portal|11|11|
+Relican Arids (Edge)¦Relican_Arids_(Edge)¦Ryfell Domain¦|Relican Arids (Descent)|15|3|;|Neer Forest (Edge)|6|10|
+Neer Forest (Edge)¦Neer_Forest_(Edge)¦Ryfell Domain¦Relic|Neer Relic|5|8|;|Neer Forest (Overgrowth)|12|13|;|Relican Arids (Edge)|4|14|;World Area|Ryfell Domain|13|3|
+Neer Forest (Overgrowth)¦Neer_Forest_(Overgrowth)¦Takimya Rift¦|Neer Forest (Clearing)|4|5|;|Neer Forest (Edge)|10|13|;|Stages 1 & 2|10|3|
+Neer Forest (Clearing)¦Neer_Forest_(Clearing)¦Takimya Rift¦|Neer Forest (Overgrowth)|4|4|;|Neer Forest (Descent)|5|15|
+Neer Forest (Descent)¦Neer_Forest_(Descent)¦Takimya Rift¦|Neer Forest (Clearing)|4|3|;|Neer Forest (Wilds)|11|8|
+Neer Forest (Wilds)¦Neer_Forest_(Wilds)¦Takimya Rift¦|Neer Forest (Tall Trees)|13|4|;|Neer Forest (Descent)|10|19|
+Neer Forest (Tall Trees)¦Neer_Forest_(Tall_Trees)¦Takimya Rift¦|Neer Forest (Opening)|13|10|;|Neer Forest (Wilds)|2|11|
+Neer Forest (Opening)¦Neer_Forest_(Opening)¦Takimya Rift¦|Neer Forest (Tall Trees)|2|2|;|Ryfell Caves (Opening)|5|14|
+Ryfell Caves (Opening)¦Ryfell_Caves_(Opening)¦Takimya Rift¦|Ryfell Caves (Tunnels)|13|3|;|Neer Forest (Opening)|4|5|;World Area|Ryfell Domain|15|13|
+Ryfell Caves (Tunnels)¦Ryfell_Caves_(Tunnels)¦Ryfell Domain¦|Ryfell Caves (Inner Chambers)|12|3|;|Ryfell Caves (Opening)|9|14|;Portal|Ryfell Portal|3|9|
+Ryfell Caves (Inner Chambers)¦Ryfell_Caves_(Inner_Chambers)¦Ryfell Domain¦|Proll Glade (Outskirts)|3|3|;|Ryfell Caves (Lair)|13|7|;|Ryfell Caves (Tunnels)|6|12|
+Ryfell Caves (Lair)¦Ryfell_Caves_(Lair)¦Ryfell Domain¦|Ryfell Caves (Inner Chambers)|11|3|
+Proll Glade (Outskirts)¦Proll_Glade_(Outskirts)¦Takimya Rift¦Relic|Sprite Circle|10|9|;|Ryfell Caves (Inner Chambers)|11|4|;|Proll Glade (Clearing)|5|15|;World Area|Takimya Rift|3|2|;|Stages 1-2:|2|3|
+Proll Glade (Clearing)¦Proll_Glade_(Clearing)¦Takimya Rift¦|Proll Glade (Thicket)|14|4|;|Proll Glade (Outskirts)|4|11|;|Stages 3 & 4|11|14|
+Proll Glade (Thicket)¦Proll_Glade_(Thicket)¦Takimya Rift¦|Proll Glade (Clearing)|14|4|;|Proll Glade (Wilds)|5|14|
+Proll Glade (Wilds)¦Proll_Glade_(Wilds)¦Takimya Rift¦|Proll Glade (Thicket)|15|3|;|Proll Glade (Canopy)|3|5|;|Stages 5-7:|8|11|
+Proll Glade (Canopy)¦Proll_Glade_(Canopy)¦Takimya Rift¦|Proll Glade (Wilds)|3|3|;|Proll Glade (Heart)|10|11|
+Springtime Forest (Artiorious Copse)¦Springtime_Forest_(Artiorious_Copse)¦Krul Island¦|Springtime Forest (Outer Grove)|10|5|
+Proll Glade (Heart)¦Proll_Glade_(Heart)¦Takimya Rift¦|Proll Glade (Haunt)|4|6|;|Proll Glade (Canopy)|12|12|
+Proll Glade (Haunt)¦Proll_Glade_(Haunt)¦Takimya Rift¦|Proll Glade (Copse)|22|3|;|Proll Glade (Heart)|8|10|
+Proll Glade (Copse)¦Proll_Glade_(Copse)¦Takimya Rift¦|Proll Glade (Haunt)|12|8|;|Yuil Expanse (Wastes)|2|9|
+Yuil Expanse (Wastes)¦Yuil_Expanse_(Wastes)¦Takimya Rift¦|Proll Glade (Copse)|16|3|;|Yuil Expanse (Dunes)|5|17|;Portal|Yuil Portal|4|8|;World Area|Takimya Rift|11|13|
+Yuil Expanse (Dunes)¦Yuil_Expanse_(Dunes)¦Takimya Rift¦|Yuil Expanse (Wilds)|6|3|;|Yuil Expanse (Wastes)|10|12|
+Yuil Expanse (Wilds)¦Yuil_Expanse_(Wilds)¦Takimya Rift¦Relic|Death Pit of Yuli|3|17|;|Yuil Expanse (Dunes)|5|4|;|Yuil Expanse (Flats)|18|14|
+Yuil Expanse (Flats)¦Yuil_Expanse_(Flats)¦Takimya Rift¦|Yuil Expanse (Wilds)|5|3|;|Yuil Expanse (Oasis)|2|13|
+Yuil Expanse (Oasis)¦Yuil_Expanse_(Oasis)¦Takimya Rift¦|Yuil Expanse (Flats)|12|7|;|Yuil Expanse (Plains)|2|12|
+Yuil Expanse (Plains)¦Yuil_Expanse_(Plains)¦Takimya Rift¦|Yuil Expanse (Oasis)|4|3|;|Yuil Expanse (Desolation)|9|15|;|Stage 8:|16|10|;|Stage 9:|12|5|
+Yuil Expanse (Desolation)¦Yuil_Expanse_(Desolation)¦Takimya Rift¦|Yuil Expanse (Plains)|4|3|;|Beir Fields (Steppes)|17|16|
+Beir Fields (Steppes)¦Beir_Fields_(Steppes)¦Takimya Rift¦|Beir Fields (Interior)|2|3|;|Yuil Expanse (Desolation)|21|13|;World Area|Takimya Rift|18|1|
+Beir Fields (Interior)¦Beir_Fields_(Interior)¦Takimya Rift¦|Beir Fields (Ascent)|3|3|;|Beir Fields (Steppes)|10|13|
+Beir Fields (Ascent)¦Beir_Fields_(Ascent)¦Takimya Rift¦|Beir Fields (Interior)|3|1|;|Beir Fields (Peak)|8|12|
+Beir Fields (Peak)¦Beir_Fields_(Peak)¦Takimya Rift¦|Beir Fields (Edge)|15|1|;|Beir Fields (Ascent)|2|10|;Portal|Beir Portal|10|15|
+Beir Fields (Edge)¦Beir_Fields_(Edge)¦Takimya Rift¦|Beir Fields (Peak)|13|10|;|Reila Highlands (Edge)|4|16|
+Reila Highlands (Edge)¦Reila_Highlands_(Edge)¦Takimya Rift¦Relic|Reila Crawler Nest|9|3|;|Beir Fields (Edge)|16|5|;|Reila Highlands (Grazing Lands)|2|14|;World Area|Takimya Rift|14|12|
+Reila Highlands (Grazing Lands)¦Reila_Highlands_(Grazing_Lands)¦Takimya Rift¦|Reila Highlands (Edge)|13|3|;|Reila Highlands (Haunt)|4|15|
+Reila Highlands (Haunt)¦Reila_Highlands_(Haunt)¦Takimya Rift¦|Reila Highlands (Grazing Lands)|4|2|;|Reila Highlands (Plains)|13|17|
+Reila Highlands (Plains)¦Reila_Highlands_(Plains)¦Takimya Rift¦|Reila Highlands (Haunt)|6|2|;|Reila Highlands (Wastes)|10|11|;|Stages 10-11:|7|8|
+Reila Highlands (Fort)¦Reila_Highlands_(Fort)¦Takimya Rift¦|Reila Highlands (Wastes)|4|4|
+Reila Highlands (Wastes)¦Reila_Highlands_(Wastes)¦Takimya Rift¦|Reila Highlands (Fort)|9|2|;|Elidar Ruins (Entrance)|18|3|;|Reila Highlands (Plains)|16|12|
+Elidar Ruins (Entrance)¦Elidar_Ruins_(Entrance)¦Elidar Domain¦|Reila Highlands (Wastes)|1|4|;|Elidar Ruins (Outskirts)|13|15|;World Area|Elidar Domain|15|2|
+Elidar Ruins (Outskirts)¦Elidar_Ruins_(Outskirts)¦Elidar Domain¦|Elidar Ruins (Entrance)|11|2|;|Elidar Ruins (Pillars)|2|13|
+Elidar Ruins (Pillars)¦Elidar_Ruins_(Pillars)¦Elidar Domain¦|Elidar Ruins (Outskirts)|16|10|;|Elidar Ruins (Lair)|3|13|;|Stages 1-2:|10|3|
+Elidar Ruins (Lair)¦Elidar_Ruins_(Lair)¦Elidar Domain¦|Elidar Ruins (Pillars)|4|2|;|Elidar Ruins (Halls)|12|10|;Portal|Elidar Portal|16|4|
+Elidar Ruins (Halls)¦Elidar_Ruins_(Halls)¦Elidar Domain¦|Elidar Ruins (Enclave)|13|2|;|Elidar Ruins (Lair)|1|5|
+Elidar Ruins (Enclave)¦Elidar_Ruins_(Enclave)¦Elidar Domain¦Relic|Drake Treasure Hoard|5|13|;|Elidar Ruins (Grounds)|3|3|;|Elidar Ruins (Halls)|11|17|
+Elidar Ruins (Grounds)¦Elidar_Ruins_(Grounds)¦Elidar Domain¦|Elidar Ruins (Enclave)|16|3|;|Elidar Ruins (Ward)|8|9|
+Elidar Ruins (Ward)¦Elidar_Ruins_(Ward)¦Elidar Domain¦|Elidar Ruins (Grounds)|16|8|;|Rektik Burrows (Larva Chamber)|11|16|
+Rektik Burrows (Larva Chamber)¦Rektik_Burrows_(Larva_Chamber)¦Elidar Domain¦|Rektik Burrows (Maze)|3|3|;|Elidar Ruins (Ward)|12|9|;World Area|Elidar Domain|18|5|;|Stages 3-4:|7|14|
+Rektik Burrows (Maze)¦Rektik_Burrows_(Maze)¦Elidar Domain¦|Rektik Burrows (Ascent)|4|3|;|Rektik Burrows (Larva Chamber)|13|12|
+Rektik Burrows (Ascent)¦Rektik_Burrows_(Ascent)¦Elidar Domain¦|Rektik Burrows (Tunnels)|15|3|;|Rektik Burrows (Maze)|6|15|
+Rektik Burrows (Tunnels)¦Rektik_Burrows_(Tunnels)¦Elidar Domain¦|Rektik Burrows (Ascent)|7|5|;|Rektik Burrows (Barracks)|14|10|
+Rektik Burrows (Barracks)¦Rektik_Burrows_(Barracks)¦Elidar Domain¦|Rektik Burrows (Tunnels)|9|3|;|Rektik Burrows (Entrance)|11|16|;|Stages 5-6:|15|10|
+Rektik Burrows (Entrance)¦Rektik_Burrows_(Entrance)¦Elidar Domain¦|Zekmoor Tundra (Lowlands)|11|4|;|Rektik Burrows (Barracks)|3|10|;Portal|Rektik Portal|9|14|
+Zekmoor Tundra (Lowlands)¦Zekmoor_Tundra_(Lowlands)¦Elidar Domain¦|Rektik Burrows (Entrance)|14|3|;|Zekmoor Tundra (Mire)|3|11|;World Area|Elidar Domain|12|9|;|Stage 7:|14|2|
+Zekmoor Tundra (Mire)¦Zekmoor_Tundra_(Mire)¦Elidar Domain¦Relic|Wight Barrow|3|5|;|Zekmoor Tundra (Lowlands)|14|3|;|Zekmoor Tundra (Drift)|4|15|
+Zekmoor Tundra (Drift)¦Zekmoor_Tundra_(Drift)¦Elidar Domain¦|Zekmoor Tundra (Verge)|3|3|;|Zekmoor Tundra (Mire)|13|13|
+Zekmoor Tundra (Verge)¦Zekmoor_Tundra_(Verge)¦Elidar Domain¦|Zekmoor Tundra (Plateau)|8|4|;|Zekmoor Tundra (Drift)|9|12|
+Zekmoor Tundra (Plateau)¦Zekmoor_Tundra_(Plateau)¦Elidar Domain¦|Zekmoor Tundra (Slopes)|8|3|;|Zekmoor Tundra (Verge)|17|10|;|Stage 8:|5|10|
+Zekmoor Tundra (Slopes)¦Zekmoor_Tundra_(Slopes)¦Elidar Domain¦|Zekmoor Tundra (Plateau)|3|3|;|Gedhar Forest (Outskirts)|15|12|
+Gedhar Forest (Outskirts)¦Gedhar_Forest_(Outskirts)¦Elidar Domain¦|Zekmoor Tundra (Slopes)|8|1|;|Gedhar Forest (Clearing)|9|12|;World Area|Elidar Domain|14|3|
+Gedhar Forest (Clearing)¦Gedhar_Forest_(Clearing)¦Elidar Domain¦|Gedhar Forest (Ascent)|2|6|;|Gedhar Forest (Outskirts)|17|6|;|Stages 9-10:|8|11|
+Gedhar Forest (Ascent)¦Gedhar_Forest_(Ascent)¦Elidar Domain¦|Gedhar Forest (Clearing)|10|4|;|Gedhar Forest (Undergrowth)|8|13|
+Gedhar Forest (Undergrowth)¦Gedhar_Forest_(Undergrowth)¦Elidar Domain¦|Gedhar Forest (Ascent)|3|2|;|Gedhar Forest (Overgrowth)|15|16|;Portal|Gedhar Portal|10|5|
+Gedhar Forest (Lair)¦Gedhar_Forest_(Lair)¦Elidar Domain¦|Gedhar Forest (Overgrowth)|11|2|
+Gedhar Forest (Overgrowth)¦Gedhar_Forest_(Overgrowth)¦Elidar Domain¦|Gedhar Forest (Undergrowth)|2|1|;|Dornath Forest (Deeps)|4|13|;|Gedhar Forest (Lair)|14|16|;|Stages 11-12:|13|16|
+Dornath Forest (Deeps)¦Dornath_Forest_(Deeps)¦Zharr Mountain¦Relic|Bear Den|4|6|;|Dornath Forest (Glade)|16|3|;|Gedhar Forest (Overgrowth)|10|13|;World Area|Zharr Mountain|2|14|;|Stages 1-2:|15|10|
+Dornath Forest (Glade)¦Dornath_Forest_(Glade)¦Zharr Mountain¦|Dornath Forest (Copse)|15|2|;|Dornath Forest (Deeps)|5|11|
+Dornath Forest (Copse)¦Dornath_Forest_(Copse)¦Zharr Mountain¦|Dornath Forest (Darkness)|13|3|;|Dornath Forest (Glade)|4|9|
+Dornath Forest (Darkness)¦Dornath_Forest_(Darkness)¦Zharr Mountain¦|Dornath Forest (Grove)|6|2|;|Dornath Forest (Copse)|10|13|
+Dornath Forest (Grove)¦Dornath_Forest_(Grove)¦Zharr Mountain¦|Dornath Forest (Darkness)|4|7|;|Dornath Forest (Pack Lands)|15|8|
+Dornath Forest (Pack Lands)¦Dornath_Forest_(Pack_Lands)¦Zharr Mountain¦|Dornath Forest (Sting)|3|3|;|Dornath Forest (Grove)|7|13|
+Dornath Forest (Sting)¦Dornath_Forest_(Sting)¦Zharr Mountain¦|Dornath Forest (Colony)|3|6|;|Dornath Forest (Pack Lands)|12|10|
+Dornath Forest (Colony)¦Dornath_Forest_(Colony)¦Zharr Mountain¦|Dornath Forest (Sting)|18|3|;|Soktharg Jungle (Stalk)|3|10|
+Soktharg Jungle (Stalk)¦Soktharg_Jungle_(Stalk)¦Zharr Mountain¦|Soktharg Jungle (Grove)|13|7|;|Dornath Forest (Colony)|3|16|;Portal|Soktharg Portal|2|3|;World Area|Zharr Mountain|9|3|;|Stages 1-2:|11|13|
+Soktharg Jungle (Grove)¦Soktharg_Jungle_(Grove)¦Zharr Mountain¦|Soktharg Jungle (Stalk)|1|2|;|Soktharg Jungle (Prowl)|11|9|
+Soktharg Jungle (Prowl)¦Soktharg_Jungle_(Prowl)¦Zharr Mountain¦Relic|Tiger Kill|12|7|;|Soktharg Jungle (Clearing)|2|3|;|Soktharg Jungle (Grove)|2|16|
+Soktharg Jungle (Clearing)¦Soktharg_Jungle_(Clearing)¦Zharr Mountain¦|Soktharg Jungle (Prowl)|14|3|;|Soktharg Jungle (Slither)|3|16|
+Soktharg Jungle (Slither)¦Soktharg_Jungle_(Slither)¦Zharr Mountain¦|Soktharg Jungle (Clearing)|15|1|;|Soktharg Jungle (Training Grounds)|1|14|;|Stages 1-2:|14|14|
+Soktharg Jungle (Training Grounds)¦Soktharg_Jungle_(Training_Grounds)¦Zharr Mountain¦|Soktharg Jungle (Slither)|16|3|;|Soktharg Jungle (Shaman Haunt)|2|17|
+Soktharg Jungle (Shaman Haunt)¦Soktharg_Jungle_(Shaman_Haunt)¦Zharr Mountain¦|Soktharg Jungle (Training Grounds)|15|1|;|Soktharg Jungle (Edge)|2|14|;|Stage 3:|10|16|
+Soktharg Jungle (Edge)¦Soktharg_Jungle_(Edge)¦Zharr Mountain¦|Soktharg Jungle (Shaman Haunt)|16|2|;|Mistaroth Mountains (Ascent)|7|12|
+Mistaroth Mountains (Ascent)¦Mistaroth_Mountains_(Ascent)¦Zharr Mountain¦|Mistaroth Mountains (Boneyard)|4|6|;|Soktharg Jungle (Edge)|13|14|;World Area|Zharr Mountain|15|3|
+Mistaroth Mountains (Boneyard)¦Mistaroth_Mountains_(Boneyard)¦Zharr Mountain¦|Mistaroth Mountains (Ascent)|16|3|;|Mistaroth Mountains (Haunt)|10|15|
+Mistaroth Mountains (Haunt)¦Mistaroth_Mountains_(Haunt)¦Zharr Mountain¦|Mistaroth Mountains (Boneyard)|2|12|;|Mistaroth Mountains (Wyrd)|11|14|;Portal|Mistaroth Portal|14|3|
+Mistaroth Mountains (Wyrd)¦Mistaroth_Mountains_(Wyrd)¦Zharr Mountain¦|Mistaroth Mountains (Haunt)|11|8|;|Mistaroth Mountains (Prowl)|5|10|
+Mistaroth Mountains (Prowl)¦Mistaroth_Mountains_(Prowl)¦Zharr Mountain¦Relic|Polarwere Altar|14|3|;|Mistaroth Mountains (Wyrd)|3|5|;|Mistaroth Mountains (Howl)|12|13|
+Mistaroth Mountains (Howl)¦Mistaroth_Mountains_(Howl)¦Zharr Mountain¦|Mistaroth Mountains (Prowl)|15|2|;|Mistaroth Mountains (Graze)|7|14|
+Mistaroth Mountains (Graze)¦Mistaroth_Mountains_(Graze)¦Zharr Mountain¦|Mistaroth Mountains (Howl)|3|3|;|Mistaroth Mountains (Scree)|15|14|
+Mistaroth Mountains (Scree)¦Mistaroth_Mountains_(Scree)¦Zharr Mountain¦|Mistaroth Mountains (Graze)|15|3|;|Mistaroth Mountains (Arena)|4|6|;|Stages 1-2:|11|11|
+Mistaroth Ice Cave (Lair)¦Mistaroth_Ice_Cave_(Lair)¦Zharr Mountain¦|Mistaroth Mountains (Arena)|11|13|
+Mistaroth Mountains (Arena)¦Mistaroth_Mountains_(Arena)¦Zharr Mountain¦|Mistaroth Ice Cave (Lair)|12|3|;|Apnoir Wastes (Edge)|3|7|;|Mistaroth Mountains (Scree)|4|14|;|Stages 3-5:|9|9|
+Apnoir Wastes (Edge)¦Apnoir_Wastes_(Edge)¦The Arid Gadralian Expanse¦|Apnoir Wastes (Lowland)|15|2|;|Mistaroth Mountains (Arena)|17|16|;World Area|The Arid Gadralian Expanse|4|13|
+Apnoir Wastes (Lowland)¦Apnoir_Wastes_(Lowland)¦The Arid Gadralian Expanse¦|Apnoir Wastes (Plains)|13|3|;|Apnoir Wastes (Edge)|8|13|;|Stages 1-2:|8|12|
+Apnoir Wastes (Plains)¦Apnoir_Wastes_(Plains)¦The Arid Gadralian Expanse¦|Apnoir Wastes (Lowland)|2|5|;|Apnoir Wastes (Highland)|11|17|
+Apnoir Wastes (Highland)¦Apnoir_Wastes_(Highland)¦The Arid Gadralian Expanse¦|Apnoir Wastes (Plains)|15|2|;|Apnoir Wastes (Ridge)|1|16|;Portal|Apnoir Portal|11|14|
+Apnoir Wastes (Ridge)¦Apnoir_Wastes_(Ridge)¦The Arid Gadralian Expanse¦|Apnoir Wastes (Highland)|13|3|;|Apnoir Wastes (Outskirts)|9|13|
+Apnoir Wastes (Outskirts)¦Apnoir_Wastes_(Outskirts)¦The Arid Gadralian Expanse¦Relic|Sand Elemental Idol|4|12|;|Phudir Sands (Edge)|14|2|;|Apnoir Wastes (Ridge)|16|15|
+Phudir Sands (Edge)¦Phudir_Sands_(Edge)¦The Arid Gadralian Expanse¦|Apnoir Wastes (Outskirts)|6|8|;|Phudir Sands (Barrens)|11|18|;World Area|The Arid Gadralian Expanse|12|9|
+Phudir Sands (Barrens)¦Phudir_Sands_(Barrens)¦The Arid Gadralian Expanse¦|Phudir Sands (Edge)|3|6|;|Phudir Sands (Plains)|15|11|
+Phudir Sands (Plains)¦Phudir_Sands_(Plains)¦The Arid Gadralian Expanse¦|Phudir Sands (Barrens)|12|3|;|Phudir Sands (Dunes)|3|10|
+Phudir Sands (Dunes)¦Phudir_Sands_(Dunes)¦The Arid Gadralian Expanse¦|Phudir Sands (Plains)|5|3|;|Phudir Sands (Flats)|14|14|
+Phudir Sands (Flats)¦Phudir_Sands_(Flats)¦The Arid Gadralian Expanse¦|Phudir Sands (Dunes)|16|5|;|Phudir Sands (Desolation)|4|12|;|Stages 1-2:|11|9|
+Phudir Sands (Desolation)¦Phudir_Sands_(Desolation)¦The Arid Gadralian Expanse¦|Phudir Sands (Oasis)|12|3|;|Phudir Sands (Flats)|16|14|
+Phudir Sands (Oasis)¦Phudir_Sands_(Oasis)¦The Arid Gadralian Expanse¦|Phudir Sands (Desolation)|9|6|;|Phudir Sands (Arids)|4|18|
+Phudir Sands (Arids)¦Phudir_Sands_(Arids)¦The Arid Gadralian Expanse¦|Phudir Sands (Shifting Sands)|18|4|;|Phudir Sands (Oasis)|5|13|;Portal|Phudir Portal|3|3|
+Phudir Sands (Shifting Sands)¦Phudir_Sands_(Shifting_Sands)¦The Arid Gadralian Expanse¦|Phudir Sands (Arids)|4|7|;|Phudir Sands (Wastes)|12|8|
+Phudir Sands (Wastes)¦Phudir_Sands_(Wastes)¦The Arid Gadralian Expanse¦Relic|Orcish Weapon Pile|7|9|;|Phudir Sands (Shifting Sands)|3|3|;|Town of Gadral (Outskirts)|11|17|
+Town of Gadral (Outskirts)¦Town_of_Gadral_(Outskirts)¦The Arid Gadralian Expanse¦|Phudir Sands (Wastes)|7|6|;|Town of Gadral (City Gates)|10|15|;World Area|The Arid Gadralian Expanse|3|12|
+Town of Gadral (City Gates)¦Town_of_Gadral_(City_Gates)¦The Arid Gadralian Expanse¦|Town of Gadral (Outskirts)|5|2|;|Town of Gadral (Merchant District)|12|15|;|Stage 1:|5|3|;|Stages 2-4:|11|12|
+Town of Gadral (Merchant District)¦Town_of_Gadral_(Merchant_District)¦The Arid Gadralian Expanse¦|Town of Gadral (City Gates)|14|2|;|Town of Gadral (Slums)|2|17|;|Stage 5:|1|8|
+Town of Gadral (Slums)¦Town_of_Gadral_(Slums)¦The Arid Gadralian Expanse¦|Town of Gadral (Merchant District)|6|2|;|Town of Gadral (Suburbs)|16|14|
+Town of Gadral (Suburbs)¦Town_of_Gadral_(Suburbs)¦The Arid Gadralian Expanse¦|Town of Gadral (Pavilion)|16|2|;|Town of Gadral (Slums)|2|13|;|Stages 6-7:|2|19|
+Town of Gadral (Pavilion)¦Town_of_Gadral_(Pavilion)¦The Arid Gadralian Expanse¦|Town of Gadral (Guardhouse)|1|2|;|Town of Gadral (Suburbs)|10|13|
+Town of Gadral (Guardhouse)¦Town_of_Gadral_(Guardhouse)¦The Arid Gadralian Expanse¦|Town of Gadral (Courtyard)|2|7|;|Town of Gadral (Pavilion)|17|8|;|Stages 8-9:|15|15|
+Town of Gadral (Courtyard)¦Town_of_Gadral_(Courtyard)¦The Arid Gadralian Expanse¦|Town of Gadral (Inner City)|2|1|;|Town of Gadral (Guardhouse)|16|15|;Portal|Town of Gadral Portal|9|12|
+Town of Gadral (Inner City)¦Town_of_Gadral_(Inner_City)¦The Arid Gadralian Expanse¦|Town of Gadral (Palace)|1|2|;|Town of Gadral (Courtyard)|9|9|;|Stage 10:|5|12|
+Town of Gadral (Palace)¦Town_of_Gadral_(Palace)¦The Arid Gadralian Expanse¦|Tellroth Labyrinth (Crawl)|3|2|;|Town of Gadral (Inner City)|13|2|;|Stages 11-12:|6|8|;|Stages 1-2:|3|3|
+Tellroth Labyrinth (Crawl)¦Tellroth_Labyrinth_(Crawl)¦Tellroth Underworld¦Relic|Tellroth Scarab Statue|3|10|;|Town of Gadral (Palace)|6|6|;|Tellroth Labyrinth (Workshop)|16|10|;World Area|Tellroth Underworld|10|13|;|Stage 3:|15|10|
+Tellroth Labyrinth (Workshop)¦Tellroth_Labyrinth_(Workshop)¦Tellroth Underworld¦|Tellroth Labyrinth (Slime Pit)|11|2|;|Tellroth Labyrinth (Crawl)|2|10|
+Tellroth Labyrinth (Slime Pit)¦Tellroth_Labyrinth_(Slime_Pit)¦Tellroth Underworld¦|Tellroth Labyrinth (Silk Tunnels)|2|3|;|Tellroth Labyrinth (Workshop)|9|14|
+Tellroth Labyrinth (Silk Tunnels)¦Tellroth_Labyrinth_(Silk_Tunnels)¦Tellroth Underworld¦|Tellroth Labyrinth (Webs)|6|3|;|Tellroth Labyrinth (Slime Pit)|16|16|;|Stages 1-2:|11|12|
+Tellroth Labyrinth (Webs)¦Tellroth_Labyrinth_(Webs)¦Tellroth Underworld¦|Tellroth Labyrinth (Silk Tunnels)|5|7|;|Tellroth Labyrinth (Sand Pit)|16|15|;|Stage 3:|16|16|
+Tellroth Labyrinth (Sand Pit)¦Tellroth_Labyrinth_(Sand_Pit)¦Tellroth Underworld¦|Tellroth Labyrinth (Webs)|1|2|;|Tellroth Labyrinth (Bone Yard)|11|12|
+Tellroth Labyrinth (Bone Yard)¦Tellroth_Labyrinth_(Bone_Yard)¦Tellroth Underworld¦|Tellroth Labyrinth (Sand Pit)|13|4|;|Tellroth Labyrinth (Vault)|3|15|
+Tellroth Labyrinth (Vault)¦Tellroth_Labyrinth_(Vault)¦Tellroth Underworld¦|Tellroth Labyrinth (Bone Yard)|15|2|;|Tellroth Labyrinth (Worm Pit)|1|15|
+Tellroth Labyrinth (Worm Pit)¦Tellroth_Labyrinth_(Worm_Pit)¦Tellroth Underworld¦|Tellroth Labyrinth (Jinn Haunt)|5|4|;|Tellroth Labyrinth (Vault)|14|14|;Portal|Tellroth Portal|3|9|
+Tellroth Labyrinth (Jinn Haunt)¦Tellroth_Labyrinth_(Jinn_Haunt)¦Tellroth Underworld¦|Tellroth Labyrinth (Worm Pit)|17|3|;|Tellroth Depths (Mists)|3|19|
+Tellroth Depths (Mists)¦Tellroth_Depths_(Mists)¦Tellroth Underworld¦Relic|Altar of Mists|10|13|;|Tellroth Labyrinth (Jinn Haunt)|13|3|;|Tellroth Depths (Darkness)|2|12|;World Area|Tellroth Underworld|15|9|
+Tellroth Depths (Darkness)¦Tellroth_Depths_(Darkness)¦Tellroth Underworld¦|Tellroth Depths (Coven Ground)|3|2|;|Tellroth Depths (Mists)|12|16|
+Tellroth Depths (Coven Ground)¦Tellroth_Depths_(Coven_Ground)¦Tellroth Underworld¦|Tellroth Depths (Gaol)|3|3|;|Tellroth Depths (Darkness)|12|8|;|Stages 1-3:|14|13|
+Tellroth Depths (Gaol)¦Tellroth_Depths_(Gaol)¦Tellroth Underworld¦|Tellroth Depths (Goo Nest)|6|9|;|Tellroth Depths (Coven Ground)|17|16|;|Stages 4-5:|16|5|
+Tellroth Depths (Goo Nest)¦Tellroth_Depths_(Goo_Nest)¦Tellroth Underworld¦|Tellroth Caverns (Slither)|14|3|;|Tellroth Depths (Gaol)|3|13|
+Tellroth Caverns (Slither)¦Tellroth_Caverns_(Slither)¦Tellroth Underworld¦|Tellroth Depths (Goo Nest)|4|6|;|Tellroth Caverns (Arena)|15|12|;World Area|Tellroth Underworld|2|14|
+Tellroth Caverns (Arena)¦Tellroth_Caverns_(Arena)¦Tellroth Underworld¦|Tellroth Caverns (Shadow)|15|3|;|Tellroth Caverns (Slither)|3|9|
+Tellroth Caverns (Shadow)¦Tellroth_Caverns_(Shadow)¦Tellroth Underworld¦|Tellroth Caverns (Horror)|9|3|;|Tellroth Caverns (Arena)|13|19|
+Tellroth Caverns (Horror)¦Tellroth_Caverns_(Horror)¦Tellroth Underworld¦|Tellroth Caverns (Wolf Lands)|11|3|;|Tellroth Caverns (Shadow)|3|13|;Portal|Tellroth Caverns Portal|10|15|
+Tellroth Caverns (Wolf Lands)¦Tellroth_Caverns_(Wolf_Lands)¦Tellroth Underworld¦|Tellroth Caverns (Horror)|15|3|;|Tellroth Caverns (Ooze)|3|8|
+Tellroth Caverns (Ooze)¦Tellroth_Caverns_(Ooze)¦Tellroth Underworld¦Relic|Ooze Coated Bone Pile|11|8|;|Tellroth Caverns (Nest)|14|3|;|Tellroth Caverns (Wolf Lands)|8|13|
+Tellroth Caverns (Nest)¦Tellroth_Caverns_(Nest)¦Tellroth Underworld¦|Tellroth Caverns (Sepulchre)|13|8|;|Tellroth Caverns (Ooze)|3|13|
+Tellroth Caverns (Sepulchre)¦Tellroth_Caverns_(Sepulchre)¦Tellroth Underworld¦|Tellroth Caverns (Camp)|6|6|;|Tellroth Caverns (Nest)|16|16|;|Stages 1-2:|15|3|
+Tellroth Caverns (Camp)¦Tellroth_Caverns_(Camp)¦Tellroth Underworld¦|Tellroth Caverns (Sepulchre)|13|8|;|Tellroth Caverns (Ooze)|3|13|
+Forest of Yule (Craciunului Village)¦Forest_of_Yule_(Craciunului_Village)¦Krul Island¦|Forest of Yule (Clearing)|13|18|;|Stage 1:|6|12|;|Stage 2:|16|3|;|Stage 3:|3|17|;|Stage 4:|10|6|;|Stage 5:|6|12|
+Tellroth Caverns (Magi Camp)¦Tellroth_Caverns_(Magi_Camp)¦Tellroth Underworld¦|Tellroth Caverns (Cairn)|14|3|;|Tellroth Caverns (Camp)|3|11|;|Tellroth Caverns (Queens Quarters)|15|13|;|Stage 3:|6|5|
+Tellroth Caverns (Queens Quarters)¦Tellroth_Caverns_(Queens_Quarters)¦Tellroth Underworld¦|Tellroth Caverns (Magi Camp)|7|8|;|Stages 4-5:|3|3|

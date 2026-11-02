@@ -1,0 +1,236 @@
+Shuito Desolation (Plain)¦Shuito_Desolation_(Plain)¦¦|Lorsil World Area|15|2|;|Shuito Desolation (Waste)|7|3|;|Chul Castle (Ruins)|14|15|;|Taking the Measure|2|11|
+Shuito Desolation (Waste)¦Shuito_Desolation_(Waste)¦¦|Shuito Desolation (Plain)|2|9|;|Shuito Desolation (Howling Sands)|13|9|
+Shuito Desolation (Howling Sands)¦Shuito_Desolation_(Howling_Sands)¦¦|Shuito Desolation (Waste)|2|2|;|Shuito Desolation (Hollows)|16|2|;|Taking the Measure|5|11|;|Taking the Measure|12|5|
+Shuito Desolation (Hollows)¦Shuito_Desolation_(Hollows)¦¦|Shuito Desolation (Howling Sands)|12|14|;|Zargon Bonevale (Edge)|4|5|
+Zargon Bonevale (Edge)¦Zargon_Bonevale_(Edge)¦¦|Shuito_Desolation_(Hollows)|1|8|;|Lorsil|18|11|;|Zargon Bonevale (Maw)|13|18|;Shop|Zargon Bone Sale|13|16|
+Zargon Bonevale (Maw)¦Zargon_Bonevale_(Maw)¦¦|Zargon Boneval (Edge)|5|8|;|Zargon Boneval (Grasping Earth)|18|17|
+Zargon Bonevale (Grasping Earth)¦Zargon_Bonevale_(Grasping_Earth)¦¦|Zargon Bonevale (Hungry Gloom)|16|2|;|Zargon Bonevale (Maw)|1|14|;Shop|Zargon Wares|6|13|
+Zargon Bonevale (Hungry Gloom)¦Zargon_Bonevale_(Hungry_Gloom)¦¦|Zargon Bonevale (Realmblood Chamber)|12|1|;Relic|Zargon Dragon Spire|21|2|
+Zargon Bonevale (Realmblood Chamber)¦Zargon_Bonevale_(Realmblood_Chamber)¦¦|Zargon Bonevale (Hungry Gloom)|6|6|
+Lorsil Ruins (Broken Halls)¦Lorsil_Ruins_(Broken_Halls)¦¦|Zargon Bonevale (Hungry Gloom)|17|1|;|Lorsil Ruins (Shattered Stone)|1|12|;|Lorsil|17|18|
+Lorsil Ruins (Shattered Stone)¦Lorsil_Ruins_(Shattered_Stone)¦¦|Lorsil Ruins (Broken Halls)|2|8|;|Lorsil Ruins (Haunted Ward)|9|9|;|Lorsil Fortress (Gate)|14|16|
+Lorsil Ruins (Haunted Ward)¦Lorsil_Ruins_(Haunted_Ward)¦¦|Lorsil Ruins (Shattered Stone)|10|1|;Shop|Norvanion Market|2|17|
+Lorsil Fortress (Gate)¦Lorsil_Fortress_(Gate)¦¦|Lorsil Fortress (Courtyard)|14|5|;|Lorsil|2|14|;|Lorsil Ruins (Shattered Stone)|14|15|
+Lorsil Fortress (Courtyard)¦Lorsil_Fortress_(Courtyard)¦¦|Lorsil Fortress (Tomb)|10|1|;|Lorsil Fortress (Hall of Remembrance)|7|6|;|Lorsil Fortress (Portal Wing)|12|6|;|Lorsil Fortress (Gate)|1|9|;|Lorsil Fortress (Tower Level 1)|18|10|;|Lorsil Fortress (West Wing)|7|13|;|Lorsil Fortress (Halls of Ancients)|9|18|;Portal|Portal|12|12|
+Lorsil Fortress (Tomb)¦Lorsil_Fortress_(Tomb)¦¦|Lorsil Fortress (Courtyard)|11|15|;Shop|Rebnevon Trader|2|9|
+Lorsil Fortress (Halls of Ancients)¦Lorsil_Fortress_(Halls_of_Ancients)¦Lorsil¦|Lorsil Fortress (Courtyard)|12|15|
+Lorsil Fortress (Tower Level 1)¦Lorsil_Fortress_(Tower_Level_1)¦Lorsil¦|Lorsil Fortress (Tower Level 2)|6|5|;|Lorsil Fortress (Courtyard)|11|7|
+Lorsil Fortress (Tower Level 2)¦Lorsil_Fortress_(Tower_Level_2)¦Lorsil¦|Lorsil Fortress (Tower Level 1)|2|1|
+Lorsil Fortress (Hall of Remembrance)¦Lorsil_Fortress_(Hall_of_Remembrance)¦Lorsil¦|Lorsil Fortress (Wine Store)|17|4|;|Lorsil Fortress (Courtyard)|3|15|
+Lorsil Fortress (Wine Store)¦Lorsil_Fortress_(Wine_Store)¦Lorsil¦|Lorsil Fortress (Hall of Remembrance)|2|5|;|Lorsil Fortress (Upper Cellar)|10|21|
+Lorsil Fortress (Upper Cellar)¦Lorsil_Fortress_(Upper_Cellar)¦Lorsil¦|Lorsil Fortress (Wine Store)|3|1|;|Lorsil Fortress (Lower Cellar)|3|14|
+Lorsil Fortress (Lower Cellar)¦Lorsil_Fortress_(Lower_Cellar)¦¦|Lorsil Fortress (Catacombs)|8|2|;|Lorsil Fortress (Upper Cellar)|14|11|;Relic|Pit of Suffering|8|2|;|We got Ratmen!|4|15|
+Lorsil Fortress (Catacombs)¦Lorsil_Fortress_(Catacombs)¦Lorsil¦|Lorsil Fortress (Gallery of the Dead)|2|6|;|Lorsil Fortress (Lower Cellar)|12|11|
+Lorsil Fortress (Gallery of the Dead)¦Lorsil_Fortress_(Gallery_of_the_Dead)¦Lorsil¦|Lorsil Fortress (Deep Barrow)|14|1|;|Lorsil Fortress (Catacombs)|2|15|
+Lorsil Fortress (Deep Barrow)¦Lorsil_Fortress_(Deep_Barrow)¦Lorsil¦|Lorsil Fortress (Wraith Lair)|9|1|;|Lorsil Fortress (Gallery of the Dead)|4|17|
+Lorsil Fortress (Wraith Lair)¦Lorsil_Fortress_(Wraith_Lair)¦Lorsil¦|Lorsil Fortress (Deep Barrow)|12|13|
+Lorsil Fortress (West Wing)¦Lorsil_Fortress_(West_Wing)¦Lorsil¦|Lorsil Fortress (Courtyard)|12|1|;|Lorsil Fortress (West Grounds)|12|16|
+Lorsil Fortress (West Grounds)¦Lorsil_Fortress_(West_Grounds)¦Lorsil¦|Lorsil Fortress (West Wing)|4|2|;|Lorsil Woods (Edge)|16|11|
+Lorsil Woods (Edge)¦Lorsil_Woods_(Edge)¦Lorsil¦|Lorsil Fortress (West Grounds)|9|3|;|Lorsil|3|4|;|Lorsil Woods (Clearing)|3|13|
+Lorsil Woods (Clearing)¦Lorsil_Woods_(Clearing)¦Lorsil¦|Lorsil Woods (Edge)|13|3|;|Lorsil Woods (Copse)|2|19|;portal|Portal|5|11|
+Lorsil Woods (Copse)¦Lorsil_Woods_(Copse)¦Lorsil¦|Lorsil Woods (Clearing)|12|7|;|Lorsil Woods (Grove)|3|13|
+Lorsil Woods (Grove)¦Lorsil_Woods_(Grove)¦Lorsil¦|Lorsil Woods (Copse)|1|5|;|Lorsil Woods (Thicket)|12|15|
+Lorsil Woods (Thicket)¦Lorsil_Woods_(Thicket)¦Lorsil¦|Lorsil Woods (Grove)|4|2|;|Lorsil Woods (Orchard Edge)|14|16|
+Lorsil Woods (Orchard Depths)¦Lorsil_Woods_(Orchard_Depths)¦Lorsil¦|Lorsil Woods (Orchard Edge)|4|3|
+Lorsil Woods (Orchard Edge)¦Lorsil_Woods_(Orchard_Edge)¦Lorsil¦|Lorsil Woods (Thicket)|9|1|;|Lorsil Woods (Orchard Depths)|6|14|
+Quango Chasm (Volcanic Core)¦Quango_Chasm_(Volcanic_Core)¦Arrin Moors¦|Quango Chasm|10|10|;|Stages 1-4:|3|5|
+Lorsil Fortress (Portal Wing)¦Lorsil_Fortress_(Portal_Wing)¦Draynoth Bay¦|Port Draynoth (Town Center)|2|2|;|Lorsil Fortress (Courtyard)|2|4|
+Port Draynoth (Town Center)¦Port_Draynoth_(Town_Center)¦Draynoth Bay¦|Port Draynoth (Harbour)|3|2|;|Lorsil Fortress (Portal Wing)|12|8|;|Draynoth Bay|11|15|
+LDN Frigate Ancients Honor¦LDN_Frigate_Ancients_Honor¦Draynoth Bay¦|Eel Reef (Natural Harbour)|8|1|;|Nangoo Island (Beach)|10|1|;|Port Draynoth (Harbour)|4|5|;|Pagdush Island (Coast)|8|5|;|Tainted Isle (Coast)|10|5|;|Stage 3:|15|3|;|Stage 1:|4|2|;|Stage 3:|4|2|
+Port Draynoth (Harbour)¦Port_Draynoth_(Harbour)¦Draynoth Bay¦|LDN Frigate 'Ancients Honor'|14|1|;|Port Draynoth (Town Center)|4|13|
+Pagdush Island (Coast)¦Pagdush_Island_(Coast)¦Draynoth Bay¦|Pagdush Island (Jungle Edge)|2|1|;|LDN Frigate 'Ancients Honor'|13|4|;|Draynoth Bay|11|12|
+Pagdush Island (Jungle Edge)¦Pagdush_Island_(Jungle_Edge)¦Draynoth Bay¦|Pagdush  Island (Jungle Clearing)|14|4|;|Pagdush  Island (Coast)|7|13|
+Pagdush Island (Jungle Clearing)¦Pagdush_Island_(Jungle_Clearing)¦Draynoth Bay¦|Pagdush Island (Jungle Edge)|1|5|;|Pagdush  Island (Jungle Core)|6|11|;Shop|Pagdush Wares|9|4|
+Pagdush Island (Jungle Core)¦Pagdush_Island_(Jungle_Core)¦Draynoth Bay¦|Pagdush  Island (Jungle Clearing)|14|6|
+Tainted Isle (Coast)¦Tainted_Isle_(Coast)¦[[]]¦|Draynoth Bay|14|3|;|LDN Frigate 'Ancients Honor'|2|6|;|Tainted Isle (Edge)|12|9|;Relic|The Green Queen|7|11|
+Tainted Isle (Edge)¦Tainted_Isle_(Edge)¦Draynoth Bay¦|Tainted Isle (Fire Lands)|17|3|;|Tainted Isle (Coast)|3|8|;Portal|Tainted Isle Portal|11|9|
+Tainted Isle (Fire Lands)¦Tainted_Isle_(Fire_Lands)¦Draynoth Bay¦|Tainted Isle (Edge)|15|3|;|Tainted Isle (Flaming Chasm)|2|11|
+Tainted Isle (Flaming Chasm)¦Tainted_Isle_(Flaming_Chasm)¦Draynoth Bay¦|Tainted Isle (Smoldering Depths)|2|6|;|Tainted Isle (Fire Lands)|17|14|
+Tainted Isle (Smoldering Depths)¦Tainted_Isle_(Smoldering_Depths)¦¦|Tainted Isle (Flaming Chasm)|11|8|
+Eel Reef (Natural Harbour)¦Eel_Reef_(Natural_Harbour)¦Draynoth Bay¦|Draynoth Bay|19|3|;|Eel Reef (Tide Pools)|3|4|;|LDN Frigate 'Ancients Honor'|15|8|
+Eel Reef (Tide Pools)¦Eel_Reef_(Tide_Pools)¦Draynoth Bay¦|Eel Reef (Natural Harbour)|17|2|;shop|Eel Shop|7|3|;|Eel Reef (Shallows)|4|10|
+Eel Reef (Shallows)¦Eel_Reef_(Shallows)¦Draynoth Bay¦|Eel Reef (River Mouth)|3|5|;|Eel Reef (Tide Pools)|13|11|
+Eel Reef (River Mouth)¦Eel_Reef_(River_Mouth)¦Draynoth Bay¦|Eel Reef (Rocky Tide Line)|6|3|;|Eel Reef (Shallows)|9|13|
+Eel Reef (Rocky Tide Line)¦Eel_Reef_(Rocky_Tide_Line)¦Draynoth Bay¦|Eel Reef (River Mouth)|16|8|
+Nangoo Island (Beach)¦Nangoo_Island_(Beach)¦Draynoth Bay¦|LDN Frigate 'Ancients Honor'|1|3|;|Nangoo Island (Edges)|16|17|;|Draynoth Bay|3|18|
+Nangoo Island (Edges)¦Nangoo_Island_(Edges)¦Draynoth Bay¦|Nangoo Island (Darkness)|11|3|;|Nangoo Island (Beach)|2|14|
+Nangoo Island (Darkness)¦Nangoo_Island_(Darkness)¦Draynoth Bay¦Portal|portal|12|3|;|Nangoo Island (Edges)|1|4|;|Nangoo Island (Depths)|8|10|
+Nangoo Island (Depths)¦Nangoo_Island_(Depths)¦Draynoth Bay¦|Nangoo Island (Tribal Lands)|10|1|;|Nangoo Island (Darkness)|13|16|;Relic|Altar of Orggok|12|8|
+Nangoo Island (Sacrificial Realm)¦Nangoo_Island_(Sacrificial_Realm)¦Umbar¦|Nangoo Island (Tribal Lands)|1|8|
+Nangoo Island (Tribal Lands)¦Nangoo_Island_(Tribal_Lands)¦Umbar¦|Nangoo Island (Depths)|15|2|;|Nangoo Island (Sacrificial Realm)|15|5|;|Umbar Beach (Coast)|1|18|
+Rat Infested Village¦Rat_Infested_Village¦Umbar¦|Ratcatchers Lair|3|1|;|The Grimmnor Forest|13|19|
+Ratcatchers Lair¦Ratcatchers_Lair¦Umbar¦|Rat Infested Village|2|13|
+Umbar Beach (Coast)¦Umbar_Beach_(Coast)¦Umbar¦|Umbar Beach (Rock Pools)|9|2|;|Nangoo Island (Tribal Lands)|8|14|;World Area|Umbar|3|19|
+Umbar Beach (Rock Pools)¦Umbar_Beach_(Rock_Pools)¦Umbar¦|Umbar Beach (Fishing Straits)|13|3|;|Umbar Beach (Coast)|9|14|
+Umbar Beach (Fishing Straits)¦Umbar_Beach_(Fishing_Straits)¦Umbar¦Portal|Portal|4|4|;|Umbar Settlements (Edge)|12|4|;|Umbar Beach (Rock Pools)|3|13|
+Umbar Settlements (Edge)¦Umbar_Settlements_(Edge)¦Umbar¦|Umbar Settlements (Outskirts)|4|5|;Shop|Kalsarol Shack|16|6|;|Umbar Beach (Fishing Straits)|15|15|;|Umbar|19|15|
+Umbar Settlements (Outskirts)¦Umbar_Settlements_(Outskirts)¦Umbar¦|Umbar Settlements (Edge)|3|3|;|Umbar Settlements (Center)|14|3|
+Umbar Settlements (Center)¦Umbar_Settlements_(Center)¦Umbar¦Shop|Tathgar Mart|5|3|;|Umbrae Caverns (Mouth)|16|5|;|Umbar Settlements (Outskirts)|9|8|
+Umbrae Caverns (Mouth)¦Umbrae_Caverns_(Mouth)¦Umbar¦|Umbrae Caverns (Shroud)|11|4|;|Umbar|15|14|;|Umbar Settlements (Center)|6|15|;Relic|Shadow Well|3|7|
+Umbrae Caverns (Chamber)¦Umbrae_Caverns_(Chamber)¦Umbar¦|Umbrae Caverns (Shroud)|5|2|
+Umbrae Caverns (Shroud)¦Umbrae_Caverns_(Shroud)¦Umbar¦|Umbrae Caverns (Mouth)|8|5|;|Umbrae Caverns (Chamber)|2|10|;|Umbrae Caverns (Scree)|15|13|
+Umbrae Caverns (Scree)¦Umbrae_Caverns_(Scree)¦Umbar¦|Umbrae Caverns (Hall)|15|2|;|Umbrae Caverns (Shroud)|3|10|
+Umbrae Caverns (Hall)¦Umbrae_Caverns_(Hall)¦Umbar¦|Labreg Depths (Shimmer)|10|2|;|Umbrae Caverns (Spawning Pit)|3|7|;|Umbrae Caverns (Scree)|8|12|
+Umbrae Caverns (Spawning Pit)¦Umbrae_Caverns_(Spawning_Pit)¦Umbar¦Shop|Gorshin Trader|2|6|;|Umbrae Caverns (Hall)|11|8|
+Labreg Depths (Shimmer)¦Labreg_Depths_(Shimmer)¦Umbar¦|Labreg Depths (Flats)|3|3|;|Umbrae Caverns (Hall)|14|16|;World Area|Umbar|5|17|;|Stages 1-2:|4|9|
+Labreg Depths (Flats)¦Labreg_Depths_(Flats)¦Umbar¦|Labreg Depths (Shimmer)|15|5|;|Labreg Depths (Lava Lake)|2|12|;|Stage 3|3|7|;|Stage 4|19|14|;|Stage 5|19|14|;|Stage 6|3|7|
+Labreg Depths (Lava Lake)¦Labreg_Depths_(Lava_Lake)¦Umbar¦|Labreg Depths (Cooling)|4|4|;|Labreg Depths (Flats)|15|18|
+Labreg Depths (Cooling)¦Labreg_Depths_(Cooling)¦Umbar¦|Labreg Depths (Lava Lake)|13|10|;|Magmatum Depths (Cavern)|9|11|;|Stage 7 & 8|3|14|
+Magmatum Depths (Cavern)¦Magmatum_Depths_(Cavern)¦Umbar¦|Magmatum Depths (Vent Holes)|4|4|;|Labreg Depths (Cooling)|13|8|;World Area|Umbar|4|14|
+Magmatum Depths (Vent Holes)¦Magmatum_Depths_(Vent_Holes)¦Umbar¦|Labsarx Fortress (Gateway)|2|2|;|Magmatum Depths (Cavern)|14|11|;|Stage 9|11|7|;|Stage 10|11|7|
+Labsarx Fortress (Gateway)¦Labsarx_Fortress_(Gateway)¦Umbar¦|Magmatum Depths (Vent Holes)|2|3|;|Labsarx Fortress (Sermon Hall)|15|10|;World Area|Umbar|3|16|;|Stages 11-12:|3|3|
+Labsarx Fortress (Sermon Hall)¦Labsarx_Fortress_(Sermon_Hall)¦Ranulf Island¦|Labsarx Fortress (Gateway)|7|6|;|Labsarx Fortress (Abbey)|14|9|;Relic|Dark Pulpit|2|3|
+Labsarx Fortress (Abbey)¦Labsarx_Fortress_(Abbey)¦Umbar¦|Labsarx Fortress (Sermon Hall)|14|1|;Portal|Portal|4|15|;|Labsarx Fortress (Nave)|15|17|;|Stages 13-14:|16|8|
+Labsarx Fortress (Cloister)¦Labsarx_Fortress_(Cloister)¦Thangall¦|Labsarx Fortress (Nave)|3|12|;|Stages 17-18:|12|12|
+Labsarx Fortress (Nave)¦Labsarx_Fortress_(Nave)¦Thangall¦|Labsarx Fortress (Cloister)|15|2|;|Labsarx Fortress (Abbey)|2|12|;|Valgotic Mines (Mouth)|16|15|;|Stages 15-16:|3|12|
+Valgotic Mines (Mouth)¦Valgotic_Mines_(Mouth)¦Thangall¦|Labsarx Fortress (Nave)|3|2|;World Area|Thangall|11|6|;|Valgotic Mines (Ore Seam)|19|19|;|Miner Troubles|5|13|
+Valgotic Mines (Ore Seam)¦Valgotic_Mines_(Ore_Seam)¦Thangall¦|Valgotic Mines (Abandoned Section)|19|5|;|Valgotic Mines (Mouth)|1|8|;|Valgotic Mines (Quarry)|10|18|
+Valgotic Mines (Abandoned Section)¦Valgotic_Mines_(Abandoned_Section)¦Thangall¦|Valgotic Mines (Ore Seam)|2|16|;|Stages 1-2:|12|3|
+Valgotic Mines (Quarry)¦Valgotic_Mines_(Quarry)¦Thangall¦|Valgotic Mines (Smelters)|7|1|;|Valgotic Mines (Ore Seam)|15|17|
+Valgotic Mines (Smelters)¦Valgotic_Mines_(Smelters)¦Thangall¦|Valgotic Mines (Quarry)|12|4|;Shop|Valgotic Supplies|4|13|;|Valgotic Halls (Barracks)|13|14|;|Stage 1 and 2|16|13|
+Valgotic Halls (Barracks)¦Valgotic_Halls_(Barracks)¦Thangall¦|Valgotic Mines (Smelters)|11|1|;World Area|Thangall|2|4|;Portal|Portal|9|9|;|Valgotic Halls (Foundry)|2|16|
+Valgotic Halls (Foundry)¦Valgotic_Halls_(Foundry)¦Thangall¦|Valgotic Halls (Golem Smelting)|13|1|;|Valgotic Halls (Barracks)|15|14|;|Stages 1-3:|9|6|
+Valgotic Halls (Golem Smelting)¦Valgotic_Halls_(Golem_Smelting)¦Thangall¦|Valgotic Halls (Golem Yard)|2|12|;|Valgotic Halls (Foundry)|12|14|
+Valgotic Halls (Golem Yard)¦Valgotic_Halls_(Golem_Yard)¦Dwarf Realm of Trun¦|Valgotic Halls (Engine Construction Yard)|4|3|;|Valgotic Halls (Golem Smelting)|13|18|;Relic|Ancestor Statue|3|20|
+Valgotic Halls (Engine Construction Yard)¦Valgotic_Halls_(Engine_Construction_Yard)¦Thangall¦|Valgotic Halls (Engine Hanger)|19|3|;|Valgotic Halls (Golem Yard)|6|13|;|Thangall Forest (Thicket)|19|14|;|Stages 1 and 2:|12|10|
+Valgotic Halls (Engine Hanger)¦Valgotic_Halls_(Engine_Hanger)¦Thangall¦|Valgotic Halls (Engine Construction Yard)|1|8|;|Stages 3-5:|2|8|
+Thangall Forest (Thicket)¦Thangall_Forest_(Thicket)¦Thangall¦World Area|Thangall|4|6|;|Valgotic Halls (Engine Construction Yard)|8|9|;|Thangall Forest (Glade)|14|18|
+Thangall Forest (Glade)¦Thangall_Forest_(Glade)¦Thangall¦|Thangall Forest (Clearing)|10|7|;|Thangall Forest (Thicket)|2|19|
+Thangall Forest (Clearing)¦Thangall_Forest_(Clearing)¦Thangall¦|Thangall Forest (Glade)|11|7|;|Thangall Forest (Copse)|3|15|
+Thangall Forest (Copse)¦Thangall_Forest_(Copse)¦Thangall¦|Thangall Watchtower (Base)|4|4|;|Thangall Forest (Clearing)|11|14|
+Thangall Watchtower (Base)¦Thangall_Watchtower_(Base)¦Thangall¦|Thangall Forest (Copse)|2|6|;|Thangall Watchtower (Top)|7|13|;|Stages 5-6:|3|6|
+Thangall Watchtower (Top)¦Thangall_Watchtower_(Top)¦Thangall¦|Atrum Town (Outskirts)|16|10|;|Thangall Watchtower (Base)|3|16|;|Stage 7|3|15|;|Stage 8|7|9|;|Stage 9|3|15|
+Atrum Town (Outskirts)¦Atrum_Town_(Outskirts)¦Thangall¦|Thangall Watchtower (Top)|4|4|;|Thangall|4|14|;|Atrum Town (Center)|13|15|;|Stage 10 & 11|5|10|
+Atrum Town (Center)¦Atrum_Town_(Center)¦Gwithian¦|Atrum Town (Outskirts)|13|2|;|Atrum Town (Slums)|3|14|;Relic|Atrum Gallows|6|7|
+Atrum Town (Slums)¦Atrum_Town_(Slums)¦Thangall¦|Atrum Graveyard (Desecrated Plots)|6|5|;|Atrum Town (Center)|13|14|;Portal|Portal|11|15|;|Stages 12 & 13|14|7|
+Atrum Graveyard (Desecrated Plots)¦Atrum_Graveyard_(Desecrated_Plots)¦Thangall¦|Atrum Graveyard (Tombs)|14|9|;|Zendell Swamp (Boggy Waste)|1|10|;|Atrum Town (Slums)|2|21|;|Stages 14 & 15|13|9|
+Atrum Graveyard (Tombs)¦Atrum_Graveyard_(Tombs)¦Thangall¦|Atrum Graveyard (Desecrated Plots)|2|10|;|Stages 16 & 17|3|10|
+Zendell Swamp (Boggy Waste)¦Zendell_Swamp_(Boggy_Waste)¦Thangall¦|Atrum Graveyard (Desecrated Plots)|3|6|;|Zendell Swamp (Darkness)|11|14|;World Area|Thangall|3|16|;|Stages 1 and 2|11|5|
+Zendell Swamp (Darkness)¦Zendell_Swamp_(Darkness)¦Thangall¦|Zendell Swamp (Boggy Waste)|17|5|;|Zendell Swamp (Sump)|4|14|
+Zendell Swamp (Sump)¦Zendell_Swamp_(Sump)¦Thangall¦|Zendell Keep (Gates)|13|4|;|Zendell Swamp (Darkness)|4|10|;|Zendell Mire (Bog)|4|16|;Portal|Portal|8|12|;|Stages 3, 4, and 5|12|19|
+Zendell Keep (Gates)¦Zendell_Keep_(Gates)¦Thangall¦|Zendell Keep (Courtyard)|12|3|;|Zendell Swamp (Sump)|14|20|;|Stages 6 and 7|14|19|
+Zendell Keep (Courtyard)¦Zendell_Keep_(Courtyard)¦Thangall¦|Zendell Keep Dungeon (Antechamber)|11|7|;|Zendell Keep (Gates)|4|19|;World Area|Thangall|3|2|
+Zendell Keep Dungeon (Antechamber)¦Zendell_Keep_Dungeon_(Antechamber)¦Thangall¦|Zendell Keep Dungeon (Depths)|2|2|;|Zendell Keep (Courtyard)|13|11|
+Zendell Keep Dungeon (Depths)¦Zendell_Keep_Dungeon_(Depths)¦Thangall¦|Zendell Keep Dungeon (Antechamber)|14|6|;|Zendell Keep (Barracks)|11|15|;|Stage 8|6|9|
+Zendell Keep (Barracks)¦Zendell_Keep_(Barracks)¦The Kingdom of Chul¦|Zendell Keep (Battlements)|14|6|;|Zendell Keep Dungeon (Depths)|3|15|;Relic|Zendell Weapon Cache|13|16|
+Zendell Keep (Battlements)¦Zendell_Keep_(Battlements)¦Thangall¦|Zendell Keep (Audience Chamber)|15|2|;|Zendell Keep (Barracks)|2|18|;|Stages 9 and 10|4|11|
+Grimvorne Manor¦Grimvorne_Manor¦Krul Island¦|Oidhche Shamhna|6|5|;|Stages 1-4:|11|17|
+Zendell Keep (Audience Chamber)¦Zendell_Keep_(Audience_Chamber)¦¦|Zendell Keep (Battlements)|7|11|;|Zendell Keep (Sanctum)|2|7|
+Zendell Keep (Sanctum)¦Zendell_Keep_(Sanctum)¦¦|Zendell Keep (Audience Chamber)|3|6|;|Stages 11 and 12|9|5|
+Zendell Mire (Bog)¦Zendell_Mire_(Bog)¦¦|Zendell Swamp (Sump)|13|6|;|Zendell Mire (Wallow)|3|16|;World Area|Dyseki|4|7|;|Stages 1 & 2|8|2|
+Zendell Mire (Wallow)¦Zendell_Mire_(Wallow)¦¦|Zendell Mire (Bog)|14|7|;|Zendell Mire (Orchard)|3|3|;Shop|Waterlogged Wallow Wares|2|18|
+Zendell Mire (Orchard)¦Zendell_Mire_(Orchard)¦¦|Zendell Mire (Wallow)|16|12|;|Zendell Mire (Edge)|3|3|;|Mired in Trouble Location 2:|8|10|
+Zendell Mire (Edge)¦Zendell_Mire_(Edge)¦¦|Zendell Mire (Orchard)|8|6|;|Atrum Farmland (Labor Homes)|2|12|
+Atrum Farmland (Labor Homes)¦Atrum_Farmland_(Labor_Homes)¦¦|Zendell Mire (Edge)|2|18|;|Atrum Farmland (Milking Barns)|14|9|;World Area|Dyseki|10|2|;|Rotten Havest|9|14|
+Atrum Farmland (Milking Barns)¦Atrum_Farmland_(Milking_Barns)¦¦|Atrum Farmland (Labor Homes)|1|7|;|Atrum Farmland (Farmers Holdings)|14|14|;Relic|Atrum Cow Inna Bun|12|6|;|Rotten Havest Location 2:|6|2|
+Atrum Farmland (Farmers Holdings)¦Atrum_Farmland_(Farmers_Holdings)¦¦|Atrum Farmland (Milking Barns)|7|1|;|Dyseki Town (Outskirts)|14|15|
+Dyseki Town (Outskirts)¦Dyseki_Town_(Outskirts)¦¦|Atrum Farmland (Farmers Holdings)|8|2|;|Dyseki Town (Suburbs)|2|8|;|Dyseki|20|2|;Portal|Dyseki Portal|8|14|;Shop|Dyseki Doo Dads|15|4|;|The Necromancer Revealed!|8|3|
+Dyseki Town (Suburbs)¦Dyseki_Town_(Suburbs)¦¦|Dyseki Town (Outskirts)|14|3|;|Dyseki Town (Center)|4|15|
+Dyseki Town (Center)¦Dyseki_Town_(Center)¦¦|Dyseki Town (Suburbs)|11|2|;|Dyseki Town (Mayors Quarters)|5|16|;|Tarran Wastes (Plains)|16|1|;|Stage 2:|13|10|
+Dyseki Town (Mayors Quarters)¦Dyseki_Town_(Mayors_Quarters)¦¦|Dyseki Town (Center)|4|6|;|Stage 3:|11|11|
+Tarran Wastes (Plains)¦Tarran_Wastes_(Plains)¦¦|Dyseki Town (Center)|14|17|;|Tarran Wastes (Expanse)|5|11|;|The Bane Wastes|4|4|;|Tree Stump Terror|13|3|
+Tarran Wastes (Expanse)¦Tarran_Wastes_(Expanse)¦¦|Tarran Wastes (Plains)|13|17|;|Tarran Wastes (Haunted Plains)|9|5|
+Tarran Wastes (Haunted Plains)¦Tarran_Wastes_(Haunted_Plains)¦¦|Tarran Wastes (Expanse)|2|7|;|Tarran Wastes (Roost)|13|13|;Shop|Tarran Wares|13|2|;Relic|Tusk Megalith|8|6|;|Wild, Wrathful Wind|4|14|
+Tarran Wastes (Roost)¦Tarran_Wastes_(Roost)¦¦|Tarran Wastes (Haunted Plains)|7|4|;|Ungla Mountains (Grazing Lands)|13|16|
+Ungla Mountains (Grazing Lands)¦Ungla_Mountains_(Grazing_Lands)¦¦|Tarran Wastes (Roost)|15|5|;|Ungla Mountains (Slime Haunt)|7|7|;|The Bane Wastes|13|12|;Shop|Ungla Emporium|2|3|
+Ungla Mountains (Slime Haunt)¦Ungla_Mountains_(Slime_Haunt)¦¦|Ungla Mountains (Grazing Lands)|3|15|;|Ungla Mountains (Heights)|12|3|;Portal|Ungla Portal|5|7|
+Ungla Mountains (Heights)¦Ungla_Mountains_(Heights)¦¦|Bane Pass (Rubble)|5|2|;|Ungla Mountains (Slime Haunt)|14|14|
+Bane Pass (Rubble)¦Bane_Pass_(Rubble)¦¦|Bane Pass (Worm Paths)|1|5|;|Ungla Mountains (Heights)|15|10|;World Area|The Bane Wastes|3|17|
+Bane Pass (Worm Paths)¦Bane_Pass_(Worm_Paths)¦¦|Bane Pass (Pack Lands)|2|2|;|Bane Pass (Rubble)|18|14|
+Bane Pass (Ogres Dwelling)¦Bane_Pass_(Ogres_Dwelling)¦¦|Bane Pass (Pack Lands)|2|3|;|Toll at Bane Pass Location 2:|11|12|
+Bane Pass (Pack Lands)¦Bane_Pass_(Pack_Lands)¦¦|Bane Pass (Ogres Dwelling)|15|7|;|Blighted Forest (Edge)|1|13|;|Bane Pass (Worm Paths)|11|16|;|Toll at Bane Pass|11|15|
+Blighted Forest (Edge)¦Blighted_Forest_(Edge)¦¦|Bane Pass (Pack Lands)|5|19|;|Blighted Forest (Enclosed Brush)|15|12|;World Area|Terror Forest|14|2|;|Stage 1 & 2:|4|10|;|Stage 3 & 4:|2|2|;|Stage 5, 6, 7, 8:|9|4|;|Stage 9 & 10:|9|7|
+Blighted Forest (Enclosed Brush)¦Blighted_Forest_(Enclosed_Brush)¦¦|Blighted Forest (Edge)|7|15|;|Blighted Forest (Open Meadow)|13|3|;|Blighted Forest (Brush)|18|20|;|Terror Forest (Dead Wood)|20|7|
+Blighted Forest (Open Meadow)¦Blighted_Forest_(Open_Meadow)¦¦|Blighted Forest (Enclosed Brush)|4|14|;Shop|Blighted Wares|7|9|;|My Own Path Location 2|2|2|
+Blighted Forest (Brush)¦Blighted_Forest_(Brush)¦¦|Blighted Forest (Enclosed Brush)|9|4|;Relic|Lump of Raw Dark Magic|16|4|
+Terror Forest (Dead Wood)¦Terror_Forest_(Dead_Wood)¦¦|Blighted Forest (Enclosed Brush)|4|10|;|Terror Forest (Lost Souls)|16|3|;World Area|Terror Forest|2|2|;|My Own Path Location 3|9|4|
+Terror Forest (Lost Souls)¦Terror_Forest_(Lost_Souls)¦¦|Terror Forest (Dead Wood)|2|2|;|Terror Forest (Central Deep)|12|10|;Portal|Portal|13|2|
+Terror Forest (Central Deep)¦Terror_Forest_(Central_Deep)¦¦|Terror Forest (Lost Souls)|2|13|;|Terror Forest (Dark)|17|10|;Shop|Terror Mart|14|15|;|My Own Path Location 4|9|7|
+Terror Forest (Dark)¦Terror_Forest_(Dark)¦¦|Terror Forest (Central Deep)|2|10|;|Terror Swamp (Marshes)|16|12|
+Terror Swamp (Marshes)¦Terror_Swamp_(Marshes)¦¦|Terror Forest (Dark)|5|9|;|Terror Swamp (Waste Land)|4|18|;World Area|Terror Forest|3|3|;|Strong Ju Ju|15|4|
+Terror Swamp (Depths)¦Terror_Swamp_(Depths)¦¦|Terror Swamp (Waste Land)|11|3|;|Stage 3:|4|7|
+Terror Swamp (Waste Land)¦Terror_Swamp_(Waste_Land)¦¦|Terror Swamp (Marshes)|3|3|;|Terror Swamp (Depths)|15|11|;|Azum Swamps (Outskirts)|16|2|;|Stage 2:|9|5|
+Azum Swamps (Outskirts)¦Azum_Swamps_(Outskirts)¦¦|Terror Swamp (Waste Land)|2|2|;|Azum Swamps (Thicket)|12|13|;|Katannis|2|12|;Shop|Azum Mart|12|8|;|Azum Passage|12|2|
+Azum Swamps (Thicket)¦Azum_Swamps_(Thicket)¦¦|Azum Swamps (Outskirts)|4|3|;|Azum Swamps (Clearing)|2|13|
+Azum Swamps (Clearing)¦Azum_Swamps_(Clearing)¦¦|Azum Swamps (Thicket)|13|2|;|Shuri Plains (Grasslands)|13|7|;|Azum Passage Location 2|2|14|
+Shuri Plains (Grasslands)¦Shuri_Plains_(Grasslands)¦¦|Azum Swamps (Clearing)|3|12|;|Shuri Plains (Upland)|15|8|;|Katannis|3|5|
+Shuri Plains (Upland)¦Shuri_Plains_(Upland)¦¦|Shuri Plains (Grasslands)|2|7|;|Shuri Plains (Edge)|11|13|;Portal|Shuri Portal|4|13|;|Trial by Sni Ide|12|2|
+Shuri Plains (Edge)¦Shuri_Plains_(Edge)¦¦|Shuri Plains (Upland)|6|3|;|Zazir Flats (Outskirts)|3|13|;|Trial by Sni Ide Location 2|12|12|
+Zazir Flats (Outskirts)¦Zazir_Flats_(Outskirts)¦¦|Shuri Plains (Edge)|2|2|;|Zazir Flats (Dunes)|14|14|;Shop|Zazir Wares|2|13|;Relic|Ideannis God Totem|13|2|;|Katannis|10|11|
+Zazir Flats (Dunes)¦Zazir_Flats_(Dunes)¦¦|Zazir Flats (Outskirts)|2|10|;|Kirmoor Hills (Ridge)|13|2|
+Kirmoor Hills (Ridge)¦Kirmoor_Hills_(Ridge)¦¦|Zazir Flats (Dunes)|1|2|;|Kirmoor Hills (Heights)|10|5|;|Katannis|4|13|;|Akuna Trial by Combat!|13|13|
+Kirmoor Hills (Heights)¦Kirmoor_Hills_(Heights)¦¦|Kirmoor Hills (Ridge)|11|6|;|Kirmoor Hills (Peak)|7|8|;|Cawfist Jungle (Outskirts)|10|14|;|Akuna Trial by Combat! Location 2|2|14|
+Kirmoor Hills (Peak)¦Kirmoor_Hills_(Peak)¦¦|Kirmoor Hills (Heights)|6|7|
+Cawfist Jungle (Outskirts)¦Cawfist_Jungle_(Outskirts)¦¦|Kirmoor Hills (Heights)|10|1|;|Dark Ocean (Coast)|13|5|;|Jungle of Vapon|9|9|;|Fighting Furious Fauna|12|2|
+Dark Ocean (Coast)¦Dark_Ocean_(Coast)¦¦|Cawfist Jungle (Outskirts)|3|7|;|Dark Ocean (River inlet)|13|13|;Shop|Dark Ocean Supplies|13|3|;|Fighting Furious Fauna Location 2|2|13|
+Dark Ocean (River Inlet)¦Dark_Ocean_(River_Inlet)¦¦|Dark Ocean (Coast)|2|8|;|Dirkul Jungle (Thicket)|3|2|;|Vipesh Sands|13|3|;|Fighting Furious Fauna Location 3|12|13|
+Dirkul Jungle (Thicket)¦Dirkul_Jungle_(Thicket)¦¦|Dark Ocean (River Inlet)|4|3|;|Vipesh Sands|8|7|;|Fighting Furious Fauna Location 4|7|8|
+Vipesh Sands¦Vipesh_Sands¦¦|Dark Ocean (River Inlet)|3|2|;|Dirkul Jungle (Thicket)|12|12|;|Longmoor Marsh (Edge)|3|12|;|Jungle of Vapon|5|6|;Relic|Vipesh Demon Pole|12|2|
+Longmoor Marsh (Edge)¦Longmoor_Marsh_(Edge)¦¦|Vipesh Sands|2|2|;|Longmoor Marsh (Bog)|13|3|
+Longmoor Marsh (Bog)¦Longmoor_Marsh_(Bog)¦¦|Longmoor Marsh (Edge)|6|2|;|Vapon Jungle (Clearing)|13|8|;Shop|Longmoor Wares|8|13|;Portal|??? Portal|2|5|
+Vapon Jungle (Clearing)¦Vapon_Jungle_(Clearing)¦¦|Longmoor Marsh (Bog)|1|8|;|Vapon Jungle (Ridge)|14|1|;|Jungle of Vapon|11|8|
+Vapon Jungle (Ridge)¦Vapon_Jungle_(Ridge)¦¦|Vapon Jungle (Clearing)|2|13|;|Vapon Jungle (Midst)|12|6|;|Jungle of Vapon|11|8|
+Fanglore (Temple)¦Fanglore_(Temple)¦¦|Vapon Jungle (Midst)|1|11|;|Recipe of Demonic Death Location 2|7|6|
+Vapon Jungle (Midst)¦Vapon_Jungle_(Midst)¦¦|Vapon Jungle (Ridge)|2|9|;|Fanglore (Temple)|9|8|;|Broken Kingsway (Highroad)|16|2|;|Recipe of Demonic Death Location 2|10|3|
+Broken Kingsway (Highroad)¦Broken_Kingsway_(Highroad)¦[[]]¦shop|Kingsway Supplies|2|2|;|Lacedonia|17|2|;|Vapon Jungle (Midst)|2|7|;|Broken Kingsway (Carriageway)|27|7|
+Broken Kingsway (Carriageway)¦Broken_Kingsway_(Carriageway)¦[[]]¦|Broken Kingsway (Highroad)|2|2|;|Lacedonia (Poor Quarter)|13|17|
+Lacedonia (Poor Quarter)¦Lacedonia_(Poor_Quarter)¦[[]]¦|Broken Kingsway (Carriageway)|2|1|;|Lacedonia|13|1|;|Lacedonia (Merchant Quarter)|14|12|
+Lacedonia (Merchant Quarter)¦Lacedonia_(Merchant_Quarter)¦[[]]¦|Lacedonia (Sewers)|8|2|;portal|portal|2|4|;|Lacedonia (Poor Quarter)|1|8|
+Lacedonia (Sewers)¦Lacedonia_(Sewers)¦[[]]¦|Lacedonia (Merchant Quarter)|6|1|;|Lacedonia (Overflow)|15|10|
+Lacedonia (Overflow)¦Lacedonia_(Overflow)¦[[]]¦|Lacedonia (Sewers)|1|2|;|Opyly Pass (Gap)|16|3|
+Opyly Pass (Gap)¦Opyly_Pass_(Gap)¦[[]]¦|Opyly Pass (Gorge)|9|1|;|Lacedonia (Overflow)|1|10|;|'Lacedonia\'|14|14|
+Opyly Pass (Gorge)¦Opyly_Pass_(Gorge)¦¦|Opyly Pass (Narrows)|7|1|;Relic|King Nemes Tomb|14|3|;Shop|Opyly Wares|8|10|;|Opyly Pass (Gap)|9|17|
+Opyly Pass (Narrows)¦Opyly_Pass_(Narrows)¦[[]]¦|Opyly Pass (Defile)|7|1|;|Opyly Pass (Gorge)|7|23|
+Opyly Pass (Defile)¦Opyly_Pass_(Defile)¦[[]]¦|Opyly Pass (Switchback)|2|1|;|Opyly Pass (Narrows)|16|28|
+Opyly Pass (Switchback)¦Opyly_Pass_(Switchback)¦[[]]¦|Opyly Paths (Ridge Way)|20|1|;|Opyly Pass (Watchtower)|27|2|;|Opyly Pass (Defile)|26|18|
+Opyly Pass (Watchtower)¦Opyly_Pass_(Watchtower)¦[[]]¦shop|Watchtower Supplies|8|3|;|Opyly Pass (Switchback)|7|13|
+Opyly Paths (Ridge Way)¦Opyly_Paths_(Ridge_Way)¦The Daedus Labyrinth¦World Area|The Daedus Labyrinth|5|2|;|Opyly Paths (Hidden Trail)|1|14|;|Opyly Pass (Switchback)|9|15|
+Opyly Paths (Hidden Trail)¦Opyly_Paths_(Hidden_Trail)¦The Daedus Labyrinth¦|Daedus Labyrinth (Gate)|10|1|;|Opyly Paths (Ridge Way)|16|13|;|Stages 1-2:|10|13|
+Daedus Labyrinth (Gate)¦Daedus_Labyrinth_(Gate)¦The Daedus Labyrinth¦|Daedus Labyrinth (Outskirts)|2|13|;|Opyly Paths (Hidden Trail)|13|13|;|Stages 3-4:|13|2|
+Daedus Labyrinth (Outskirts)¦Daedus_Labyrinth_(Outskirts)¦The Daedus Labyrinth¦|Daedus Labyrinth (Corridors)|2|3|;Relic|Daedus Stone Map|2|7|;|The Daedus Labyrinth|15|10|;|Daedus Labyrinth (Gate)|8|15|
+Daedus Labyrinth (Corridors)¦Daedus_Labyrinth_(Corridors)¦The Daedus Labyrinth¦|Daedus Labyrinth (Outskirts)|2|2|;Shop|Daedus Weaver|16|2|;|Daedus Labyrinth (Halls)|7|10|;|Stage 5:|7|9|;|Stage 6:|2|16|;|Stage 7:|16|15|;|Stage 8:|7|9|
+Daedus Labyrinth (Halls)¦Daedus_Labyrinth_(Halls)¦The Daedus Labyrinth¦|Daedus Labyrinth (Corridors)|2|7|;Portal|Portal|11|8|;|Daedus Labyrinth (Pathways)|8|16|
+Daedus Labyrinth (Pathways)¦Daedus_Labyrinth_(Pathways)¦The Daedus Labyrinth¦|Daedus Labyrinth (Depths)|14|2|;World Area|The Daedus Labyrinth|2|7|;|Daedus Labyrinth (Halls)|10|16|;|Stages 8-9:|10|13|
+Daedus Labyrinth (Depths)¦Daedus_Labyrinth_(Depths)¦The Daedus Labyrinth¦|Daedus Labyrinth (Pathways)|16|2|;|Daedus Labyrinth (Dark Lair)|11|14|
+Daedus Labyrinth (Dark Lair)¦Daedus_Labyrinth_(Dark_Lair)¦The Daedus Labyrinth¦|Daedus Labyrinth (Inner Chambers)|16|4|;|Daedus Labyrinth (Depths)|10|14|;|Stages 11-12:|15|11|
+Daedus Labyrinth (Heart)¦Daedus_Labyrinth_(Heart)¦The Daedus Labyrinth¦|Daedus Labyrinth (Inner Chambers)|12|13|;|Stages 16-17:|12|2|
+Daedus Labyrinth (Inner Chambers)¦Daedus_Labyrinth_(Inner_Chambers)¦The Daedus Labyrinth¦|Otium Wood (Border)|8|1|;|Daedus Labyrinth (Heart)|14|1|;|Daedus Labyrinth (Dark Lair)|1|3|;Shop|Tarquan Outlet|15|7|;|Stages 13:|2|9|;|Stages 14:|14|2|
+Otium Wood (Border)¦Otium_Wood_(Border)¦Bay of Whispers¦|Otium Wood (Thicket)|16|2|;|Bay of Whispers|2|3|;Shop|Kolindor Market|9|8|;|Daedus Labyrinth (Inner Chambers)|12|16|;|Stages 1-2:|2|11|
+Otium Wood (Thicket)¦Otium_Wood_(Thicket)¦Bay of Whispers¦|Otium Wood (Grove)|2|10|;|Otium Wood (Border)|14|14|
+Otium Wood (Grove)¦Otium_Wood_(Grove)¦Bay of Whispers¦|Otium Wood (Thicket)|15|5|;|Masetas Isle (Edge)|9|13|;|Stage 3-4:|4|13|
+Masetas Isle (Edge)¦Masetas_Isle_(Edge)¦Bay of Whispers¦|Otium Wood (Grove)|10|1|;|Masetas Isle (Clearing)|2|7|
+Masetas Isle (Clearing)¦Masetas_Isle_(Clearing)¦Bay of Whispers¦|Masetas Isle (Edge)|15|2|;World Area|Bay of Whispers|1|8|;|Masetas Isle (Tangle)|15|16|
+Masetas Isle (Tangle)¦Masetas_Isle_(Tangle)¦Bay of Whispers¦|Masetas Isle (Clearing)|14|1|;|Masetas Isle (Snarl)|1|16|;Relic|Whispering Crystal|14|3|;|Stage 5 and 8:|14|15|;|Stages 6-7:|8|8|
+Masetas Isle (Snarl)¦Masetas_Isle_(Snarl)¦Bay of Whispers¦|Masetas Isle (Tangle)|15|8|;|Rillian Refuge (Threshhold)|1|14|
+Rillian Refuge (Threshhold)¦Rillian_Refuge_(Threshhold)¦Bay of Whispers¦Portal|Portal|2|2|;World Area|Bay of Whispers|12|2|;|Masetas Isle (Snarl)|16|3|;|Rillian Refuge (Ascent)|5|11|;|Stages 9-10:|15|3|
+Rillian Refuge (Ascent)¦Rillian_Refuge_(Ascent)¦Bay of Whispers¦|Rillian Refuge (Overlook)|10|11|;|Rillian Refuge (Threshhold)|4|13|
+Rillian Refuge (Overlook)¦Rillian_Refuge_(Overlook)¦Bay of Whispers¦|Mattix Coast (Shoreline)|2|2|;|Rillian Refuge (Spire)|12|4|;|Rillian Refuge (Ascent)|12|10|;Shop|Warloth Trader|3|13|;|Stages 11-12:|13|12|
+Rillian Refuge (Spire)¦Rillian_Refuge_(Spire)¦Bay of Whispers¦|Rillian Refuge (Overlook)|9|7|;|Stages 13-14:|9|3|
+Mattix Coast (Shoreline)¦Mattix_Coast_(Shoreline)¦Dead Coast of Mattix¦World Area|Dead Coast of Mattix|2|4|;|Rillian Refuge (Overlook)|13|11|;|Mattix Coast (Shingle)|6|19|;|Stages 1-2:|7|2|
+Mattix Coast (Shingle)¦Mattix_Coast_(Shingle)¦Dead Coast of Mattix¦|Mattix Coast (Shoreline)|15|3|;|Mattix Coast (Sea View)|4|15|
+Mattix Coast (Sea Locker)¦Mattix_Coast_(Sea_Locker)¦Dead Coast of Mattix¦|Mattix Coast (Sea View)|2|2|;Shop|Mattix Shack|4|2|
+Mattix Coast (Sea View)¦Mattix_Coast_(Sea_View)¦¦|Mattix Coast (Shingle)|2|2|;|Mattix Sands (Dunes)|6|16|;|Mattix Coast (Sea Locker)|13|16|;Relic|Undiggable X|8|2|;|Stages 1 and 3:|14|10|;|Stage 2:|14|16|
+Mattix Sands (Dunes)¦Mattix_Sands_(Dunes)¦Dead Coast of Mattix¦|Mattix Coast (Sea View)|12|2|;|Mattix Sands (Waste)|2|8|;World Area|Dead Coast of Mattix|14|16|
+Mattix Sands (Waste)¦Mattix_Sands_(Waste)¦Dead Coast of Mattix¦|Mattix Sands (Dunes)|14|2|;|Mattix Sands (Drift)|14|15|;|Stages 1-2:|2|2|
+Mattix Sands (Drift)¦Mattix_Sands_(Drift)¦Dead Coast of Mattix¦|Mattix Sands (Waste)|16|2|;|Mattix Sands (Desolate)|2|6|;|Mattix Sands (Plain)|12|16|
+Mattix Sands (Desolate)¦Mattix_Sands_(Desolate)¦Dead Coast of Mattix¦|Mattix Sands (Drift)|15|10|;|Stages 1-2:|15|12|
+Mattix Sands (Plain)¦Mattix_Sands_(Plain)¦Dead Coast of Mattix¦|Mattix Sands (Drift)|11|2|;|Mattix Cove (Shallows)|14|9|
+Mattix Cove (Shallows)¦Mattix_Cove_(Shallows)¦Dead Coast of Mattix¦|Mattix Cove (Cave Mouth)|12|3|;|Mattix Cove (Stagnant Waters)|13|7|;|Mattix Sands (Plain)|2|9|;World Area|Dead Coast of Mattix|11|11|;|Stages 1-2:|7|2|
+Mattix Cove (Cave Mouth)¦Mattix_Cove_(Cave_Mouth)¦Dead Coast of Mattix¦|Mattix Cove (Cave)|4|2|;|Mattix Cove (Shallows)|2|5|
+Mattix Cove (Cave)¦Mattix_Cove_(Cave)¦Dead Coast of Mattix¦|Mattix Cove (Languid Depths)|12|2|;|Mattix Cove (Chamber)|7|3|;|Mattix Cove (Stagnant Waters)|8|6|;|Mattix Cove (Cave Mouth)|2|12|;|Stages 3 and 5-6:|6|6|
+Mattix Cove (Chamber)¦Mattix_Cove_(Chamber)¦Dead Coast of Mattix¦Shop|Mattix Trove|2|2|;|Mattix Cove (Cave)|2|4|
+Mattix Cove (Languid Depths)¦Mattix_Cove_(Languid_Depths)¦Dead Coast of Mattix¦|Mattix Cove (Stagnant Waters)|7|2|;|Mattix Cove (Cave)|2|6|
+Mattix Cove (Stagnant Waters)¦Mattix_Cove_(Stagnant_Waters)¦Dead Coast of Mattix¦|Mattix Cove (Shallows)|2|3|;|Dungeon of Kai (Gate)|14|7|;|Mattix Cove (Cave)|5|10|;Shop|Mattix Hut|5|14|;|Mattix Cove (Languid Depths)|14|14|;|Stage 4:|10|6|
+Dungeon of Kai (Gate)¦Dungeon_of_Kai_(Gate)¦¦|Dungeon of Kai (Dark Corridors)|7|2|;|Mattix Cove (Stagnant Waters)|2|10|;World Area|The Dungeons of Kai|14|13|;|Stages 1-2:|8|7|
+Dungeon of Kai (Dark Corridors)¦Dungeon_of_Kai_(Dark_Corridors)¦The Dungeons of Kai¦|Dungeon of Kai (Chambers)|16|2|;|Dungeon of Kai (Gate)|6|14|
+Dungeon of Kai (Chambers)¦Dungeon_of_Kai_(Chambers)¦The Dungeons of Kai¦|Dungeon of Kai (Dark Corridors)|2|2|;|Dungeon of Kai (Haunted Cells)|16|10|;Shop|Jarth Market|16|16|;|Stages 3-4:|2|6|
+Dungeon of Kai (Haunted Cells)¦Dungeon_of_Kai_(Haunted_Cells)¦The Dungeons of Kai¦Portal|Portal|10|2|;|Dungeon of Kai (Chambers)|2|8|;|Dungeon of Kai (Twisting Passages)|14|9|;World Area|The Dungeons of Kai|6|16|;Relic|Chains of the Innocent|14|2|;|Stages 5-6:|9|9|
+Dungeon of Kai (Twisting Passages)¦Dungeon_of_Kai_(Twisting_Passages)¦The Dungeons of Kai¦|Dungeon of Kai (Catacombs)|10|2|;|Dungeon of Kai (Haunted Cells)|2|8|
+Dungeon of Kai (Catacombs)¦Dungeon_of_Kai_(Catacombs)¦The Dungeons of Kai¦|Dungeon of Kai (Black Maze)|17|2|;|Dungeon of Kai (Twisting Passages)|13|16|;|Stages 7-8:|13|17|
+Dungeon of Kai (Black Maze)¦Dungeon_of_Kai_(Black_Maze)¦The Dungeons of Kai¦|Dungeon of Kai (Black Vaults)|1|2|;|Dungeon of Kai (Catacombs)|1|10|;|Dungeon of Kai (Silent Halls)|11|12|;|Dungeon of Kai (Ruined Gallery)|18|13|;|Dungeon of Kai (Keep)|6|21|;|Stage 9:|2|10|;|Stage 10:|18|12|
+Dungeon of Kai (Silent Halls)¦Dungeon_of_Kai_(Silent_Halls)¦The Dungeons of Kai¦|Dungeon of Kai (Black Maze)|16|6|;World Area|The Dungeons of Kai|6|11|
+Dungeon of Kai (Ruined Gallery)¦Dungeon_of_Kai_(Ruined_Gallery)¦The Dungeons of Kai¦|Dungeon of Kai (Black Maze)|15|1|;|Dungeon of Kai (Storehouse)|8|7|;|Stage 11:|8|8|
+Dungeon of Kai (Storehouse)¦Dungeon_of_Kai_(Storehouse)¦The Dungeons of Kai¦|Dungeon of Kai (Ruined Gallery)|2|3|;|Stage 12:|2|2|
+Dungeon of Kai (Black Vaults)¦Dungeon_of_Kai_(Black_Vaults)¦The Dungeons of Kai¦|Kai Path (Rockyway)|3|1|;|Dungeon of Kai (Black Maze)|15|6|;Shop|Galzon Supplies|2|8|;|Stages 14-15:|9|10|
+Dungeon of Kai (Keep)¦Dungeon_of_Kai_(Keep)¦The Dungeons of Kai¦|Dungeon of Kai (Black Maze)|11|13|;|Stages 16-17:|11|11|
+Forest of Yule (Snarl)¦Forest_of_Yule_(Snarl)¦Krul Island¦|Forest of Yule (Clearing)|2|10|;|Stages 1-2:|9|2|;|Stage 3:|16|10|;|Stage 4:|16|11|;|Stage 5:|17|10|;|Stage 6:|17|11|;|Stages 7:|9|2|

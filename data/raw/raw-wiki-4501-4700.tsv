@@ -1,0 +1,215 @@
+Garanok Town (Morgue)¦Garanok_Town_(Morgue)¦Garanok Town¦|Garanok Town (Shamble)|15|2|;|Garanok Town (Guild Command)|10|19|;World Area|Garanok Plains|2|15|
+Garanok Town (Shamble)¦Garanok_Town_(Shamble)¦Garanok Town¦|Garanok Town (Haunt)|2|3|;|Garanok Town (Morgue)|21|15|
+Garanok Town (Haunt)¦Garanok_Town_(Haunt)¦Garanok Town¦|Garanok Town (Shamble)|15|7|;|Garanok Town (Abattoir)|4|21|
+Garanok Town (Abattoir)¦Garanok_Town_(Abattoir)¦Garanok Town¦|Garanok Town (Cemetery)|1|2|;|Garanok Town (Haunt)|10|17|;Portal|Garanok Town Portal 3|12|9|
+Garanok Town (Cemetery)¦Garanok_Town_(Cemetery)¦Garanok Town¦|Garanok Town (Abattoir)|3|3|;|Garanok Farms (Edge)|9|16|
+Garanok Farms (Edge)¦Garanok_Farms_(Edge)¦Garanok Town¦Relic|Burning Barn|7|11|;|Garanok Town (Cemetery)|16|2|;|Garanok Farms (Dairy)|1|12|;World Area|Garanok Plains|14|15|
+Garanok Farms (Dairy)¦Garanok_Farms_(Dairy)¦Garanok Town¦|Garanok Farms (Edge)|17|3|;|Garanok Farms (Fields)|2|18|
+Garanok Farms (Fields)¦Garanok_Farms_(Fields)¦Garanok Town¦|Garanok Farms (Dairy)|21|2|;|Garanok Farms (Hunt)|2|23|
+Garanok Farms (Hunt)¦Garanok_Farms_(Hunt)¦Garanok Town¦|Garanok Farms (Fields)|6|2|;|Garanok Farms (Range)|16|17|
+Garanok Farms (Range)¦Garanok_Farms_(Range)¦Garanok Town¦|Garanok Farms (Hunt)|18|5|;|Garanok Plains (Stalk)|1|23|
+Garanok Plains (Stalk)¦Garanok_Plains_(Stalk)¦Garanok Plains¦|Garanok Farms (Range)|3|3|;|Garanok Plains (Tribe)|14|16|;World Area|Garanok Plains|17|4|
+Garanok Plains (Tribe)¦Garanok_Plains_(Tribe)¦Garanok Plains¦|Garanok Plains (Grass)|6|2|;|Garanok Plains (Stalk)|8|17|
+Garanok Plains (Grass)¦Garanok_Plains_(Grass)¦Garanok Plains¦|Garanok Plains (Tribe)|3|3|;|Garanok Plains (Spit)|11|22|
+Garanok Plains (Spit)¦Garanok_Plains_(Spit)¦Garanok Plains¦|Garanok Plains (Tunnels)|22|6|;|Garanok Plains (Grass)|2|12|;Portal|Garanok Plains Portal|11|5|
+Garanok Plains (Tunnels)¦Garanok_Plains_(Tunnels)¦Garanok Plains¦|Garanok Plains (Spit)|3|3|;|Garanok Plains (Hollow)|15|16|
+Garanok Plains (Hollow)¦Garanok_Plains_(Hollow)¦Garanok Plains¦Relic|Garanok Cairn|10|12|;|Balarath Marsh (Edge)|7|4|;|Garanok Plains (Tunnels)|15|15|
+Balarath Marsh (Edge)¦Balarath_Marsh_(Edge)¦Garanok Plains¦|Garanok Plains (Hollow)|3|1|;|Balarath Marsh (Town)|17|14|;World Area|Garanok Plains|1|17|
+Balarath Marsh (Town)¦Balarath_Marsh_(Town)¦Garanok Plains¦|Balarath Marsh (Edge)|1|1|;|Balarath Marsh (Plague)|14|20|
+Balarath Marsh (Plague)¦Balarath_Marsh_(Plague)¦Garanok Plains¦|Balarath Marsh (Town)|16|1|;|Balarath Marsh (Bank)|5|16|
+Balarath Marsh (Bank)¦Balarath_Marsh_(Bank)¦Garanok Plains¦|Balarath Marsh (Plague)|1|1|;|Balarath Marsh (Break)|17|18|
+Balarath Marsh (Break)¦Balarath_Marsh_(Break)¦Garanok Plains¦|Balarath Marsh (Bog)|1|1|;|Balarath Marsh (Bank)|12|19|
+Balarath Marsh (Bog)¦Balarath_Marsh_(Bog)¦Garanok Plains¦|Balarath Marsh (Break)|1|1|;|Balarath Marsh (Delta)|18|12|
+Balarath Marsh (Delta)¦Balarath_Marsh_(Delta)¦Garanok Plains¦|Balarath Marsh (Grasp)|16|1|;|Balarath Marsh (Bog)|2|16|
+Balarath Marsh (Grasp)¦Balarath_Marsh_(Grasp)¦Garanok Plains¦|Balarath Marsh (Deeps)|15|1|;|Balarath Marsh (Delta)|1|16|;Portal|Balarath Portal|3|9|
+Balarath Marsh (Corpse Mound)¦Balarath_Marsh_(Corpse_Mound)¦Garanok Plains¦|Balarath Marsh (Deeps)|9|5|
+Balarath Marsh (Deeps)¦Balarath_Marsh_(Deeps)¦Garanok Plains¦|Balarath Marsh (Grasp)|1|4|;|Balarath Marsh (Haunt)|23|8|;|Balarath Marsh (Corpse Mound)|22|11|
+Balarath Marsh (Haunt)¦Balarath_Marsh_(Haunt)¦Karanak Woods¦Relic|Rotting Tree|6|11|;|Palanak Forest (Edge)|18|1|;|Balarath Marsh (Deeps)|3|22|;World Area|Karanak Woods|1|2|
+Palanak Forest (Edge)¦Palanak_Forest_(Edge)¦Karanak Woods¦|Balarath Marsh (Haunt)|3|3|;|Palanak Forest (Cairn)|11|17|
+Palanak Forest (Cairn)¦Palanak_Forest_(Cairn)¦Karanak Woods¦|Palanak Forest (Copse)|14|3|;|Palanak Forest (Edge)|9|15|
+Palanak Forest (Copse)¦Palanak_Forest_(Copse)¦Karanak Woods¦|Palanak Forest (Cairn)|14|3|;|Palanak Forest (Range)|5|20|
+Palanak Forest (Range)¦Palanak_Forest_(Range)¦Karanak Woods¦|Palanak Forest (Roost)|20|6|;|Palanak Forest (Copse)|2|14|;World Area|Karanak Woods|3|3|
+Palanak Forest (Roost)¦Palanak_Forest_(Roost)¦Karanak Woods¦|Palanak Forest (Range)|16|3|;|Palanak Forest (Shadow)|4|13|
+Palanak Forest (Shadow)¦Palanak_Forest_(Shadow)¦Karanak Woods¦|Palanak Forest (Prowl)|17|3|;|Palanak Forest (Roost)|3|17|
+Palanak Forest (Prowl)¦Palanak_Forest_(Prowl)¦Karanak Woods¦|Palanak Forest (Shadow)|3|6|;|Palanak Forest (Forage)|22|8|
+Palanak Forest (Forage)¦Palanak_Forest_(Forage)¦Karanak Woods¦|Palanak Forest (Prowl)|3|3|;|Palanak Forest (Fury)|14|22|;Portal|Palanak Portal|7|18|
+Palanak Forest (Fury)¦Palanak_Forest_(Fury)¦Karanak Woods¦|Palanak Forest (Forage)|16|3|;|Karanak Woods (Vale)|2|17|
+Karanak Woods (Vale)¦Karanak_Woods_(Vale)¦Karanak Woods¦Relic|Thrashing Vine Patch|5|9|;|Karanak Woods (Copse)|3|3|;|Palanak Forest (Fury)|16|16|;World Area|Karanak Woods|15|7|
+Karanak Woods (Copse)¦Karanak_Woods_(Copse)¦Karanak Woods¦|Karanak Woods (Vale)|13|3|;|Karanak Woods (Prowl)|6|20|
+Karanak Woods (Prowl)¦Karanak_Woods_(Prowl)¦Karanak Woods¦|Karanak Woods (Copse)|2|4|;|Karanak Woods (Shadow)|15|15|
+Karanak Woods (Shadow)¦Karanak_Woods_(Shadow)¦Karanak Woods¦|Karanak Woods (Lurk)|3|3|;|Karanak Woods (Prowl)|14|17|
+Karanak Woods (Lurk)¦Karanak_Woods_(Lurk)¦Karanak Woods¦|Karanak Woods (Shadow)|2|4|;|Karanak Woods (Ash)|12|17|
+Karanak Woods (Ash)¦Karanak_Woods_(Ash)¦Karanak Woods¦|Karanak Woods (Lurk)|17|3|;|Karanak Woods (Thorn)|2|19|
+Karanak Woods (Thorn)¦Karanak_Woods_(Thorn)¦Karanak Woods¦|Karanak Woods (Smolder)|4|7|;|Karanak Woods (Ash)|16|18|
+Karanak Woods (Smolder)¦Karanak_Woods_(Smolder)¦Karanak Woods¦|Karanak Woods (Thorn)|3|3|;|Karanak Woods (Lair)|16|18|
+Karanak Woods (Lair)¦Karanak_Woods_(Lair)¦Karanak Woods¦|Karanak Woods (Smolder)|21|3|;|Karanak Woods (Webs)|2|21|;Portal|Karanak Portal|8|12|
+Karanak Woods (Webs)¦Karanak_Woods_(Webs)¦Karanak Woods¦|Karanak Woods (Raid)|11|2|;|Karanak Woods (Lair)|2|13|
+Karanak Woods (Raid)¦Karanak_Woods_(Raid)¦Karanak Woods¦Relic|Warrior Lodge|14|7|;|Karanak Woods (Webs)|3|3|;|Karanak Woods (Venom)|17|14|
+Karanak Woods (Venom)¦Karanak_Woods_(Venom)¦Karanak Woods¦|Karanak Woods (Raid)|13|3|;|Karanak Woods (Moon)|9|20|;World Area|Karanak Woods|3|11|
+Karanak Woods (Moon)¦Karanak_Woods_(Moon)¦Karanak Woods¦|Karanak Woods (Roost)|3|3|;|Karanak Woods (Venom)|13|15|
+Karanak Woods (Roost)¦Karanak_Woods_(Roost)¦Karanak Woods¦|Karanak Woods (Moon)|13|3|;|Karanak Woods (Ravage)|7|16|
+Karanak Woods (Grove)¦Karanak_Woods_(Grove)¦Karanak Woods¦|Karanak Woods (Ravage)|5|12|
+Karanak Woods (Ravage)¦Karanak_Woods_(Ravage)¦Karanak Woods¦|Karanak Woods (Roost)|3|3|;|Illiath Forest (Depths)|16|4|;|Karanak Woods (Grove)|13|14|
+Illiath Forest (Depths)¦Illiath_Forest_(Depths)¦Beranath Jungle¦|Illiath Forest (Copse)|3|3|;|Karanak Woods (Ravage)|15|10|;World Area|Beranath Jungle|18|4|
+Illiath Forest (Copse)¦Illiath_Forest_(Copse)¦Beranath Jungle¦|Illiath Forest (Depths)|8|3|;|Illiath Forest (Grove)|6|18|;|Stages 1-2:|6|9|
+Illiath Forest (Grove)¦Illiath_Forest_(Grove)¦Beranath Jungle¦|Illiath Forest (Lair)|15|3|;|Illiath Forest (Copse)|6|15|
+Illiath Forest (Lair)¦Illiath_Forest_(Lair)¦Beranath Jungle¦|Illiath Forest (Prowl)|17|3|;|Illiath Forest (Grove)|7|17|;Portal|Illiath Portal|4|9|
+Illiath Forest (Prowl)¦Illiath_Forest_(Prowl)¦Beranath Jungle¦|Illiath Forest (Lair)|8|3|;|Beranath Jungle (Nest)|10|20|
+Beranath Jungle (Nest)¦Beranath_Jungle_(Nest)¦Beranath Jungle¦Relic|Biawak Nest|2|6|;|Illiath Forest (Prowl)|20|2|;|Beranath Jungle (Crawl)|7|15|;World Area|Beranath Jungle|22|14|
+Beranath Jungle (Crawl)¦Beranath_Jungle_(Crawl)¦Beranath Jungle¦|Beranath Jungle (Outskirts)|15|3|;|Beranath Jungle (Nest)|3|15|
+Beranath Jungle (Outskirts)¦Beranath_Jungle_(Outskirts)¦Beranath Jungle¦|Beranath Jungle (Village)|15|2|;|Beranath Jungle (Crawl)|2|12|;|Stages 1-2:|10|15|
+Beranath Jungle (Village)¦Beranath_Jungle_(Village)¦Beranath Jungle¦|Beranath Jungle (Shaman Enclave)|4|2|;|Beranath Jungle (Outskirts)|12|18|;|Stage 3:|7|13|
+Beranath Jungle (Kulock's Grove)¦¦¦
+Beranath Jungle (Shaman Enclave)¦Beranath_Jungle_(Shaman_Enclave)¦Beranath Jungle¦|Beranath Jungle (Kulock's Grove)|5|2|;|Karathian Forest (Glades)|1|18|;|Beranath Jungle (Village)|12|21|;|Stage 4:|12|8|
+Karathian Forest (Glades)¦Karathian_Forest_(Glades)¦Beranath Jungle¦|Beranath Jungle (Shaman Enclave)|3|3|;|Karathian Forest (Ancient Grove)|16|15|;World Area|Beranath Jungle|10|5|;|Stages 1-2:|4|10|
+Karathian Forest (Ancient Grove)¦Karathian_Forest_(Ancient_Grove)¦Beranath Jungle¦|Karathian Forest (Glades)|12|3|;|Karathian Forest (Copse)|3|11|
+Karathian Forest (Copse)¦Karathian_Forest_(Copse)¦Beranath Jungle¦|Karathian Forest (Clearing)|6|5|;|Karathian Forest (Ancient Grove)|14|17|;|Stage 3:|4|13|
+Karathian Forest (Clearing)¦Karathian_Forest_(Clearing)¦Beranath Jungle¦|Karathian Forest (Copse)|4|3|;|Karathian Forest (River)|17|13|;Portal|Karathian Portal|5|12|
+Karathian Forest (River)¦Karathian_Forest_(River)¦Beranath Jungle¦|Danathor Woods (Horror)|16|6|;|Karathian Forest (Clearing)|4|17|;|Stages 4-5:|3|3|
+Danathor Woods (Horror)¦Danathor_Woods_(Horror)¦Beranath Jungle¦Relic|Desecrated Wood Shrine|5|6|;|Karathian Forest (River)|15|3|;|Danathor Woods (Smoulder)|2|15|;World Area|Beranath Jungle|13|18|
+Danathor Woods (Smoulder)¦Danathor_Woods_(Smoulder)¦Beranath Jungle¦|Danathor Woods (Vines)|18|3|;|Danathor Woods (Horror)|5|16|;|Stages 1-2:|20|12|
+Danathor Woods (Vines)¦Danathor_Woods_(Vines)¦Beranath Jungle¦|Danathor Woods (Copse)|13|2|;|Danathor Woods (Smoulder)|2|17|
+Danathor Woods (Copse)¦Danathor_Woods_(Copse)¦Beranath Jungle¦|Danathor Woods (Vines)|14|4|;|Danathor Woods (Bark)|5|22|;|Stages 3-4:|4|12|
+Danathor Woods (Bark)¦Danathor_Woods_(Bark)¦Beranath Jungle¦|Danathor Woods (Copse)|17|2|;|Calanog Forest (Edge)|10|13|;|Danathor Woods (Grove)|3|16|;|Stage 5:|4|8|;|Stage 7:|4|8|
+Danathor Woods (Grove)¦Danathor_Woods_(Grove)¦Beranath Jungle¦|Danathor Woods (Bark)|9|8|;|Stage 6:|11|13|
+Calanog Forest (Edge)¦Calanog_Forest_(Edge)¦Calanog Forest¦|Danathor Woods (Bark)|3|3|;|Calanog Forest (Blood)|17|17|;World Area|Calanog Forest|2|18|
+Calanog Forest (Blood)¦Calanog_Forest_(Blood)¦Calanog Forest¦|Calanog Forest (Edge)|14|3|;|Calanog Forest (Clearing)|5|14|
+Calanog Forest (Clearing)¦Calanog_Forest_(Clearing)¦Calanog Forest¦|Calanog Forest (Crag)|5|3|;|Calanog Forest (Blood)|17|14|
+Calanog Forest (Crag)¦Calanog_Forest_(Crag)¦Calanog Forest¦|Calanog Forest (Clearing)|21|3|;|Calanog Forest (Cairn)|3|11|;Portal|Calanog Portal|14|10|
+Calanog Forest (Cairn)¦Calanog_Forest_(Cairn)¦Calanog Forest¦|Calanog Forest (Crag)|13|2|;|Calanog Forest (Freeze)|4|12|
+Calanog Forest (Freeze)¦Calanog_Forest_(Freeze)¦Calanog Forest¦Relic|Ice Bound Cairn|8|15|;|Calanog Forest (Grove)|8|2|;|Calanog Forest (Cairn)|17|16|
+Calanog Forest (Grove)¦Calanog_Forest_(Grove)¦Calanog Forest¦|Calanog Forest (Grave)|4|3|;|Calanog Forest (Freeze)|15|15|
+Calanog Forest (Grave)¦Calanog_Forest_(Grave)¦Calanog Forest¦|Calanog Forest (Graze)|16|3|;|Calanog Forest (Grove)|9|14|;World Area|Calanog Forest|4|7|
+Calanog Forest (Graze)¦Calanog_Forest_(Graze)¦Calanog Forest¦|Calanog Forest (Grave)|3|5|;|Calanog Forest (Stalk)|12|16|
+Calanog Forest (Stalk)¦Calanog_Forest_(Stalk)¦Calanog Forest¦|Calanog Forest (Graze)|4|6|;|Calanog Forest (Lair)|11|21|
+Calanog Forest (Lair)¦Calanog_Forest_(Lair)¦Calanog Forest¦|Calanog Forest (Hide)|11|4|;|Calanog Forest (Stalk)|4|15|
+Calanog Forest (Hide)¦Calanog_Forest_(Hide)¦Calanog Forest¦|Calanog Forest (Lair)|13|2|;|Calanog Forest (Pride)|7|15|
+Calanog Forest (Pride)¦Calanog_Forest_(Pride)¦Calanog Forest¦|Calanog Forest (Hide)|16|3|;|Calanog Forest (Haunt)|6|18|
+Calanog Forest (Haunt)¦Calanog_Forest_(Haunt)¦Calanog Forest¦|Calanog Forest (Pride)|3|3|;|Calanog Forest (Ice)|13|15|;Portal|Calanog Forest Portal|6|12|
+Calanog Forest (Ice)¦Calanog_Forest_(Ice)¦Calanog Forest¦|Calanog Forest (Enclave)|3|3|;|Calanog Forest (Haunt)|12|14|
+Calanog Forest (Enclave)¦Calanog_Forest_(Enclave)¦Calanog Forest¦Relic|Yeti Magic Circle|8|4|;|Calanog Forest (Ice)|16|3|;|Calanog Forest (Fringe)|8|16|
+Calanog Forest (Fringe)¦Calanog_Forest_(Fringe)¦Calanog Forest¦|Calanog Forest (Enclave)|3|3|;|Borogar Castle (Gate)|14|14|
+Borogar Castle (Gate)¦Borogar_Castle_(Gate)¦Calanog Forest¦|Borogar Castle (Throne Room)|2|3|;|Calanog Forest (Fringe)|8|22|;World Area|Calanog Forest|16|16|
+Borogar Castle (Throne Room)¦Borogar_Castle_(Throne_Room)¦Calanog Forest¦|Borogar Castle (Gate)|22|3|;|Borogar Castle (Barracks)|3|16|
+Borogar Castle (Barracks)¦Borogar_Castle_(Barracks)¦Calanog Forest¦|Borogar Castle (Throne Room)|3|2|;|Borogar Castle (Lab)|27|9|
+Borogar Castle (Lab)¦Borogar_Castle_(Lab)¦Calanog Forest¦|Borogar Castle (Enclave)|15|3|;|Borogar Castle (Barracks)|2|11|
+Borogar Castle (Enclave)¦Borogar_Castle_(Enclave)¦Calanog Forest¦|Borogar Castle (Workshop)|2|3|;|Borogar Castle (Lab)|12|17|
+Borogar Castle (Workshop)¦Borogar_Castle_(Workshop)¦Calanog Forest¦|Borogar Castle (Enclave)|18|3|;|Terranoth Caves (Shards)|1|18|
+Terranoth Caves (Shards)¦Terranoth_Caves_(Shards)¦Calanog Forest¦|Borogar Castle (Workshop)|15|3|;|Terranoth Caves (Burrow)|2|23|;Portal|Terranoth Portal|4|19|;World Area|Calanog Forest|2|6|
+Terranoth Caves (Burrow)¦Terranoth_Caves_(Burrow)¦Calanog Forest¦|Terranoth Caves (Shards)|2|1|;|Terranoth Caves (Grave)|18|14|
+Terranoth Caves (Grave)¦Terranoth_Caves_(Grave)¦Calanog Forest¦Relic|Shepan Grave|11|5|;|Terranoth Caves (Plague)|15|2|;|Terranoth Caves (Burrow)|1|15|
+Terranoth Caves (Plague)¦Terranoth_Caves_(Plague)¦Calanog Forest¦|Terranoth Caves (Pox)|2|3|;|Terranoth Caves (Grave)|13|14|
+Terranoth Caves (Pox)¦Terranoth_Caves_(Pox)¦Calanog Forest¦|Terranoth Caves (Chill)|2|1|;|Terranoth Caves (Plague)|14|15|
+Terranoth Caves (Chill)¦Terranoth_Caves_(Chill)¦Calanog Forest¦|Terranoth Caves (Haunt)|17|2|;|Terranoth Caves (Pox)|5|16|
+Terranoth Caves (Crypt)¦Terranoth_Caves_(Crypt)¦Calanog Forest¦|Terranoth Caves (Haunt)|11|13|
+Terranoth Caves (Haunt)¦Terranoth_Caves_(Haunt)¦Calanog Forest¦|Terranoth Caves (Chill)|1|2|;|Terranoth Caves (Crypt)|3|11|;|Oolathat Caverns (Roost)|11|14|
+Oolathat Caverns (Roost)¦Oolathat_Caverns_(Roost)¦Oolathat Caverns¦|Terranoth Caves (Haunt)|3|3|;|Oolathat Caverns (Lair)|16|13|;World Area|Oolathat Caverns|17|2|
+Oolathat Caverns (Lair)¦Oolathat_Caverns_(Lair)¦Oolathat Caverns¦|Oolathat Caverns (Roost)|12|3|;|Oolathat Caverns (Lake)|2|15|
+Oolathat Caverns (Lake)¦Oolathat_Caverns_(Lake)¦Oolathat Caverns¦|Oolathat Caverns (Nook)|4|5|;|Oolathat Caverns (Lair)|12|15|
+Oolathat Caverns (Nook)¦Oolathat_Caverns_(Nook)¦Oolathat Caverns¦|Oolathat Caverns (Lake)|3|3|;|Oolathat Caverns (Sludge)|16|11|;Portal|Oolathat Portal|6|9|
+Oolathat Caverns (Sludge)¦Oolathat_Caverns_(Sludge)¦Oolathat Caverns¦|Oolathat Caverns (Haunt)|13|3|;|Oolathat Caverns (Nook)|8|21|
+Oolathat Caverns (Haunt)¦Oolathat_Caverns_(Haunt)¦Oolathat Caverns¦Relic|Caoineag Detritus Pile|5|6|;|Oolathat Caverns (Crawl)|10|2|;|Oolathat Caverns (Sludge)|18|14|
+Oolathat Caverns (Crawl)¦Oolathat_Caverns_(Crawl)¦Oolathat Caverns¦|Oolathat Caverns (Haunt)|3|3|;|Oolathat Caverns (Skitter)|10|14|
+Oolathat Caverns (Skitter)¦Oolathat_Caverns_(Skitter)¦Oolathat Caverns¦|Oolathat Caverns (Crawl)|14|3|;|Oolathat Caverns (Slither)|6|14|;World Area|Oolathat Caverns|3|7|
+Oolathat Caverns (Slither)¦Oolathat_Caverns_(Slither)¦Oolathat Caverns¦|Oolathat Caverns (Nest)|4|6|;|Oolathat Caverns (Skitter)|13|15|
+Oolathat Caverns (Nest)¦Oolathat_Caverns_(Nest)¦Oolathat Caverns¦|Oolathat Caverns (Cold)|2|2|;|Oolathat Caverns (Slither)|17|16|
+Oolathat Caverns (Cold)¦Oolathat_Caverns_(Cold)¦Oolathat Caverns¦|Oolathat Caverns (Sting)|13|3|;|Oolathat Caverns (Nest)|4|19|
+Oolathat Caverns (Sting)¦Oolathat_Caverns_(Sting)¦Oolathat Caverns¦|Oolathat Caverns (Hide)|14|3|;|Oolathat Caverns (Cold)|2|15|
+Oolathat Caverns (Hide)¦Oolathat_Caverns_(Hide)¦Oolathat Caverns¦|Oolathat Caverns (Village)|2|4|;|Oolathat Caverns (Sting)|14|16|
+Oolathat Caverns (Village)¦Oolathat_Caverns_(Village)¦Oolathat Caverns¦|Oolathat Caverns (Hide)|2|3|;|Oolathat Caverns (Stalk)|17|13|;Portal|Oolathat Caverns Portal|13|9|
+Oolathat Caverns (Stalk)¦Oolathat_Caverns_(Stalk)¦Oolathat Caverns¦|Oolathat Caverns (Village)|3|3|;|Oolathat Caverns (Blood)|15|17|
+Oolathat Caverns (Blood)¦Oolathat_Caverns_(Blood)¦Oolathat Caverns¦Relic|Vampiric Raptor Corpse|13|11|;|Oolathat Caverns (Burrow)|15|3|;|Oolathat Caverns (Stalk)|8|15|;World Area|Oolathat Caverns|2|2|
+Oolathat Caverns (Burrow)¦Oolathat_Caverns_(Burrow)¦Oolathat Caverns¦|Oolathat Caverns (Blood)|4|4|;|Oolathat Caverns (Pack)|15|20|
+Oolathat Caverns (Pack)¦Oolathat_Caverns_(Pack)¦Oolathat Caverns¦|Oolathat Caverns (Burrow)|3|3|;|Oolathat Caverns (Web)|13|14|
+Oolathat Caverns (Web)¦Oolathat_Caverns_(Web)¦Oolathat Caverns¦|Oolathat Caverns (Pack)|16|3|;|Oolathat Caverns (Pride)|2|14|
+Oolathat Caverns (Pride)¦Oolathat_Caverns_(Pride)¦Oolathat Caverns¦|Oolathat Caverns (Web)|2|2|;|Oolathat Caverns (Gas)|14|14|
+Oolathat Caverns (Gas)¦Oolathat_Caverns_(Gas)¦Oolathat Caverns¦|Oolathat Caverns (Pride)|6|2|;|Oolathat Caverns (Edges)|16|14|;World Area|Oolathat Caverns|2|16|
+Oolathat Caverns (Edges)¦Oolathat_Caverns_(Edges)¦Oolathat Caverns¦|Oolathat Caverns (Tunnels)|4|3|;|Oolathat Caverns (Gas)|13|17|
+Oolathat Caverns (Tunnels)¦Oolathat_Caverns_(Tunnels)¦Oolathat Caverns¦|Oolathat Caverns (Workshop)|15|2|;|Oolathat Caverns (Edges)|4|15|
+Oolathat Caverns (Workshop)¦Oolathat_Caverns_(Workshop)¦Oolathat Caverns¦|Oolathat Caverns (Tunnels)|13|3|;|Oolathat Caverns (Guardrooms)|3|12|;Portal|Oolathat Caverns Portal 2|9|14|
+Oolathat Caverns (Court)¦Oolathat_Caverns_(Court)¦Oolathat Caverns¦|Oolathat Caverns (Guardrooms)|13|2|
+Oolathat Caverns (Guardrooms)¦Oolathat_Caverns_(Guardrooms)¦Oolathat Caverns¦|Helvorn Dungeon (Roost)|15|3|;|Oolathat Caverns (Court)|3|5|;|Oolathat Caverns (Workshop)|5|15|
+Helvorn Dungeon (Roost)¦Helvorn_Dungeon_(Roost)¦Helvorn Dungeon¦Relic|Manhunter Guano Pile|6|11|;|Helvorn Dungeon (Slime)|3|3|;|Oolathat Caverns (Guardrooms)|17|13|;World Area|Helvorn Dungeon|11|16|
+Helvorn Dungeon (Slime)¦Helvorn_Dungeon_(Slime)¦Helvorn Dungeon¦|Helvorn Dungeon (Roost)|3|3|;|Helvorn Dungeon (Stalk)|13|15|
+Helvorn Dungeon (Stalk)¦Helvorn_Dungeon_(Stalk)¦Helvorn Dungeon¦|Helvorn Dungeon (Slime)|15|2|;|Helvorn Dungeon (Horror)|2|15|
+Helvorn Dungeon (Horror)¦Helvorn_Dungeon_(Horror)¦Helvorn Dungeon¦|Helvorn Dungeon (Stalk)|14|3|;|Helvorn Dungeon (Alcove)|4|13|
+Helvorn Dungeon (Alcove)¦Helvorn_Dungeon_(Alcove)¦Helvorn Dungeon¦|Helvorn Dungeon (Warren)|2|2|;|Helvorn Dungeon (Horror)|11|17|
+Helvorn Dungeon (Warren)¦Helvorn_Dungeon_(Warren)¦Helvorn Dungeon¦|Helvorn Dungeon (Blood)|12|3|;|Helvorn Dungeon (Alcove)|3|13|
+Helvorn Dungeon (Blood)¦Helvorn_Dungeon_(Blood)¦Helvorn Dungeon¦|Helvorn Dungeon (Warren)|12|3|;|Helvorn Dungeon (Gloop)|7|15|;World Area|Helvorn Dungeon|2|9|
+Helvorn Dungeon (Gloop)¦Helvorn_Dungeon_(Gloop)¦Helvorn Dungeon¦|Helvorn Dungeon (Blood)|3|3|;|Helvorn Dungeon (Crawl)|13|16|
+Helvorn Dungeon (Crawl)¦Helvorn_Dungeon_(Crawl)¦Helvorn Dungeon¦|Helvorn Dungeon (Gloop)|3|4|;|Helvorn Dungeon (Circle)|17|17|;Portal|Helvorn Portal|5|15|
+Helvorn Dungeon (Circle)¦Helvorn_Dungeon_(Circle)¦Helvorn Dungeon¦|Helvorn Dungeon (Coven)|11|2|;|Helvorn Dungeon (Crawl)|3|13|
+Helvorn Dungeon (Coven)¦Helvorn_Dungeon_(Coven)¦Helvorn Dungeon¦Relic|Hag Fiend Cauldron|8|11|;|Helvorn Dungeon (Circle)|17|2|;|Jastenor Dungeon (Roots)|3|14|
+Jastenor Dungeon (Roots)¦Jastenor_Dungeon_(Roots)¦Helvorn Dungeon¦|Jastenor Dungeon (Silk)|13|3|;|Helvorn Dungeon (Coven)|6|22|;World Area|Helvorn Dungeon|3|6|
+Jastenor Dungeon (Silk)¦Jastenor_Dungeon_(Silk)¦Helvorn Dungeon¦|Jastenor Dungeon (Web)|3|3|;|Jastenor Dungeon (Roots)|22|14|
+Jastenor Dungeon (Web)¦Jastenor_Dungeon_(Web)¦Helvorn Dungeon¦|Jastenor Dungeon (Silk)|3|3|;|Jastenor Dungeon (Slime)|14|14|
+Jastenor Dungeon (Slime)¦Jastenor_Dungeon_(Slime)¦Helvorn Dungeon¦|Jastenor Dungeon (Web)|14|3|;|Jastenor Dungeon (Skitter)|5|14|
+Jastenor Dungeon (Skitter)¦Jastenor_Dungeon_(Skitter)¦Helvorn Dungeon¦|Jastenor Dungeon (Slime)|3|3|;|Jastenor Dungeon (Roost)|22|14|
+Jastenor Dungeon (Roost)¦Jastenor_Dungeon_(Roost)¦Helvorn Dungeon¦|Jastenor Dungeon (Haunt)|6|2|;|Jastenor Dungeon (Skitter)|11|22|
+Jastenor Dungeon (Haunt)¦Jastenor_Dungeon_(Haunt)¦Helvorn Dungeon¦|Jastenor Dungeon (Roost)|15|3|;|Jastenor Dungeon (Tomb)|8|15|
+Jastenor Dungeon (Tomb)¦Jastenor_Dungeon_(Tomb)¦Helvorn Dungeon¦|Jastenor Dungeon (Haunt)|4|2|;|Jastenor Dungeon (Cairn)|15|13|;Portal|Jastenor Portal|14|5|;World Area|Helvorn Dungeon|3|11|
+Jastenor Dungeon (Cairn)¦Jastenor_Dungeon_(Cairn)¦Helvorn Dungeon¦|Jastenor Dungeon (Storm)|17|2|;|Jastenor Dungeon (Tomb)|3|13|
+Jastenor Dungeon (Storm)¦Jastenor_Dungeon_(Storm)¦Helvorn Dungeon¦Relic|Dusty Sarcophagus|7|4|;|Jastenor Dungeon (Cairn)|14|3|;|Jastenor Dungeon (Alcove)|5|15|
+Jastenor Dungeon (Alcove)¦Jastenor_Dungeon_(Alcove)¦Helvorn Dungeon¦|Jastenor Dungeon (Grave)|11|2|;|Jastenor Dungeon (Storm)|3|12|
+Jastenor Dungeon (Grave)¦Jastenor_Dungeon_(Grave)¦Helvorn Dungeon¦|Jastenor Dungeon (Alcove)|6|4|;|Jastenor Dungeon (Sand)|13|21|
+Jastenor Dungeon (Sand)¦Jastenor_Dungeon_(Sand)¦Helvorn Dungeon¦|Jastenor Dungeon (Grave)|10|3|;|Jastenor Dungeon (Grit)|15|15|
+Jastenor Dungeon (Grit)¦Jastenor_Dungeon_(Grit)¦Helvorn Dungeon¦|Jastenor Dungeon (Sand)|2|2|;|Jastenor Dungeon (Sepulchre)|14|3|;|Fandorn Castle (Gate)|15|15|
+Jastenor Dungeon (Sepulchre)¦Jastenor_Dungeon_(Sepulchre)¦Helvorn Dungeon¦|Jastenor Dungeon (Grit)|3|6|
+Rasalas Keep (Barracks)¦Rasalas_Keep_(Barracks)¦Krul Island¦|Rasalas Keep (Courtyard)|5|2|;|Rasalas Keep (Throne)|12|5|
+Rasalas Keep (Courtyard)¦Rasalas_Keep_(Courtyard)¦Krul Island¦|Rasalas Keep (Barracks)|13|5|;|Cathedral of Ways (Sacristy)|8|15|;|Stages 1-2:|8|15|
+Rasalas Keep (Throne)¦Rasalas_Keep_(Throne)¦Krul Island¦|Rasalas Keep (Barracks)|1|8|
+Fandorn Castle (Gate)¦Fandorn_Castle_(Gate)¦Fandorn Castle¦|Jastenor Dungeon (Grit)|3|2|;|Fandorn Castle (Watch)|14|16|;World Area|Fandorn Castle|14|1|
+Fandorn Castle (Watch)¦Fandorn_Castle_(Watch)¦Fandorn Castle¦|Fandorn Castle (Gate)|16|2|;|Fandorn Castle (Forge)|11|16|
+Fandorn Castle (Forge)¦Fandorn_Castle_(Forge)¦Fandorn Castle¦|Fandorn Castle (Barracks)|12|2|;|Fandorn Castle (Watch)|2|14|
+Fandorn Castle (Barracks)¦Fandorn_Castle_(Barracks)¦Fandorn Castle¦|Fandorn Castle (Guardrooms)|1|6|;|Fandorn Castle (Forge)|15|16|;Portal|Fandorn Portal|2|6|
+Fandorn Castle (Guardrooms)¦Fandorn_Castle_(Guardrooms)¦Fandorn Castle¦|Fandorn Castle (Workshop)|3|2|;|Fandorn Castle (Barracks)|13|16|
+Fandorn Castle (Workshop)¦Fandorn_Castle_(Workshop)¦Fandorn Castle¦Relic|Armorer's Worktable|2|7|;|Fandorn Castle (Guardrooms)|18|4|;|Fandorn Castle (Range)|2|15|;World Area|Fandorn Castle|16|16|
+Fandorn Castle (Range)¦Fandorn_Castle_(Range)¦Fandorn Castle¦|Fandorn Castle (Shield Wall)|24|4|;|Fandorn Castle (Workshop)|2|11|
+Fandorn Castle (Shield Wall)¦Fandorn_Castle_(Shield_Wall)¦Fandorn Castle¦|Fandorn Castle (Range)|2|7|;|Fandorn Castle (Bulwark)|12|23|
+Fandorn Castle (Bulwark)¦Fandorn_Castle_(Bulwark)¦Fandorn Castle¦|Fandorn Castle (Shield Wall)|2|1|;|Fandorn Castle (Slime)|15|16|
+Fandorn Castle (Slime)¦Fandorn_Castle_(Slime)¦Fandorn Castle¦|Fandorn Castle (Bulwark)|3|2|;|Sendoth Void (Web)|14|16|
+Sendoth Void (Web)¦Sendoth_Void_(Web)¦Fandorn Castle¦|Fandorn Castle (Slime)|15|3|;|Sendoth Void (Hive)|2|17|;World Area|Fandorn Castle|17|13|
+Sendoth Void (Hive)¦Sendoth_Void_(Hive)¦Fandorn Castle¦|Sendoth Void (Web)|6|2|;|Sendoth Void (Sting)|12|18|
+Sendoth Void (Sting)¦Sendoth_Void_(Sting)¦Fandorn Castle¦|Sendoth Void (Hive)|15|3|;|Sendoth Void (Walls)|8|13|
+Sendoth Void (Walls)¦Sendoth_Void_(Walls)¦Fandorn Castle¦|Sendoth Void (Sting)|3|3|;|Sendoth Void (Tower)|14|15|;Portal|Sendoth Portal|6|8|
+Sendoth Void (Tower)¦Sendoth_Void_(Tower)¦Fandorn Castle¦|Sendoth Void (Walls)|17|3|;|Sendoth Void (Plains)|2|16|
+Sendoth Void (Plains)¦Sendoth_Void_(Plains)¦Fandorn Castle¦Relic|Ancient Gargoyle Remains|3|3|;|Sendoth Void (Crystal Field)|17|2|;|Sendoth Void (Tower)|2|15|
+Sendoth Void (Crystal Field)¦Sendoth_Void_(Crystal_Field)¦Fandorn Castle¦|Sendoth Void (Plains)|15|3|;|Sendoth Void (Dust)|2|14|
+Sendoth Void (Dust)¦Sendoth_Void_(Dust)¦Fandorn Castle¦|Eltanath Forest (Ash)|2|2|;|Sendoth Void (Crystal Field)|24|5|
+Eltanath Forest (Ash)¦Eltanath_Forest_(Ash)¦Fandorn Castle¦|Sendoth Void (Dust)|6|3|;|Eltanath Forest (Gloom)|3|24|;World Area|Fandorn Castle|2|9|
+Eltanath Forest (Gloom)¦Eltanath_Forest_(Gloom)¦Fandorn Castle¦|Eltanath Forest (Cairn)|20|7|;|Eltanath Forest (Ash)|2|15|
+Eltanath Forest (Cairn)¦Eltanath_Forest_(Cairn)¦Fandorn Castle¦|Eltanath Forest (Gloom)|3|3|;|Eltanath Forest (Prospect)|15|22|
+Eltanath Forest (Prospect)¦Eltanath_Forest_(Prospect)¦Fandorn Castle¦|Eltanath Forest (Cairn)|15|4|;|Eltanath Forest (Copse)|6|13|
+Eltanath Forest (Copse)¦Eltanath_Forest_(Copse)¦Fandorn Castle¦|Eltanath Forest (Prospect)|7|2|;|Eltanath Forest (Battleground)|11|16|
+Eltanath Forest (Battleground)¦Eltanath_Forest_(Battleground)¦Fandorn Castle¦|Eltanath Forest (Mire)|15|3|;|Eltanath Forest (Copse)|2|14|;Portal|Eltanath Portal|5|10|
+Eltanath Forest (Mire)¦Eltanath_Forest_(Mire)¦Fandorn Castle¦|Eltanath Forest (Nest)|18|2|;|Eltanath Forest (Battleground)|3|3|;|Callanastia Swamp (Bog)|16|14|
+Eltanath Forest (Nest)¦Eltanath_Forest_(Nest)¦Fandorn Castle¦|Eltanath Forest (Mire)|8|7|
+Quango Island (Chaos)¦Quango_Island_(Chaos)¦Arrin Moors¦|Quango Island|11|20|;|Stages 1-4:|3|3|
+Callanastia Swamp (Bog)¦Callanastia_Swamp_(Bog)¦Callanastia Swamp¦Relic|Submerged Ruin|15|4|;|Eltanath Forest (Mire)|3|3|;|Callanastia Swamp (Depths)|12|13|;World Area|Callanastia Swamp|4|12|
+Callanastia Swamp (Depths)¦Callanastia_Swamp_(Depths)¦Callanastia Swamp¦|Callanastia Swamp (Bog)|5|2|;|Callanastia Swamp (Brush)|11|20|
+Callanastia Swamp (Brush)¦Callanastia_Swamp_(Brush)¦Callanastia Swamp¦|Callanastia Swamp (Shallows)|4|3|;|Callanastia Swamp (Depths)|17|13|
+Callanastia Swamp (Shallows)¦Callanastia_Swamp_(Shallows)¦Callanastia Swamp¦|Callanastia Swamp (Nests)|2|2|;|Callanastia Swamp (Brush)|15|15|
+Callanastia Swamp (Nests)¦Callanastia_Swamp_(Nests)¦Callanastia Swamp¦|Callanastia Swamp (Shallows)|15|3|;|Callanastia Swamp (Stalk)|8|15|
+Callanastia Swamp (Stalk)¦Callanastia_Swamp_(Stalk)¦Callanastia Swamp¦|Callanastia Swamp (Fen)|16|7|;|Callanastia Swamp (Nests)|3|16|
+Callanastia Swamp (Fen)¦Callanastia_Swamp_(Fen)¦Callanastia Swamp¦|Callanastia Swamp (Stalk)|14|3|;|Callanastia Swamp (Pools)|2|15|;World Area|Callanastia Swamp|12|10|
+Callanastia Swamp (Pools)¦Callanastia_Swamp_(Pools)¦Callanastia Swamp¦|Callanastia Swamp (Fen)|3|3|;|Callanastia Swamp (Tribe Lands)|13|14|
+Callanastia Swamp (Tribe Lands)¦Callanastia_Swamp_(Tribe_Lands)¦Callanastia Swamp¦|Callanastia Swamp (Pools)|15|3|;|Callanastia Swamp (Gate)|3|14|;Portal|Callanastia Portal|9|12|
+Callanastia Swamp (Gate)¦Callanastia_Swamp_(Gate)¦Callanastia Swamp¦|Callanastia Swamp (Village)|3|3|;|Callanastia Swamp (Tribe Lands)|13|14|
+Callanastia Swamp (Village)¦Callanastia_Swamp_(Village)¦Callanastia Swamp¦Relic|Dilapidated Hovel|12|11|;|Callanastia Swamp (Mire)|14|3|;|Callanastia Swamp (Gate)|7|15|
+Callanastia Swamp (Mire)¦Callanastia_Swamp_(Mire)¦Callanastia Swamp¦|Callanastia Swamp (Village)|11|2|;|Callanastia Swamp (Sump)|3|13|
+Callanastia Swamp (Sump)¦Callanastia_Swamp_(Sump)¦Callanastia Swamp¦|Callanastia Swamp (Boneyard)|16|2|;|Callanastia Swamp (Mire)|2|15|
+Callanastia Swamp (Boneyard)¦Callanastia_Swamp_(Boneyard)¦Callanastia Swamp¦|Callanastia Swamp (Sump)|3|2|;|Callanastia Swamp (Grove)|17|17|
+Callanastia Swamp (Grove)¦Callanastia_Swamp_(Grove)¦Callanastia Swamp¦|Callanastia Swamp (Slither)|13|3|;|Callanastia Swamp (Boneyard)|2|22|;World Area|Callanastia Swamp|12|20|
+Callanastia Swamp (Slither)¦Callanastia_Swamp_(Slither)¦Callanastia Swamp¦|Callanastia Swamp (Mists)|4|2|;|Callanastia Swamp (Grove)|22|14|
+Callanastia Swamp (Mists)¦Callanastia_Swamp_(Mists)¦Callanastia Swamp¦|Callanastia Swamp (Mud)|3|3|;|Callanastia Swamp (Slither)|11|15|
+Callanastia Swamp (Mud)¦Callanastia_Swamp_(Mud)¦Callanastia Swamp¦|Callanastia Swamp (Mists)|13|3|;|Callanastia Swamp (Horror)|2|17|
+Callanastia Swamp (Horror)¦Callanastia_Swamp_(Horror)¦Callanastia Swamp¦|Callanastia Swamp (Burrows)|16|3|;|Callanastia Swamp (Mud)|6|13|;Portal|Callanastia Swamp Portal|12|9|
+Callanastia Swamp (Burrows)¦Callanastia_Swamp_(Burrows)¦Callanastia Swamp¦|Callanastia Swamp (Horror)|14|3|;|Callanastia Swamp (Haunt)|2|15|
+Callanastia Swamp (Haunt)¦Callanastia_Swamp_(Haunt)¦Callanastia Swamp¦Relic|Suspect Mound|3|7|;|Callanastia Swamp (Poison)|15|3|;|Callanastia Swamp (Burrows)|2|15|;World Area|Callanastia Swamp|14|15|
+Callanastia Swamp (Poison)¦Callanastia_Swamp_(Poison)¦Callanastia Swamp¦|Callanastia Swamp (Haunt)|17|2|;|Callanastia Swamp (Roost)|3|14|
+Callanastia Swamp (Roost)¦Callanastia_Swamp_(Roost)¦Callanastia Swamp¦|Callanastia Swamp (Poison)|2|2|;|Callanastia Swamp (Muck)|14|16|
+Callanastia Swamp (Muck)¦Callanastia_Swamp_(Muck)¦Callanastia Swamp¦|Callanastia Swamp (Roost)|3|3|;|Callanastia Swamp (Lurk)|14|15|
+Callanastia Swamp (Lair)¦Callanastia_Swamp_(Lair)¦Callanastia Swamp¦|Callanastia Swamp (Lurk)|5|10|
+Callanastia Swamp (Lurk)¦Callanastia_Swamp_(Lurk)¦Callanastia Swamp¦|Callanastia Swamp (Lair)|5|2|;|Callanastia Swamp (Muck)|13|3|;|Ojalanth Plains (Sting)|6|14|
+Forest of Yule (Snowfall Grove)¦Forest_of_Yule_(Snowfall_Grove)¦Krul Island¦|Forest of Yule (Snowfall Village)|6|9|;|Stages 4-6:|3|3|
+Forest of Yule (Snowfall Village)¦Forest_of_Yule_(Snowfall_Village)¦Krul Island¦|Forest of Yule (Snowfall Grove)|3|3|;|Forest of Yule (Clearing)|15|18|;|Stage 1:|11|10|;|Stage 2:|21|2|;|Stage 3:|11|10|;|Stage 7:|11|10|

@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fallen Sword Path Finder</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header id="top">
+  <div class="brand">
+    <h1>Fallen Sword <span>Path Finder</span></h1>
+    <p>Levels 1 &ndash; 6200 &middot; proof of concept</p>
+  </div>
+
+  <div class="tools">
+    <div class="field ac">
+      <label for="q">Find an area</label>
+      <input id="q" type="search" placeholder="e.g. Ramdal, Dreg Swamp&hellip;  ( / )" autocomplete="off">
+      <ul class="sugg" id="qSugg" hidden></ul>
+    </div>
+
+    <div class="route">
+      <div class="field ac">
+        <label for="rFrom">Route from</label>
+        <input id="rFrom" type="text" placeholder="Start area" autocomplete="off">
+        <ul class="sugg" id="rFromSugg" hidden></ul>
+      </div>
+      <button id="rSwap" type="button" title="Swap start and destination">&#8644;</button>
+      <div class="field ac">
+        <label for="rTo">to</label>
+        <input id="rTo" type="text" placeholder="Destination" autocomplete="off">
+        <ul class="sugg" id="rToSugg" hidden></ul>
+      </div>
+      <button id="rGo" type="button" class="primary">Find route</button>
+      <button id="rClear" type="button" class="ghost" hidden>Clear</button>
+    </div>
+  </div>
+</header>
+
+<div id="shell">
+<aside id="side" aria-label="Levels">
+  <label id="goWrap">Go to level <input id="goLevel" type="number" min="1" placeholder="e.g. 2500"></label>
+  <div id="tabs"></div>
+</aside>
+<div id="content">
+
+<nav id="pageBar">
+  <div id="pageTitle"></div>
+  <div id="worldStrip" aria-label="World map order"></div>
+  <button id="legendBtn" type="button" class="ghost" aria-expanded="true">Legend</button>
+</nav>
+
+<section id="legend"></section>
+
+<div id="routePanel" hidden></div>
+
+<main id="mapWrap">
+  <div id="map">
+    <svg id="edges" aria-hidden="true"></svg>
+    <div id="sections"></div>
+  </div>
+</main>
+
+<footer id="foot"></footer>
+
+</div>
+</div>
+
+<div id="card" hidden></div>
+
+<script src="data.js"></script>
+<script src="route.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

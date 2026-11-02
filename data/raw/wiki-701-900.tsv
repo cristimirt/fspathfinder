@@ -1,0 +1,241 @@
+Stygian Flats (Edge)¦Stygian_Flats_(Edge)¦The Golden Desert¦World Area|The Golden Desert|7|6|;|Stygian Flats (Plateau)|12|2|;|City of Torgais (Temple)|2|13|
+Stygian Flats (Plateau)¦Stygian_Flats_(Plateau)¦¦|Stygian Flats (Edge)|2|2|;|Stygian Flats (Upland)|15|12|;|Satyr Defense|11|8|
+Stygian Flats (Upland)¦Stygian_Flats_(Upland)¦¦|Stygian Flats (Plateau)|2|2|;|Ossrilan Labyrinth (Entrance)|5|13|;shop|Stygian Wares|13|8|
+Ossrilan Labyrinth (Entrance)¦Ossrilan_Labyrinth_(Entrance)¦The Golden Desert¦World Area|The Golden Desert|8|10|;|Stygian Flats (Upland)|2|2|;|Ossrilan Labyrinth (Maze)|15|15|;|Lost in the Labyrinth|5|6|;|Location 2|15|6|
+Ossrilan Labyrinth (Maze)¦Ossrilan_Labyrinth_(Maze)¦¦|Ossrilan Labyrinth (Entrance)|13|2|;|Ossrilan Labyrinth (Chambers)|2|13|
+Ossrilan Labyrinth (Chambers)¦Ossrilan_Labyrinth_(Chambers)¦¦|Ossrilan Labyrinth (Maze)|14|2|;|Ossrilan Labyrinth (Cistern)|2|14|;|Trolls Abound|7|4|;|Location 2|14|14|
+Ossrilan Labyrinth (Cistern)¦Ossrilan_Labyrinth_(Cistern)¦¦|Ossrilan Labyrinth (Chambers)|13|2|;|Sorrows Abyss (Steppes)|13|11|;relic|Ossrilan Circle|8|10|;shop|Ossrilan Market|7|11|;portal|Ossrilan Portal|2|2|
+Sorrows Abyss (Steppes)¦Sorrows_Abyss_(Steppes)¦The Golden Desert¦World Area|The Golden Desert|14|15|;|Ossrilan Labyrinth (Cistern)|15|2|;|Sorrows Abyss (Recess)|5|14|;shop|Steppes Stores|2|3|;|Perfecting Poison|9|7|
+Sorrows Abyss (Recess)¦Sorrows_Abyss_(Recess)¦¦|Sorrows Abyss (Fissure)|5|2|;|Sorrows Abyss (Steppes)|2|13|
+Sorrows Abyss (Depths)¦Sorrows_Abyss_(Depths)¦¦|Sorrows Abyss (Fissure)|2|2|
+Sorrows Abyss (Fissure)¦Sorrows_Abyss_(Fissure)¦¦|Sorrows Abyss (Recess)|8|2|;|Arkl Tundra (Lowlands)|8|6|;|Sorrows Abyss (Depths)|13|12|;|Start:|8|10|;|Location 2:|2|2|;|Location 3:|13|2|
+Arkl Tundra (Lowlands)¦Arkl_Tundra_(Lowlands)¦Chasms of Meidos¦World Area|Chasms of Meidos|13|2|;|Sorrows Abyss (Fissure)|10|7|;|Arkl Tundra (Mire)|2|13|
+Arkl Tundra (Mire)¦Arkl_Tundra_(Mire)¦¦|Arkl Tundra (Lowlands)|13|2|;|Arkl Tundra (Plateau)|9|10|;|Test of Strength|9|5|
+Arkl Tundra (Plateau)¦Arkl_Tundra_(Plateau)¦¦|Black Glades (Valley)|13|7|;|Arkl Tundra (Mire)|6|10|
+Black Glades (Valley)¦Black_Glades_(Valley)¦Chasms of Meidos¦World Area|Chasms of Meidos|12|2|;|Arkl Tundra (Plateau)|2|2|;|Black Glades (Ridge)|12|12|;relic|Ancient Fort|10|8|;shop|Glades Wares|2|13|;|The Lumber Camp|7|3|
+Black Glades (Ridge)¦Black_Glades_(Ridge)¦¦|Black Glades (Grove)|2|8|;|Black Glades (Valley)|3|14|
+Black Glades (Grove)¦Black_Glades_(Grove)¦¦|Black Glades (Ridge)|13|2|;|Black Glades (Clearing)|6|14|;shop|Remedy Wares|7|3|;|Demon Harvest|3|9|
+Black Glades (Clearing)¦Black_Glades_(Clearing)¦¦|Black Glades (Grove)|6|5|;|Trojan Wastes (Slopes)|13|13|
+Trojan Wastes (Slopes)¦Trojan_Wastes_(Slopes)¦Chasms of Meidos¦World Area|Chasms of Meidos|6|5|;|Black Glades (Clearing)|13|2|;|Trojan Wastes (Plains)|8|11|;shop|Trojan Bazaar|13|11|;portal|Trojan Portal|2|13|;|Free the Captive|1|12|;|Location 2|2|2|
+Trojan Wastes (Plains)¦Trojan_Wastes_(Plains)¦¦|Trojan Wastes (Black City)|14|2|;|Trojan Wastes (Slopes)|2|10|
+Trojan Wastes (Black City)¦Trojan_Wastes_(Black_City)¦¦|Trojan Wastes (Depths)|11|8|;|Trojan Wastes (Plains)|5|16|;|Rhudal Volcano (Crater)|13|16|;shop|Black Mart|4|3|;|Siege of the Black City|10|15|;|Location 2|9|10|
+Trojan Wastes (Depths)¦Trojan_Wastes_(Depths)¦¦|Trojan Wastes (Black City)|2|2|
+Rhudal Volcano (Crater)¦Rhudal_Volcano_(Crater)¦Arid Valley¦World Area|Arid Valley|11|15|;|Rhudal Volcano (Ascent)|9|4|;|Trojan Wastes (Black City)|2|10|
+Rhudal Volcano (Ascent)¦Rhudal_Volcano_(Ascent)¦¦|Rhudal Volcano (Crater)|13|2|;|Rhudal Volcano (Rim)|2|13|;portal|Rhudal Portal|12|12|;|Ant Hunt|6|9|
+Rhudal Volcano (Rim)¦Rhudal_Volcano_(Rim)¦¦|Rhudal Volcano (Ascent)|5|6|;|Valley of the Wise (Ridge)|12|12|
+Valley of the Wise (Ridge)¦Valley_of_the_Wise_(Ridge)¦Arid Valley¦World Area|Arid Valley|5|7|;|Rhudal Volcano (Rim)|13|2|;|Valley of the Wise (Mesa)|2|13|;shop|Berries Mart|11|3|;|Berry Mix|2|2|
+Valley of the Wise (Mesa)¦Valley_of_the_Wise_(Mesa)¦¦|Valley of the Wise (Ridge)|2|1|;|Valley of the Wise (Ruins)|14|9|
+Valley of the Wise (Ruins)¦Valley_of_the_Wise_(Ruins)¦¦|Valley of the Wise (Mesa)|2|1|;|Valley of the Wise (Upland)|14|8|;|Corrupt Priests|12|8|
+Valley of the Wise (Upland)¦Valley_of_the_Wise_(Upland)¦¦|Valley of the Wise (Ruins)|2|1|;|Gohar Barrens (Ridge)|10|1|
+Gohar Barrens (Ridge)¦Gohar_Barrens_(Ridge)¦Arid Valley¦World Area|Arid Valley|15|2|;|Valley of the Wise (Upland)|2|2|;|Gohar Barrens (Plains)|15|15|;relic|Crevasse of Souls|2|14|;shop|Gohar Mart|14|8|;|Artifact Recovery|6|8|
+Gohar Barrens (Plains)¦Gohar_Barrens_(Plains)¦¦|Gohar Barrens (Ridge)|2|2|;|Gohar Barrens (Barren City)|12|13|
+Gohar Barrens (Barren City)¦Gohar_Barrens_(Barren_City)¦¦|Gohar Barrens (Plains)|2|1|;|Huirvast Jungle (Outer)|13|8|;|Gohar Barrens (City Temple)|15|16|;|Barren Revolt|15|2|
+Gohar Barrens (City Temple)¦Gohar_Barrens_(City_Temple)¦¦|Gohar Barrens (Barren City)|16|2|
+Huirvast Jungle (Outer)¦Huirvast_Jungle_(Outer)¦The Lost Ruins¦World Area|The Lost Ruins|8|5|;|Huirvast Jungle (Thicket)|1|2|;|Gohar Barrens (Barren City)|1|13|
+Huirvast Jungle (Thicket)¦Huirvast_Jungle_(Thicket)¦¦|Huirvast Jungle (Outer)|2|1|;|Huirvast Jungle (Grove)|13|13|;|Sticky Situation|14|2|
+Huirvast Jungle (Grove)¦Huirvast_Jungle_(Grove)¦¦|Huirvast Jungle (Thicket)|15|1|;|Huirvast Jungle (Ridge)|1|4|;relic|Huirvast Ruins|15|9|
+Huirvast Jungle (Ridge)¦Huirvast_Jungle_(Ridge)¦¦|Huirvast Jungle (Grove)|2|1|;|Angletor Ruins (Edge)|16|15|;shop|Huirvasr Market|14|8|;|Crab Delight|9|7|
+Angletor Ruins (Edge)¦Angletor_Ruins_(Edge)¦The Lost Ruins¦World Area|The Lost Ruins|15|15|;|Huirvast Jungle (Ridge)|2|2|;|Angletor Ruins (Grounds)|6|12|
+Angletor Ruins (Grounds)¦Angletor_Ruins_(Grounds)¦¦|Angletor Ruins (Edge)|12|2|;|Angletor Ruins (Outskirts)|12|12|;|Angletor Captive|4|6|;|Location 2|2|2|
+Angletor Ruins (Outskirts)¦Angletor_Ruins_(Outskirts)¦¦|Angletor Ruins (Grounds)|2|2|;|Nismildor Forest (Valley)|10|12|;shop|Angletor Wares|15|15|
+Nismildor Forest (Valley)¦Nismildor_Forest_(Valley)¦The Lost Ruins¦World Area|The Lost Ruins|5|8|;|Angletor Ruins (Outskirts)|2|2|;|Nismildor Forest (Clearing)|12|2|;portal|Nismildor Portal|9|8|;|Hunting Profits|2|12|;|Location 2|6|2|
+Nismildor Forest (Clearing)¦Nismildor_Forest_(Clearing)¦¦|Nismildor Forest (Valley)|2|2|;|Nismildor Forest (Upland)|9|10|
+Nismildor Forest (Slopes)¦Nismildor_Forest_(Slopes)¦¦|Nismildor Forest (Upland)|6|9|
+Nismildor Forest (Upland)¦Nismildor_Forest_(Upland)¦¦|Faetmor Sands (Outer)|2|2|;|Nismildor Forest (Slopes)|13|7|;|Nismildor Forest (Clearing)|4|9|;|A Greater Threat|13|12|
+Faetmor Sands (Outer)¦Faetmor_Sands_(Outer)¦Antediluvian Mountains¦World Area|Antediluvian Mountains|2|13|;|Faetmor Sands (Plains)|12|2|;|Nismildor Forest (Upland)|5|7|
+Faetmor Sands (Plains)¦Faetmor_Sands_(Plains)¦¦|Faetmor Sands (Outer)|2|2|;|Faetmor Sands (Cove)|15|15|;|Expeditionary Defense|15|2|
+Faetmor Sands (Cove)¦Faetmor_Sands_(Cove)¦¦|Faetmor Sands (Outskirts)|11|6|;|Faetmor Sands (Plains)|2|12|
+Faetmor Sands (Outskirts)¦Faetmor_Sands_(Outskirts)¦¦|Faetmor Sands (Cove)|6|4|;|Avithral Caves (Entrance)|7|10|;shop|Faetmor Bazaar|10|6|;|The Lizard Stork|13|1|
+Avithral Caves (Entrance)¦Avithral_Caves_(Entrance)¦Antediluvian Mountains¦World Area|Antediluvian Mountains|2|12|;|Faetmor Sands (Outskirts)|2|2|;|Avithral Caves (Upper)|11|6|;relic|Guardian Statue|12|2|
+Avithral Caves (Upper)¦Avithral_Caves_(Upper)¦¦|Avithral Caves (Entrance)|2|2|;|Avithral Caves (Lower)|4|13|;|Nykstuka Magic|10|6|;|Location 2|10|14|
+Avithral Caves (Lower)¦Avithral_Caves_(Lower)¦¦|Avithral Caves (Upper)|12|2|;|Nevrect Depths (Recess)|2|15|
+Nevrect Depths (Recess)¦Nevrect_Depths_(Recess)¦Antediluvian Mountains¦World Area|Antediluvian Mountains|2|9|;|Avithral Caves (Lower)|13|13|;|Nevrect Depths (Ridge)|13|2|;|Seiyrus Culling|5|5|
+Nevrect Depths (Ridge)¦Nevrect_Depths_(Ridge)¦¦|Nevrect Depths (Recess)|2|2|;|Nevrect Depths (Central)|13|2|;shop|Nevrect Wares|5|6|;portal|Nevrect Portal|10|8|
+Nevrect Depths (Central)¦Nevrect_Depths_(Central)¦¦|Nevrect Depths (Temple)|12|2|;|Nevrect Depths (Ridge)|2|12|;|Azlatha Kingdom (Highland)|12|12|;|Dangerous Aspirations|9|6|
+Nevrect Depths (Temple)¦Nevrect_Depths_(Temple)¦¦|Nevrect Depths (Central)|13|2|
+Azlatha Kingdom (Highland)¦Azlatha_Kingdom_(Highland)¦Elgorroth Province¦World Area|Elgorroth Province|2|1|;|Nevrect Depths (Central)|1|13|;|Azlatha Kingdom (Thicket)|13|14|
+Azlatha Kingdom (Thicket)¦Azlatha_Kingdom_(Thicket)¦¦|Azlatha Kingdom (Highland)|16|2|;|Azlatha Kingdom (Outskirts)|6|8|;relic|Azlatha Artifact|15|12|;|Trading Troubles|2|12|
+Azlatha Kingdom (Outskirts)¦Azlatha_Kingdom_(Outskirts)¦¦|Azlatha Kingdom (Thicket)|7|1|;|Khiir Forest (Range)|14|6|;shop|Azlatha Wares|10|7|
+Khiir Forest (Range)¦Khiir_Forest_(Range)¦Elgorroth Province¦World Area|Elgorroth Province|1|13|;|Azlatha Kingdom (Outskirts)|2|1|;|Khiir Forest (Upland)|14|13|;shop|Khiir Wares|9|8|;|Deadly Circumstances|13|2|
+Khiir Forest (Upland)¦Khiir_Forest_(Upland)¦¦|Khiir Forest (Range)|2|1|;|Khiir Forest (Valley)|13|16|;portal|Khiir Portal|13|2|
+Khiir Forest (Valley)¦Khiir_Forest_(Valley)¦¦|Khiir Forest (Upland)|13|1|;|Khiir Forest (Grove)|14|13|;|Dire Housing|13|13|
+Khiir Forest (Grove)¦Khiir_Forest_(Grove)¦¦|Khiir Forest (Valley)|1|2|;|Ethigor City (Walls)|14|14|
+Ethigor City (Walls)¦Ethigor_City_(Walls)¦Elgorroth Province¦World Area|Elgorroth Province|2|1|;|Ethigor City (Central)|13|1|;|Khiir Forest (Grove)|7|13|;shop|Ethigor Wares|5|8|;|Defense of Ethigor|13|13|
+Ethigor City (Central)¦Ethigor_City_(Central)¦¦|Ethigor City (Walls)|2|1|;|Ethigor City (Grounds)|13|1|;portal|Ethigor Portal|10|7|
+Ethigor City (Great Halls)¦Ethigor_City_(Great_Halls)¦¦|Ethigor City (Grounds)|7|13|
+Ethigor City (Grounds)¦Ethigor_City_(Grounds)¦¦|Ethigor City (Great Halls)|2|1|;|Ethigor City (Central)|13|1|;|Lindorik Kingdom (Outlands)|13|14|;|Stop the Baron!|9|9|
+Lindorik Kingdom (Outlands)¦Lindorik_Kingdom_(Outlands)¦Realms of Tyrusmau¦World Area|Realms of Tyrusmau|2|2|;World Area|Realms of Tyrusmau|2|13|;|Lindorik Kingdom (Thicket)|12|2|;|Ethigor City (Grounds)|9|7|
+Lindorik Kingdom (Thicket)¦Lindorik_Kingdom_(Thicket)¦¦|Lindorik Kingdom (Outlands)|2|2|;|Lindorik Kingdom (Edge)|13|13|;|Collecting the Young|13|2|
+Lindorik Kingdom (Edge)¦Lindorik_Kingdom_(Edge)¦¦|Lindorik Kingdom (Upland)|13|2|;|Lindorik Kingdom (Thicket)|5|8|;relic|Pillars of Lindorik|2|2|
+Lindorik Kingdom (Upland)¦Lindorik_Kingdom_(Upland)¦¦|Lindorik Kingdom (Edge)|2|2|;|Lindorik Kingdom (Valley)|10|9|;shop|Upland Wares|5|9|;|Cripping the Engines|9|5|
+Lindorik Kingdom (Valley)¦Lindorik_Kingdom_(Valley)¦¦|Tregdor Kingdom (Outskirts)|13|2|;|Lindorik Kingdom (Upland)|13|13|
+Tregdor Kingdom (Outskirts)¦Tregdor_Kingdom_(Outskirts)¦Realms of Tyrusmau¦World Area|Realms of Tyrusmau|2|13|;|Lindorik Kingdom (Valley)|2|1|;|Tregdor Kingdom (Walls)|12|1|;|Breaking Free|13|7|;|Location 2|12|13|
+Tregdor Kingdom (Walls)¦Tregdor_Kingdom_(Walls)¦¦|Tregdor Kingdom (Outskirts)|8|1|;|Tregdor Kingdom (Plaza)|7|13|;shop|Tregdor Bazaar|13|2|
+Tregdor Kingdom (Plaza)¦Tregdor_Kingdom_(Plaza)¦¦|Tregdor Kingdom (Square)|2|1|;|Tregdor Kingdom (Walls)|13|1|;|Warhog Distractions|8|4|;|Location 2|8|14|
+Tregdor Kingdom (Square)¦Tregdor_Kingdom_(Square)¦¦|Tregdor Kingdom (Caves)|2|1|;|Tregdor Kingdom (Plaza)|13|1|;portal|Tregdor|13|13|
+Tregdor Kingdom (Caves)¦Tregdor_Kingdom_(Caves)¦¦|Tregdor Kingdom (Square)|7|2|;|Narsava Dominion (Entrance)|11|5|;|Tregdor Kingdom (Gate to Underground)|10|12|;|Slaying Flamebreath|9|12|
+Tregdor Kingdom (Gate to Underground)¦Tregdor_Kingdom_(Gate_to_Underground)¦¦|Tregdor Kingdom (Caves)|13|12|
+Narsava Dominion (Entrance)¦Narsava_Dominion_(Entrance)¦Domains of Rigall¦World Area|Domains of Rigall|7|3|;|Narsava Dominion (Outer)|13|2|;|Tregdor Kingdom (Caves)|5|9|
+Narsava Dominion (Outer)¦Narsava_Dominion_(Outer)¦¦|Narsava Dominion (Entrance)|2|2|;|Narsava Dominion (Inner)|13|13|;|To Kill the Burrowers|13|2|
+Narsava Dominion (Inner)¦Narsava_Dominion_(Inner)¦¦|Narsava Dominion (Outer)|2|2|;|Narsava Dominion (Breach)|6|9|
+Narsava Dominion (Breach)¦Narsava_Dominion_(Breach)¦¦|Narsava Dominion (Inner)|5|5|;|Muisru Kingdom (North)|11|9|;shop|Narsava Wares|12|2|;|Forging Axes|13|2|
+Muisru Kingdom (North)¦Muisru_Kingdom_(North)¦Domains of Rigall¦World Area|Domains of Rigall|11|12|;|Narsava Dominion (Breach)|2|2|;|Muisru Kingdom (South)|2|13|;relic|Statue of Elidoia|12|2|
+Muisru Kingdom (South)¦Muisru_Kingdom_(South)¦¦|Muisru Kingdom (East)|13|2|;|Muisru Kingdom (North)|5|9|;|Infiltration of Muisru|10|9|
+Muisru Kingdom (East)¦Muisru_Kingdom_(East)¦¦|Muisru Kingdom (West)|13|2|;|Muisru Kingdom (South)|2|13|;shop|Meisru Bazaar|13|13|
+Muisru Kingdom (West)¦Muisru_Kingdom_(West)¦¦|Muisru Kingdom (East)|12|2|;|Muisru Kingdom (Cavern)|2|12|;|Horned Collection|2|2|
+Muisru Kingdom (Cavern)¦Muisru_Kingdom_(Cavern)¦¦|Muisru Kingdom (West)|2|2|;|Muisru Kingdom (Abandoned Tunnels)|12|12|;portal|Muisru Portal|12|2|
+Muisru Kingdom (Abandoned Tunnels)¦Muisru_Kingdom_(Abandoned_Tunnels)¦¦|Muisru Kingdom (Cavern)|2|2|;|Darghei Desert (North)|5|6|;|Muisru Kingdom (Temple)|9|9|;|Smashing the Iron Fist|2|12|
+Muisru Kingdom (Temple)¦Muisru_Kingdom_(Temple)¦¦|Muisru Kingdom (Abandoned Tunnels)|7|2|
+Darghei Desert (North)¦Darghei_Desert_(North)¦Adriel Flats¦World Area|Adriel Flats|9|3|;|Muisru Kingdom (Abandoned Tunnels)|5|6|;|Darghei Desert (East)|13|13|
+Darghei Desert (East)¦Darghei_Desert_(East)¦¦|Darghei Desert (North)|2|2|;|Darghei Desert (South)|12|6|;|Captive of Ogres|2|5|;|Location 2|9|9|
+Darghei Desert (South)¦Darghei_Desert_(South)¦¦|Darghei Desert (West)|9|5|;|Darghei Desert (East)|2|12|;relic|Darghei Statue|12|2|
+Darghei Desert (West)¦Darghei_Desert_(West)¦¦|Darghei Desert (South)|13|2|;|Osslandira Canyon (Plateau)|2|12|;shop|Darghei Market|2|2|;|Tribal Thievery|9|5|
+Osslandira Canyon (Plateau)¦Osslandira_Canyon_(Plateau)¦Adriel Flats¦World Area|Adriel Flats|6|10|;|Darghei Desert (West)|13|2|;|Osslandira Canyon (Ridge)|13|13|
+Osslandira Canyon (Ridge)¦Osslandira_Canyon_(Ridge)¦Adriel Flats¦Shop|Blackwood Traders|9|10|;|Osslandira Canyon (Plateau)|2|2|;|Osslandira Canyon (Range)|5|8|;Portal|Adriel Portal|2|13|;|Stages 1-3:|13|2|
+Osslandira Canyon (Range)¦Osslandira_Canyon_(Range)¦¦|Osslandira Canyon (Ridge)|12|2|;|Orrotaui Forest (Edge)|2|13|
+Orrotaui Forest (Edge)¦Orrotaui_Forest_(Edge)¦Adriel Flats¦World Area|Adriel Flats|1|13|;|Orrotaui Forest (Thicket)|2|1|;|Osslandira Canyon (Range)|13|1|;shop|Orrotaui Wares|13|13|;|Village Savior|8|11|
+Orrotaui Forest (Thicket)¦Orrotaui_Forest_(Thicket)¦¦|Orrotaui Forest (Edge)|2|1|;|Orrotaui Forest (Clearing)|13|14|
+Orrotaui Forest (Ancient Ruins)¦Orrotaui_Forest_(Ancient_Ruins)¦¦|Orrotaui Forest (Clearing)|9|1|
+Orrotaui Forest (Clearing)¦Orrotaui_Forest_(Clearing)¦¦|Orrotaui Forest (Thicket)|2|1|;|The Lost Ascent (Entrance)|10|6|;|Orrotaui Forest (Ancient Ruins)|12|14|;shop|Clearing Stores|5|6|;|Slaying the Orrotaui Beast|12|2|
+The Lost Ascent (Entrance)¦The_Lost_Ascent_(Entrance)¦The Chambers of Mount Caugha¦World Area|The Chambers of Mount Caugha|10|7|;|Orrotaui Forest (Clearing)|5|8|;|The Lost Ascent (Central Chamber)|13|13|;relic|Shimmering Circle|13|2|
+The Lost Ascent (Central Chamber)¦The_Lost_Ascent_(Central_Chamber)¦¦|The Lost Ascent (Maze)|7|2|;|The Lost Ascent (Entrance)|12|2|;|Scuttling the Scuttlers|2|13|
+The Lost Ascent (Maze)¦The_Lost_Ascent_(Maze)¦¦|The Lost Ascent (Central Chamber)|2|2|;|The Lost Ascent (Forgotten Cavern)|13|7|;shop|Lost Bazaar|13|2|
+The Lost Ascent (Forgotten Cavern)¦The_Lost_Ascent_(Forgotten_Cavern)¦¦|The Lost Ascent (Maze)|2|2|;|Caugha Abyss (Plateau)|12|2|;portal|The Lost Portal|10|8|;|The Resurrected|2|13|
+Caugha Abyss (Plateau)¦Caugha_Abyss_(Plateau)¦The Chambers of Mount Caugha¦World Area|The Chambers of Mount Caugha|13|13|;|The Lost Ascent (Forgotten Cavern)|13|2|;|Caugha Abyss (Ridge)|5|6|
+Caugha Abyss (Ridge)¦Caugha_Abyss_(Ridge)¦¦|Caugha Abyss (Plateau)|9|2|;|Caugha Abyss (Range)|2|5|;|Stolen Ales|12|6|;|Slaying the Invidious location 2|13|2|
+Caugha Abyss (Range)¦Caugha_Abyss_(Range)¦¦|Caugha Abyss (Ridge)|13|2|;|Tormented Recess (Entrance)|6|13|
+Tormented Recess (Entrance)¦Tormented_Recess_(Entrance)¦The Chambers of Mount Caugha¦World Area|The Chambers of Mount Caugha|6|13|;|Tormented Recess (Gorge)|2|2|;|Caugha Abyss (Range)|12|13|;shop|Tormented Trinkets|2|6|;portal|Tormented Portal|12|8|;|Resting the Souls|12|8|
+Tormented Recess (Gorge)¦Tormented_Recess_(Gorge)¦¦|Tormented Recess (Entrance)|13|2|;|Tormented Recess (Depths)|13|13|
+Forest of Yule (Edge)¦Forest_of_Yule_(Edge)¦Krul Island¦|Forest of Yule (Clearing)|2|2|
+Hallowed Isle¦Hallowed_Isle¦Krul Island¦|Oidhche Shamhna|13|12|;|Stages 1-4:|3|3|
+Temple of Aether¦Temple_of_Aether¦¦|Land of the Elements|12|23|;shop|Aether Treasury|2|11|
+Tormented Recess (Depths)¦Tormented_Recess_(Depths)¦¦|Tormented Recess (Gorge)|13|2|;|Falzwort Labyrinth (Entrance)|6|4|;|Tormented Recess (Fissure)|2|13|;|Slaying the Invidious|13|7|
+Tormented Recess (Fissure)¦Tormented_Recess_(Fissure)¦¦|Tormented Recess (Depths)|7|5|
+Falzwort Labyrinth (Entrance)¦Falzwort_Labyrinth_(Entrance)¦Tuori Ascent¦World Area|Tuori Ascent|2|14|;|Tormented Recess (Depths)|1|2|;|Falzwort Labyrinth (Recess)|13|13|
+Falzwort Labyrinth (Recess)¦Falzwort_Labyrinth_(Recess)¦¦|Falzwort Labyrinth (Entrance)|4|2|;|Falzwort Labyrinth (Halls)|8|13|;|Slug Servings|4|6|
+Falzwort Labyrinth (Halls)¦Falzwort_Labyrinth_(Halls)¦¦|Falzwort Labyrinth (Recess)|13|2|;|Falzwort Labyrinth (Ascent)|9|11|;relic|Statue of Falzwort|2|14|
+Falzwort Labyrinth (Ascent)¦Falzwort_Labyrinth_(Ascent)¦¦|Olcrani Forest (Outer)|13|2|;|Falzwort Labyrinth (Halls)|9|5|;shop|Falzwort Bazaar|2|2|;|Golden Ascent|5|9|;|Acquiring Organiosita|8|11|
+Olcrani Forest (Outer)¦Olcrani_Forest_(Outer)¦Tuori Ascent¦World Area|Tuori Ascent|4|12|;|Falzwort Labyrinth (Ascent)|5|2|;|Olcrani Forest (Grove)|10|13|
+Olcrani Forest (Grove)¦Olcrani_Forest_(Grove)¦¦|Olcrani Forest (Recess)|2|2|;|Olcrani Forest (Outer)|13|5|;|Aiding the Soldiers|6|5|;|Location 2|2|13|
+Olcrani Forest (Recess)¦Olcrani_Forest_(Recess)¦¦|Olcrani Forest (Grove)|13|2|;|Dimcriee Swamps (Mire)|3|7|
+Dimcriee Swamps (Mire)¦Dimcriee_Swamps_(Mire)¦Tuori Ascent¦World Area|Tuori Ascent|7|4|;|Olcrani Forest (Recess)|2|2|;|Dimcriee Swamps (Murk)|13|14|;shop|Dimcriee Wares|11|9|;portal|Dimcriee Portal|2|8|
+Dimcriee Swamps (Murk)¦Dimcriee_Swamps_(Murk)¦¦|Dimcriee Swamps (Ridge)|2|2|;|Dimcriee Swamps (Mire)|13|2|
+Dimcriee Crypt (Lair)¦Dimcriee_Crypt_(Lair)¦¦|Dimcriee Swamps (Crypt)|5|9|
+Dimcriee Swamps (Crypt)¦Dimcriee_Swamps_(Crypt)¦¦|Dimcriee Crypt (Lair)|6|6|;|Dimcriee Swamps (Ridge)|2|13|
+Dimcriee Swamps (Ridge)¦Dimcriee_Swamps_(Ridge)¦¦|Dimcriee Swamps (Murk)|2|2|;|Eldshaw Rocks (North)|7|4|;|Dimcriee Swamps (Crypt)|13|6|;|The Dimcriee Horror|7|10|
+Quango Jungle¦Quango_Jungle¦Arrin Moors¦|Quango Mountain|4|1|;|Quango Chasm|8|16|;|Stages 1-2:|2|14|
+Eldshaw Rocks (North)¦Eldshaw_Rocks_(North)¦Domain of Elighed¦World Area|Domain of Elighed|6|3|;|Eldshaw Rocks (East)|13|2|;|Dimcriee Swamps (Ridge)|13|13|
+Eldshaw Rocks (East)¦Eldshaw_Rocks_(East)¦¦|Eldshaw Rocks (North)|2|2|;|Eldshaw Rocks (South)|9|5|;|Glimmer of Interest|5|9|
+Eldshaw Rocks (South)¦Eldshaw_Rocks_(South)¦¦|Eldshaw Rocks (East)|2|4|;|Eldshaw Rocks (West)|10|7|;shop|Eldshaw Bazaar|13|13|;portal|Eldshaw Portal|12|2|
+Eldshaw Rocks (West)¦Eldshaw_Rocks_(West)¦¦|Eldshaw Rocks (South)|6|5|;|Eldshaw Rocks (Plateau)|12|13|;|Tribal Defense|2|2|;|Location 2|2|14|
+Eldshaw Rocks (Plateau)¦Eldshaw_Rocks_(Plateau)¦¦|Eldshaw Rocks (West)|2|2|;|Eldshaw Rocks (Mesa)|13|13|
+Eldshaw Rocks (Mesa)¦Eldshaw_Rocks_(Mesa)¦¦|Eldshaw Rocks (Plateau)|10|2|;|Forest of  Abroia (Valley)|2|13|;|Slavers Assault|6|5|
+Forest of Abroia (Valley)¦Forest_of_Abroia_(Valley)¦Domain of Elighed¦World Area|Domain of Elighed|1|3|;|Forest of  Abroia (Plateau)|14|2|;|Eldshaw Rocks (Mesa)|14|13|;shop|Abroia Wares|6|8|
+Forest of Abroia (Plateau)¦Forest_of_Abroia_(Plateau)¦¦|Forest of  Abroia (Valley)|2|1|;|Forest of  Abroia (Highland)|14|13|;relic|Abroia Fissure|9|11|;|The Dark Rot|10|4|
+Forest of Abroia (Highland)¦Forest_of_Abroia_(Highland)¦¦|Forest of  Abroia (Plateau)|2|1|;|Forest of  Abroia (Grove)|8|13|
+Forest of Abroia (Grove)¦Forest_of_Abroia_(Grove)¦¦|Forest of Abroia (Highland)|11|1|;|Forest of Abroia (Ridge)|1|12|;|Ernyir Tundra (Lower)|13|13|;|Decaying Stand|3|12|
+Forest of Abroia (Ridge)¦Forest_of_Abroia_(Ridge)¦¦|Forest of Abroia (Grove)|14|14|
+Ernyir Tundra (Lower)¦Ernyir_Tundra_(Lower)¦Ernyir¦World Area|Ernyir|13|2|;|Forest of Abroia (Grove)|2|2|;|Ernyir Tundra (Range)|5|6|
+Ernyir Tundra (Range)¦Ernyir_Tundra_(Range)¦¦|Ernyir Tundra (Clearing)|9|9|;|Ernyir Tundra (Lower)|13|10|;|Guovza Threat|8|13|
+Ernyir Tundra (Clearing)¦Ernyir_Tundra_(Clearing)¦¦|Ernyir Tundra (Range)|13|2|;|Ernyir Tundra (Slopes)|2|7|
+Ernyir Tundra (Slopes)¦Ernyir_Tundra_(Slopes)¦¦|Ernyir Tundra (Clearing)|7|2|;|Ernyir Tundra (Verge)|13|13|;shop|Ernyir Wares|13|2|;portal|Ernyir Portal|10|6|;|The Bahaka Suspicion|10|10|;|Location 2|2|13|
+Ernyir Tundra (Verge)¦Ernyir_Tundra_(Verge)¦¦|Nualgiath Forest (Clearing)|13|2|;|Ernyir Tundra (Slopes)|9|6|
+Nualgiath Clearing Cave¦Nualgiath_Clearing_Cave¦¦|Nualgiath Forest (Clearing)|2|5|
+Nualgiath Forest (Clearing)¦Nualgiath_Forest_(Clearing)¦Ernyir¦World Area|Ernyir|13|13|;|Nualgiath Clearing Cave|7|2|;|Ernyir Tundra (Verge)|2|6|;|Nualgiath Forest (Thicket)|13|6|;|Hypnotic Tales|8|9|
+Nualgiath Forest (Thicket)¦Nualgiath_Forest_(Thicket)¦¦|Nualgiath Forest (Clearing)|11|4|;|Nualgiath Forest (Ridge)|2|13|;relic|Enchanted Willow|11|9|
+Nualgiath Forest (Ridge)¦Nualgiath_Forest_(Ridge)¦¦|Nualgiath Forest (Thicket)|11|4|;|Nualgiath Forest (Elevation)|13|13|;relic|Ancient Ruins of Zorx|5|6|;shop|Nualgiath Trinkets|7|10|;|Start:|2|2|;|Location 2:|2|13|;|Location 3:|5|8|
+Nualgiath Forest (Elevation)¦Nualgiath_Forest_(Elevation)¦¦|Nualgiath Forest (Ridge)|7|4|;|Nualgiath Forest (Ascent)|2|13|
+Nualgiath Forest (Ascent)¦Nualgiath_Forest_(Ascent)¦¦|Nualgiath Treasure Cave|9|2|;|Nualgiath Forest (Elevation)|13|5|;|Nualgiath Forest (Summit)|6|6|;|The Treasure of Nualgiath|2|2|
+Nualgiath Forest (Summit)¦Nualgiath_Forest_(Summit)¦¦|Nolaia Tunnels (Upper)|13|2|;|Nualgiath Forest (Ascent)|11|6|
+Nualgiath Treasure Cave¦Nualgiath_Treasure_Cave¦¦|Nualgiath Forest (Ascent)|2|5|;|The Treasure of Nualgiath part 2|2|2|
+Nolaia Tunnels (Upper)¦Nolaia_Tunnels_(Upper)¦Goitha¦World Area|Goitha|11|8|;|Nualgiath Forest (Summit)|13|2|;|Nolaia Tunnels (Lower)|2|5|
+Nolaia Tunnels (Lower)¦Nolaia_Tunnels_(Lower)¦¦|Nolaia Tunnels (Upper)|9|3|;|Town of Goitha (Entrance)|2|12|;|Escape from Nolaia|2|11|
+Town of Goitha (Entrance)¦Town_of_Goitha_(Entrance)¦Goitha¦World Area|Goitha|7|1|;|Nolaia Tunnels (Lower)|2|1|;|Town of Goitha (Courtyard)|4|13|;shop|Great Goitha Wares|12|9|
+Town of Goitha (Courtyard)¦Town_of_Goitha_(Courtyard)¦¦|Town of Goitha (Entrance)|8|1|;|Great Goitha Sewers (Descent)|13|13|;relic|Goitha Vault|6|10|;|Shady Deal|1|6|
+Great Goitha Sewers (Descent)¦Great_Goitha_Sewers_(Descent)¦Goitha¦World Area|Goitha|2|1|;|Town of Goitha (Courtyard)|10|1|;|Great Goitha Sewers (Chamber)|1|14|
+Great Goitha Sewers (Chamber)¦Great_Goitha_Sewers_(Chamber)¦¦|Great Goitha Sewers (Inner)|13|12|;|Great Goitha Sewers (Descent)|6|13|;|Holding the Sewers|7|14|
+Great Goitha Sewers (Inner)¦Great_Goitha_Sewers_(Inner)¦¦|Great Goitha Sewers (Chamber)|13|10|;|Great Goitha Sewers (Egress)|3|14|;shop|Sewers Wares|3|2|
+Great Goitha Sewers (Egress)¦Great_Goitha_Sewers_(Egress)¦¦|Town of Goitha (Pavilion)|14|12|;|Great Goitha Sewers (Inner)|1|14|;|Goitha Giants|3|13|;|Location 2|3|3|
+Town of Goitha (Pavilion)¦Town_of_Goitha_(Pavilion)¦¦|Great Goitha Sewers (Egress)|2|1|;|Town of Goitha (Border)|14|1|;portal|Goitha Portal|9|9|
+Groltin Graveyard¦Groltin_Graveyard¦¦|Town of Goitha (Border)|10|1|;|Slaying the Ratlord location 2|9|2|
+Town of Goitha (Border)¦Town_of_Goitha_(Border)¦¦|Groltin Graveyard|2|1|;|Town of Goitha (Pavilion)|12|1|;|Leipdri Forests (Outskirts)|8|2|;|Slaying the Ratlord|8|3|
+Leipdri Forests (Outskirts)¦Leipdri_Forests_(Outskirts)¦Hive of Gritloar¦World Area|Hive of Gritloar|13|13|;|Town of Goitha (Border)|2|2|;|Leipdri Forests (Range)|13|2|
+Leipdri Forests (Range)¦Leipdri_Forests_(Range)¦¦|Leipdri Forests (Outskirts)|2|2|;|Leipdri Forests (Clearing)|13|12|;|Well of Life|13|7|;|Location 2|2|10|
+Leipdri Forests (Clearing)¦Leipdri_Forests_(Clearing)¦¦|Gritloar Burrows (Entrance)|13|2|;|Leipdri Forests (Range)|9|8|;shop|Leipdri Wares|5|8|
+Gritloar Burrows (Entrance)¦Gritloar_Burrows_(Entrance)¦Hive of Gritloar¦World Area|Hive of Gritloar|2|2|;|Leipdri Forests (Clearing)|13|7|;|Gritloar Burrows (Descent)|5|9|;|Irresistible Artifact|2|13|
+Gritloar Burrows (Descent)¦Gritloar_Burrows_(Descent)¦¦|Gritloar Burrows (Central Chamber)|2|2|;|Gritloar Burrows (Entrance)|11|9|
+Gritloar Burrows (Central Chamber)¦Gritloar_Burrows_(Central_Chamber)¦¦|Gritloar Burrows (Descent)|8|9|;|Gritloar Burrows (Lower Chambers)|2|13|;relic|Mystical Cluster|14|9|;|Devils of the Burrows|2|2|
+Gritloar Burrows (Lower Chambers)¦Gritloar_Burrows_(Lower_Chambers)¦Hive of Gritloar¦World Area|Hive of Gritloar|6|13|;|Gritloar Burrows (Central Chamber)|14|2|;|Gritloar Burrows (Maze)|11|9|
+Gritloar Burrows (Maze)¦Gritloar_Burrows_(Maze)¦¦|Gritloar Burrows (Lower Tunnels)|13|2|;|Gritloar Burrows (Lower Chambers)|6|10|;shop|Burrows Bazaar|13|6|;portal|Gritloar Portal|10|13|;|Stolen Plans|2|8|
+Gritloar Burrows (Lower Tunnels)¦Gritloar_Burrows_(Lower_Tunnels)¦¦|Gritloar Burrows (Maze)|12|3|;|Gritloar Burrows (Hive Chamber)|2|12|
+Cursed Ones Autumn Forest¦Cursed_Ones_Autumn_Forest¦¦|The Grimmnor Forest|3|2|;|The Overgrown Castle|9|13|;|The Story of the Ensorcelled Royal Bride|11|7|
+Gritloar Burrows (Hive Chamber)¦Gritloar_Burrows_(Hive_Chamber)¦¦|Gritloar Burrows (Queen Lair)|13|2|;|Doujin Swamps (Outskirts)|11|8|;|Gritloar Burrows (Lower Tunnels)|10|13|;|Rising Threat|4|4|
+Gritloar Burrows (Queen Lair)¦Gritloar_Burrows_(Queen_Lair)¦¦|Gritloar Burrows (Hive Chamber)|9|4|
+Springtime Forest (Sun Dappled Glade)¦Springtime_Forest_(Sun_Dappled_Glade)¦Krul Island¦|Springtime Forest (Outer Grove)|11|19|
+The Overgrown Castle¦The_Overgrown_Castle¦¦|Cursed Ones Autumn Forest|1|13|;|The Story of the Ensorcelled Royal Bride|11|4|
+Doujin Swamps (Outskirts)¦Doujin_Swamps_(Outskirts)¦Graelenshire¦World Area|Graelenshire|11|14|;|Doujin Swamps (Mire)|12|2|;|Gritloar Burrows (Hive Chamber)|2|9|
+Doujin Swamps (Mire)¦Doujin_Swamps_(Mire)¦¦|Doujin Swamps (Murk)|12|7|;|Doujin Swamps (Outskirts)|2|13|;|Hags Request|7|2|
+Doujin Swamps (Murk)¦Doujin_Swamps_(Murk)¦¦|Doujin Swamps (Mire)|13|2|;|Graelen Graveyard (Outer)|2|15|;relic|Doujin Haunt|9|6|;shop|Doujin Wares|3|3|
+Graelen Graveyard (Outer)¦Graelen_Graveyard_(Outer)¦Graelenshire¦World Area|Graelenshire|14|14|;|Doujin Swamps (Murk)|2|1|;|Graelen Graveyard (Grounds)|13|15|
+Graelen Graveyard (Grounds)¦Graelen_Graveyard_(Grounds)¦¦|Graelen Graveyard (Outer)|13|1|;|Graelen Graveyard (Crypt)|14|10|
+Graelen Graveyard (Crypt)¦Graelen_Graveyard_(Crypt)¦¦|Horrowal Dungeon (Entrance)|14|2|;|Graelen Graveyard (Grounds)|6|7|;|Disturbing Awakening|2|13|
+Horrowal Dungeon (Entrance)¦Horrowal_Dungeon_(Entrance)¦Graelenshire¦World Area|Graelenshire|2|2|;|Horrowal Dungeon (Maze)|13|11|;|Graelen Graveyard (Crypt)|2|13|
+Horrowal Dungeon (Maze)¦Horrowal_Dungeon_(Maze)¦¦|Horrowal Dungeon (Entrance)|13|2|;|Horrowal Dungeon (Upper Chambers)|2|12|;portal|Horrowal Portal|10|7|
+Horrowal Dungeon (Upper Chambers)¦Horrowal_Dungeon_(Upper_Chambers)¦¦|Horrowal Dungeon (Maze)|13|2|;|Horrowal Dungeon (Halls)|11|10|;shop|Horrowal Trinkets|7|4|
+Horrowal Dungeon (Great Chamber)¦Horrowal_Dungeon_(Great_Chamber)¦¦|Horrowal Dungeon (Halls)|8|2|;|The Von Schwarzhurg Experiment|2|2|
+Horrowal Dungeon (Halls)¦Horrowal_Dungeon_(Halls)¦¦|Horrowal Dungeon (Great Chamber)|9|3|;|Underal Burrows (Entrance)|3|13|;|Horrowal Dungeon (Upper Chambers)|13|15|
+Underal Burrows (Entrance)¦Underal_Burrows_(Entrance)¦Elghast¦World Area|Elghast|12|9|;|Horrowal Dungeon (Halls)|10|3|;|Underal Burrows (Lower Tunnels)|4|5|
+Underal Burrows (Lower Tunnels)¦Underal_Burrows_(Lower_Tunnels)¦¦|Underal Burrows (Ascent)|12|3|;|Underal Burrows (Entrance)|4|11|;|Clearing the Patch|11|10|
+Underal Burrows (Ascent)¦Underal_Burrows_(Ascent)¦¦|Underal Burrows (Lower Tunnels)|4|6|;|Outlore Flats (Dunes)|11|9|
+Outlore Flats (Dunes)¦Outlore_Flats_(Dunes)¦Elghast¦World Area|Elghast|12|13|;|Underal Burrows (Ascent)|2|2|;|Outlore Flats (Badlands)|8|4|;|Defending the Trade|2|15|;|Discovering Flight|13|7|
+Outlore Flats (Badlands)¦Outlore_Flats_(Badlands)¦¦|The Leduin Desert|2|2|;|Myagar Flats|10|12|;|Outlore Flats (Valley)|8|4|;|Outlore Flats (Dunes)|3|11|;shop|Outlore Trinkets|12|9|
+The Forgotten Chamber (Main)¦The_Forgotten_Chamber_(Main)¦¦|The Leduin Desert|7|12|;|The Forgotten Chamber 1|8|2|;|The Forgotten Chamber 2|12|3|;|The First Key (Quest)|8|2|;|The Second Key (Quest)|12|3|
+The Forgotten Chamber 1¦The_Forgotten_Chamber_1¦¦|The Forgotten Chamber (Main)|7|12|;|The First Fragment|10|3|
+The Forgotten Chamber 2¦The_Forgotten_Chamber_2¦¦|The Forgotten Chamber (Main)|7|12|;|The Second Fragment|12|1|
+The Leduin Desert¦The_Leduin_Desert¦¦|Outlore Flats (Badlands)|6|3|;|The Forgotten Chamber (Main)|9|7|;|Diamonds are forever... lost|8|7|;|Cave Entrance|9|7|
+Outlore Flats (Valley)¦Outlore_Flats_(Valley)¦¦|Outlore Flats (Badlands)|6|4|;|Outlore Flats (Arid Outskirts)|12|6|;relic|Outlores Pillar|13|13|;|Tales of Sorcery|2|9|
+Outlore Flats (Arid Outskirts)¦Outlore_Flats_(Arid_Outskirts)¦¦|Outlore Flats (Valley)|3|3|;|City of Elghast (Outskirts)|15|15|
+City of Elghast (Outskirts)¦City_of_Elghast_(Outskirts)¦Elghast¦|City of Elghast (Walls)|13|1|;|Outlore Flats (Arid Outskirts)|3|2|;World Area|Elghast|13|12|;|Stage 1:|2|7|;|Stage 2:|12|1|;|Stage 3:|2|7|
+City of Elghast (Walls)¦City_of_Elghast_(Walls)¦¦|City of Elghast (Outskirts)|2|1|;|City of Elghast (Plaza)|6|6|;shop|Elghast Wares|9|10|;portal|Elghast Portal|10|4|
+City of Elghast (City Temple)¦City_of_Elghast_(City_Temple)¦¦|City of Elghast (Plaza)|13|12|
+City of Elghast (Plaza)¦City_of_Elghast_(Plaza)¦¦|City of Elghast (City Temple)|2|1|;|City of Elghast (Walls)|11|4|;|Pass of the Fallen (Upland)|5|13|;|Blinding the Darkness|3|9|
+Pass of the Fallen (Upland)¦Pass_of_the_Fallen_(Upland)¦The Harrowed Lands¦World Area|The Harrowed Lands|14|2|;|Pass of the Fallen (Ridge)|3|1|;|City of Elghast (Plaza)|3|14|
+Pass of the Fallen (Ridge)¦Pass_of_the_Fallen_(Ridge)¦¦|Pass of the Fallen (Upland)|2|2|;|Pass of the Fallen (Slopes)|12|11|;|Silencing the Fires|3|2|;|Location 2|2|13|;|Location 3|13|1|
+Pass of the Fallen (Slopes)¦Pass_of_the_Fallen_(Slopes)¦¦|Pelgarir Valley (Verge)|4|2|;|Pass of the Fallen (Ridge)|1|10|
+Pelgarir Valley (Verge)¦Pelgarir_Valley_(Verge)¦The Harrowed Lands¦World Area|The Harrowed Lands|12|13|;|Pass of the Fallen (Slopes)|3|8|;|Pelgarir Valley (Thicket)|10|8|;relic|Enchanted Circle of Pelgarir|5|13|;shop|Valley Trinkets|12|4|;|Muskox Coats|5|3|
+Pelgarir Valley (Thicket)¦Pelgarir_Valley_(Thicket)¦¦|Pelgarir Valley (Clearing)|10|8|;|Pelgarir Valley (Verge)|7|13|;portal|Pelgarir Portal|2|2|
+Pelgarir Valley (Clearing)¦Pelgarir_Valley_(Clearing)¦¦|Pelgarir Valley (Thicket)|2|2|;|Pelgarir Valley (Outskirts)|12|11|;|Umbra Distraction|2|12|
+Pelgarir Valley (Outskirts)¦Pelgarir_Valley_(Outskirts)¦¦|Pelgarir Valley (Clearing)|2|2|;|Farmane Shore (Slopes)|11|4|
+Farmane Shore (Slopes)¦Farmane_Shore_(Slopes)¦The Harrowed Lands¦World Area|The Harrowed Lands|2|12|;|Pelgarir Valley (Outskirts)|2|4|;|Farmane Shore (Crags)|8|13|;relic|Ever Ice Stones|13|10|;|Culling the Seals|12|1|
+Farmane Shore (Crags)¦Farmane_Shore_(Crags)¦¦|Farmane Shore (Cliff)|3|3|;|Farmane Shore (Slopes)|9|4|;shop|Farmane Bazaar|10|8|
+Farmane Shore (Bastion)¦Farmane_Shore_(Bastion)¦¦|Farmane Shore (Cliff)|10|1|
+Farmane Shore (Cliff)¦Farmane_Shore_(Cliff)¦¦|City of Helmirr (Outskirts)|2|2|;|Farmane Shore (Bastion)|9|2|;|Farmane Shore (Crags)|11|10|;|Overthrowing the Magus|4|12|
+City of Helmirr (Outskirts)¦City_of_Helmirr_(Outskirts)¦The State of Helmirr¦World Area|The State of Helmirr|5|2|;|City of Helmirr (Marketplace)|13|4|;|Farmane Shore (Cliff)|7|7|
+City of Helmirr (Marketplace)¦City_of_Helmirr_(Marketplace)¦¦|City of Helmirr (Outskirts)|2|2|;|Sapher Flow (Lower)|1|13|;|Gladiator Revolt|10|4|
+Sapher Flow (Lower)¦Sapher_Flow_(Lower)¦The State of Helmirr¦World Area|The State of Helmirr|4|3|;|City of Helmirr (Marketplace)|10|6|;|Sapher Flow (Central)|12|14|;portal|Sapher Portal|2|8|
+Sapher Flow (Central)¦Sapher_Flow_(Central)¦¦|Sapher Flow (Lower)|12|3|;|Sapher Flow (Upper)|4|11|;shop|Sapher Bazaar|3|3|;|Start:|7|6|;|Location 2:|11|13|
+Sapher Flow (Upper)¦Sapher_Flow_(Upper)¦¦|City of Helmirr (Courtyard)|2|4|;|Sapher Flow (Central)|12|10|;relic|Sapher Fissure|12|4|
+City of Helmirr (Courtyard)¦City_of_Helmirr_(Courtyard)¦¦|City of Helmirr (Plaza)|2|4|;|Sapher Flow (Upper)|11|14|;|Helping the Slaves|10|3|
+City of Helmirr (Plaza)¦City_of_Helmirr_(Plaza)¦¦|Groul Lands (Fringe)|1|9|;|City of Helmirr (Courtyard)|4|14|;shop|Helmirr Store|10|4|
+Groul Lands (Fringe)¦Groul_Lands_(Fringe)¦The State of Helmirr¦World Area|The State of Helmirr|13|9|;|Groul Lands (Clearing)|5|2|;|City of Helmirr (Plaza)|4|8|;|Corrupt Brothers|12|6|
+Groul Lands (Clearing)¦Groul_Lands_(Clearing)¦¦|Groul Lands (Fringe)|2|1|;|Groul Lands (Fortress Entrance)|14|3|
+Groul Lands (Crystal Fortress)¦Groul_Lands_(Crystal_Fortress)¦¦|Groul Lands (Fortress Entrance)|10|1|
+Groul Lands (Fortress Entrance)¦Groul_Lands_(Fortress_Entrance)¦¦|Groul Lands (Crystal Fortress)|12|1|;|Groul Lands (Clearing)|7|12|;|Yuika Flats (Edge)|13|13|;|Slaying Azmar|2|8|
+Yuika Flats (Edge)¦Yuika_Flats_(Edge)¦Zekheld¦World Area|Zekheld|8|10|;|Groul Lands (Fortress Entrance)|12|3|;|Yuika Flats (Dunes)|6|4|
+Yuika Flats (Dunes)¦Yuika_Flats_(Dunes)¦¦|Yuika Flats (Plateau)|3|6|;|Yuika Flats (Edge)|13|13|;portal|Yuika Portal|12|7|;|Recovering Valuables|10|3|
+Yuika Flats (Plateau)¦Yuika_Flats_(Plateau)¦¦|Outer Wall of Zekheld|10|5|;|Yuika Flats (Dunes)|8|13|;shop|Yuika Mart|11|10|
+Outer Wall of Zekheld¦Outer_Wall_of_Zekheld¦Zekheld¦World Area|Zekheld|11|1|;|Yuika Flats (Plateau)|1|3|;|Pits of Dryidu (Wastes)|28|3|;|Opposed Upgrades|2|2|
+Pits of Dryidu (Wastes)¦Pits_of_Dryidu_(Wastes)¦Zekheld¦World Area|Zekheld|14|3|;|Outer Wall of Zekheld|2|1|;|Pits of Dryidu (Depths)|13|12|
+Pits of Dryidu (Depths)¦Pits_of_Dryidu_(Depths)¦¦|Pits of Dryidu (Spires)|10|3|;|Pits of Dryidu (Wastes)|1|11|;|Start:|2|12|;|Location 2:|3|1|
+Pits of Dryidu (Spires)¦Pits_of_Dryidu_(Spires)¦¦|Pits of Dryidu (Depths)|13|1|;|Inner Wall of Zekheld|14|10|;relic|Artifact of Dryidu|5|9|
+Inner Wall of Zekheld¦Inner_Wall_of_Zekheld¦¦|Pits of Dryidu (Spires)|1|3|;|City of Zekheld (Suburbs)|26|5|
+City of Zekheld (Suburbs)¦City_of_Zekheld_(Suburbs)¦Zekheld¦World Area|Zekheld|7|1|;|Inner Wall of Zekheld|2|13|;|City of Zekheld (Merchant)|14|14|;shop|Zekheld Bazaar|12|4|
+City of Zekheld (Merchant)¦City_of_Zekheld_(Merchant)¦¦|City of Zekheld (Suburbs)|10|1|;|City of Zekheld (Plaza)|4|1|;|Krudar Crags (North)|4|12|;shop|Zekheld Merchant|9|9|;|Slaying the Guildmaster|4|11|;|The Zekheld Weaponsmith|2|6|
+City of Zekheld (Plaza)¦City_of_Zekheld_(Plaza)¦¦|City of Zekheld (Merchant)|1|2|
+Forest of Yule (Wilds)¦Forest_of_Yule_(Wilds)¦Krul Island¦|Forest of Yule (Clearing)|13|12|;|Stages 1-2:|3|12|;|Stages 3-5:|14|3|
+Myagar Flats¦Myagar_Flats¦¦|Outlore Flats (Badlands)|17|2|;|Tower of Myagar (Entrance)|8|10|;|Myagar: Capturing the Genie|16|3|
+Tower of Myagar (Entrance)¦Tower_of_Myagar_(Entrance)¦¦|Tower of Myagar (First Level)|14|2|;|Myagar Flats|9|16|;|Myagar: The First Level|14|2|
+Tower of Myagar (First Level)¦Tower_of_Myagar_(First_Level)¦¦|Tower of Myagar (Entrance)|4|2|;|Tower of Myagar (Second Level)|11|13|;|Myagar: A Whispered Key|6|16|
+Tower of Myagar (Fourth Level)¦Tower_of_Myagar_(Fourth_Level)¦¦|Tower of Myagar (Third Level)|14|14|;|Myagar: Unlocking the Key|17|2|
+Tower of Myagar (Second Level)¦Tower_of_Myagar_(Second_Level)¦¦|Tower of Myagar (Third Level)|2|2|;|Tower of Myagar (First Level)|8|2|;|Myagar: Vineful Inhibition|2|2|
+Tower of Myagar (Third Level)¦Tower_of_Myagar_(Third_Level)¦¦|Tower of Myagar (Second Level)|2|2|;|Tower of Myagar (Fourth Level)|14|14|;|Myagar: Golems Bane|14|3|

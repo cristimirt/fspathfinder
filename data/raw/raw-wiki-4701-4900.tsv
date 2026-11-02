@@ -1,0 +1,213 @@
+Ojalanth Plains (Sting)¦Ojalanth_Plains_(Sting)¦Ojalanth Plains¦|Callanastia Swamp (Lurk)|3|3|;|Ojalanth Plains (Fell Plain)|14|15|;World Area|Ojalanth Plains|16|2|
+Ojalanth Plains (Fell Plain)¦Ojalanth_Plains_(Fell_Plain)¦Ojalanth Plains¦|Ojalanth Plains (Sting)|14|2|;|Ojalanth Plains (Blaze)|2|16|
+Ojalanth Plains (Blaze)¦Ojalanth_Plains_(Blaze)¦Ojalanth Plains¦|Ojalanth Plains (Conflagration)|3|3|;|Ojalanth Plains (Fell Plain)|15|16|
+Ojalanth Plains (Conflagration)¦Ojalanth_Plains_(Conflagration)¦Ojalanth Plains¦|Ojalanth Plains (Ash)|2|2|;|Ojalanth Plains (Blaze)|13|15|;Portal|Ojalanth Portal|6|13|
+Ojalanth Plains (Ash)¦Ojalanth_Plains_(Ash)¦Ojalanth Plains¦|Ojalanth Plains (Conflagration)|7|2|;|Ojalanth Plains (Lava Field)|15|18|
+Ojalanth Plains (Lava Field)¦Ojalanth_Plains_(Lava_Field)¦Ojalanth Plains¦Relic|Lava Croc Nest|7|2|;|Ojalanth Plains (Glass)|2|2|;|Ojalanth Plains (Ash)|13|16|
+Ojalanth Plains (Glass)¦Ojalanth_Plains_(Glass)¦Ojalanth Plains¦|Ojalanth Plains (Lava Field)|7|2|;|Ojalanth Plains (Haunt)|18|18|
+Ojalanth Plains (Haunt)¦Ojalanth_Plains_(Haunt)¦Ojalanth Plains¦|Ojalanth Plains (Skitter)|15|4|;|Ojalanth Plains (Glass)|2|21|;World Area|Ojalanth Plains|3|3|
+Ojalanth Plains (Skitter)¦Ojalanth_Plains_(Skitter)¦Ojalanth Plains¦|Ojalanth Plains (Pools)|21|3|;|Ojalanth Plains (Haunt)|3|11|
+Ojalanth Plains (Pools)¦Ojalanth_Plains_(Pools)¦Ojalanth Plains¦|Ojalanth Plains (Skitter)|16|3|;|Ojalanth Plains (Colony)|3|16|
+Ojalanth Plains (Colony)¦Ojalanth_Plains_(Colony)¦Ojalanth Plains¦|Ojalanth Plains (Stalk)|3|3|;|Ojalanth Plains (Pools)|16|16|
+Ojalanth Plains (Stalk)¦Ojalanth_Plains_(Stalk)¦Ojalanth Plains¦|Ojalanth Plains (Colony)|12|3|;|Ojalanth Plains (Ash Field)|7|15|
+Ojalanth Plains (Ash Field)¦Ojalanth_Plains_(Ash_Field)¦Ojalanth Plains¦|Ojalanth Plains (Stalk)|13|3|;|Ojalanth Plains (Slither)|2|14|
+Ojalanth Plains (Slither)¦Ojalanth_Plains_(Slither)¦Ojalanth Plains¦|Ojalanth Plains (Ash Field)|3|3|;|Hanarakk Plains (Battlefield)|13|18|;Portal|Ojalanth Portal|5|14|
+Hanarakk Plains (Battlefield)¦Hanarakk_Plains_(Battlefield)¦Ojalanth Plains¦|Ojalanth Plains (Slither)|17|3|;|Hanarakk Plains (Blaze)|5|15|;World Area|Ojalanth Plains|3|6|
+Hanarakk Plains (Blaze)¦Hanarakk_Plains_(Blaze)¦Ojalanth Plains¦Relic|Raging Pyre|9|14|;|Hanarakk Plains (Soar)|11|2|;|Hanarakk Plains (Battlefield)|2|11|
+Hanarakk Plains (Soar)¦Hanarakk_Plains_(Soar)¦Ojalanth Plains¦|Hanarakk Plains (Blaze)|3|3|;|Hanarakk Plains (Smoulder)|20|14|
+Hanarakk Plains (Smoulder)¦Hanarakk_Plains_(Smoulder)¦Ojalanth Plains¦|Hanarakk Plains (Craze)|3|3|;|Hanarakk Plains (Soar)|14|21|
+Hanarakk Plains (Craze)¦Hanarakk_Plains_(Craze)¦Ojalanth Plains¦|Hanarakk Plains (Smoulder)|15|3|;|Hanarakk Plains (Haunt)|7|15|
+Hanarakk Plains (Haunt)¦Hanarakk_Plains_(Haunt)¦Ojalanth Plains¦|Hanarakk Plains (Craze)|8|3|;|Hanarakk Plains (Howling Plain)|14|16|
+Hanarakk Plains (Howling Plain)¦Hanarakk_Plains_(Howling_Plain)¦Ojalanth Plains¦|Hanarakk Plains (Stalk)|5|3|;|Hanarakk Plains (Haunt)|15|13|;World Area|Ojalanth Plains|3|11|
+Hanarakk Plains (Stalk)¦Hanarakk_Plains_(Stalk)¦Ojalanth Plains¦|Hanarakk Plains (Scalding Flow)|2|2|;|Hanarakk Plains (Howling Plain)|15|15|
+Hanarakk Plains (Scalding Flow)¦Hanarakk_Plains_(Scalding_Flow)¦Ojalanth Plains¦|Hanarakk Plains (Stalk)|3|3|;|Hanarakk Plains (Roost)|17|16|
+Hanarakk Plains (Roost)¦Hanarakk_Plains_(Roost)¦Ojalanth Plains¦|Hanarakk Plains (Scalding Flow)|8|2|;|Hanarakk Plains (Pride)|13|14|;Portal|Hanarakk Portal|4|6|
+Hanarakk Plains (Lair)¦Hanarakk_Plains_(Lair)¦Ojalanth Plains¦|Hanarakk Plains (Pride)|9|8|
+Hanarakk Plains (Pride)¦Hanarakk_Plains_(Pride)¦Ojalanth Plains¦|Hanarakk Plains (Roost)|6|3|;|Hanarakk Plains (Lair)|19|12|;|Hanarakk Plains (Grave Site)|3|13|
+Springtime Forest (Pollen)¦Springtime_Forest_(Pollen)¦Krul Island¦|Springtime Forest (Outer Grove)|8|11|
+Hanarakk Plains (Grave Site)¦Hanarakk_Plains_(Grave_Site)¦The Galanoth Forests¦Relic|Flaming Grave Pit|3|8|;|Zornoth Forest (Cairn)|15|2|;|Hanarakk Plains (Pride)|7|17|;World Area|The Galanoth Forests|17|14|
+Zornoth Forest (Cairn)¦Zornoth_Forest_(Cairn)¦The Galanoth Forests¦|Hanarakk Plains (Grave Site)|14|3|;|Zornoth Forest (Hive)|7|14|
+Zornoth Forest (Hive)¦Zornoth_Forest_(Hive)¦The Galanoth Forests¦|Zornoth Forest (Copse)|17|3|;|Zornoth Forest (Cairn)|7|13|
+Zornoth Forest (Copse)¦Zornoth_Forest_(Copse)¦The Galanoth Forests¦|Zornoth Forest (Hive)|3|3|;|Zornoth Forest (Grove)|18|14|
+Zornoth Forest (Grove)¦Zornoth_Forest_(Grove)¦The Galanoth Forests¦|Zornoth Forest (Copse)|14|2|;|Galanoth Forest (Mist)|2|21|
+Galanoth Forest (Mist)¦Galanoth_Forest_(Mist)¦The Galanoth Forests¦|Galanoth Forest (Haunt)|2|4|;|Zornoth Forest (Grove)|11|16|;World Area|The Galanoth Forests|16|3|
+Galanoth Forest (Haunt)¦Galanoth_Forest_(Haunt)¦The Galanoth Forests¦|Galanoth Forest (Mist)|14|3|;|Galanoth Forest (Thorns)|2|16|
+Galanoth Forest (Thorns)¦Galanoth_Forest_(Thorns)¦The Galanoth Forests¦|Galanoth Forest (Haunt)|3|3|;|Galanoth Forest (Shadow)|15|13|;|Stages 1-3:|6|11|
+Galanoth Forest (Shadow)¦Galanoth_Forest_(Shadow)¦The Galanoth Forests¦|Galanoth Forest (Boneyard)|18|2|;|Galanoth Forest (Thorns)|6|15|;Portal|Galanoth Portal|6|3|
+Galanoth Forest (Boneyard)¦Galanoth_Forest_(Boneyard)¦The Galanoth Forests¦|Galanoth Forest (Shadow)|15|3|;|Karlilion Castle (Gate)|14|14|;|Galanoth Forest (Lair)|2|15|;|Stages 4-6:|8|10|
+Galanoth Forest (Lair)¦Galanoth_Forest_(Lair)¦The Galanoth Forests¦|Galanoth Forest (Boneyard)|8|8|
+Karlilion Castle (Gate)¦Karlilion_Castle_(Gate)¦The Galanoth Forests¦Relic|Karlilion Web Bundle|13|7|;|Galanoth Forest (Boneyard)|3|3|;|Karlilion Castle (Courtyard)|17|13|;World Area|The Galanoth Forests|17|2|;|Stages 1-2:|9|12|
+Karlilion Castle (Courtyard)¦Karlilion_Castle_(Courtyard)¦The Galanoth Forests¦|Karlilion Castle (Thorns)|16|2|;|Karlilion Castle (Gate)|2|12|;|Stages 3-4:|5|6|
+Karlilion Castle (Thorns)¦Karlilion_Castle_(Thorns)¦The Galanoth Forests¦|Karlilion Castle (Courtyard)|16|2|;|Karlilion Castle (Workshop)|7|15|
+Karlilion Castle (Workshop)¦Karlilion_Castle_(Workshop)¦The Galanoth Forests¦|Karlilion Castle (Thorns)|8|1|;|Karlilion Castle (Dungeons)|15|22|
+Karlilion Castle (Dungeons)¦Karlilion_Castle_(Dungeons)¦The Galanoth Forests¦|Karlilion Castle (Barrow)|14|2|;|Karlilion Castle (Workshop)|1|11|
+Karlilion Castle (Barrow)¦Karlilion_Castle_(Barrow)¦The Galanoth Forests¦|Karlilion Castle (Pyre)|2|3|;|Karlilion Castle (Dungeons)|9|23|;World Area|The Galanoth Forests|12|6|
+Karlilion Castle (Pyre)¦Karlilion_Castle_(Pyre)¦The Galanoth Forests¦|Karlilion Castle (Barrow)|22|3|;|Karlilion Castle (Garrison)|1|14|
+Karlilion Castle (Garrison)¦Karlilion_Castle_(Garrison)¦The Galanoth Forests¦|Karlilion Castle (Pyre)|12|3|;|Karlilion Castle (Quarry)|2|28|;|Stages 1-2:|8|11|
+Karlilion Castle (Quarry)¦Karlilion_Castle_(Quarry)¦The Galanoth Forests¦|Karlilion Castle (Storm)|3|2|;|Karlilion Castle (Garrison)|24|11|;Portal|Karlilion Portal|13|5|
+Karlilion Castle (Celestial Orrery)¦Karlilion_Castle_(Celestial_Orrery)¦The Galanoth Forests¦|Karlilion Castle (Storm)|14|13|;|Stages 6-9:|3|6|
+Karlilion Castle (Storm)¦Karlilion_Castle_(Storm)¦The Galanoth Forests¦|Tarillian Forest (Edge)|10|1|;|Karlilion Castle (Celestial Orrery)|2|4|;|Karlilion Castle (Quarry)|16|18|;|Stages 3-5:|8|13|
+Tarillian Forest (Edge)¦Tarillian_Forest_(Edge)¦Farillion Coast¦Relic|Raptor Eggs|8|12|;|Karlilion Castle (Storm)|3|3|;|Tarillian Forest (Copse)|13|18|;World Area|Farillion Coast|15|8|
+Tarillian Forest (Copse)¦Tarillian_Forest_(Copse)¦Farillion Coast¦|Tarillian Forest (Edge)|14|3|;|Tarillian Forest (Clearing)|9|13|
+Tarillian Forest (Clearing)¦Tarillian_Forest_(Clearing)¦Farillion Coast¦|Tarillian Forest (Hunt)|3|5|;|Tarillian Forest (Copse)|15|18|
+Tarillian Forest (Hunt)¦Tarillian_Forest_(Hunt)¦Farillion Coast¦|Tarillian Forest (Glade)|14|2|;|Tarillian Forest (Clearing)|4|15|;|Stages 1-2:|17|10|
+Tarillian Forest (Glade)¦Tarillian_Forest_(Glade)¦Farillion Coast¦|Tarillian Forest (Hunt)|3|3|;|Tarillian Forest (Thicket)|13|15|
+Tarillian Forest (Thicket)¦Tarillian_Forest_(Thicket)¦Farillion Coast¦|Tarillian Forest (Glade)|16|2|;|Tarillian Forest (Boneyard)|2|16|
+Tarillian Forest (Boneyard)¦Tarillian_Forest_(Boneyard)¦Farillion Coast¦|Tarillian Forest (Stalk)|4|2|;|Tarillian Forest (Thicket)|18|18|
+Tarillian Forest (Stalk)¦Tarillian_Forest_(Stalk)¦Farillion Coast¦|Sorath Islands (Edge)|4|3|;|Tarillian Forest (Boneyard)|13|11|
+Sorath Islands (Edge)¦Sorath_Islands_(Edge)¦Farillion Coast¦|Tarillian Forest (Stalk)|6|2|;|Sorath Islands (Pride)|12|18|;Portal|Sorath Portal|4|20|;World Area|Farillion Coast|3|8|
+Sorath Islands (Pride)¦Sorath_Islands_(Pride)¦Farillion Coast¦|Sorath Islands (Outskirts)|2|4|;|Sorath Islands (Edge)|22|14|
+Sorath Islands (Outskirts)¦Sorath_Islands_(Outskirts)¦Farillion Coast¦Relic|Hanu Gun Rack|3|3|;|Sorath Islands (Village)|15|2|;|Sorath Islands (Pride)|2|14|
+Sorath Islands (Village)¦Sorath_Islands_(Village)¦Farillion Coast¦|Sorath Islands (Outskirts)|13|3|;|Sorath Islands (Training Grounds)|2|17|
+Sorath Islands (Training Grounds)¦Sorath_Islands_(Training_Grounds)¦Farillion Coast¦|Sorath Islands (Copse)|16|3|;|Sorath Islands (Village)|2|14|
+Sorath Islands (Copse)¦Sorath_Islands_(Copse)¦Farillion Coast¦|Sorath Islands (Herd)|15|2|;|Sorath Islands (Training Grounds)|7|15|
+Sorath Islands (Herd)¦Sorath_Islands_(Herd)¦Farillion Coast¦|Sorath Islands (Copse)|16|2|;|Sorath Islands (Garrison)|3|12|;|Stage 1:|7|5|;|Stages 2-3:|17|14|;|Stage 4:|7|5|
+Sorath Islands (Garrison)¦Sorath_Islands_(Garrison)¦Farillion Coast¦|Farillion Coast (Stalk)|11|2|;|Sorath Islands (Herd)|2|17|
+Farillion Coast (Stalk)¦Farillion_Coast_(Stalk)¦Farillion Coast¦|Sorath Islands (Garrison)|17|2|;|Farillion Coast (Waves)|2|13|;World Area|Farillion Coast|8|10|
+Farillion Coast (Waves)¦Farillion_Coast_(Waves)¦Farillion Coast¦|Farillion Coast (Sting)|13|2|;|Farillion Coast (Stalk)|9|16|
+Farillion Coast (Sting)¦Farillion_Coast_(Sting)¦Farillion Coast¦|Farillion Coast (Waves)|3|3|;|Farillion Coast (Shallows)|16|13|;Portal|Farillion Portal|4|14|
+Farillion Coast (Shallows)¦Farillion_Coast_(Shallows)¦Farillion Coast¦|Farillion Coast (Sting)|18|2|;|Farillion Coast (Lair)|2|13|
+Farillion Coast (Lair)¦Farillion_Coast_(Lair)¦Farillion Coast¦Relic|Plesiosaur Carcass|15|3|;|Farillion Coast (Shallows)|2|3|;|Farillion Coast (Surf)|16|14|
+Farillion Coast (Surf)¦Farillion_Coast_(Surf)¦Farillion Coast¦|Farillion Coast (Lair)|13|2|;|Farillion Coast (Pools)|10|22|
+Farillion Coast (Pools)¦Farillion_Coast_(Pools)¦Farillion Coast¦|Farillion Coast (Tide)|6|2|;|Farillion Coast (Surf)|21|13|;|Stages 1-3:|3|11|
+Farillion Coast (Tide)¦Farillion_Coast_(Tide)¦Farillion Coast¦|Farillion Coast (Pools)|14|2|;|Farillion Coast (Salt)|4|14|
+Farillion Coast (Salt)¦Farillion_Coast_(Salt)¦Farillion Coast¦|Farillion Coast (Tide)|3|5|;|Farillion Reef (Edge)|14|14|
+Farillion Reef (Edge)¦Farillion_Reef_(Edge)¦Farillion Coast¦|Farillion Coast (Salt)|6|1|;|Farillion Reef (Writhe)|9|16|;World Area|Farillion Coast|1|5|
+Farillion Reef (Writhe)¦Farillion_Reef_(Writhe)¦Farillion Coast¦|Farillion Reef (Stalk)|3|2|;|Farillion Reef (Edge)|18|18|
+Farillion Reef (Stalk)¦Farillion_Reef_(Stalk)¦Farillion Coast¦|Farillion Reef (Writhe)|17|3|;|Farillion Reef (Barracks)|1|14|
+Farillion Reef (Barracks)¦Farillion_Reef_(Barracks)¦Farillion Coast¦|Farillion Reef (Court)|7|1|;|Farillion Reef (Stalk)|17|14|;Portal|Farillion Portal|3|7|
+Farillion Reef (Court)¦Farillion_Reef_(Court)¦Farillion Coast¦|Ulltaria Beach (Surge)|2|3|;|Farillion Reef (Throne Room)|13|5|;|Farillion Reef (Barracks)|15|16|
+Farillion Reef (Throne Room)¦Farillion_Reef_(Throne_Room)¦Farillion Coast¦|Farillion Reef (Court)|9|14|
+Ulltaria Beach (Surge)¦Ulltaria_Beach_(Surge)¦The Ulltaria Beach¦Relic|Bull Bahamut Corpse|16|8|;|Farillion Reef (Court)|3|4|;|Ulltaria Beach (Wallow)|18|19|;World Area|The Ulltaria Beach|7|22|
+Ulltaria Beach (Wallow)¦Ulltaria_Beach_(Wallow)¦The Ulltaria Beach¦|Ulltaria Beach (Edge)|21|2|;|Ulltaria Beach (Surge)|2|18|;|Stages 1-3:|4|4|
+Ulltaria Beach (Edge)¦Ulltaria_Beach_(Edge)¦The Ulltaria Beach¦|Ulltaria Beach (Wallow)|14|3|;|Ulltaria Beach (Foam)|4|15|
+Ulltaria Beach (Foam)¦Ulltaria_Beach_(Foam)¦The Ulltaria Beach¦|Ulltaria Beach (Thrash)|4|3|;|Ulltaria Beach (Edge)|16|16|
+Ulltaria Beach (Thrash)¦Ulltaria_Beach_(Thrash)¦The Ulltaria Beach¦|Ulltaria Beach (Foam)|16|3|;|Ulltaria Beach (Surf)|4|12|;|Stages 4-5:|13|16|
+Ulltaria Beach (Surf)¦Ulltaria_Beach_(Surf)¦The Ulltaria Beach¦|Ulltaria Beach (Foulwater)|17|3|;|Ulltaria Beach (Thrash)|7|18|
+Ulltaria Beach (Foulwater)¦Ulltaria_Beach_(Foulwater)¦The Ulltaria Beach¦|Ulltaria Beach (Glob)|3|2|;|Ulltaria Beach (Surf)|13|18|
+Ulltaria Beach (Glob)¦Ulltaria_Beach_(Glob)¦The Ulltaria Beach¦|Ulltaria Beach (Foulwater)|2|4|;|Ulltaria Beach (Horror)|13|14|
+Ulltaria Beach (Horror)¦Ulltaria_Beach_(Horror)¦The Ulltaria Beach¦|Ulltaria Beach (Dart)|7|3|;|Ulltaria Beach (Glob)|10|14|;Portal|Ulltaria Portal|4|9|
+Ulltaria Beach (Dart)¦Ulltaria_Beach_(Dart)¦The Ulltaria Beach¦|Ulltaria Beach (Horror)|17|3|;|Ulltaria Beach (Depths)|4|15|
+Ulltaria Beach (Depths)¦Ulltaria_Beach_(Depths)¦The Ulltaria Beach¦Relic|Giant Conch|3|15|;|Ulltaria Beach (Shallows)|2|4|;|Ulltaria Beach (Dart)|12|17|;World Area|The Ulltaria Beach|14|3|
+Ulltaria Beach (Shallows)¦Ulltaria_Beach_(Shallows)¦The Ulltaria Beach¦|Ulltaria Beach (Depths)|16|2|;|Ulltaria Beach (Pools)|8|14|
+Ulltaria Beach (Pools)¦Ulltaria_Beach_(Pools)¦The Ulltaria Beach¦|Ulltaria Beach (Shallows)|12|3|;|Ulltaria Beach (Storm)|3|14|
+Ulltaria Beach (Storm)¦Ulltaria_Beach_(Storm)¦The Ulltaria Beach¦|Ulltaria Beach (Reefs)|2|7|;|Ulltaria Beach (Pools)|15|17|
+Ulltaria Beach (Reefs)¦Ulltaria_Beach_(Reefs)¦The Ulltaria Beach¦|Ulltaria Beach (Storm)|16|2|;|Ulltaria Beach (Soar)|2|14|
+Ulltaria Beach (Soar)¦Ulltaria_Beach_(Soar)¦The Ulltaria Beach¦|Ulltaria Beach (Reefs)|2|2|;|Ulltaria Beach (Crash)|14|15|
+Ulltaria Beach (Crash)¦Ulltaria_Beach_(Crash)¦The Ulltaria Beach¦|Nazak Forest (Vale)|20|3|;|Ulltaria Beach (Soar)|2|7|
+Nazak Forest (Vale)¦Nazak_Forest_(Vale)¦The Ulltaria Beach¦|Nazak Forest (Ravage)|2|6|;|Ulltaria Beach (Crash)|11|19|;World Area|The Ulltaria Beach|13|3|
+Nazak Forest (Ravage)¦Nazak_Forest_(Ravage)¦The Ulltaria Beach¦|Nazak Forest (Vale)|2|2|;|Nazak Forest (Boneyard)|15|11|;Portal|Nazak Portal|4|8|
+Nazak Forest (Boneyard)¦Nazak_Forest_(Boneyard)¦The Ulltaria Beach¦|Nazak Forest (Copse)|13|3|;|Nazak Forest (Ravage)|2|14|
+Nazak Forest (Copse)¦Nazak_Forest_(Copse)¦The Ulltaria Beach¦Relic|Corrupted Tree|12|10|;|Nazak Forest (Boneyard)|11|3|;|Nazak Forest (Ash)|15|17|
+Nazak Forest (Ash)¦Nazak_Forest_(Ash)¦The Ulltaria Beach¦|Nazak Forest (Cairn)|5|3|;|Nazak Forest (Copse)|6|18|
+Nazak Forest (Cairn)¦Nazak_Forest_(Cairn)¦The Ulltaria Beach¦|Nazak Forest (Ash)|3|2|;|Nazak Forest (Treasure)|18|12|
+Nazak Forest (Treasure)¦Nazak_Forest_(Treasure)¦The Ulltaria Beach¦|Nazak Forest (Grove)|2|2|;|Nazak Forest (Cairn)|14|12|
+Nazak Forest (Depths)¦Nazak_Forest_(Depths)¦The Ulltaria Beach¦|Nazak Forest (Grove)|11|9|
+Nazak Forest (Grove)¦Nazak_Forest_(Grove)¦The Ulltaria Beach¦|Nazak Forest (Depths)|6|2|;|Ithnar Graveyard (Edge)|15|3|;|Nazak Forest (Treasure)|8|14|
+Ithnar Graveyard (Edge)¦Ithnar_Graveyard_(Edge)¦The Realm of Ithnar¦|Nazak Forest (Grove)|3|2|;|Ithnar Graveyard (Boneyard)|17|14|;World Area|The Realm of Ithnar|12|1|
+Ithnar Graveyard (Boneyard)¦Ithnar_Graveyard_(Boneyard)¦The Realm of Ithnar¦|Ithnar Graveyard (Crypt)|13|2|;|Ithnar Graveyard (Edge)|1|18|
+Ithnar Graveyard (Crypt)¦Ithnar_Graveyard_(Crypt)¦The Realm of Ithnar¦|Ithnar Graveyard (Soul Nexus)|1|3|;|Ithnar Graveyard (Boneyard)|14|15|
+Ithnar Graveyard (Soul Nexus)¦Ithnar_Graveyard_(Soul_Nexus)¦The Realm of Ithnar¦|Ithnar Graveyard (Crypt)|22|3|;|Ithnar Graveyard (Horror)|2|14|;Portal|Ithnar Portal|12|12|
+Ithnar Graveyard (Horror)¦Ithnar_Graveyard_(Horror)¦The Realm of Ithnar¦|Ithnar Graveyard (Soul Nexus)|13|1|;|Ithnar Graveyard (Orchard)|1|19|
+Ithnar Graveyard (Orchard)¦Ithnar_Graveyard_(Orchard)¦The Realm of Ithnar¦Relic|Tree Stump Stash|5|11|;|Ithnar Graveyard (Craze)|2|1|;|Ithnar Graveyard (Horror)|19|18|
+Ithnar Graveyard (Craze)¦Ithnar_Graveyard_(Craze)¦The Realm of Ithnar¦|Ithnar Sewer (Sump)|2|3|;|Ithnar Graveyard (Orchard)|14|18|
+Ithnar Sewer (Sump)¦Ithnar_Sewer_(Sump)¦The Realm of Ithnar¦|Ithnar Graveyard (Craze)|14|3|;|Ithnar Sewer (Slurry)|8|18|;World Area|The Realm of Ithnar|4|2|
+Ithnar Sewer (Slurry)¦Ithnar_Sewer_(Slurry)¦The Realm of Ithnar¦|Ithnar Sewer (Sump)|3|2|;|Ithnar Sewer (Scurry)|16|14|
+Ithnar Sewer (Scurry)¦Ithnar_Sewer_(Scurry)¦The Realm of Ithnar¦|Ithnar Sewer (Slither)|17|2|;|Ithnar Sewer (Slurry)|1|17|
+Ithnar Sewer (Slither)¦Ithnar_Sewer_(Slither)¦The Realm of Ithnar¦|Ithnar Sewer (Stalk)|2|6|;|Ithnar Sewer (Scurry)|14|17|
+Ithnar Sewer (Stalk)¦Ithnar_Sewer_(Stalk)¦The Realm of Ithnar¦|Ithnar Sewer (Slither)|22|3|;|Ithnar Sewer (Crawl)|1|11|
+Ithnar Sewer (Crawl)¦Ithnar_Sewer_(Crawl)¦The Realm of Ithnar¦|Ithnar Sewer (Lair)|2|1|;|Ithnar Sewer (Stalk)|15|22|
+Ithnar Sewer (Lair)¦Ithnar_Sewer_(Lair)¦The Realm of Ithnar¦|Ithnar Town (Market)|16|3|;|Ithnar Sewer (Crawl)|6|18|;Portal|Ithnar Sewer Portal|13|13|
+Ithnar Town (Market)¦Ithnar_Town_(Market)¦The Realm of Ithnar¦|Ithnar Sewer (Lair)|5|6|;|Ithnar Town (Alleys)|15|17|;World Area|The Realm of Ithnar|2|13|
+Ithnar Town (Alleys)¦Ithnar_Town_(Alleys)¦The Realm of Ithnar¦Relic|Thugs Stash|4|19|;|Ithnar Town (Market)|3|2|;|Ithnar Town (Gate)|16|16|
+Ithnar Town (Gate)¦Ithnar_Town_(Gate)¦The Realm of Ithnar¦|Ithnar Town (Alleys)|1|2|;|Ithnar Town (Festival)|16|17|
+Ithnar Town (Festival)¦Ithnar_Town_(Festival)¦The Realm of Ithnar¦|Ithnar Town (Temple)|14|3|;|Ithnar Town (Gate)|4|16|
+Ithnar Town (Temple)¦Ithnar_Town_(Temple)¦The Realm of Ithnar¦|Ithnar Town (Festival)|3|2|;|Ithnar Town (Home)|13|16|
+Ithnar Town (Home)¦Ithnar_Town_(Home)¦The Realm of Ithnar¦|Ithnar Town (Square)|22|2|;|Ithnar Town (Temple)|3|14|
+Ithnar Town (Square)¦Ithnar_Town_(Square)¦The Realm of Ithnar¦|Ithnar Town (Slums)|13|2|;|Ithnar Town (Home)|1|21|;World Area|The Realm of Ithnar|15|19|
+Ithnar Town (Slums)¦Ithnar_Town_(Slums)¦The Realm of Ithnar¦|Ithnar Town (Sepulchre)|14|2|;|Ithnar Town (Square)|9|18|
+Ithnar Town (Sepulchre)¦Ithnar_Town_(Sepulchre)¦The Realm of Ithnar¦|Ithnar Town (Stalk)|10|1|;|Ithnar Town (Slums)|7|14|
+Ithnar Town (Stalk)¦Ithnar_Town_(Stalk)¦The Realm of Ithnar¦|Ithnar Town (Sepulchre)|13|5|;|Ithnar Town (Shadows)|6|19|;Portal|Ithnar Town Portal|10|12|
+Ithnar Town (Lair)¦Ithnar_Town_(Lair)¦The Realm of Ithnar¦|Ithnar Town (Shadows)|10|14|
+Ithnar Town (Shadows)¦Ithnar_Town_(Shadows)¦The Realm of Ithnar¦|Ithnar Town (Lair)|3|2|;|Karatani Forest (Towers)|10|3|;|Ithnar Town (Stalk)|22|13|
+Karatani Forest (Towers)¦Karatani_Forest_(Towers)¦The Karatani Forest¦Relic|Abandoned Scout Tower|13|2|;|Ithnar Town (Shadows)|3|5|;|Karatani Forest (Savage)|19|12|;World Area|The Karatani Forest|23|3|
+Karatani Forest (Savage)¦Karatani_Forest_(Savage)¦The Karatani Forest¦|Karatani Forest (Smash)|6|2|;|Karatani Forest (Towers)|16|18|
+Karatani Forest (Smash)¦Karatani_Forest_(Smash)¦The Karatani Forest¦|Karatani Forest (Savage)|17|3|;|Karatani Forest (Stalk)|2|17|
+Karatani Forest (Stalk)¦Karatani_Forest_(Stalk)¦The Karatani Forest¦|Karatani Forest (Copse)|13|3|;|Karatani Forest (Smash)|6|16|
+Karatani Forest (Copse)¦Karatani_Forest_(Copse)¦The Karatani Forest¦|Karatani Forest (Stalk)|3|3|;|Karatani Forest (Lair)|10|18|
+Karatani Forest (Lair)¦Karatani_Forest_(Lair)¦The Karatani Forest¦|Karatani Forest (Pine)|4|4|;|Karatani Forest (Copse)|16|17|;World Area|The Karatani Forest|3|15|
+Karatani Forest (Pine)¦Karatani_Forest_(Pine)¦The Karatani Forest¦|Karatani Forest (Lair)|13|3|;|Karatani Forest (Nesting)|2|18|
+Karatani Forest (Nesting)¦Karatani_Forest_(Nesting)¦The Karatani Forest¦|Karatani Forest (Tawny)|15|2|;|Karatani Forest (Pine)|5|12|
+Karatani Forest (Tawny)¦Karatani_Forest_(Tawny)¦The Karatani Forest¦|Karatani Forest (Nesting)|12|3|;|Karatani Forest (Village)|2|14|;Portal|Karatani Portal|5|9|
+Karatani Forest (Village)¦Karatani_Forest_(Village)¦The Karatani Forest¦|Karatani Forest (Tawny)|9|3|;|Karatani Forest (Glade)|10|15|
+Karatani Forest (Glade)¦Karatani_Forest_(Glade)¦The Karatani Forest¦Relic|Owl Bear Nest|5|13|;|Karatani Forest (Village)|2|2|;|Karatani Forest (Roost)|16|14|
+Karatani Forest (Roost)¦Karatani_Forest_(Roost)¦The Karatani Forest¦|Karatani Forest (Glade)|15|3|;|Ultanath Forest (Twist)|4|15|
+Ultanath Forest (Twist)¦Ultanath_Forest_(Twist)¦The Karatani Forest¦|Karatani Forest (Roost)|13|2|;|Ultanath Forest (Tribe Lands)|2|15|;World Area|The Karatani Forest|2|6|
+Ultanath Forest (Tribe Lands)¦Ultanath_Forest_(Tribe_Lands)¦The Karatani Forest¦|Ultanath Forest (Twist)|15|2|;|Ultanath Forest (Fury)|1|14|
+Ultanath Forest (Fury)¦Ultanath_Forest_(Fury)¦The Karatani Forest¦|Ultanath Forest (Tribe Lands)|21|2|;|Ultanath Forest (Scar)|1|10|
+Ultanath Forest (Scar)¦Ultanath_Forest_(Scar)¦The Karatani Forest¦|Ultanath Forest (Fury)|17|2|;|Ultanath Forest (Swarm)|2|17|
+Ultanath Forest (Swarm)¦Ultanath_Forest_(Swarm)¦The Karatani Forest¦|Ultanath Forest (Scar)|2|1|;|Ultanath Forest (Grove)|16|14|
+Ultanath Forest (Grove)¦Ultanath_Forest_(Grove)¦The Karatani Forest¦|Ultanath Forest (Swarm)|1|2|;|Ultanath Forest (Glade)|15|15|
+Ultanath Forest (Glade)¦Ultanath_Forest_(Glade)¦The Karatani Forest¦|Ultanath Forest (Enchanted Copse)|14|2|;|Ultanath Forest (Grove)|2|18|;Portal|Ultanath Portal|5|9|
+Ultanath Forest (Enchanted Copse)¦Ultanath_Forest_(Enchanted_Copse)¦The Karatani Forest¦|Ultanath Forest (Flit)|14|1|;|Ultanath Forest (Glade)|1|15|
+Ultanath Forest (Flit)¦Ultanath_Forest_(Flit)¦The Karatani Forest¦Relic|Fairy Trove|13|16|;|Ultanath Forest (Silk)|2|3|;|Ultanath Forest (Enchanted Copse)|19|14|;World Area|The Karatani Forest|2|15|
+Ultanath Forest (Silk)¦Ultanath_Forest_(Silk)¦The Karatani Forest¦|Ultanath Forest (Garden)|6|3|;|Ultanath Forest (Flit)|17|18|
+Ultanath Forest (Garden)¦Ultanath_Forest_(Garden)¦The Karatani Forest¦|Ultanath Forest (Silk)|3|1|;|Ultanath Forest (Bud)|18|17|
+Ultanath Forest (Bud)¦Ultanath_Forest_(Bud)¦The Karatani Forest¦|Ultanath Forest (Garden)|2|3|;|Ultanath Forest (Crimson Copse)|16|13|
+Ultanath Forest (Colossal Grove)¦Ultanath_Forest_(Colossal_Grove)¦The Karatani Forest¦|Ultanath Forest (Crimson Copse)|9|9|
+Ultanath Forest (Crimson Copse)¦Ultanath_Forest_(Crimson_Copse)¦The Karatani Forest¦|Ultanath Forest (Bud)|2|3|;|Coraniath Forest (Glade)|16|14|;|Ultanath Forest (Colossal Grove)|4|16|
+Coraniath Forest (Glade)¦Coraniath_Forest_(Glade)¦The Bindaran Forest¦|Ultanath Forest (Crimson Copse)|2|3|;|Coraniath Forest (Stalk)|13|22|;World Area|The Bindaran Forest|14|1|
+Coraniath Forest (Stalk)¦Coraniath_Forest_(Stalk)¦The Bindaran Forest¦|Coraniath Forest (Glade)|4|1|;|Coraniath Forest (Ravage)|25|13|
+Coraniath Forest (Ravage)¦Coraniath_Forest_(Ravage)¦The Bindaran Forest¦|Coraniath Forest (Haunt)|15|2|;|Coraniath Forest (Stalk)|9|22|
+Coraniath Forest (Haunt)¦Coraniath_Forest_(Haunt)¦The Bindaran Forest¦|Coraniath Forest (Brawl)|12|1|;|Coraniath Forest (Ravage)|2|17|;Portal|Coraniath Portal|10|9|
+Coraniath Forest (Brawl)¦Coraniath_Forest_(Brawl)¦The Bindaran Forest¦|Coraniath Forest (Village)|1|2|;|Coraniath Forest (Haunt)|17|16|;World Area|The Bindaran Forest|4|16|
+Coraniath Forest (Village)¦Coraniath_Forest_(Village)¦The Bindaran Forest¦Relic|Mushroom House|9|14|;|Coraniath Forest (Grove)|22|2|;|Coraniath Forest (Brawl)|5|10|
+Coraniath Forest (Grove)¦Coraniath_Forest_(Grove)¦The Bindaran Forest¦|Coraniath Forest (Village)|14|2|;|Coraniath Forest (Copse)|6|24|
+Coraniath Forest (Copse)¦Coraniath_Forest_(Copse)¦The Bindaran Forest¦|Coraniath Forest (Grove)|3|4|;|Coraniath Forest (Clearing)|13|16|
+Coraniath Forest (Clearing)¦Coraniath_Forest_(Clearing)¦The Bindaran Forest¦|Coraniath Forest (Copse)|3|2|;|Bindaran Forest (Fields)|12|17|
+Bindaran Forest (Fields)¦Bindaran_Forest_(Fields)¦The Bindaran Forest¦|Coraniath Forest (Clearing)|15|3|;|Bindaran Forest (Blood)|8|20|;World Area|The Bindaran Forest|3|8|
+Bindaran Forest (Blood)¦Bindaran_Forest_(Blood)¦The Bindaran Forest¦|Bindaran Forest (Fields)|3|3|;|Bindaran Forest (Drift)|14|15|
+Bindaran Forest (Drift)¦Bindaran_Forest_(Drift)¦The Bindaran Forest¦|Bindaran Forest (Blood)|15|3|;|Bindaran Forest (Grove)|4|17|
+Bindaran Forest (Grove)¦Bindaran_Forest_(Grove)¦The Bindaran Forest¦|Bindaran Forest (Plain)|3|3|;|Bindaran Forest (Drift)|12|15|
+Bindaran Forest (Plain)¦Bindaran_Forest_(Plain)¦The Bindaran Forest¦|Bindaran Forest (Lair)|16|3|;|Bindaran Forest (Grove)|3|14|;Portal|Bindaran Portal|6|7|
+Bindaran Forest (Lair)¦Bindaran_Forest_(Lair)¦The Bindaran Forest¦|Bindaran Forest (Plain)|3|3|;|Bindaran Forest (Thatch)|15|16|
+Bindaran Forest (Thatch)¦Bindaran_Forest_(Thatch)¦The Bindaran Forest¦Relic|Gigantic Footprint|5|9|;|Bindaran Forest (Lair)|2|2|;|Bindaran Forest (Roost)|18|17|
+Bindaran Forest (Roost)¦Bindaran_Forest_(Roost)¦The Bindaran Forest¦|Bindaran Forest (Thatch)|14|3|;|Bindaran Forest (Grave)|5|15|
+Bindaran Forest (Grave)¦Bindaran_Forest_(Grave)¦The Bindaran Forest¦|Bindaran Forest (Roost)|3|3|;|Bindaran Forest (Menhir)|11|18|
+Bindaran Forest (Menhir)¦Bindaran_Forest_(Menhir)¦The Bindaran Forest¦|Bindaran Forest (Battleground)|7|3|;|Bindaran Forest (Grave)|18|12|;World Area|The Bindaran Forest|19|4|
+Bindaran Forest (Battleground)¦Bindaran_Forest_(Battleground)¦The Bindaran Forest¦|Bindaran Forest (Menhir)|3|3|;|Bindaran Forest (Moon)|14|16|
+Bindaran Forest (Moon)¦Bindaran_Forest_(Moon)¦The Bindaran Forest¦|Bindaran Forest (Gaze)|3|3|;|Bindaran Forest (Battleground)|16|16|
+Bindaran Forest (Gaze)¦Bindaran_Forest_(Gaze)¦The Bindaran Forest¦|Bindaran Forest (Moon)|3|3|;|Bindaran Forest (Ice)|14|15|
+Bindaran Forest (Ice)¦Bindaran_Forest_(Ice)¦The Bindaran Forest¦|Bindaran Forest (Frost)|3|6|;|Bindaran Forest (Gaze)|17|15|
+Bindaran Forest (Frost)¦Bindaran_Forest_(Frost)¦The Bindaran Forest¦|Bindaran Forest (Village)|14|3|;|Bindaran Forest (Ice)|2|12|;Portal|Bindaran Forest Portal|7|9|
+Bindaran Forest (Stomping Ground)¦Bindaran_Forest_(Stomping_Ground)¦The Bindaran Forest¦|Bindaran Forest (Village)|9|10|
+Bindaran Forest (Village)¦Bindaran_Forest_(Village)¦The Bindaran Forest¦|Ronthan Canyon (Web)|20|3|;|Bindaran Forest (Stomping Ground)|5|4|;|Bindaran Forest (Frost)|2|19|
+Ronthan Canyon (Web)¦Ronthan_Canyon_(Web)¦The Swagnog Caves¦Relic|Ice Web|4|6|;|Bindaran Forest (Village)|13|2|;|Ronthan Canyon (Slither)|1|16|;World Area|The Swagnog Caves|14|19|
+Ronthan Canyon (Slither)¦Ronthan_Canyon_(Slither)¦The Swagnog Caves¦|Ronthan Canyon (Web)|19|2|;|Ronthan Canyon (Soar)|5|15|
+Ronthan Canyon (Soar)¦Ronthan_Canyon_(Soar)¦The Swagnog Caves¦|Ronthan Canyon (Slither)|15|2|;|Ronthan Canyon (Ruins)|1|16|
+Ronthan Canyon (Ruins)¦Ronthan_Canyon_(Ruins)¦The Swagnog Caves¦|Ronthan Canyon (Barrow)|3|2|;|Ronthan Canyon (Soar)|15|15|
+Ronthan Canyon (Barrow)¦Ronthan_Canyon_(Barrow)¦The Swagnog Caves¦|Ronthan Canyon (Scree)|2|3|;|Ronthan Canyon (Ruins)|14|17|
+Ronthan Canyon (Scree)¦Ronthan_Canyon_(Scree)¦The Swagnog Caves¦|Ronthan Canyon (Barrow)|14|3|;|Ronthan Canyon (Cliff)|4|22|
+Ronthan Canyon (Cliff)¦Ronthan_Canyon_(Cliff)¦The Swagnog Caves¦|Ronthan Canyon (Ice)|14|2|;|Ronthan Canyon (Scree)|1|15|;World Area|The Swagnog Caves|16|15|
+Ronthan Canyon (Ice)¦Ronthan_Canyon_(Ice)¦The Swagnog Caves¦|Ronthan Canyon (Frost)|22|3|;|Ronthan Canyon (Cliff)|2|15|
+Ronthan Canyon (Frost)¦Ronthan_Canyon_(Frost)¦The Swagnog Caves¦|Ronthan Canyon (Ice)|2|3|;|Ronthan Canyon (Blizzard)|16|17|;Portal|Ronthan Portal|11|6|
+Ronthan Canyon (Blizzard)¦Ronthan_Canyon_(Blizzard)¦The Swagnog Caves¦|Ronthan Canyon (Frost)|7|2|;|Ronthan Canyon (Maw)|21|18|
+Ronthan Canyon (Maw)¦Ronthan_Canyon_(Maw)¦The Swagnog Caves¦Relic|Ice Maw Corpse|15|6|;|Ronthan Canyon (Haunt)|21|1|;|Ronthan Canyon (Blizzard)|2|15|
+Ronthan Canyon (Haunt)¦Ronthan_Canyon_(Haunt)¦The Swagnog Caves¦|Swagnog Caves (Swarm)|2|3|;|Ronthan Canyon (Maw)|17|16|
+Swagnog Caves (Swarm)¦Swagnog_Caves_(Swarm)¦The Swagnog Caves¦|Ronthan Canyon (Haunt)|3|3|;|Swagnog Caves (Slither)|11|21|;World Area|The Swagnog Caves|16|2|
+Swagnog Caves (Slither)¦Swagnog_Caves_(Slither)¦The Swagnog Caves¦|Swagnog Caves (Swarm)|14|3|;|Swagnog Caves (Crawl)|2|13|
+Swagnog Caves (Crawl)¦Swagnog_Caves_(Crawl)¦The Swagnog Caves¦|Swagnog Caves (Slither)|3|3|;|Swagnog Caves (Grind)|14|14|
+Swagnog Caves (Grind)¦Swagnog_Caves_(Grind)¦The Swagnog Caves¦|Swagnog Caves (Crawl)|3|3|;|Swagnog Caves (Scuttle)|16|15|
+Swagnog Caves (Scuttle)¦Swagnog_Caves_(Scuttle)¦The Swagnog Caves¦|Swagnog Caves (Cold)|5|2|;|Swagnog Caves (Grind)|14|16|
+Swagnog Caves (Cold)¦Swagnog_Caves_(Cold)¦The Swagnog Caves¦|Swagnog Caves (Venom)|14|4|;|Swagnog Caves (Scuttle)|4|14|
+Swagnog Caves (Venom)¦Swagnog_Caves_(Venom)¦The Swagnog Caves¦|Swagnog Caves (Cold)|14|3|;|Swagnog Caves (Battlefield)|5|14|;Portal|Swagnog Portal|2|8|
+Swagnog Caves (Battlefield)¦Swagnog_Caves_(Battlefield)¦The Swagnog Caves¦|Swagnog Caves (Venom)|5|2|;|Swagnog Caves (Stone)|14|13|
+Swagnog Caves (Stone)¦Swagnog_Caves_(Stone)¦The Swagnog Caves¦Relic|Petrified Adventurer|4|8|;|Swagnog Caves (Shimmer)|15|3|;|Swagnog Caves (Battlefield)|3|14|;World Area|The Swagnog Caves|14|10|
+Swagnog Caves (Shimmer)¦Swagnog_Caves_(Shimmer)¦The Swagnog Caves¦|Swagnog Caves (Mist)|2|2|;|Swagnog Caves (Stone)|14|14|
+Swagnog Caves (Mist)¦Swagnog_Caves_(Mist)¦The Swagnog Caves¦|Swagnog Caves (Shimmer)|2|3|;|Swagnog Caves (Tunnels)|14|14|
+Swagnog Caves (Tunnels)¦Swagnog_Caves_(Tunnels)¦The Swagnog Caves¦|Swagnog Caves (Scrabble)|14|4|;|Swagnog Caves (Mist)|5|14|
+Forest of Yule (Winterbell Ways)¦Forest_of_Yule_(Winterbell_Ways)¦Krul Island¦|Forest of Yule (Winterbell Wood)|21|2|;|Forest of Yule (Clearing)|3|17|;|Stages 1-3:|11|10|;|Stage 4:|4|4|;|Stages 5-6:|19|16|
+Forest of Yule (Winterbell Wood)¦Forest_of_Yule_(Winterbell_Wood)¦Krul Island¦|Forest of Yule (Winterbell Ways)|2|12|;|Stages 7-8:|11|3|
+Quango Island (Thunderfields)¦Quango_Island_(Thunderfields)¦Arrin Moors¦Shop|Thunderfield Wares|17|17|;|Quango Island|13|11|;|Stages 1-3:|3|6|
+Swagnog Caves (Lair)¦Swagnog_Caves_(Lair)¦The Swagnog Caves¦|Swagnog Caves (Scrabble)|8|13|
+Swagnog Caves (Scrabble)¦Swagnog_Caves_(Scrabble)¦The Swagnog Caves¦|Swagnog Caves (Tunnels)|16|2|;|Katalopian Burrow (Nest)|2|14|;|Swagnog Caves (Lair)|14|15|

@@ -1,0 +1,150 @@
+Domain of Fire¦Domain of Fire¦Azlore Plains¦|Land of the Elements|3|9|
+Land of the Elements (Fire)¦Land of the Elements (Fire)¦Azlore Plains¦Shop|Fire Elemental Wares|2|2|;|Land of the Elements|1|2|
+Ralthien (Gate)¦Ralthien (Gate)¦Forest of Ral¦|Ralthien (Eastern Quarter)|5|1|;|Ralthien (Guard House)|13|3|;World Area|Forest of Ral|14|13|
+Ralthien (Guard Cells)¦Ralthien (Guard Cells)¦¦|Ralthien (Guard House)|1|7|
+Ralthien (Guard House)¦Ralthien (Guard House)¦¦|Ralthien (Guard Cells)|10|5|;|Ralthien (Gate)|1|15|
+Ralthien (Eastern Quarter)¦Ralthien (Eastern Quarter)¦¦|Ralthien (Southern Quarter)|16|2|;|Ralthien (Gate)|2|16|
+Ralthien (Southern Quarter)¦Ralthien (Southern Quarter)¦¦|Ralthien (Temple Diocese)|8|1|;|Ralthien (Eastern Quarter)|9|16|
+Ralthien (Temple Diocese)¦Ralthien (Temple Diocese)¦¦|Ralthien (Western Quarter)|2|1|;|Ralthien (Southern Quarter)|2|17|;shop|Cloister Celler|3|3|
+Ralthien (Corral)¦Ralthien (Corral)¦¦|Ralthien (Western Quarter)|14|10|
+Ralthien (Western Quarter)¦Ralthien (Western Quarter)¦Forest of Ral¦|Ralthien (Northern Quarter)|1|2|;|Ralthien (Corral)|1|15|;|Ralthien (Temple Diocese)|16|14|;World Area|Forest of Ral|16|2|
+Ralthien (Northern Quarter)¦Ralthien (Northern Quarter)¦¦|Ralthien (Garrison)|6|1|;|Ralthien (Western Quarter)|2|16|;portal|Ralthien Portal|2|2|
+Ralthien (Garrison)¦Ralthien (Garrison)¦¦|Ralthien (District of Magic)|16|15|;|Ralthien (Northern Quarter)|3|1|
+Ralthien (District of Magic)¦Ralthien (District of Magic)¦¦|Ralthien (Merchant Precinct)|10|15|;|The Magicia Emporium|10|10|;|Ralthien (Garrison)|8|14|;relic|Castle of the Sorceress|6|2|;shop|Arcane Wares|2|7|
+The Magicia Emporium¦The Magicia Emporium¦¦|Ralthien (District of Magic)|2|3|
+Lorvol Manor¦Lorvol Manor¦¦|Ralthien (Merchant Precinct)|3|2|
+Ralthien (Merchant Precinct)¦Ralthien (Merchant Precinct)¦¦|Ralthien (Royal Ward)|16|7|;|Lorvol Manor|14|15|;|Ralthien (District of Magic)|1|15|
+Ralthien (Dark Corner)¦Ralthien (Dark Corner)¦¦|Ralthien (Sewers)|1|2|;|Ralthien (Royal Ward)|1|7|
+Ralthien (Deeper Sewers)¦Ralthien (Deeper Sewers)¦¦|Ralthien (Sewers)|2|4|
+Ralthien (Palace)¦Ralthien (Palace)¦¦|Ralthien (Royal Gate)|7|13|
+Ralthien (Royal Gate)¦Ralthien (Royal Gate)¦¦|Ralthien (Palace)|2|1|;|Ralthien (Royal Ward)|2|3|
+Ralthien (Royal Ward)¦Ralthien (Royal Ward)¦¦|Teotal (Border)|11|1|;|Ralthien (Royal Gate)|9|8|;|Ralthien (Dark Corner)|18|17|;|Ralthien (Merchant Precinct)|1|11|
+Ralthien (Sewers)¦Ralthien (Sewers)¦¦|Ralthien (Deeper Sewers)|7|7|;|Ralthien (Dark Corner)|2|7|
+Teotal (Border)¦Teotal (Border)¦Teotal¦|Teotal (Hollow)|16|3|;|Ralthien (Royal Ward)|2|16|;World Area|Teotal|15|14|
+Teotal (Hollow)¦Teotal (Hollow)¦¦|Teotal (Clearing)|9|8|;|Teotal (Border)|2|13|
+Teotal (Brujo Nest)¦Teotal (Brujo Nest)¦¦|Teotal (Clearing)|8|2|
+Teotal (Clearing)¦Teotal (Clearing)¦¦|Teotal (Hill)|2|2|;|Teotal (Brujo Nest)|2|14|;|Teotal (Hollow)|8|8|;relic|Circle of Virtue|16|10|
+Teotal (Hill)¦Teotal (Hill)¦¦|Teotal (Valley)|14|2|;|Teotal (Clearing)|14|14|;shop|Mojo Shack|3|14|
+Teotal (Valley)¦Teotal (Valley)¦Teotal¦World Area|Teotal|4|2|;|Teotal (Lush)|14|15|;|Teotal (Hill)|12|2|
+Teotal (Lush)¦Teotal (Lush)¦¦|Teotal (Wild)|7|8|;|Teotal (Valley)|3|2|
+Teotal (Honor Grounds)¦Teotal (Honor Grounds)¦¦|Teotal (Wild)|12|2|
+Teotal (Wild)¦Teotal (Wild)¦¦|Teotal (Snarl)|2|12|;|Teotal (Honor Grounds)|6|3|;|Teotal (Lush)|12|3|;shop|Broadleaf Market|2|2|
+Teotal (Snarl)¦Teotal (Snarl)¦¦|Teotal (Tangle)|15|15|;|Teotal (Wild)|2|14|;portal|Teotal Portal|2|2|
+Teotal (Tangle)¦Teotal (Tangle)¦¦|Teotal (Golden Temple)|2|5|;|Teotal (Snarl)|13|3|
+Teotal (Chamber of the Sun)¦Teotal (Chamber of the Sun)¦¦|Teotal (Golden Temple)|6|12|
+Teotal (Golden Temple)¦Teotal (Golden Temple)¦¦|The Secret Kingdom (Border)|15|16|;|Teotal (Chamber of the Sun)|8|9|;|Teotal (Tangle)|2|4|
+The Secret Kingdom (Border)¦The Secret Kingdom (Border)¦The Secret Kingdom¦World Area|The Secret Kingdom|1|8|;|The Secret Kingdom (Valley)|7|16|;|Teotal (Golden Temple)|16|6|
+The Secret Kingdom (Valley)¦The Secret Kingdom (Valley)¦¦|The Secret Kingdom (Thicket)|2|14|;|The Secret Kingdom (Border)|15|1|
+The Secret Kingdom (Thicket)¦The Secret Kingdom (Thicket)¦¦|The Secret Kingdom (Hill)|5|1|;|The Secret Kingdom (Valley)|16|17|;relic|Oak of Ages|16|8|
+The Secret Kingdom (Hill)¦The Secret Kingdom (Hill)¦¦|The Secret Kingdom (Grove)|1|12|;|The Secret Kingdom (Thicket)|15|5|
+The Secret Kingdom (Grove)¦The Secret Kingdom (Grove)¦The Secret Kingdom¦World Area|The Secret Kingdom|15|16|;|The Secret Kingdom (Dale)|1|9|;|The Secret Kingdom (Temple)|16|3|;|The Secret Kingdom (Hill)|8|1|;shop|Pixies Baubles|3|15|
+The Secret Kingdom (Temple)¦The Secret Kingdom (Temple)¦¦|The Secret Kingdom (Grove)|5|13|
+The Secret Kingdom (Dale)¦The Secret Kingdom (Dale)¦¦|The Secret Kingdom (Clearing)|1|2|;|The Secret Kingdom (Grove)|16|6|
+The Secret Kingdom (Clearing)¦The Secret Kingdom (Clearing)¦¦|The Secret Kingdom (Wild)|3|1|;|The Secret Kingdom (Dale)|15|2|
+The Secret Kingdom (Wild)¦The Secret Kingdom (Wild)¦¦|The Secret Kingdom (Preserve)|1|9|;|The Secret Kingdom (Clearing)|14|2|;portal|Portal of the Fae|2|5|
+The Secret Kingdom (Preserve)¦The Secret Kingdom (Preserve)¦¦|Cursed Isle of Darkwater (Break Water)|1|4|;|The Secret Kingdom (Keep)|8|8|;|The Secret Kingdom (Prowl)|9|1|;|The Secret Kingdom (Wild)|9|17|;shop|Magical Wares|16|2|
+The Secret Kingdom (Heartwood)¦The Secret Kingdom (Heartwood)¦¦|The Secret Kingdom (Prowl)|6|13|
+The Secret Kingdom (Keep)¦The Secret Kingdom (Keep)¦¦|The Secret Kingdom (Preserve)|1|6|
+The Secret Kingdom (Prowl)¦The Secret Kingdom (Prowl)¦¦|The Secret Kingdom (Heartwood)|1|5|;|The Secret Kingdom (Preserve)|16|6|
+Cursed Isle of Darkwater (Break Water)¦Cursed Isle of Darkwater (Break Water)¦Cursed Isle of Darkwater¦|Cursed Isle of Darkwater (Cove)|2|2|;|The Secret Kingdom (Preserve)|2|15|;World Area|Cursed Isle of Darkwater|15|3|
+Cursed Isle of Darkwater (Cove)¦Cursed Isle of Darkwater (Cove)¦¦|Cursed Isle of Darkwater (Upper Beach)|14|14|;|Cursed Isle of Darkwater (Break Water)|8|2|
+Cursed Isle of Darkwater (Gloomy Vale)¦Cursed Isle of Darkwater (Gloomy Vale)¦¦|Path of the Dread Mist|7|2|;|Cursed Isle of Darkwater (Upper Beach)|2|7|
+Cursed Isle of Darkwater (Upper Beach)¦Cursed Isle of Darkwater (Upper Beach)¦¦|Cursed Isle of Darkwater (Lower Beach)|2|12|;|Cursed Isle of Darkwater (Gloomy Vale)|3|2|;|Darkwater Lighthouse (Lower)|7|15|;|Fishermans Porch|6|14|;|Cursed Isle of Darkwater (Cove)|15|3|;portal|Cursed Isle Portal|10|2|;shop|Combers Rest|9|13|
+Darkwater Hut¦Darkwater Hut¦¦|Fishermans Porch|2|3|
+Darkwater Lighthouse (Lower)¦Darkwater Lighthouse (Lower)¦¦|Darkwater Lighthouse (Middle)|1|3|;|Cursed Isle of Darkwater (Upper Beach)|2|8|
+Darkwater Lighthouse (Middle)¦Darkwater Lighthouse (Middle)¦¦|Darkwater Lighthouse (Upper)|6|4|;|Darkwater Lighthouse (Lower)|1|2|
+Darkwater Lighthouse (Upper)¦Darkwater Lighthouse (Upper)¦¦|Darkwater Lighthouse (Middle)|3|2|
+Fishermans Porch¦Fishermans Porch¦¦|Darkwater Hut|2|1|;|Cursed Isle of Darkwater (Upper Beach)|2|3|
+Cursed Isle of Darkwater (Lower Beach)¦Cursed Isle of Darkwater (Lower Beach)¦¦|Cursed Isle of Darkwater (Broken Plain)|10|2|;|Cursed Isle of Darkwater (Upper Beach)|2|15|
+Path of the Dread Mist¦Path of the Dread Mist¦¦|Shroud Rim (Hunger Fields)|11|2|;|Cursed Isle of Darkwater (Gloomy Vale)|2|16|
+Cursed Isle of Darkwater (Broken Plain)¦Cursed Isle of Darkwater (Broken Plain)¦Cursed Isle of Darkwater¦|Cursed Isle of Darkwater (Dark Valley)|14|11|;|Cursed Isle of Darkwater (Hollow)|9|9|;|Cursed Isle of Darkwater (Lower Beach)|3|2|;World Area|Cursed Isle of Darkwater|2|14|
+Cursed Isle of Darkwater (Hollow)¦Cursed Isle of Darkwater (Hollow)¦¦|Cursed Isle of Darkwater (Broken Plain)|3|12|
+Shroud Rim (Hunger Fields)¦Shroud Rim (Hunger Fields)¦¦|Shroud Rim (Stitchers Tower Lower)|2|12|;|Path of the Dread Mist|2|16|;shop|Stitchers Supplies|3|11|
+Cursed Isle of Darkwater (Dark Valley)¦Cursed Isle of Darkwater (Dark Valley)¦¦|Cursed Isle of Darkwater (Murk)|6|12|;|Cursed Isle of Darkwater (Broken Plain)|12|12|
+Shroud Rim (Stitchers Tower Lower)¦Shroud Rim (Stitchers Tower Lower)¦¦|Shroud Rim (Stitchers Tower Upper)|7|1|;|Shroud Rim (Hunger Fields)|8|15|
+Cursed Isle of Darkwater (Murk)¦Cursed Isle of Darkwater (Murk)¦¦|Cursed Isle of Darkwater (Rise)|8|8|;|Cursed Isle of Darkwater (Dark Valley)|2|11|
+Shroud Rim (Stitchers Tower Upper)¦Shroud Rim (Stitchers Tower Upper)¦¦|Dark Atholhu (Edge)|13|2|;|Shroud Rim (Stitchers Tower Vault)|5|7|;|Shroud Rim (Stitchers Tower Lower)|6|13|
+Shroud Rim (Stitchers Tower Vault)¦Shroud Rim (Stitchers Tower Vault)¦¦|Shroud Rim (Stitchers Tower Upper)|1|2|
+Cursed Isle of Darkwater (Rise)¦Cursed Isle of Darkwater (Rise)¦¦|Cursed Isle of Darkwater (Bleak Moor)|13|2|;|Cursed Isle of Darkwater (Murk)|9|2|;shop|Mist Crest Stores|2|12|
+Dark Atholhu (Edge)¦Dark Atholhu (Edge)¦¦|Dark Atholhu (Outer)|9|2|;|Shroud Rim (Stitchers Tower Upper)|14|14|;relic|Holy Atholhu Pillar|2|2|
+Cursed Isle of Darkwater (Bleak Moor)¦Cursed Isle of Darkwater (Bleak Moor)¦¦|Cursed Isle of Darkwater (Razor Cliffs)|13|9|;|Cursed Isle of Darkwater (Rise)|3|2|
+Dark Atholhu (Outer)¦Dark Atholhu (Outer)¦¦|Dark Atholhu (Inner)|14|2|;|Dark Atholhu (Edge)|2|11|
+Chelonian Cove¦Chelonian Cove¦¦|Chelonian Hideout|11|4|;|Cursed Isle of Darkwater (Razor Cliffs)|12|12|
+Chelonian Hideout¦Chelonian Hideout¦¦|Chelonian Cove|2|3|
+Cursed Isle of Darkwater (Razor Cliffs)¦Cursed Isle of Darkwater (Razor Cliffs)¦¦|Hai Jing Mountains (Summit)|2|2|;|Chelonian Cove|10|11|;|Cursed Isle of Darkwater (Bleak Moor)|14|2|
+Dark Atholhu (Inner)¦Dark Atholhu (Inner)¦¦|Dark Atholhu (Mount Foot)|10|2|;|Dark Atholhu (Outer)|12|11|
+Dark Atholhu (Mount East)¦Dark Atholhu (Mount East)¦¦|Dark Atholhu (Mount Foot)|3|12|
+Dark Atholhu (Mount Foot)¦Dark Atholhu (Mount Foot)¦Cursed Isle of Darkwater¦|Dark Atholhu (Mount East)|12|2|;|Dark Atholhu (Mount North)|7|2|;|Dark Atholhu (Mount West)|2|2|;|Dark Atholhu (Inner)|6|7|;World Area|Cursed Isle of Darkwater|9|6|
+Dark Atholhu (Mount North)¦Dark Atholhu (Mount North)¦¦|Dark Atholhu (Mount Foot)|6|11|
+Dark Atholhu (Mount West)¦Dark Atholhu (Mount West)¦¦|Dark Atholhu (Mount Foot)|11|12|
+Hai Jing Mountains (Summit)¦Hai Jing Mountains (Summit)¦Lao Xan Province¦|Hai Jing Mountains (Slope)|14|9|;|Cursed Isle of Darkwater (Razor Cliffs)|7|1|;World Area|Lao Xan Province|1|6|
+Hai Jing Mountains (Slope)¦Hai Jing Mountains (Slope)¦¦|Hai Jing Mountains (Ridge)|2|15|;|Hai Jing Mountains (Summit)|1|5|
+Bronze Aspect Shrine¦Bronze Aspect Shrine¦¦|Hai Jing Mountains (Ridge)|1|10|
+Hai Jing Mountains (Ridge)¦Hai Jing Mountains (Ridge)¦¦|Hai Jing Mountains (Base)|4|14|;|Bronze Aspect Shrine|16|2|;|Hai Jing Mountains (Slope)|6|1|
+Hai Jing Mountains (Base)¦Hai Jing Mountains (Base)¦¦|Yanyi Woods (Edge)|17|13|;|Hai Jing Mountains (Ridge)|1|13|;shop|High View Market|2|13|
+Yanyi Woods (Edge)¦Yanyi Woods (Edge)¦Lao Xan Province¦|Yanyi Woods (Inner)|11|2|;|Hai Jing Mountains (Base)|2|13|;World Area|Lao Xan Province|3|2|;portal|The Pit of Light|8|8|
+Yanyi Woods (Inner)¦Yanyi Woods (Inner)¦¦|Yanyi Woods (Outer)|13|15|;|Yanyi Woods (Edge)|2|2|;relic|Temple of Inner Light|8|9|
+Yanyi Woods (Hill)¦Yanyi Woods (Hill)¦¦|Yanyi Woods (Outer)|2|8|
+Yanyi Woods (Outer)¦Yanyi Woods (Outer)¦¦|Lao Xan City (Merchant)|2|13|;|Yanyi Woods (Hill)|8|8|;|Yanyi Woods (Inner)|14|14|
+Lao Xan City (Merchant)¦Lao Xan City (Merchant)¦¦|Lao Xan City (Suburb)|1|7|;|Yanyi Woods (Outer)|15|6|;shop|Po Fan Stores|13|14|
+Lao Xan City (Suburb)¦Lao Xan City (Suburb)¦¦|Lao Xan City (Artisan)|6|16|;|Lao Xan City (Merchant)|16|3|
+Dark Dwarf Forest¦Dark Dwarf Forest¦Krul Island¦|The Grimmnor Forest|4|4|;|Dark Dwarf Mine|13|11|
+Dark Dwarf Mine¦Dark Dwarf Mine¦¦|Dark Dwarf Forest|12|13|
+Lao Xan City (Artisan)¦Lao Xan City (Artisan)¦¦|Gao Tain Lake (Avenue)|17|7|;|Officials Compound|1|7|;|Lao Xan City (Suburb)|11|1|
+Officials Compound¦Officials Compound¦¦|Lao Xan City (Artisan)|11|3|
+Quango Island (Western Reach)¦Quango Island (Western Reach)¦Arrin Moors¦|Quango Island|14|3|
+Springtime Forest (Dark Timberland)¦Springtime Forest (Dark Timberland)¦Krul Island¦|Springtime Forest (Outer Grove)|8|7|
+Gao Tain Lake (Avenue)¦Gao Tain Lake (Avenue)¦Gao Tain Province¦World Area|Gao Tain Province|13|12|;|Gao Tain Lake (Outer)|2|2|;|Gao Tain Lake (Grove)|2|6|;|Lao Xan City (Artisan)|2|13|
+Gao Tain Lake (Grove)¦Gao Tain Lake (Grove)¦¦|Gao Tain Lake (Avenue)|12|2|
+Gao Tain Lake (Outer)¦Gao Tain Lake (Outer)¦¦|Gao Tain Lake (Edge)|5|2|;|Gao Tain Lake (Avenue)|2|14|;portal|Gao Tain Lake|13|2|;shop|Clear Blue Market|12|14|
+Gao Tain Lake (Edge)¦Gao Tain Lake (Edge)¦¦|Gao Tain Lake (View)|10|13|;|Gao Tain Lake (Outer)|7|2|
+Gao Tain Lake (View)¦Gao Tain Lake (View)¦¦|Catacombs of Quan (Gate)|15|9|;|Gao Tain Lake (Edge)|6|2|;relic|Greater Statue|15|2|
+Catacombs of Quan (Gate)¦Catacombs of Quan (Gate)¦Gao Tain Province¦|Catacombs of Quan (Halls)|14|11|;|Catacombs of Quan (Guard Room)|2|10|;|Gao Tain Lake (View)|2|2|;World Area|Gao Tain Province|10|13|
+Catacombs of Quan (Guard Room)¦Catacombs of Quan (Guard Room)¦¦|Catacombs of Quan (Gate)|6|10|
+Catacombs of Quan (Halls)¦Catacombs of Quan (Halls)¦¦|Catacombs of Quan (Gallery)|15|13|;|Catacombs of Quan (Gate)|2|10|
+Catacombs of Quan (Corridor)¦Catacombs of Quan (Corridor)¦¦|Catacombs of Quan (Tomb)|2|2|;|Catacombs of Quan (Gallery)|5|2|
+Catacombs of Quan (Gallery)¦Catacombs of Quan (Gallery)¦¦|Catacombs of Quan (Crypt)|2|2|;|Catacombs of Quan (Corridor)|11|2|;|Catacombs of Quan (Halls)|2|10|
+Catacombs of Quan (Tomb)¦Catacombs of Quan (Tomb)¦¦|Catacombs of Quan (Corridor)|2|7|
+Catacombs of Quan (Crypt)¦Catacombs of Quan (Crypt)¦¦|Catacombs of Quan (Vault)|14|14|;|Mausoleum|2|2|;|Catacombs of Quan (Gallery)|14|10|;shop|Crypt Keeper Supplies|2|14|
+Catacombs of Quan (Vault)¦Catacombs of Quan (Vault)¦¦|Catacombs of Quan (Sepulcher)|12|2|;|Catacombs of Quan (Crypt)|2|11|
+Fire Temple (Gate)¦Fire Temple (Gate)¦Gao Tain Province¦|Fire Temple (Pavilion)|17|3|;|Mausoleum|15|13|;World Area|Gao Tain Province|1|10|
+Mausoleum¦Mausoleum¦¦|Fire Temple (Gate)|2|2|;|Catacombs of Quan (Crypt)|4|2|
+Catacombs of Quan (Sepulcher)¦Catacombs of Quan (Sepulcher)¦¦|Catacombs of Quan (Vault)|2|13|
+Fire Temple (Balcony)¦Fire Temple (Balcony)¦¦|Fire Temple (Pavilion)|1|6|
+Fire Temple (Pavilion)¦Fire Temple (Pavilion)¦¦|Kyoko Island (North)|1|14|;|Fire Temple (Balcony)|15|9|;|Fire Temple (Gate)|1|5|
+Kyoko Island (Cove)¦Kyoko Island (Cove)¦¦|Kyoko Island (North)|2|12|
+Kyoko Island (North)¦Kyoko Island (North)¦Kyoko Province¦|Kyoko Island (East)|14|14|;|Kyoko Island (Cove)|14|2|;|Fire Temple (Pavilion)|2|14|;World Area|Kyoko Province|2|2|
+Kyoko Island (East)¦Kyoko Island (East)¦¦|Kyoko Island (West)|14|2|;|Kyoko Island (North)|2|11|
+Kyoko Island (West)¦Kyoko Island (West)¦¦|Kyoko Island (South)|2|8|;|Kyoko Island (East)|2|12|;shop|Shoreline Rest|15|7|
+Kyoko Island (South)¦Kyoko Island (South)¦¦|Hirosue Caverns (Mouth)|6|7|;|Kyoko Island (West)|2|15|;relic|Kyoko Relic|7|3|
+Hirosue Caverns (Mouth)¦Hirosue Caverns (Mouth)¦Kyoko Province¦World Area|Kyoko Province|2|2|;|Hirosue Caverns (Descent)|13|7|;|Kyoko Island (South)|6|13|
+Hirosue Caverns (Descent)¦Hirosue Caverns (Descent)¦¦|Hirosue Caverns (Depths)|14|12|;|Hirosue Caverns (Mouth)|2|9|;portal|Hirosue Portal|2|2|
+Hirosue Caverns (Depths)¦Hirosue Caverns (Depths)¦¦|Hirosue Caverns (Cathedral)|7|10|;|Hirosue Caverns (Descent)|16|15|
+Hirosue Caverns (Cathedral)¦Hirosue Caverns (Cathedral)¦¦|Hirosue Caverns (Maze)|3|9|;|Hirosue Caverns (Depths)|13|17|;shop|Tamao Market|3|15|
+Claw Temple (Gate)¦Claw Temple (Gate)¦Kyoko Province¦|Claw Temple (Sanctuary)|1|11|;|Hirosue Caverns (Maze)|9|1|;World Area|Kyoko Province|17|16|
+Hirosue Caverns (Maze)¦Hirosue Caverns (Maze)¦¦|Claw Temple (Gate)|14|15|;|Hirosue Caverns (Murk)|8|11|;|Hirosue Caverns (Cathedral)|2|2|
+Claw Temple (Courtyard)¦Claw Temple (Courtyard)¦¦|Dragon Tooth Mountain (Base)|12|13|;|Claw Temple (Sanctuary)|1|8|
+Claw Temple (Sanctuary)¦Claw Temple (Sanctuary)¦¦|Claw Temple (Courtyard)|7|1|;|Claw Temple (Gate)|1|13|
+Hirosue Caverns (Murk)¦Hirosue Caverns (Murk)¦¦|Hirosue Caverns (Maze)|2|15|
+Dragon Tooth Mountain (Base)¦Dragon Tooth Mountain (Base)¦Qu Zhang Province¦|Dragon Tooth Mountain (Ridge)|9|1|;|Claw Temple (Courtyard)|15|14|;World Area|Qu Zhang Province|7|15|
+Dragon Tooth Mountain (Ridge)¦Dragon Tooth Mountain (Ridge)¦¦|Dragon Tooth Mountain (Gorge)|16|7|;|Dragon Tooth Mountain (Base)|7|14|
+Dragon Tooth Mountain (Gorge)¦Dragon Tooth Mountain (Gorge)¦¦|Dragon Tooth Mountain (Heights)|3|1|;|Dragon Tooth Mountain (Ridge)|1|6|
+Dragon Tooth Mountain (Heights)¦Dragon Tooth Mountain (Heights)¦¦|Floating Islands of Wu Kong (East Island)|2|1|;|Dragon Tooth Mountain (Summit)|1|11|;|Dragon Tooth Mountain (Gorge)|8|13|;portal|Dragon Tooth Portal|7|9|;shop|Litghar Supplies|10|3|
+Dragon Tooth Mountain (Summit)¦Dragon Tooth Mountain (Summit)¦¦|Dragon Tooth Mountain (Heights)|14|5|
+Floating Islands of Wu Kong (East Island)¦Floating Islands of Wu Kong (East Island)¦Qu Zhang Province¦World Area|Qu Zhang Province|4|9|;|Floating Islands of Wu Kong (North Island)|10|3|;|Dragon Tooth Mountain (Heights)|6|14|
+Floating Islands of Wu Kong (North Island)¦Floating Islands of Wu Kong (North Island)¦¦|Floating Islands of Wu Kong (South Island)|13|10|;|Floating Islands of Wu Kong (East Island)|2|2|
+Floating Islands of Wu Kong (South Island)¦Floating Islands of Wu Kong (South Island)¦¦|Floating Islands of Wu Kong (West Island)|12|9|;|Floating Islands of Wu Kong (North Island)|2|3|;shop|Morgael Supplies|5|8|
+Floating Islands of Wu Kong (West Island)¦Floating Islands of Wu Kong (West Island)¦¦|Scale Temple (Gateway)|12|12|;|Floating Islands of Wu Kong (South Island)|10|2|;relic|Spearing Light|15|5|
+Scale Temple (Gateway)¦Scale Temple (Gateway)¦Qu Zhang Province¦|Scale Temple (Pagoda)|8|6|;|Floating Islands of Wu Kong (West Island)|1|14|;World Area|Qu Zhang Province|4|5|
+Scale Temple (Cemetery)¦Scale Temple (Cemetery)¦¦|Scale Temple (Pagoda)|1|8|
+Scale Temple (Pagoda)¦Scale Temple (Pagoda)¦¦|Truncal Jungle (North)|4|17|;|Scale Temple (Cemetery)|16|5|;|Scale Temple (Gateway)|8|10|
+Truncal Jungle (North)¦Truncal Jungle (North)¦Shang Pan Province¦|Truncal Jungle (East)|9|2|;|Scale Temple (Pagoda)|3|1|;World Area|Shang Pan Province|5|14|
+Truncal Jungle (East)¦Truncal Jungle (East)¦¦|Truncal Jungle (South)|13|16|;|Truncal Jungle (North)|1|4|;shop|Truncal Market|13|2|
+Truncal Jungle (South)¦Truncal Jungle (South)¦¦|Truncal Jungle (West)|1|3|;|Truncal Jungle (East)|11|1|;relic|Wise Willow|9|12|
+Truncal Jungle (Hunting Grounds)¦Truncal Jungle (Hunting Grounds)¦¦|Truncal Jungle (West)|13|8|
+Truncal Jungle (West)¦Truncal Jungle (West)¦¦|Great Canopy (Lower)|1|12|;|Truncal Jungle (Hunting Grounds)|9|14|;|Truncal Jungle (South)|14|5|
+Great Canopy (Lower)¦Great Canopy (Lower)¦Shang Pan Province¦|Great Canopy (Upper)|15|14|;|Truncal Jungle (West)|13|2|;World Area|Shang Pan Province|8|4|
+Great Canopy (Upper)¦Great Canopy (Upper)¦¦|Celestial Temple (Entrance)|11|2|;|Great Canopy (Lower)|3|11|;shop|Canopy Stores|10|11|
+Celestial Temple (Entrance)¦Celestial Temple (Entrance)¦Shang Pan Province¦World Area|Shang Pan Province|3|8|;|Encrow Bay (Outskirts)|14|12|;|Celestial Temple (Outer)|8|13|;|Great Canopy (Upper)|13|3|
+Celestial Temple (Hall North)¦Celestial Temple (Hall North)¦¦|Celestial Temple (Hall)|13|18|
+Celestial Temple (Hall South)¦Celestial Temple (Hall South)¦¦|Celestial Temple (Hall)|9|1|

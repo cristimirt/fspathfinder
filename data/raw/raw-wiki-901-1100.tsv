@@ -1,0 +1,287 @@
+Krudar Crags (North)¦Krudar_Crags_(North)¦The Land of Tull¦|Krudar Crags (East)|2|1|;|City of Zekheld (Merchant)|12|1|;World Area|The Land of Tull|13|1|
+Maze of Loki¦Maze_of_Loki¦¦
+Krudar Crags (East)¦Krudar_Crags_(East)¦¦|Krudar Crags (North)|2|1|;|Krudar Crags (South)|14|2|;|The Fallen Tribe|7|10|
+Krudar Crags (South)¦Krudar_Crags_(South)¦¦|Krudar Crags (East)|2|1|;|Krudar Crags (West)|8|14|;shop|Crags Wares|13|2|
+Krudar Crags (West)¦Krudar_Crags_(West)¦¦|Krudar Crags (South)|2|1|;|Krudar Crags (Border)|10|14|;relic|Menhir of Gore|10|8|;|Serpentine Meal|13|13|
+Krudar Crags (Border)¦Krudar_Crags_(Border)¦¦|Krudar Crags (West)|1|11|;|Savaged Forest of Tull (Edge)|13|3|
+Savaged Forest of Tull (Edge)¦Savaged_Forest_of_Tull_(Edge)¦¦|The Land of Tull World Area|12|2|;|Krudar Crags (Border)|2|2|;|Savaged Forest of Tull (Clearing)|12|13|;|Striking Back|5|8|
+Savaged Forest of Tull (Clearing)¦Savaged_Forest_of_Tull_(Clearing)¦¦|Savaged Forest of Tull (Edge)|2|8|;|Savaged Forest of Tull (Ridge)|13|2|;shop|Tull Market|13|13|
+Savaged Forest of Tull (Ridge)¦Savaged_Forest_of_Tull_(Ridge)¦The Land of Tull¦|Savaged Forest of Tull (Thicket)|13|2|;|Savaged Forest of Tull (Clearing)|8|10|;Portal|Savaged Portal|13|13|;|Stages 1-3:|13|8|
+Savaged Forest of Tull (Thicket)¦Savaged_Forest_of_Tull_(Thicket)¦¦|Savaged Forest of Tull (Ridge)|2|2|;|Skar Hold|13|13|
+Skar Hold¦Skar_Hold¦¦|The Land of Tull World Area|14|2|;|Savaged Forest of Tull (Thicket)|7|14|;|Skar Hold (Halls)|7|1|;|Mount Riangi Mines|14|13|;|Laying Siege|10|6|
+Skar Hold (Halls)¦Skar_Hold_(Halls)¦¦|Skar Hold|7|13|
+Mount Riangi Mines¦Mount_Riangi_Mines¦¦|The Realm of Riangi World Area|4|15|;|Skar Hold|1|10|;|Mount Riangi (Ascent)|32|2|;|Mount Riangi Tunnel|2|5|→ 2;|Mount Riangi Tunnel|6|14|→ 1;|Mount Riangi Tunnel|12|18|→ 4;|Mount Riangi Tunnel|14|18|→ 3;|Mount Riangi Tunnel|23|14|→ 6;|Mount Riangi Tunnel|25|14|→ 5;|Mount Riangi Tunnel|28|10|→ 8;|Mount Riangi Tunnel|33|11|→ 7;|Mount Riangi Tunnel|32|18|→ 10;|Mount Riangi Tunnel|32|22|→ 9;|Mount Riangi Tunnel|32|24|→ 12;|Mount Riangi Tunnel|23|5|→ 11;|Mount Riangi Tunnel|11|21|→ 14;|Mount Riangi Tunnel|21|24|→ 13;|Mount Riangi Tunnel|7|33|→ 16;|Mount Riangi Tunnel|2|33|→ 15;|Mount Riangi Tunnel|1|17|→ 18;|Mount Riangi Tunnel|20|28|→ 17;|Slave Labour Liberation|18|1|
+Mount Riangi (Ascent)¦Mount_Riangi_(Ascent)¦¦|Mount Riangi (Flats)|2|2|;|Mount Riangi Mines|13|5|
+Mount Riangi (Flats)¦Mount_Riangi_(Flats)¦¦|Mount Riangi (Ascent)|2|2|;|Mount Riangi (Ridge)|13|2|;relic|Riangi Cluster|2|13|;|Driving Curiosity|8|7|
+Mount Riangi (Ridge)¦Mount_Riangi_(Ridge)¦¦|Mount Riangi (Flats)|3|3|;|Elriak Depths (Upper)|2|12|
+Elriak Depths (Upper)¦Elriak_Depths_(Upper)¦¦|The Realm of Riangi World Area|2|12|;|Mount Riangi (Ridge)|2|2|;|Elriak Depths (Descent)|12|12|;shop|Elriak Wares|12|6|;|Driving Curiosity part 2|7|12|
+Elriak Depths (Descent)¦Elriak_Depths_(Descent)¦¦|Elriak Depths (Cavern)|13|2|;|Elriak Depths (Upper)|2|13|
+Elriak Depths (Cavern)¦Elriak_Depths_(Cavern)¦¦|Elriak Depths (Descent)|7|2|;|Elriak Depths (Lower Chamber)|2|13|
+Elriak Depths (Lower Chamber)¦Elriak_Depths_(Lower_Chamber)¦¦|Elriak Depths (Cavern)|13|2|;|Inferno Abyss (Chasm)|13|13|;portal|Elriak Portal|2|2|;|Demonaut Demolition|6|6|
+Inferno Abyss (Chasm)¦Inferno_Abyss_(Chasm)¦¦|The Realm of Riangi World Area|4|13|;|Inferno Abyss (Plateau)|7|6|;|Elriak Depths (Lower Chamber)|13|12|;shop|Inferno Bazaar|8|10|;|Demonaut Demolition part 2|2|12|
+Inferno Abyss (Fissure)¦Inferno_Abyss_(Fissure)¦¦|Inferno Abyss (Plateau)|2|2|
+Inferno Abyss (Plateau)¦Inferno_Abyss_(Plateau)¦¦|Inferno Abyss (Chasm)|12|2|;|Inferno Abyss (Fissure)|12|12|;|Coast of Riangi (Outskirts)|6|5|;|Demonaut Demolition part 3|2|7|
+Coast of Riangi (Outskirts)¦Coast_of_Riangi_(Outskirts)¦¦|The Dark Sea World Area|2|13|;|Coast of Riangi (Port)|2|2|;|Inferno Abyss (Plateau)|13|2|;shop|Shield Builder Wares|10|9|;|A New Threat|5|6|
+Coast of Riangi (Port)¦Coast_of_Riangi_(Port)¦¦|Coast of Riangi (Outskirts)|2|2|;|Barbas Isle (North)|12|12|
+Barbas Isle (North)¦Barbas_Isle_(North)¦¦|The Dark Sea World Area|12|2|;|Coast of Riangi (Port)|2|3|;|Barbas Isle (South)|13|15|;shop|Barbas Wares|7|8|;|Dark Sea Danger!|8|6|
+Barbas Isle (South)¦Barbas_Isle_(South)¦¦|Barbas Isle (North)|3|2|;|Isle of Yozahn (Shores)|13|13|;|Dark Sea Danger! part 1|4|6|
+Isle of Yozahn (Shores)¦Isle_of_Yozahn_(Shores)¦¦|The Dark Sea World Area|1|12|;|Barbas Isle (South)|2|1|;|Isle of Yozahn (North)|11|1|;relic|Yozahn Growth|12|2|
+Isle of Yozahn (North)¦Isle_of_Yozahn_(North)¦¦|Isle of Yozahn (Shores)|2|1|;|Isle of Yozahn (South)|14|12|
+Isle of Yozahn (South)¦Isle_of_Yozahn_(South)¦¦|Isle of Yozahn (North)|2|1|;|Way of the Fallen|14|15|;|Dragon you down|7|6|
+Way of the Fallen¦Way_of_the_Fallen¦¦|Fallen Isle (Ruins)|2|1|;|Isle of Yozahn (South)|2|16|;|Passing the Way|2|12|
+Fallen Isle (Ruins)¦Fallen_Isle_(Ruins)¦¦|Way of the Fallen|2|2|;|Fallen Isle (Lookout Point)|13|3|;|The Dark Sea|13|13|;portal|Fallen Portal|2|13|;shop|Fallen Bazaar|9|9|
+Fallen Isle (Lookout Point)¦Fallen_Isle_(Lookout_Point)¦¦|Fallen Isle (Ruins)|2|2|;|Barnacle Bandit (Cargo Hold)|13|8|;|Fallen Isle (Port)|13|13|
+Fallen Isle (Port)¦Fallen_Isle_(Port)¦¦|Fallen Isle (Lookout Point)|4|2|;|Satero Residence|9|7|;|The Ruthless Satero|7|2|
+Satero Residence¦Satero_Residence¦¦|Fallen Isle (Port)|2|1|
+Barnacle Bandit (Cargo Hold)¦Barnacle_Bandit_(Cargo_Hold)¦¦|Barnacle Bandit (Gunnery Deck)|3|3|;|Fallen Isle (Lookout Point)|14|3|;|The Dark Coast|7|4|;|Working your way up the Ranks!|11|3|
+Barnacle Bandit (Gunnery Deck)¦Barnacle_Bandit_(Gunnery_Deck)¦¦|Barnacle Bandit (Main Deck)|9|2|;|Barnacle Bandit (Cargo Hold)|3|3|;|Working your way up the Ranks! part 1|8|4|
+Barnacle Bandit (Main Deck)¦Barnacle_Bandit_(Main_Deck)¦¦|Barnacle Bandit (Gunnery Deck)|3|2|;|Barnacle Bandit (Mast)|1|3|;|Barnacle Bandit (Poop Deck)|5|3|;|Barnacle Bandit (Forecastle)|1|4|;|Dead Dogs Island (Port)|3|5|;|Working your way up the Ranks! part 2|4|4|
+Barnacle Bandit (Forecastle)¦Barnacle_Bandit_(Forecastle)¦¦|Barnacle Bandit (Main Deck)|4|4|;|Working your way up the Ranks! part 3|3|2|;|Gull Spatterings|3|4|
+Barnacle Bandit (Mast)¦Barnacle_Bandit_(Mast)¦¦|Barnacle Bandit (Main Deck)|4|2|
+Barnacle Bandit (Poop Deck)¦Barnacle_Bandit_(Poop_Deck)¦¦|Barnacle Bandit (Main Deck)|1|3|;|Working your way up the Ranks! part 4|2|1|
+Dead Dogs Island (Port)¦Dead_Dogs_Island_(Port)¦¦|The Dark Coast World Area|11|8|;|Barnacle Bandit (Main Deck)|1|2|;|Dead Dogs Island (North)|14|2|;relic|Barnacle Buckler|9|7|;shop|Swoon Legs Emporium|2|13|
+Dead Dogs Island (North)¦Dead_Dogs_Island_(North)¦¦|Dead Dogs Island (Port)|3|1|;|Dead Dogs Island (Central)|14|12|;|Guild of Thieves|12|1|
+Dead Dogs Island (Central)¦Dead_Dogs_Island_(Central)¦¦|Dead Dogs Island (North)|3|1|;|Dead Dogs Island (South)|14|11|
+Dead Dogs Island (South)¦Dead_Dogs_Island_(South)¦¦|Dead Dogs Island (Central)|3|1|;|Dead Dogs Island (Town)|14|12|;shop|Deglores Bazaar|3|9|
+Dead Dogs Island (Town)¦Dead_Dogs_Island_(Town)¦¦|Dead Dogs Island (South)|3|1|;|Skull Cove (Cave)|14|12|;portal|Dead Dogs Portal|7|7|
+Skull Cove (Cave)¦Skull_Cove_(Cave)¦¦|The Dark Coast World Area|2|14|;|Dead Dogs Island (Town)|1|2|;|Skull Cove (Pit)|12|14|;|Start:|3|2|;|Part 1:|12|13|
+Skull Cove (Pit)¦Skull_Cove_(Pit)¦¦|Skull Cove (Cave)|2|1|;|Xanlin Plain (Windvale)|14|8|;|The Blackrot Legend part 2|2|3|
+Xanlin Plain (Windvale)¦Xanlin_Plain_(Windvale)¦¦|Xanlin Plain World Area|2|6|;|Xanlin Plain (Dustflats)|14|2|;|Skull Cove (Pit)|2|14|;shop|Kallisk Wears|12|7|;|Start:|8|3|;|Location 1:|10|14|
+Xanlin Plain (Dustflats)¦Xanlin_Plain_(Dustflats)¦¦|Xanlin Plain (Windvale)|2|2|;|Xanlin Plain (Bushland)|16|13|
+Xanlin Plain (Bushland)¦Xanlin_Plain_(Bushland)¦¦|Xanlin Plain (Plateau)|7|2|;|Xanlin Plain (Dustflats)|2|16|;shop|Zollfins Shack|3|9|;|Cut above the Rest|8|2|
+Xanlin Plain (Plateau)¦Xanlin_Plain_(Plateau)¦¦|Xanlin Plain (Ironwood)|2|2|;|Karthak (South Gate)|16|2|;|Xanlin Plain (Bushland)|16|16|;shop|Sanloss Mart|6|6|
+Xanlin Plain (Ironwood)¦Xanlin_Plain_(Ironwood)¦Xanlin Plain¦|Xanlin Plain (Cave)|6|4|;|Xanlin Plain (Range)|16|5|;|Xanlin Plain (Plateau)|2|14|;Portal|The Gomji Pit|2|9|;World Area|Xanlin Plain|16|14|
+Xanlin Plain (Cave)¦Xanlin_Plain_(Cave)¦¦|Xanlin Plain (Ironwood)|16|2|;shop|Gomji Cave Stall|12|14|;|Start|16|8|;|Location 1|9|8|
+Xanlin Plain (Range)¦Xanlin_Plain_(Range)¦¦|Xanlin Plain (Rise)|17|2|;|Xanlin Plain (Ironwood)|2|10|;shop|Zal Cha Store|8|2|;|Cut above the Rest location 1|4|15|;|A Simple Trade|17|12|
+Xanlin Plain (Rise)¦Xanlin_Plain_(Rise)¦¦|Xanlin Plain (Hills)|10|2|;|Xanlin Plain (Range)|2|14|;relic|Sacred Rocks of Zxl|9|8|;shop|Tazamo Bead Seller|5|6|;|A Simple Trade part 1|8|14|
+Xanlin Plain (Hills)¦Xanlin_Plain_(Hills)¦¦|Xanlin Plain (Vale)|2|2|;|Xanlin Plain (Rise)|10|15|
+Mooramire Marsh (Plague)¦Mooramire_Marsh_(Plague)¦¦|Mooramire Marsh (Stench)|10|17|
+Mooramire Marsh (Shallows)¦Mooramire_Marsh_(Shallows)¦¦|Cathedral of Ways (Sacristy)|9|1|;|Mooramire Marsh (Stench)|8|9|
+Mooramire Marsh (Stench)¦Mooramire_Marsh_(Stench)¦¦|Mooramire Marsh (Plague)|6|16|;|Mooramire Marsh (Shallows)|7|4|
+Springtime Forest (Corrupted Clearing)¦Springtime_Forest_(Corrupted_Clearing)¦Krul Island¦|Springtime Forest (Outer Grove)|8|10|
+Xanlin Plain (Deep Vault)¦Xanlin_Plain_(Deep_Vault)¦¦|Xanlin Plain (Sacred Dark)|4|2|;shop|Kutubu Treasures|2|2|
+Xanlin Plain (Sacred Dark)¦Xanlin_Plain_(Sacred_Dark)¦¦|Xanlin Plain World Area|2|11|;|Xanlin Plain (Deep Vault)|2|2|;|Xanlin Plain (Vale)|7|7|;shop|Molyarn Armours|11|7|;|A Simple Trade part 4|2|12|
+Xanlin Plain (Vale)¦Xanlin_Plain_(Vale)¦¦|Xanlin Plain (Sacred Dark)|9|9|;|Xanlin Plain (Hills)|12|13|;shop|Kal Zara Wears|2|2|;|Part 2|6|16|;|Part 3|14|17|
+Karthak (Alchemy Quarter)¦Karthak_(Alchemy_Quarter)¦¦|City of Karthak World Area|8|1|;|Karthak (North Gate)|1|2|;|Karthak (Alchemy Society)|5|10|;|Karthak (City Park)|1|12|;|Karthak (Harbour)|9|18|;shop|Karthak College Supplies|15|17|;|Location 3:|2|12|;|Location 1:|9|17|
+Karthak (City Park)¦Karthak_(City_Park)¦¦|Karthak (Magic Quarter)|2|1|;|Karthak (North Gate)|13|1|;|Karthak (Royal Quarter)|1|11|;|Karthak (Alchemy Quarter)|18|12|;|Karthak (Merchant Quarter)|8|17|;shop|Tashas Souvenirs|14|14|;|Location 2:|6|7|
+Karthak (Dog and Partridge)¦Karthak_(Dog_and_Partridge)¦¦|Karthak (Merchant Quarter)|3|2|;|Location 3:|2|2|
+Karthak (Harbour)¦Karthak_(Harbour)¦¦|Karthak (Alchemy Quarter)|8|1|;|Karthak (Seastone Keep)|17|7|;|Karthak (Merchant Quarter)|1|9|;|Karthak (Guard Quarter)|16|18|;shop|Jolly Sailor Supplies|2|17|;|Start:|17|17|;|Location 3:|10|8|;|Location 2:|16|7|
+Karthak (Magic Quarter)¦Karthak_(Magic_Quarter)¦¦|Karthak (North Gate)|18|5|;|Karthak (Martial Ward)|1|15|;|Karthak (Royal Quarter)|12|16|;|Karthak (City Park)|17|16|;|Start:|9|7|;|Location 1:|5|7|
+Karthak (Market Square)¦Karthak_(Market_Square)¦¦|Karthak (Royal Quarter)|9|1|;|Karthak (Temple Quarter)|1|4|;|Karthak (Merchant Quarter)|17|9|;|Karthak (Poor Quarter)|1|16|;|Karthak (Shambles)|5|17|;|Karthak (South Gate)|16|17|;shop|Jimsons Bricker Brac|2|9|;|Start:|7|10|
+Karthak (Merchant Quarter)¦Karthak_(Merchant_Quarter)¦City of Karthak¦|Karthak (City Park)|8|1|;|Karthak (Harbour)|18|4|;|Karthak (Market Square)|1|9|;|Karthak (SK Acquisitions)|6|11|;|Karthak (Dog and Partridge)|16|14|;|Karthak (South Gate)|4|18|;|Karthak (Guard Quarter)|17|18|;Portal|Karthak Merchant Waygate|5|7|;World Area|City of Karthak|5|14|
+Karthak (Necropolis)¦Karthak_(Necropolis)¦¦|Karthak (Temple Quarter)|16|3|;|Karthak (Mausoleum)|2|13|;shop|Zalk Supplies|15|17|;|Location 1|12|13|
+Karthak (North Gate)¦Karthak_(North_Gate)¦¦|Volmar Wastes (Karthak Wall)|10|1|;|Karthak (Gate Corridor)|9|2|;|Karthak (Magic Quarter)|1|6|;|Karthak (Alchemy Quarter)|16|15|;|Karthak (City Park)|8|16|;|Start:|8|8|;|Start:|10|2|
+Karthak (Poor Quarter)¦Karthak_(Poor_Quarter)¦¦|Karthak (Temple Quarter)|16|1|;|Karthak (Market Square)|18|3|;|Karthak (Lieutenants Head)|3|5|;|Karthak (Shambles)|18|17|;shop|Zalls Knife Stall|2|17|;|Start:|7|5|;|Location 1|9|9|
+Karthak (Shambles)¦Karthak_(Shambles)¦¦|Karthak (Market Square)|8|1|;|Karthak (South Gate)|15|9|;|Karthak (Poor Quarter)|1|15|;shop|Finkil Curiosities|3|8|;|Start:|10|2|;|Location 1:|12|12|
+Karthak (South Gate Corridor)¦Karthak_(South_Gate_Corridor)¦¦|Karthak (South Gate Office)|1|2|;|Karthak (South Gate)|4|2|
+Karthak (South Gate Office)¦Karthak_(South_Gate_Office)¦¦|Karthak (South Gate Corridor)|3|2|;|Location 1:|2|2|
+Karthak (South Gate)¦Karthak_(South_Gate)¦¦|City of Karthak World Area|6|4|;|Karthak (Market Square)|2|1|;|Karthak (Merchant Quarter)|15|1|;|Karthak (Shambles)|1|8|;|Karthak (Guard Quarter)|16|9|;|Karthak (South Gate Corridor)|5|10|;|Xanlin Plain (Plateau)|8|16|;shop|Quinns Guard Supplies|2|15|;|Start:|6|10|;|Location 2:|15|15|
+Karthak (Temple Quarter)¦Karthak_(Temple_Quarter)¦¦|City of Karthak World Area|3|16|;|Karthak (Martial Ward)|2|1|;|Karthak (Royal Quarter)|18|2|;|Karthak (Cathedral Gate)|9|9|;|Karthak (Market Square)|18|14|;|Karthak (Necropolis)|1|15|;|Karthak (Pilgrims Rest)|18|16|;|Karthak (Temple Sewers)|2|17|;|Karthak (Poor Quarter)|17|18|;shop|Temple Storehouse|2|2|;|Location 2:|6|4|;|Start:|13|7|;|Location 1:|2|16|
+Karthak (Hall of Vaults)¦Karthak_(Hall_of_Vaults)¦¦|Karthak (SK Vault 1)|4|14|;|Karthak (SK Vault 2)|15|15|;|Karthak (SK Vault 3)|17|6|;|Karthak (SK Vault 4)|14|8|;|Karthak (SK Vault 5)|3|8|;|Karthak (SK Vault 6)|15|3|;|Karthak (SK Vault 7)|6|5|;|Karthak (SK Vault 8)|2|2|;|Karthak (SK Acquisitions)|9|18|
+Karthak (SK Acquisitions)¦Karthak_(SK_Acquisitions)¦¦|Karthak (Hall of Vaults)|2|1|;|Karthak (Merchant Quarter)|1|2|;|Karthak (Klines Study)|2|3|;|Start:|2|2|
+Karthak (SK Vault 1)¦Karthak_(SK_Vault_1)¦¦|Karthak (Hall of Vaults)|3|2|;|Location 1:|2|2|
+Karthak (Alchemy Society)¦Karthak_(Alchemy_Society)¦¦|Karthak (Alchemy Quarter)|1|2|;|Start:|2|2|
+Karthak (Klines Study)¦Karthak_(Klines_Study)¦¦|Karthak (SK Acquisitions)|2|1|;|Location 2:|2|2|
+Karthak (SK Vault 2)¦Karthak_(SK_Vault_2)¦¦|Karthak (Hall of Vaults)|2|1|;|Location 3:|2|2|
+Karthak (Lieutenants Head)¦Karthak_(Lieutenants_Head)¦¦|Karthak (Poor Quarter)|2|1|;|Location 1:|2|2|
+Karthak (Armory)¦Karthak_(Armory)¦¦|Karthak (Guard Quarter)|2|1|;shop|Karthak Guard Armory|2|2|
+Karthak (Guard Quarter)¦Karthak_(Guard_Quarter)¦¦|Karthak (Merchant Quarter)|2|1|;|Karthak (Harbour)|15|1|;|Karthak (Guards Citadel lvl 1)|12|7|;|Karthak (South Gate)|1|12|;|Karthak (Armory)|10|14|;|Location 1:|8|10|
+Karthak (Guards Citadel lvl 1)¦Karthak_(Guards_Citadel_lvl_1)¦¦|Karthak (Guard Quarter)|1|3|;|Karthak (Guards Citadel lvl 2)|3|3|;|Location 2:|2|3|
+Karthak (Guards Citadel lvl 2)¦Karthak_(Guards_Citadel_lvl_2)¦¦|Karthak (Guards Citadel lvl 1)|5|3|
+Karthak (Pilgrims Rest)¦Karthak_(Pilgrims_Rest)¦¦|Karthak (Temple Quarter)|1|3|;|Location 3:|2|2|
+Karthak (Sewer Chamber)¦Karthak_(Sewer_Chamber)¦¦|Karthak (Temple Sewers)|3|2|;shop|Sawthin Sewer Wares|2|2|
+Karthak (SK Vault 3)¦Karthak_(SK_Vault_3)¦¦|Karthak (Hall of Vaults)|2|3|;|Location 4|2|2|
+Karthak (Temple Sewers)¦Karthak_(Temple_Sewers)¦¦|Karthak (Temple Quarter)|2|1|;|Karthak (Sewer Chamber)|5|9|;shop|Sea Sanctuary Wares|10|12|;|Location 2:|6|10|
+Karthak (Cathedral Gate)¦Karthak_(Cathedral_Gate)¦¦|Karthak (Temple Quarter)|2|3|;|Start:|2|2|
+Karthak (Mausoleum)¦Karthak_(Mausoleum)¦¦|Karthak (Necropolis)|2|16|;|Karthak (Storeroom)|16|16|;relic|The Blazing Statue|6|8|;|Location 2:|9|9|;|Location 3:|2|10|;|Location 4:|10|16|;|Location 5:|12|8|
+Karthak (SK Vault 4)¦Karthak_(SK_Vault_4)¦¦|Karthak (Hall of Vaults)|1|2|;|Location 6:|2|2|
+Karthak (Storeroom)¦Karthak_(Storeroom)¦¦|Karthak (Mausoleum)|2|2|;shop|Lancroft Secrets|4|2|
+Karthak (Martial Ward)¦Karthak_(Martial_Ward)¦¦|Karthak (Magic Quarter)|18|2|;|Karthak (Royal Quarter)|18|12|;|Karthak (Fort)|11|16|;|Karthak (Temple Quarter)|2|18|;|Location 2:|11|11|
+Karthak (Fort)¦Karthak_(Fort)¦¦|Karthak (Martial Ward)|7|1|;shop|Karthak Fort Outfitter|12|7|;|Location 3:|2|7|
+Karthak (SK Vault 5)¦Karthak_(SK_Vault_5)¦¦|Karthak (Hall of Vaults)|3|2|;|Location 4:|2|2|
+Karthak (SK Vault 6)¦Karthak_(SK_Vault_6)¦¦|Karthak (Hall of Vaults)|1|2|;|Location 1:|2|2|
+Karthak (Seastone Keep)¦Karthak_(Seastone_Keep)¦¦|City of Karthak  World Area|12|6|;|Karthak (Seastone Court)|8|10|;|Karthak (Harbour)|12|17|;shop|Seastone Stand|2|7|;|Location 3:|10|14|
+Karthak (Seastone Court)¦Karthak_(Seastone_Court)¦¦|Karthak (Seastone Keep)|1|8|;|Karthak (Seastone Library)|9|8|;|Karthak (Lighthouse 1)|10|9|;shop|Seastone Service|2|2|;|Start:|2|8|;|Location 1:|10|7|;|Start:|10|10|
+Karthak (Seastone Library)¦Karthak_(Seastone_Library)¦¦|Karthak (Seastone Court)|14|8|;|Karthak (Furnace Room)|6|11|;shop|Seastone Library Counter|13|2|;|Location 2:|11|8|
+Karthak (Dining Room)¦Karthak_(Dining_Room)¦¦|Karthak (Palace Gates)|6|2|;|Location 3:|5|2|;|Location 4:|3|3|
+Karthak (Furnace Room)¦Karthak_(Furnace_Room)¦¦|Karthak (Seastone Library)|1|9|;shop|Furnace Room Toolshed|17|3|;|Location 3:|2|9|;|Location 4:|9|3|;|Location 5:|17|17|;|Location 6:|2|17|
+Karthak (Lighthouse 1)¦Karthak_(Lighthouse_1)¦¦|Karthak (Seastone Court)|1|4|;|Karthak (Seastone Locker)|4|4|;|Karthak (Lighthouse 2)|2|6|;shop|Seastone Stores|5|5|;|Location 1|3|5|
+Karthak (Lighthouse 2)¦Karthak_(Lighthouse_2)¦¦|Karthak (Lighthouse 3)|2|1|;|Karthak (Lighthouse 1)|2|5|
+Karthak (Lighthouse 3)¦Karthak_(Lighthouse_3)¦¦|Karthak (Lighthouse 2)|3|1|
+Karthak (Palace Gates)¦Karthak_(Palace_Gates)¦¦|Karthak (Dining Room)|1|2|;|Karthak (Royal Quarter)|2|3|
+Karthak (Royal Quarter)¦Karthak_(Royal_Quarter)¦¦|Karthak (Magic Quarter)|11|1|;|Karthak (Martial Ward)|1|3|;|Karthak (Palace Gates)|10|8|;|Karthak (City Park)|20|10|;|Karthak (Temple Quarter)|1|15|;|Karthak (Market Square)|11|16|;|Location 2:|11|8|
+Karthak (Seastone Locker)¦Karthak_(Seastone_Locker)¦¦|Karthak (Lighthouse 1)|2|3|;shop|Seastone Treasury|2|2|
+Karthak (SK Vault 7)¦Karthak_(SK_Vault_7)¦¦|Karthak (Hall of Vaults)|3|2|;|Location 7|2|2|
+Karthak (SK Vault 8)¦Karthak_(SK_Vault_8)¦¦|Karthak (Hall of Vaults)|3|2|;|Location 5:|2|2|
+Quango Chasm¦Quango_Chasm¦Arrin Moors¦|Quango Chasm (Volcanic Core)|4|4|;|Quango Jungle|9|9|;|Stages 1-2:|12|2|
+Karthak (Gate Corridor)¦Karthak_(Gate_Corridor)¦¦|Karthak (North Gate Office)|1|2|;|Karthak (North Gate)|6|2|
+Karthak (North Gate Office)¦Karthak_(North_Gate_Office)¦¦|Karthak (Gate Corridor)|3|2|;|Location 1:|2|2|
+Volmar Wastes (Karthak Wall)¦Volmar_Wastes_(Karthak_Wall)¦¦|Mount Volmar World Area|2|2|;|Volmar Wastes (Ash Flats)|14|8|;|Karthak (North Gate)|11|16|;shop|Silshon Gatestore|10|15|;|Location 2:|2|8|;|Location 3:|8|9|
+Volmar Wastes (Ash Flats)¦Volmar_Wastes_(Ash_Flats)¦¦|Volmar Wastes (Plain)|15|2|;|Volmar Wastes (Karthak Wall)|2|13|
+Volmar Wastes (Plain)¦Volmar_Wastes_(Plain)¦¦|Volmar Wastes (Rolling Hills)|17|2|;|Volmar Wastes (Ash Flats)|2|3|;shop|Gamthill Mart|4|16|;|Wandering Hands|4|4|
+Volmar Wastes (Rolling Hills)¦Volmar_Wastes_(Rolling_Hills)¦¦|Volmar Wastes (Plain)|2|2|;|Mount Volmar (Rise)|16|3|;|Volmar Wastes (Hamada)|2|14|;relic|Volmar Dark Crystal|9|12|;shop|Wastes Mart|9|8|
+Volmar Wastes (Cave)¦Volmar_Wastes_(Cave)¦¦|Volmar Wastes (Hamada)|2|2|;|Keeping Whats Ours|4|2|
+Volmar Wastes (Hamada)¦Volmar_Wastes_(Hamada)¦¦|Mount Volmar World Area|15|15|;|Volmar Wastes (Rolling Hills)|15|2|;|Volmar Wastes (Cave)|9|8|;shop|Markalth Trader|2|15|
+Mount Volmar (Rise)¦Mount_Volmar_(Rise)¦¦|Mount Volmar (Broken Land)|14|12|;|Volmar Wastes (Rolling Hills)|2|16|;shop|Volmar Bazaar|12|12|
+Mount Volmar (Broken Land)¦Mount_Volmar_(Broken_Land)¦¦|Mount Volmar (Winding Path)|16|2|;|Mount Volmar (Rise)|2|6|;shop|Volmar Supplies|16|13|;portal|Volmar Portal|2|2|;|River of Souls|9|8|
+Mount Volmar (Winding Path)¦Mount_Volmar_(Winding_Path)¦¦|Mount Volmar World Area|8|3|;|Mount Volmar (Dark Heights)|22|6|;|Mount Volmar (Broken Land)|2|12|
+Mount Volmar (Dark Heights)¦Mount_Volmar_(Dark_Heights)¦¦|Mount Volmar (Crest)|16|9|;|Mount Volmar (Winding Path)|2|16|;shop|Jargoth Hut|2|2|;|Breaking What Binds|10|16|
+Mount Volmar (Crest)¦Mount_Volmar_(Crest)¦¦|Mount Volmar (Dark Heights)|2|9|;|Mount Volmar (Pinnacle)|9|9|;|Mount Volmar (Mouth)|14|13|;shop|Ulfirths Stall|8|16|;|Breaking What Binds Location 2|9|2|
+Mount Volmar (Pinnacle)¦Mount_Volmar_(Pinnacle)¦¦|Mount Volmar (Crest)|7|7|
+Mount Volmar (Altar)¦Mount_Volmar_(Altar)¦¦|Mount Volmar (Mouth)|4|2|;|Location 4:|2|2|
+Mount Volmar (Den)¦Mount_Volmar_(Den)¦¦|Mount Volmar (Mouth)|2|2|;|Location 3:|2|4|
+Mount Volmar (Mouth)¦Mount_Volmar_(Mouth)¦¦|Mount Volmar Pit World Area|13|13|;|Mount Volmar (Altar)|2|2|;|Mount Volmar (Crest)|13|3|;|Mount Volmar (Halls)|5|6|;|Mount Volmar (Den)|2|13|;|Location 1:|9|9|;|Location 2:|12|3|
+Mount Volmar (Halls)¦Mount_Volmar_(Halls)¦¦|Mount Volmar (Passage)|13|2|;|Mount Volmar (Mouth)|5|8|
+Mount Volmar (Passage)¦Mount_Volmar_(Passage)¦¦|Mount Volmar (Halls)|12|2|;|Mount Volmar (Roost)|2|3|;shop|Volmar Store|7|6|;|Entangled|9|8|
+Mount Volmar (Roost)¦Mount_Volmar_(Roost)¦¦|Mount Volmar Pit World Area|9|10|;|Mount Volmar (Passage)|2|2|;|Mount Volmar (Terrace)|13|10|;relic|Emblazoned Statue|2|13|
+Mount Volmar (Terrace Altar)¦Mount_Volmar_(Terrace_Altar)¦¦|Mount Volmar (Terrace)|4|2|;|Spell Path Location 2|2|2|
+Mount Volmar (Terrace)¦Mount_Volmar_(Terrace)¦¦|Mount Volmar (Terrace Altar)|5|7|;|Mount Volmar (Roost)|9|9|;|Mount Volmar (Hollow)|2|12|;shop|Terrace View|12|3|;|Spell Path|2|2|
+Mount Volmar (Hollow)¦Mount_Volmar_(Hollow)¦¦|Mount Volmar (Avenue)|13|2|;|Mount Volmar (Terrace)|2|13|;shop|Hollow Wares|6|7|;portal|Hollow Portal|2|2|
+Mount Volmar (Avenue)¦Mount_Volmar_(Avenue)¦¦|Mount Volmar Pit World Area|14|14|;|Mount Volmar (Hollow)|14|2|;|Mount Volmar (Nook)|7|9|;|The Enduring|10|8|
+Mount Volmar (Nook)¦Mount_Volmar_(Nook)¦¦|Mount Volmar (Avenue)|6|7|;|Mount Volmar (Haunt)|12|13|
+Mount Volmar (Haunt)¦Mount_Volmar_(Haunt)¦¦|Mount Volmar (Corridor)|2|3|;|Mount Volmar (Nook)|10|10|
+Mount Volmar (Corridor)¦Mount_Volmar_(Corridor)¦¦|Mount Volmar (Haunt)|2|2|;|Mount Volmar (Lair Gate)|2|16|;|Mount Volmar (Dregs)|16|16|;shop|Galgoths Supplies|16|2|;|Start:|5|9|;|Location 1:|9|8|
+Mount Volmar (Lair Gate)¦Mount_Volmar_(Lair_Gate)¦¦|Mount Volmar (Corridor)|2|2|;|Mount Volmar (Lair)|4|3|
+Mount Volmar (Lair)¦Mount_Volmar_(Lair)¦¦|Mount Volmar (Lair Gate)|8|2|;|Location 2:|3|5|;|Location 3:|9|10|
+Mount Volmar (Dregs)¦Mount_Volmar_(Dregs)¦¦|Volmars Dark Depths World Area|3|3|;|Mount Volmar (Maze)|4|10|;|Mount Volmar (Corridor)|12|11|;shop|Sennan Mart|10|4|;|Aura of Heresy|8|15|
+Mount Volmar (Maze)¦Mount_Volmar_(Maze)¦¦|Mount Volmar (Chambers)|12|6|;|Mount Volmar (Dregs)|4|11|
+Mount Volmar (Chambers)¦Mount_Volmar_(Chambers)¦¦|Mount Volmar (Maze)|9|3|;|Mount Volmar (Rift)|3|13|;relic|Charnel Pit|10|10|
+Mount Volmar (Rift)¦Mount_Volmar_(Rift)¦¦|Mount Volmar (Spirit Gate)|17|2|;|Mount Volmar (Chambers)|4|4|;|Shroud Vale (Edge)|14|9|;|Mount Volmar (Tunnels)|2|11|;shop|Carthor Shack|9|7|;|Start:|6|11|;|Location 1:|12|3|
+Mount Volmar (Spirit Gate)¦Mount_Volmar_(Spirit_Gate)¦¦|Mount Volmar (Rift)|2|2|;|The Bonds of Trickery Location 2:|4|2|
+Mount Volmar (Tunnels)¦Mount_Volmar_(Tunnels)¦¦|Mount Volmar (Basin)|9|9|;|Mount Volmar (Rift)|2|17|
+Shroud Vale (Edge)¦Shroud_Vale_(Edge)¦¦|Mount Volmar (Rift)|5|4|;|Shroud Vale (Slope)|4|13|;shop|Vale Wares|9|18|;|Flow of Rage|17|2|
+Mount Volmar (Basin)¦Mount_Volmar_(Basin)¦¦|Mount Volmar (Tunnels)|7|7|;|Mount Volmar (Gloom)|13|14|
+Shroud Vale (Slope)¦Shroud_Vale_(Slope)¦¦|Shroud Vale (Tomb)|3|2|;|Shroud Vale (Depths)|10|6|;|Shroud Vale (Edge)|3|8|;|Start:|15|2|;|Location 1:|15|10|
+Shroud Vale (Tomb)¦Shroud_Vale_(Tomb)¦¦|Shroud Vale (Slope)|2|2|;|Cursed Spirits Location 2|3|4|
+Mount Volmar (Gloom)¦Mount_Volmar_(Gloom)¦¦|Volmars Dark Depths World Area|13|2|;|Mount Volmar (Barrow)|2|2|;|Mount Volmar (Basin)|13|17|
+Shroud Vale (Depths)¦Shroud_Vale_(Depths)¦¦|Shroud Vale (Slope)|3|3|;|Mount Volmar (Barrow)|11|12|;shop|Lorfang Store|10|6|;|Cursed Spirits Location 3|3|12|
+Mount Volmar (Barrow)¦Mount_Volmar_(Barrow)¦¦|Mount Volmar (Gloom)|3|4|;|Mount Volmar (Murk)|14|5|;|Shroud Vale (Depths)|13|13|;shop|Barrow Wares|5|12|;portal|Barrow Portal|9|2|;|Dark Heart|9|8|
+Mount Volmar (Library)¦Mount_Volmar_(Library)¦¦|Mount Volmar (Murk)|2|4|;shop|Death Cult Library|2|2|
+Mount Volmar (Murk)¦Mount_Volmar_(Murk)¦¦|Mount Volmar (Barrow)|17|3|;|Mount Volmar (Abyss)|5|7|;|Mount Volmar (Library)|8|15|;shop|Ganloth Hut|14|9|;|Dark Heart Location 1|2|12|
+Morgath Byre (Plains)¦Morgath_Byre_(Plains)¦¦|Oidhche Shamhna|12|7|;|Beasts of the Moors (Halloween)|14|18|
+Mount Volmar (Abyss)¦Mount_Volmar_(Abyss)¦¦|Volmars Dark Depths World Area|15|5|;|Mount Volmar (Catacombs Gate)|8|9|;|Mount Volmar (Crypt)|15|10|;|Eltar Glade (North)|2|16|;|Mount Volmar (Murk)|8|16|;|Taste of Life|2|9|
+Mount Volmar (Catacombs Gate)¦Mount_Volmar_(Catacombs_Gate)¦¦|Mount Volmar (Abyss)|2|2|;|Mount Volmar (Catacombs)|4|4|
+Mount Volmar (Catacombs)¦Mount_Volmar_(Catacombs)¦¦|Mount Volmar (Catacombs Gate)|2|2|;|Mount Volmar (Shroud Altar)|3|4|;|Location 1:|4|2|;|Location 2:|2|4|
+Mount Volmar (Chamber of Shadows)¦Mount_Volmar_(Chamber_of_Shadows)¦¦|Mount Volmar (Halls of Shadows)|15|2|;shop|Chamber Malicious Trader|8|8|
+Mount Volmar (Circle Chamber)¦Mount_Volmar_(Circle_Chamber)¦¦|Mount Volmar (Circle)|4|2|;shop|Lancroft Vault|2|2|;portal|Volmar Circle Chamber|3|3|
+Mount Volmar (Circle)¦Mount_Volmar_(Circle)¦¦|Mount Volmar (Shroud Altar)|2|2|;|Mount Volmar (Circle Chamber)|4|9|;|Mount Volmar (Halls of Shadows)|10|9|;|Start:|8|5|;|Location 1:|8|7|;|Location 2:|11|7|;|Location 3:|8|10|
+Mount Volmar (Crucible of Shadows)¦Mount_Volmar_(Crucible_of_Shadows)¦¦|Mount Volmar (Halls of Shadows)|2|15|;shop|Crucible Baneful Wares|8|6|
+Mount Volmar (Crypt)¦Mount_Volmar_(Crypt)¦¦|Mount Volmar (Abyss)|12|4|
+Mount Volmar (Halls of Shadows)¦Mount_Volmar_(Halls_of_Shadows)¦¦|Mount Volmar (Vault of Shadows)|2|2|;|Mount Volmar (Crucible of Shadows)|15|2|;|Mount Volmar (Chamber of Shadows)|2|15|;|Mount Volmar (Circle)|15|15|
+Mount Volmar (Shroud Altar)¦Mount_Volmar_(Shroud_Altar)¦¦|Mount Volmar (Catacombs)|2|2|;|Mount Volmar (Circle)|5|2|;|Taste of Life Location 3|4|2|
+Mount Volmar (Vault of Shadows)¦Mount_Volmar_(Vault_of_Shadows)¦¦|Mount Volmar (Halls of Shadows)|15|14|;shop|Vault Spiteful Bazaar|3|9|
+The Giants Castle¦The_Giants_Castle¦Dreg Marshes¦|The Giants Island in the Sky|13|14|;|Stages 3-4:|14|14|;|Stage 5:|2|12|
+The Giants Island in the Sky¦The_Giants_Island_in_the_Sky¦Dreg Marshes¦|The Grimmnor Forest|3|4|;|The Giants Castle|15|15|;|Stages 1-2:|9|16|;|Stage 6:|9|16|
+Eltar Glade (North)¦Eltar_Glade_(North)¦¦|Daco Forest World Area|13|14|;|Mount Volmar (Abyss)|12|5|;|Eltar Glade (East)|2|12|;|Forest of Thieves|8|10|
+Eltar Glade (East)¦Eltar_Glade_(East)¦¦|Daco Forest World Area|13|13|;|Eltar Glade (North)|11|3|;|Eltar Glade (South)|3|10|
+Eltar Glade (South)¦Eltar_Glade_(South)¦¦|Eltar Glade (West)|9|3|;|Eltar Glade (East)|7|13|
+Eltar Glade (West)¦Eltar_Glade_(West)¦¦|Eltar Glade (South)|13|2|;|Galduir Grove (North)|2|9|;Shop|Eltar Stores|6|3|
+Galduir Grove (North)¦Galduir_Grove_(North)¦¦|Eltar Glade (West)|11|6|;|Galduir Grove (East)|4|9|;Portal|Galduir Portal|4|3|;|Stand and Deliver!|12|12|
+Galduir Grove (East)¦Galduir_Grove_(East)¦¦|Galduir Grove (South)|4|1|;|Galduir Grove (North)|14|13|
+Galduir Grove (South)¦Galduir_Grove_(South)¦¦|Daco Forest World Area|6|6|;|Galduir Grove (West)|13|5|;|Galduir Grove (East)|3|13|;|A Foe of the Fay|4|2|
+Galduir Grove (West)¦Galduir_Grove_(West)¦¦|Galduir Grove (Outskirts)|12|2|;|Galduir Grove (South)|2|14|;Relic|Mushroom Circle|11|3|;Shop|Galduir Bazaart|4|6|;|Menace of the Bugbears|9|10|
+Galduir Grove (Outskirts)¦Galduir_Grove_(Outskirts)¦¦|Galduir Grove (Ridge)|4|1|;|Galduir Grove (West)|4|14|
+Galduir Grove (Depths)¦Galduir_Grove_(Depths)¦¦|Galduir Grove (Ridge)|12|11|;|Proof of Purity Part 2|3|1|
+Galduir Grove (Ridge)¦Galduir_Grove_(Ridge)¦¦|Galduir Grove (Depths)|2|3|;|Heilan Swamps|6|9|;|Galduir Grove (Outskirts)|14|13|;|Proof of Purity|10|4|
+Heilan Swamps¦Heilan_Swamps¦¦|Heiland Island World Area|3|12|;|Galduir Grove (Ridge)|2|3|;|Heilan Lowlands|6|6|;|Providing Provisions|11|3|
+Heilan Lowlands¦Heilan_Lowlands¦¦|Heilan Highlands|3|1|;|Heilan Swamps|9|13|;relic|Enchanted Thistle Patch|9|8|
+Heilan Highlands¦Heilan_Highlands¦¦|Heilan Thickets|13|2|;|Heilan Lowlands|9|14|;|The Chiefs Hut|15|15|;shop|Highland Wares|2|3|;|Proving yourself to the Clan|14|14|
+Heilan Thickets¦Heilan_Thickets¦¦|Heiland Island World Area|2|2|;|Heilan Clearing|12|2|;|Heilan Highlands|3|9|;portal|Heilan Portal|12|11|
+Heilan Clearing¦Heilan_Clearing¦¦|Heilan Edge|12|3|;|Heilan Thickets|10|11|
+Heilan Edge¦Heilan_Edge¦¦|Heilan Outer Caves|12|4|;|Heilan Clearing|2|12|;|Proving yourself to the Clan location 2|6|8|
+Heilan Outer Caves¦Heilan_Outer_Caves¦¦|Heiland Island World Area|2|6|;|Heilan Edge|10|7|;shop|Heilan Mart|10|7|;|Heilan Inner Caves|3|12|;|Alluring Gems|13|2|
+Heilan Inner Caves¦Heilan_Inner_Caves¦¦|Nis Port Outskirts|3|7|;|Heilan Outer Caves|11|7|;|Proving yourself to the Clan location 3|3|12|
+Nis Port Outskirts¦Nis_Port_Outskirts¦¦|Heilan Inner Caves|10|5|;|Nis Port Center|2|12|;shop|Oats Mart|4|2|;|Proving yourself to the Clan location 4|13|11|
+The Chiefs Hut¦The_Chiefs_Hut¦¦|Heilan Highlands|3|7|;|Saving the Chiefs Quine|1|2|
+Loch Nis¦Loch_Nis¦¦|Nis Port Center|12|4|;|Saving the Chiefs Quine location 2|7|9|
+Nis Port Center¦Nis_Port_Center¦¦|Loch Nis|7|3|;|Stoatin Island (Shore)|12|4|;|Nis Port Outskirts|8|12|
+Stoatin Island (Shore)¦Stoatin_Island_(Shore)¦¦|Stoatin Island World Area|11|5|;|Stoatin Forest (Edge)|3|3|;|Nis Port Center|12|11|;|How to forge peace?|3|12|
+Stoatin Forest (Edge)¦Stoatin_Forest_(Edge)¦¦|Stoatin Island (Shore)|1|2|;|Stoatin Forest (Meadow)|10|12|
+Stoatin Forest (Meadow)¦Stoatin_Forest_(Meadow)¦¦|Stoatin Forest (Grove)|6|10|;|Stoatin Forest (Edge)|11|16|;relic|Tartan Stone|16|11|;shop|Stoatin Bazaar|16|2|;|Fay Savagery|5|4|
+Stoatin Forest (Grove)¦Stoatin_Forest_(Grove)¦¦|Stoatin Island World Area|2|20|;|Stoatin Forest (Depths)|7|2|;|Stoatin Forest (Meadow)|17|20|;|Witchs Delight|11|17|
+Stoatin Forest (Depths)¦Stoatin_Forest_(Depths)¦¦|Stoatin Forest (Grove)|12|1|;|Stoatin Forest (Thicket)|2|16|;portal|Stoatin Portal|6|8|;|Fay Savagery Location 2|2|6|
+Stoatin Forest (Thicket)¦Stoatin_Forest_(Thicket)¦¦|MacDrookit Castle (Gate House)|4|2|;|Stoatin Forest (Depths)|15|15|
+MacDrookit Castle (Gate House)¦MacDrookit_Castle_(Gate_House)¦¦|Stoatin Island World Area|17|10|;|MacDrookit Castle (Walls)|4|4|;|Stoatin Forest (Thicket)|12|20|;|Wulver Hunt|13|11|;|The Beast of Brogan Cane|4|13|
+MacDrookit Castle (Walls)¦MacDrookit_Castle_(Walls)¦¦|MacDrookit Castle (Gate House)|18|3|;|MacDrookit Castle (Courtyard)|1|15|;shop|MacDrookit Shop|14|9|
+MacDrookit Castle (Courtyard)¦MacDrookit_Castle_(Courtyard)¦¦|Brogan Cane Caves (Mouth)|3|3|;|MacDrookit Castle (Walls)|17|15|
+Brogan Cane Caves (Interior)¦Brogan_Cane_Caves_(Interior)¦¦|Brogan Cane Caves (Mouth)|6|8|
+Brogan Cane Caves (Mouth)¦Brogan_Cane_Caves_(Mouth)¦¦|Brogan Cane Caves (Interior)|12|3|;|Mehteh Ice Floe (Seal Grounds)|9|9|;|MacDrookit Castle (Courtyard)|3|13|;|The Beast of Brogan Cane Location 2|3|5|
+Mehteh Ice Floe (Seal Grounds)¦Mehteh_Ice_Floe_(Seal_Grounds)¦¦|Frozen land of Mehteh World Area|2|16|;|Brogan Cane Caves (Mouth)|5|12|;|Mehteh Ice Floe (Drift)|13|14|;|Sealing the Deal|3|3|
+Mehteh Ice Floe (Drift)¦Mehteh_Ice_Floe_(Drift)¦¦|Mehteh Ice Floe (Inlet)|5|5|;|Mehteh Ice Floe (Seal Grounds)|16|8|
+Mehteh Ice Floe (Inlet)¦Mehteh_Ice_Floe_(Inlet)¦¦|Mehteh Snow Fields (Edge)|7|7|;|Mehteh Ice Floe (Drift)|14|18|;|Creeping On Thin Ice|11|11|
+Mehteh Snow Fields (Edge)¦Mehteh_Snow_Fields_(Edge)¦¦|Frozen land of Mehteh World Area|2|15|;|Mehteh Snow Fields (Outskirts)|1|6|;|Mehteh Ice Floe (Inlet)|16|11|;Relic|Frost Dragon Bones|8|4|
+Mehteh Snow Fields (Outskirts)¦Mehteh_Snow_Fields_(Outskirts)¦¦|Mehteh Snow Fields (Edge)|14|2|;|Mehteh Snow Fields (Plains)|6|8|;Portal|Mehteh Portal|9|4|
+Mehteh Snow Fields (Plains)¦Mehteh_Snow_Fields_(Plains)¦¦|Mehteh Snow Fields (Depths)|2|3|;|Mehteh Snow Fields (Outskirts)|13|13|;|Abominable Shamen|15|3|
+Mehteh Snow Fields (Depths)¦Mehteh_Snow_Fields_(Depths)¦¦|Mehteh Snow Fields (Plains)|17|2|;|Mehteh Alpine Forest (Grove)|1|20|;|The Icy Truth|13|18|;|Location 2:|3|2|
+Mehteh Alpine Forest (Grove)¦Mehteh_Alpine_Forest_(Grove)¦¦|Frozen land of Mehteh World Area|13|5|;|Mehteh Alpine Forest (Thicket)|3|3|;|Mehteh Snow Fields (Depths)|17|11|;|The Icy Truth Location 3:|4|13|
+Mehteh Alpine Forest (Thicket)¦Mehteh_Alpine_Forest_(Thicket)¦¦|Mehteh Alpine Forest (Grove)|15|5|;|Mehteh Fortress (Courtyard)|3|12|;|Toppling Authority|7|8|
+Mehteh Fortress (Courtyard)¦Mehteh_Fortress_(Courtyard)¦¦|Mehteh Fortress (Throneroom)|2|3|;|Ymirheim Mountains (Base)|9|7|;|Mehteh Alpine Forest (Thicket)|16|15|
+Mehteh Fortress (Throneroom)¦Mehteh_Fortress_(Throneroom)¦¦|Mehteh Fortress (Courtyard)|11|7|;|Toppling Authority Location 2:|9|2|
+Ymirheim Mountains (Base)¦Ymirheim_Mountains_(Base)¦¦|Ymirheim World Area|2|20|;|Ymirheim Mountains (Slope)|1|2|;|Mehteh Fortress (Courtyard)|9|9|;|Friends That Slay Together|5|5|
+Ymirheim Mountains (Slope)¦Ymirheim_Mountains_(Slope)¦¦|Ymirheim Mountains (Base)|17|6|;|Ymirheim Mountains (Ascent)|2|20|
+Ymirheim Mountains (Ascent)¦Ymirheim_Mountains_(Ascent)¦¦|Ymirheim Mountains (Slope)|3|1|;|Ymirheim Mountains (Peak)|15|12|;Relic|Yellow Snow|3|5|
+Ymirheim Mountains (Peak)¦Ymirheim_Mountains_(Peak)¦¦|Ymirheim Mountains (Ascent)|1|3|;|Ymirheim Glacier (Descent)|14|16|;|Hoard Sheep Together Location 2:|14|15|
+Ymirheim Glacier (Descent)¦Ymirheim_Glacier_(Descent)¦¦|Ymirheim World Area|3|14|;|Ymirheim Mountains (Peak)|13|2|;|Ymirheim Glacier (Cave Mouth)|18|14|;|Last Orders, Drink Up Location 2|4|6|
+Ymirheim Glacier (Cave Mouth)¦Ymirheim_Glacier_(Cave_Mouth)¦¦|Ymirheim Glacier (Descent)|17|9|;|Ymirheim Glacier (Cave Lake)|3|16|;|Last Orders, Drink Up Location 3|8|10|
+Ymirheim Glacier (Cave Lake)¦Ymirheim_Glacier_(Cave_Lake)¦¦|Ymirheim Glacier (Cave Mouth)|13|3|;|Ymirheim Glacier (Cave Tunnels)|4|17|
+Ymirheim Glacier (Cave Tunnels)¦Ymirheim_Glacier_(Cave_Tunnels)¦¦|Ymirheim Glacier (Cave Lake)|13|3|;|Ymirheim Glacier (Icy Tundra)|4|17|
+Ymirheim Glacier (Icy Tundra)¦Ymirheim_Glacier_(Icy_Tundra)¦¦|Ymirheim Glacier (Tundra Center)|10|10|;|Ymirheim Glacier (Cave Tunnels)|13|18|;Portal|Portal|4|5|
+Ymirheim Glacier (Corrupted Tundra)¦Ymirheim_Glacier_(Corrupted_Tundra)¦¦|Ymirheim Glacier (Tundra Center)|10|3|
+Ymirheim Glacier (Tundra Center)¦Ymirheim_Glacier_(Tundra_Center)¦¦|Ymirheim Glacier (Icy Tundra)|6|6|;|Ymirheim Glacier (Corrupted Tundra)|12|12|;|Ymirheim Tundra|14|18|
+Ymirheim Tundra¦Ymirheim_Tundra¦Vinder Coast¦|Vinder Seas (Coast)|12|6|;|Ymirheim Glacier (Tundra Center)|9|12|;|Vinder Coast|4|17|
+Vinder Seas (Coast)¦Vinder_Seas_(Coast)¦Vinder Coast¦|Ymirheim Tundra|10|13|;|Vinder Seas (Beach)|3|10|
+Vinder Seas (Beach)¦Vinder_Seas_(Beach)¦¦
+Vinder Berg (Shore)¦Vinder_Berg_(Shore)¦¦relic|Elven Wreck|14|7|
+Vinder Berg (Edge)¦Vinder_Berg_(Edge)¦¦|Vinder Berg (Shore)|13|10|;|Vinder Berg (Coast)|4|3|;|Vinder Coast|2|12|
+Vinder Berg (Coast)¦Vinder_Berg_(Coast)¦¦|Vinder Berg (Edge)|11|8|;|Vinder Berg (Floe)|4|18|
+Vinder Berg (Floe)¦Vinder_Berg_(Floe)¦¦|Vinder Berg (Coast)|2|14|;|Vinder Berg (Depths)|14|7|;Portal|Portal|6|4|
+Vinder Berg (Depths)¦Vinder_Berg_(Depths)¦¦|Vinder Berg (Floe)|12|11|;|Steinnheim Island (Crust)|12|3|
+Steinnheim Island (Crust)¦Steinnheim_Island_(Crust)¦¦|Vinder Berg (Depths)|7|5|;|Steinnheim Island (Mainland)|13|13|;|Vinder Coast|2|9|
+Steinnheim Island (Interior)¦Steinnheim_Island_(Interior)¦¦|Steinnheim Island (Mainland)|2|7|
+Steinnheim Island (Mainland)¦Steinnheim_Island_(Mainland)¦¦|Steinnheim Island (Crust)|14|14|;|Steinnheim Island (Interior)|4|5|;|Ranulfr Woods (Edge)|2|15|
+Ranulfr Woods (Edge)¦Ranulfr_Woods_(Edge)¦¦|Steinnheim Island (Mainland)|14|8|;|Ranulfr Woods (Meadow)|4|4|;|Ranulf Island|13|15|
+Ranulfr Woods (Meadow)¦Ranulfr_Woods_(Meadow)¦¦|Ranulfr Woods (Edge)|4|4|;|Ranulfr Woods (Thicket)|13|15|
+Ranulfr Woods (Thicket)¦Ranulfr_Woods_(Thicket)¦¦|Ranulfr Woods (Meadow)|13|10|;|Ranulfr Woods (Depths)|5|5|
+Ranulfr Woods (Depths)¦Ranulfr_Woods_(Depths)¦¦|Ranulfr Woods (Thicket)|14|19|;|Ranulfr Woods (Clearing)|7|10|;Relic|Oathstone|12|13|
+Ranulfr Woods (Clearing)¦Ranulfr_Woods_(Clearing)¦¦|Ranulfr Woods (Depths)|14|19|;|Ranulfston (Centre)|7|10|
+Ranulfston (Centre)¦Ranulfston_(Centre)¦¦|Ranulfr Woods (Clearing)|1|9|;|Ranulfston (Back Streets)|15|14|;Shop|Ranulfston Store|5|3|;|Ranulf Island|10|11|
+Ranulfston (Back Streets)¦Ranulfston_(Back_Streets)¦¦|Ranulfston (Centre)|8|3|;|Ranulfston (Suburb)|4|14|
+Ranulfston (Suburb)¦Ranulfston_(Suburb)¦¦|Ranulfston (Back Streets)|7|7|;|Heidreks Watch Tower|1|9|;Shop|Suburb Wares|14|2|
+Heidreks Watch Tower¦Heidreks_Watch_Tower¦¦|Ranulfston (Suburb)|4|7|;|Longhouse (Interior)|10|14|;|Ranulf Island|10|2|
+Longhouse (Interior)¦Longhouse_(Interior)¦¦|Heidreks Watch Tower|15|10|;|Longhouse (Vestibule)|7|3|;|Trun Tower|2|8|
+Longhouse (Vestibule)¦Longhouse_(Vestibule)¦¦|Longhouse (Interior)|5|5|
+Trun Tower¦Trun_Tower¦¦|Longhouse (Interior)|15|15|;|Trun Castle (Antechamber)|14|6|;|Dwarf Realm of Trun|14|16|
+Trun Castle (Antechamber)¦Trun_Castle_(Antechamber)¦¦|Trun Tower|1|4|;|Trun Castle (Alcove)|14|12|
+Trun Castle (Alcove)¦Trun_Castle_(Alcove)¦¦|Trun Castle (Antechamber)|5|20|;|Trun Castle (Suite)|7|9|
+Trun Castle (Suite)¦Trun_Castle_(Suite)¦¦|Trun Castle (Alcove)|2|3|;|Trun Castle (Refectory)|8|11|;|Dwarf Realm of Trun|14|7|
+Trun Castle (Refectory)¦Trun_Castle_(Refectory)¦¦|Trun Castle (Suite)|11|1|;|Trun Castle (Inglenook)|10|9|
+Trun Castle (Inglenook)¦Trun_Castle_(Inglenook)¦¦|Trun Castle (Refectory)|4|1|;|Trun Mine (Coal Face)|13|14|
+Trun Mine (Coal Face)¦Trun_Mine_(Coal_Face)¦¦|Trun Castle (Inglenook)|4|10|;|Trun Mine (Depths)|15|7|
+Trun Mine (Depths)¦Trun_Mine_(Depths)¦¦|Trun Mine (Coal Face)|1|9|;|Glykeks Sanctum (Surface)|15|16|;|Dwarf Realm of Trun|18|4|;Relic|Trun Cluster|1|17|
+Glykeks Sanctum (Surface)¦Glykeks_Sanctum_(Surface)¦¦|Trun Mine (Depths)|8|15|;|Glykeks Sanctum (Lair)|14|3|;|Cults, Totems, And Priests Oh My!|2|12|
+Glykeks Sanctum (Lair)¦Glykeks_Sanctum_(Lair)¦¦|Glykeks Sanctum (Surface)|2|6|;|Glykeks Sanctum (Pit)|12|16|;|Athelstan Woods (Edge)|16|2|;|Cults, Totems, And Priests Oh My! Location 2|6|14|
+Glykeks Sanctum (Pit)¦Glykeks_Sanctum_(Pit)¦¦|Glykeks Sanctum (Lair)|8|9|
+Athelstan Woods (Edge)¦Athelstan_Woods_(Edge)¦¦|Glykeks Sanctum (Lair)|12|5|;|Athelstan Woods (Outer)|3|14|;|Gwithian|13|13|
+Athelstan Woods (Outer)¦Athelstan_Woods_(Outer)¦¦|Athelstan Woods (Edge)|11|10|;|Athelstan Woods (Thicket)|5|3|
+Athelstan Woods (Thicket)¦Athelstan_Woods_(Thicket)¦¦|Athelstan Woods (Outer)|13|13|;|Athelstan Woods (Backwoods)|4|4|;Relic|Haunted Tree|15|3|
+Athelstan Woods  (Backwoods)¦Athelstan_Woods__(Backwoods)¦¦|Athelstan Woods (Thicket)|13|12|;|Athelstan Woods (Passage)|3|3|
+Athelstan Woods (Passage)¦Athelstan_Woods_(Passage)¦¦|Athelstan Woods (Backwoods)|16|10|;|Gwithian Pasture|3|3|;|Elves Are A Bad Influence Location 2|10|9|
+Gwithian Pasture¦Gwithian_Pasture¦¦|Athelstan Woods (Passage)|10|1|;|St Brynlar (Fringe)|15|5|;|Gwithian|10|10|
+St Brynlar (Fringe)¦St_Brynlar_(Fringe)¦¦|Gwithian Pasture|16|2|;|St Brynlar (Square)|5|14|;|Gwithian|13|15|;Portal|???|4|8|
+St Brynlar (Square)¦St_Brynlar_(Square)¦¦|St Brynlar (Fringe)|5|6|;|St Brynlar (Boulevard)|13|17|
+St Brynlar (Boulevard)¦St_Brynlar_(Boulevard)¦¦|St Brynlar (Square)|13|4|;|St Brynlar Storehouse|2|17|
+St Brynlar Storehouse¦St_Brynlar_Storehouse¦¦|St Brynlar (Boulevard)|11|1|;|St Brynlar Storehouse (Larder)|1|10|;|Cymru Woods (Edge)|11|14|
+St Brynlar Storehouse (Larder)¦St_Brynlar_Storehouse_(Larder)¦¦|St Brynlar Storehouse|11|6|
+Cymru Woods (Edge)¦Cymru_Woods_(Edge)¦¦|St Brynlar Storehouse|2|3|;|Cymru Woods (Grove)|7|17|;|The Kingdom of Chul|11|9|;|An Unquiet Spirit|3|11|
+Cymru Woods (Grove)¦Cymru_Woods_(Grove)¦¦|Cymru Woods (Edge)|3|14|;|Cymru Woods (Thicket)|19|4|;Shop|Morsah Market|3|3|;|An Unquiet Spirit Location 2:|5|10|
+Cymru Woods (Thicket)¦Cymru_Woods_(Thicket)¦¦|Cymru Woods (Grove)|4|4|;|Cymru Woods (Depths)|11|17|;Relic|Fountain of Light|4|15|;|The Lost Sibling|9|7|
+Cymru Woods (Depths)¦Cymru_Woods_(Depths)¦¦|Cymru Woods (Thicket)|3|1|;|Eryri Forest (Wilds)|8|11|;|An Unquiet Spirit Location 3|2|7|
+Eryri Forest (Wilds)¦Eryri_Forest_(Wilds)¦¦|Cymru Woods (Depths)|6|5|;|Eryri Forest (Darkness)|12|13|;|The Kingdom of Chul|15|2|
+Eryri Forest (Darkness)¦Eryri_Forest_(Darkness)¦¦|Eryri Forest (Wilds)|10|13|;|Eryri Forest (Timberland)|3|3|;Shop|Yorkath Bazaar|10|3|;|An Unquiet Spirit Location 4:|6|8|
+Eryri Forest (Timberland)¦Eryri_Forest_(Timberland)¦¦|Eryri Forest (Darkness)|9|9|;|Eryri Forest (Copse)|2|12|;Portal|???|3|4|
+Eryri Forest (Copse)¦Eryri_Forest_(Copse)¦¦|Eryri Forest (Timberland)|14|7|;|Chul Castle (Gate House)|4|21|;|An Unquiet Spirit Location 5:|13|13|
+Chul Castle (Gate House)¦Chul_Castle_(Gate_House)¦¦|Eryri Forest (Copse)|4|4|;|Chul Castle (Ruins)|16|16|;|The Kingdom of Chul|10|9|;|An Unquiet Spirit Location 6:|3|12|
+Chul Castle (Royal Chamber)¦Chul_Castle_(Royal_Chamber)¦¦|Chul Castle (Ruins)|12|2|;|An Unquiet Spirit Location 7:|12|3|
+Chul Castle (Ruins)¦Chul_Castle_(Ruins)¦¦|Chul Castle (Gate House)|1|13|;|Chul Castle (Royal Chamber)|11|17|;|Shuito Desolation (Plain)|14|2|
+Forest of Yule (Low Lands)¦Forest_of_Yule_(Low_Lands)¦Krul Island¦|Forest of Yule (Clearing)|5|13|;|Stages 1-2:|12|10|;|Stage 3:|3|5|;|Stage 4:|17|16|;|Stage 5:|12|2|;|Stage 6:|12|10|
+Springtime Forest (Demonic Haunt)¦Springtime_Forest_(Demonic_Haunt)¦Krul Island¦|Springtime Forest (Outer Grove)|6|15|

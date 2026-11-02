@@ -1,0 +1,216 @@
+Tylock Depths (Shadows)¦Tylock_Depths_(Shadows)¦The Great Pyron Desert¦|Tylock Depths (Slither)|18|7|;|Tylock Depths (Gloom)|6|14|;World Area|The Great Pyron Desert|3|3|
+Tylock Depths (Slither)¦Tylock_Depths_(Slither)¦The Great Pyron Desert¦|Tylock Caves (Entrance)|5|3|;|Tylock Depths (Shadows)|10|15|
+Tylock Caves (Entrance)¦Tylock_Caves_(Entrance)¦The Great Pyron Desert¦|Tylock Depths (Slither)|2|2|;|Tylock Caves (Stables)|12|12|;|Stages 1-2:|11|3|
+Tylock Caves (Stables)¦Tylock_Caves_(Stables)¦The Great Pyron Desert¦|Tylock Caves (Barracks)|7|3|;|Tylock Caves (Entrance)|12|15|;Portal|Tylock Caves Portal|12|5|
+Tylock Caves (Barracks)¦Tylock_Caves_(Barracks)¦The Great Pyron Desert¦|Tylock Caves (Stables)|11|4|;|Tylock Caves (Stompin Ground)|2|9|
+Tylock Caves (Stompin Ground)¦Tylock_Caves_(Stompin_Ground)¦The Great Pyron Desert¦Relic|Ogre Bonfire|6|18|;|Tylock Caves (Barracks)|4|7|;|Tylock Caves (Ogre Block)|11|18|;|Stage 1:|5|7|;|Stages 2-3:|2|20|;|Stage 4:|5|7|
+Tylock Caves (Ogre Block)¦Tylock_Caves_(Ogre_Block)¦The Great Pyron Desert¦|Tylock Caves (Stompin Ground)|10|8|;|Pyron Flats (Entrance)|3|14|
+Pyron Flats (Entrance)¦Pyron_Flats_(Entrance)¦The Great Pyron Desert¦|Tylock Caves (Ogre Block)|4|2|;|Pyron Canyon (Mouth)|11|12|
+Pyron Canyon (Mouth)¦Pyron_Canyon_(Mouth)¦The Great Pyron Desert¦|Pyron Flats (Entrance)|5|3|;|Pyron Canyon (Winds)|11|13|;World Area|The Great Pyron Desert|10|6|
+Pyron Canyon (Winds)¦Pyron_Canyon_(Winds)¦The Great Pyron Desert¦|Pyron Canyon (Pens)|10|1|;|Pyron Canyon (Mouth)|18|12|
+Pyron Canyon (Pens)¦Pyron_Canyon_(Pens)¦The Great Pyron Desert¦|Pyron Canyon (Wilds)|9|2|;|Pyron Canyon (Winds)|3|13|
+Pyron Canyon (Wilds)¦Pyron_Canyon_(Wilds)¦The Great Pyron Desert¦|Pyron Canyon (Pens)|10|2|;|Pyron Desert (Chameletor Haunts)|10|15|
+Pyron Desert (Chameletor Haunts)¦Pyron_Desert_(Chameletor_Haunts)¦The Great Pyron Desert¦|Pyron Canyon (Wilds)|6|6|;|Pyron Desert (Snapper Plains)|10|15|;World Area|The Great Pyron Desert|3|12|
+Pyron Desert (Snapper Plains)¦Pyron_Desert_(Snapper_Plains)¦The Great Pyron Desert¦|Pyron Desert (Webs)|12|3|;|Pyron Desert (Chameletor Haunts)|3|10|;Portal|Pyron Desert Portal|10|7|;|Stages 1-2:|4|5|
+Pyron Desert (Webs)¦Pyron_Desert_(Webs)¦The Great Pyron Desert¦|Pyron Desert (Whipper Dunes)|4|4|;|Pyron Desert (Snapper Plains)|7|14|
+Pyron Desert (Whipper Dunes)¦Pyron_Desert_(Whipper_Dunes)¦The Great Pyron Desert¦|Pyron Desert (Stalking Sands)|11|5|;|Pyron Desert (Webs)|9|14|;Relic|Whipper Nest Cluster|2|4|
+Pyron Desert (Stalking Sands)¦Pyron_Desert_(Stalking_Sands)¦The Great Pyron Desert¦|Pyron Desert (Bone Plains)|4|4|;|Pyron Desert (Whipper Dunes)|13|10|
+Pyron Desert (Bone Plains)¦Pyron_Desert_(Bone_Plains)¦The Great Pyron Desert¦|Pyron Desert (Reptile Hide)|10|4|;|Pyron Desert (Stalking Sands)|4|11|
+Pyron Desert (Reptile Hide)¦Pyron_Desert_(Reptile_Hide)¦The Great Pyron Desert¦|Pyron Desert (Dunes)|13|3|;|Pyron Desert (Bone Plains)|5|9|
+Pyron Desert (Dunes)¦Pyron_Desert_(Dunes)¦The Great Pyron Desert¦|Pyron Desert (Wilds)|10|3|;|Pyron Desert (Reptile Hide)|6|14|;World Area|The Great Pyron Desert|3|5|
+Pyron Desert (Wilds)¦Pyron_Desert_(Wilds)¦The Great Pyron Desert¦|Pyron Desert (Dunes)|14|4|;|Pyron Desert (Strider Sands)|8|14|
+Pyron Desert (Strider Sands)¦Pyron_Desert_(Strider_Sands)¦The Great Pyron Desert¦|Pyron Desert (Wilds)|9|6|;|Pyron Desert (Spider Tracks)|3|13|
+Pyron Desert (Spider Tracks)¦Pyron_Desert_(Spider_Tracks)¦The Great Pyron Desert¦|Pyron Desert (Djinn Domains)|8|5|;|Pyron Desert (Strider Sands)|11|9|
+Pyron Desert (Djinn Domains)¦Pyron_Desert_(Djinn_Domains)¦The Great Pyron Desert¦|Pyron Desert (Spider Tracks)|12|9|;|Pyron Desert (Feeding Grounds)|2|16|;Portal|Pyron Desert Portal|3|6|
+Pyron Desert (Feeding Grounds)¦Pyron_Desert_(Feeding_Grounds)¦The Great Pyron Desert¦|Pyron Desert (Djinn Domains)|16|3|;|Pyron Desert (Devil Haunt)|6|5|;|Pyron Desert (Sidewinder Nest)|3|11|
+Pyron Desert (Sidewinder Nest)¦Pyron_Desert_(Sidewinder_Nest)¦The Great Pyron Desert¦|Pyron Desert (Feeding Grounds)|6|10|
+Pyron Desert (Devil Haunt)¦Pyron_Desert_(Devil_Haunt)¦The Hyrom Wilds¦Relic|Devils Whirlwind|9|3|;|Pyron Desert (Feeding Grounds)|16|6|;|Pyron Desert (Naga Lair)|3|9|;World Area|The Hyrom Wilds|8|14|
+Pyron Desert (Naga Lair)¦Pyron_Desert_(Naga_Lair)¦The Hyrom Wilds¦|Wernoth Territory (Waste)|5|3|;|Pyron Desert (Devil Haunt)|16|17|
+Wernoth Territory (Waste)¦Wernoth_Territory_(Waste)¦The Hyrom Wilds¦|Pyron Desert (Naga Lair)|3|3|;|Wernoth Territory (Hunting Grounds)|10|14|;|Stage 1:|11|17|;|Stages 2-3:|5|1|;|Stage 4:|11|17|
+Wernoth Territory (Hunting Grounds)¦Wernoth_Territory_(Hunting_Grounds)¦The Hyrom Wilds¦|Wernoth Territory (Waste)|16|2|;|Wernoth Territory (Range)|5|8|
+Wernoth Territory (Range)¦Wernoth_Territory_(Range)¦The Hyrom Wilds¦|Wernoth Territory (Plains)|3|10|;|Wernoth Territory (Hunting Grounds)|10|13|
+Wernoth Territory (Plains)¦Wernoth_Territory_(Plains)¦The Hyrom Wilds¦|Indormar City (Gates)|6|3|;|Wernoth Territory (Range)|12|10|
+Indormar City (Gates)¦Indormar_City_(Gates)¦The Hyrom Wilds¦|Wernoth Territory (Plains)|2|5|;|Indormar City (Barracks)|15|7|;World Area|The Hyrom Wilds|12|13|
+Indormar City (Barracks)¦Indormar_City_(Barracks)¦The Hyrom Wilds¦|Indormar City (Center)|3|6|;|Indormar City (Gates)|8|19|
+Indormar City (Center)¦Indormar_City_(Center)¦The Hyrom Wilds¦|Indormar City (Barracks)|16|14|;|Indormar City (Senator House)|2|15|;Portal|Indormar City Portal|10|9|
+Indormar City (Senator House)¦Indormar_City_(Senator_House)¦The Hyrom Wilds¦|Indormar City (Center)|2|1|;|Indormar City (Slums)|5|10|;|Stage 1:|13|11|;|Stage 2:|1|6|;|Stage 3:|6|13|;|Stage 4:|13|11|
+Indormar City (Slums)¦Indormar_City_(Slums)¦The Hyrom Wilds¦Relic|Soup Kitchen|7|11|;|Indormar City (Market)|15|3|;|Indormar City (Senator House)|2|8|
+Indormar City (Market)¦Indormar_City_(Market)¦The Hyrom Wilds¦|Indormar City (Slums)|5|3|;|Indormar City (Gladiator Pits)|9|11|
+Indormar City (Gladiator Pits)¦Indormar_City_(Gladiator_Pits)¦The Hyrom Wilds¦|Indormar City (Stables)|4|3|;|Indormar City (Market)|12|12|
+Indormar City (Stables)¦Indormar_City_(Stables)¦The Hyrom Wilds¦|Indormar City (Wastes)|2|2|;|Indormar City (Gladiator Pits)|10|13|
+Indormar City (Wastes)¦Indormar_City_(Wastes)¦The Hyrom Wilds¦|Indormar City (Stables)|4|9|;|Hyrom Canyon (Grazing Land)|12|14|
+Hyrom Canyon (Grazing Land)¦Hyrom_Canyon_(Grazing_Land)¦The Hyrom Wilds¦|Indormar City (Wastes)|16|1|;|Hyrom Canyon (Capcaun Village)|2|10|;World Area|The Hyrom Wilds|4|2|
+Hyrom Canyon (Capcaun Village)¦Hyrom_Canyon_(Capcaun_Village)¦The Hyrom Wilds¦|Hyrom Canyon (Fox Haunt)|4|3|;|Hyrom Canyon (Grazing Land)|14|15|
+Hyrom Canyon (Fox Haunt)¦Hyrom_Canyon_(Fox_Haunt)¦The Hyrom Wilds¦|Hyrom Canyon (Priestly Retreat)|13|3|;|Hyrom Canyon (Capcaun Village)|2|12|
+Hyrom Canyon (Priestly Retreat)¦Hyrom_Canyon_(Priestly_Retreat)¦The Hyrom Wilds¦|Hyrom Canyon (Fox Haunt)|2|5|;|Hyrom Forest (Greenskin Lair)|10|20|;Portal|Hyrom Canyon Portal|10|3|
+Hyrom Forest (Greenskin Lair)¦Hyrom_Forest_(Greenskin_Lair)¦The Hyrom Wilds¦|Hyrom Canyon (Priestly Retreat)|11|6|;|Hyrom Forest (Squonk Haunt)|2|7|;World Area|The Hyrom Wilds|4|13|
+Hyrom Forest (Squonk Haunt)¦Hyrom_Forest_(Squonk_Haunt)¦The Hyrom Wilds¦Relic|Squonk Pit|3|5|;|Hyrom Forest (Greenskin Lair)|13|2|;|Hyrom Forest (Troll Lands)|4|13|
+Hyrom Forest (Troll Lands)¦Hyrom_Forest_(Troll_Lands)¦The Hyrom Wilds¦|Hyrom Forest (Squonk Haunt)|14|6|;|Hyrom Forest (Giants Arena)|3|12|
+Hyrom Forest (Giants Arena)¦Hyrom_Forest_(Giants_Arena)¦The Hyrom Wilds¦|Hyrom Glacier (Chill Caves)|16|5|;|Hyrom Forest (Troll Lands)|13|17|
+Hyrom Glacier (Chill Caves)¦Hyrom_Glacier_(Chill_Caves)¦The Hyrom Wilds¦|Hyrom Forest (Giants Arena)|3|3|;|Hyrom Glacier (Fiends Lair)|16|11|;World Area|The Hyrom Wilds|4|11|
+Esver Canyon (Edge)¦Esver_Canyon_(Edge)¦Krul Island¦|Cathedral of Ways (Sacristy)|3|1|;|Esver Canyon (Ruins)|16|11|;|Stages 1-2:|3|2|
+Esver Canyon (Narrows)¦Esver_Canyon_(Narrows)¦Krul Island¦|Esver Canyon (Ruins)|1|2|
+Esver Canyon (Ruins)¦Esver_Canyon_(Ruins)¦Krul Island¦|Esver Canyon (Edge)|1|5|;|Esver Canyon (Narrows)|15|13|
+Hyrom Glacier (Fiends Lair)¦Hyrom_Glacier_(Fiends_Lair)¦The Hyrom Wilds¦|Gelorath Caverns (Opening)|2|1|;|Hyrom Glacier (Tomb of Fraganir)|10|2|;|Hyrom Glacier (Chill Caves)|2|16|;|Stages 1-2:|8|14|
+Hyrom Glacier (Tomb of Fraganir)¦Hyrom_Glacier_(Tomb_of_Fraganir)¦The Hyrom Wilds¦|Hyrom Glacier (Fiends Lair)|11|5|
+Troll Toll Fields¦Troll_Toll_Fields¦Krul Island¦|The Grimmnor Forest|4|13|;|Stages 1-3:|9|5|;|Stage 4:|9|10|;|Stage 5:|9|5|
+Gelorath Caverns (Opening)¦Gelorath_Caverns_(Opening)¦The Gelorath Caverns¦|Hyrom Glacier (Fiends Lair)|3|4|;|Gelorath Caverns (Cleft)|15|9|;World Area|The Gelorath Caverns|7|13|
+Gelorath Caverns (Cleft)¦Gelorath_Caverns_(Cleft)¦The Gelorath Caverns¦|Gelorath Caverns (Fissure)|6|2|;|Gelorath Caverns (Opening)|6|11|
+Gelorath Caverns (Fissure)¦Gelorath_Caverns_(Fissure)¦The Gelorath Caverns¦|Gelorath Caverns (Cleft)|5|5|;|Gelorath Caverns (Fracture)|12|10|
+Gelorath Caverns (Fracture)¦Gelorath_Caverns_(Fracture)¦The Gelorath Caverns¦|Gelorath Caverns (Shanty)|13|7|;|Gelorath Caverns (Fissure)|6|16|;Portal|Gelorath Caverns Portal|4|4|
+Gelorath Caverns (Shanty)¦Gelorath_Caverns_(Shanty)¦The Gelorath Caverns¦|Gelorath Caverns (Fracture)|17|4|;|Gelorath Caverns (Shaman Haunt)|3|13|;|Stages 1-2:|4|4|
+Gelorath Caverns (Shaman Haunt)¦Gelorath_Caverns_(Shaman_Haunt)¦The Gelorath Caverns¦Relic|Shaman Ritual Altar|3|18|;|Gelorath Caverns (Shanty)|3|3|;|Gelorath Caverns (Pit)|13|8|
+Gelorath Caverns (Pit)¦Gelorath_Caverns_(Pit)¦The Gelorath Caverns¦|Gelorath Caverns (Hunting Grounds)|3|5|;|Gelorath Caverns (Shaman Haunt)|14|12|;World Area|The Gelorath Caverns|2|13|
+Gelorath Caverns (Hunting Grounds)¦Gelorath_Caverns_(Hunting_Grounds)¦The Gelorath Caverns¦|Gelorath Caverns (Web)|16|2|;|Gelorath Caverns (Pit)|2|11|
+Gelorath Caverns (Web)¦Gelorath_Caverns_(Web)¦The Gelorath Caverns¦|Gelorath Caverns (Hive)|11|2|;|Gelorath Caverns (Hunting Grounds)|2|13|
+Gelorath Caverns (Hive)¦Gelorath_Caverns_(Hive)¦The Gelorath Caverns¦|Gelorath Caverns (Web)|11|5|;|Gelorath Caverns (Haunt)|2|8|
+Gelorath Caverns (Haunt)¦Gelorath_Caverns_(Haunt)¦The Gelorath Caverns¦|Gelorath Caverns (Hive)|10|2|;|Gelorath Caverns (Grave)|4|10|
+Gelorath Caverns (Grave)¦Gelorath_Caverns_(Grave)¦The Gelorath Caverns¦|Gelorath Caverns (Haunt)|10|4|;|Gelorath Caverns (Sepulchre)|3|13|
+Gelorath Caverns (Sepulchre)¦Gelorath_Caverns_(Sepulchre)¦The Gelorath Caverns¦|Gelorath Caverns (Depths)|3|8|;|Gelorath Caverns (Grave)|16|11|;World Area|The Gelorath Caverns|18|2|
+Gelorath Caverns (Depths)¦Gelorath_Caverns_(Depths)¦The Gelorath Caverns¦|Gelorath Caverns (Sepulchre)|12|4|;|Gelorath Caverns (Wastes)|10|17|;Portal|Gelorath Caverns Portal|4|6|;|Stages 1-2:|3|5|
+Gelorath Caverns (Wastes)¦Gelorath_Caverns_(Wastes)¦The Gelorath Caverns¦|Gelorath Caverns (Raptor Ground)|14|3|;|Gelorath Caverns (Depths)|4|13|
+Gelorath Caverns (Raptor Ground)¦Gelorath_Caverns_(Raptor_Ground)¦The Gelorath Caverns¦Relic|Raptor Grave|10|14|;|Gelorath Caverns (Void)|12|5|;|Gelorath Caverns (Wastes)|3|15|
+Gelorath Caverns (Void)¦Gelorath_Caverns_(Void)¦The Gelorath Caverns¦|Gelorath Caverns (Rot)|4|2|;|Gelorath Caverns (Raptor Ground)|11|13|
+Gelorath Caverns (Rot)¦Gelorath_Caverns_(Rot)¦The Gelorath Caverns¦|Gelorath Caverns (Reptile Hide)|6|4|;|Gelorath Caverns (Void)|12|11|
+Gelorath Caverns (Reptile Hide)¦Gelorath_Caverns_(Reptile_Hide)¦The Gelorath Caverns¦|Gelorath Caverns (Rot)|12|3|;|Gelorath Caverns (Beetle Nest)|4|9|
+Gelorath Caverns (Beetle Nest)¦Gelorath_Caverns_(Beetle_Nest)¦The Gelorath Caverns¦|Gelorath Caverns (Tunnels)|11|4|;|Gelorath Caverns (Reptile Hide)|2|17|
+Gelorath Caverns (Tunnels)¦Gelorath_Caverns_(Tunnels)¦The Gelorath Caverns¦|Gelorath Caverns (Beetle Nest)|10|4|;|Gelorath Caverns (Flight)|3|11|;World Area|The Gelorath Caverns|4|2|
+Gelorath Caverns (Flight)¦Gelorath_Caverns_(Flight)¦The Gelorath Caverns¦|Gelorath Caverns (Tunnels)|13|5|;|Gelorath Caverns (Horror)|6|13|
+Gelorath Caverns (Horror)¦Gelorath_Caverns_(Horror)¦The Gelorath Caverns¦|Gelorath Caverns (Scuttle)|3|5|;|Gelorath Caverns (Flight)|12|12|
+Gelorath Caverns (Scuttle)¦Gelorath_Caverns_(Scuttle)¦The Gelorath Caverns¦|Gelorath Caverns (Bug Nest)|14|4|;|Gelorath Caverns (Horror)|4|11|;Portal|Gelorath Caverns (Scuttle) Portal|3|3|
+Gelorath Caverns (Bug Nest)¦Gelorath_Caverns_(Bug_Nest)¦The Gelorath Caverns¦|Gelorath Caverns (Scuttle)|10|2|;|Gelorath Caverns (Incline)|12|9|;|Gelorath Caverns (Daemonwall)|3|15|;|Stages 1-3:|6|5|
+Gelorath Caverns (Daemonwall)¦Gelorath_Caverns_(Daemonwall)¦The Gelorath Caverns¦|Gelorath Caverns (Bug Nest)|9|12|
+Gelorath Caverns (Incline)¦Gelorath_Caverns_(Incline)¦The Teminar Flatlands¦Relic|Grub Mound|5|5|;|Gelorath Caverns (Bug Nest)|11|11|;|Gelorath Caverns (Rise)|2|14|;World Area|The Teminar Flatlands|14|3|
+Gelorath Caverns (Rise)¦Gelorath_Caverns_(Rise)¦The Teminar Flatlands¦|Gelorath Caverns (Incline)|13|4|;|Teminar Savannah (Prowl)|10|12|
+Teminar Savannah (Prowl)¦Teminar_Savannah_(Prowl)¦The Teminar Flatlands¦|Gelorath Caverns (Rise)|2|3|;|Teminar Savannah (Herd Land)|7|15|;World Area|The Teminar Flatlands|9|9|
+Teminar Savannah (Herd Land)¦Teminar_Savannah_(Herd_Land)¦The Teminar Flatlands¦|Teminar Savannah (Prowl)|12|3|;|Teminar Savannah (Pridelands)|3|9|
+Teminar Savannah (Pridelands)¦Teminar_Savannah_(Pridelands)¦The Teminar Flatlands¦|Teminar Savannah (Plains)|2|2|;|Teminar Savannah (Herd Land)|10|14|
+Teminar Savannah (Plains)¦Teminar_Savannah_(Plains)¦The Teminar Flatlands¦|Teminar Savannah (Pridelands)|15|3|;|Teminar Savannah (Scrub)|3|12|
+Teminar Savannah (Scrub)¦Teminar_Savannah_(Scrub)¦The Teminar Flatlands¦|Teminar Savannah (Bush)|4|9|;|Teminar Savannah (Plains)|15|13|
+Teminar Savannah (Bush)¦Teminar_Savannah_(Bush)¦The Teminar Flatlands¦|Teminar Savannah (Mystic Land)|14|6|;|Teminar Savannah (Scrub)|3|14|;World Area|The Teminar Flatlands|2|2|
+Teminar Savannah (Mystic Land)¦Teminar_Savannah_(Mystic_Land)¦The Teminar Flatlands¦|Teminar Savannah (Grazing)|3|3|;|Teminar Savannah (Bush)|3|12|;Portal|Teminar Savannah Portal|10|6|
+Teminar Savannah (Grazing)¦Teminar_Savannah_(Grazing)¦The Teminar Flatlands¦|Teminar Savannah (Mystic Land)|13|3|;|Teminar Savannah (Stalk)|3|15|;|Stages 1-2:|5|6|
+Teminar Savannah (Stalk)¦Teminar_Savannah_(Stalk)¦The Teminar Flatlands¦Relic|Chimera Kill|17|4|;|Teminar Savannah (Horror)|6|5|;|Teminar Savannah (Grazing)|14|14|
+Teminar Savannah (Horror)¦Teminar_Savannah_(Horror)¦The Teminar Flatlands¦|Teminar Savannah (Stalk)|10|4|;|Teminar Savannah (Slither)|5|9|
+Teminar Savannah (Slither)¦Teminar_Savannah_(Slither)¦The Teminar Flatlands¦|Teminar Savannah (Flats)|8|3|;|Teminar Savannah (Horror)|9|10|
+Teminar Savannah (Flats)¦Teminar_Savannah_(Flats)¦The Teminar Flatlands¦|Teminar Grasslands (Plains)|5|9|;|Teminar Savannah (Slither)|14|12|
+Teminar Grasslands (Plains)¦Teminar_Grasslands_(Plains)¦The Teminar Flatlands¦|Teminar Grasslands (Fowl Lands)|4|5|;|Teminar Savannah (Flats)|14|12|;World Area|The Teminar Flatlands|12|3|
+Teminar Grasslands (Fowl Lands)¦Teminar_Grasslands_(Fowl_Lands)¦The Teminar Flatlands¦|Teminar Grasslands (Stalking Grass)|13|5|;|Teminar Grasslands (Plains)|3|12|
+Teminar Grasslands (Stalking Grass)¦Teminar_Grasslands_(Stalking_Grass)¦The Teminar Flatlands¦|Teminar Grasslands (Webs)|11|4|;|Teminar Grasslands (Fowl Lands)|7|17|
+Teminar Grasslands (Webs)¦Teminar_Grasslands_(Webs)¦The Teminar Flatlands¦|Teminar Grasslands (Raptor Lands)|14|3|;|Teminar Grasslands (Stalking Grass)|5|9|
+Teminar Grasslands (Raptor Lands)¦Teminar_Grasslands_(Raptor_Lands)¦The Teminar Flatlands¦|Teminar Grasslands (Webs)|8|5|;|Teminar Grasslands (Prowl)|11|13|;Portal|Teminar Grasslands Portal|3|12|
+Teminar Grasslands (Prowl)¦Teminar_Grasslands_(Prowl)¦The Teminar Flatlands¦|Teminar Grasslands (Raptor Lands)|4|3|;|Teminar Grasslands (Grazing lands)|6|12|;World Area|The Teminar Flatlands|11|2|;|Stage 1:|9|6|;|Stages 2-3:|13|11|;|Stage 4:|9|6|
+Teminar Grasslands (Grazing lands)¦Teminar_Grasslands_(Grazing_lands)¦The Teminar Flatlands¦Relic|Karka Idol|2|3|;|Teminar Grasslands (Prowl)|9|6|;|Teminar Grasslands (Ogre Haunt)|12|13|
+Teminar Grasslands (Ogre Haunt)¦Teminar_Grasslands_(Ogre_Haunt)¦The Teminar Flatlands¦|Teminar Grasslands (Sloth Lands)|2|2|;|Teminar Grasslands (Grazing lands)|11|11|
+Teminar Grasslands (Sloth Lands)¦Teminar_Grasslands_(Sloth_Lands)¦The Teminar Flatlands¦|Teminar Grasslands (Screecher Haunt)|10|2|;|Teminar Grasslands (Ogre Haunt)|13|15|;World Area|The Teminar Flatlands|6|13|
+Teminar Grasslands (Screecher Haunt)¦Teminar_Grasslands_(Screecher_Haunt)¦The Teminar Flatlands¦|Teminar Grasslands (Groffle Haunt)|14|5|;|Teminar Grasslands (Sloth Lands)|12|14|
+Teminar Grasslands (Chiefs Turf)¦Teminar_Grasslands_(Chiefs_Turf)¦The Teminar Flatlands¦|Teminar Grasslands (Groffle Haunt)|8|8|
+Teminar Grasslands (Groffle Haunt)¦Teminar_Grasslands_(Groffle_Haunt)¦The Teminar Flatlands¦|Teminar Grasslands (Chiefs Turf)|3|4|;|Teminar Grasslands (Elemental Haunt)|10|4|;|Teminar Grasslands (Screecher Haunt)|12|14|;|Stages 1-2:|3|12|
+Teminar Grasslands (Elemental Haunt)¦Teminar_Grasslands_(Elemental_Haunt)¦The Denarath Realms¦|Denarath Plains (Edge)|11|3|;|Teminar Grasslands (Groffle Haunt)|3|14|;World Area|The Denarath Realms|4|4|
+Denarath Plains (Edge)¦Denarath_Plains_(Edge)¦The Denarath Realms¦|Denarath Plains (Rough)|11|2|;|Teminar Grasslands (Elemental Haunt)|11|11|
+Denarath Plains (Rough)¦Denarath_Plains_(Rough)¦The Denarath Realms¦|Denarath Plains (Scrub)|5|5|;|Denarath Plains (Edge)|13|8|
+Denarath Plains (Scrub)¦Denarath_Plains_(Scrub)¦The Denarath Realms¦|Denarath Plains (Rough)|16|8|;|Denarath Plains (Wilderness)|2|12|;Portal|Denarath Plains Portal|13|3|
+Denarath Plains (Wilderness)¦Denarath_Plains_(Wilderness)¦The Denarath Realms¦|Denarath Plains (Scrub)|7|2|;|Denarath Plains (Woods)|5|12|;World Area|The Denarath Realms|11|8|
+Denarath Plains (Woods)¦Denarath_Plains_(Woods)¦The Denarath Realms¦Relic|Rooted Treeman|4|4|;|Denarath Plains (Wilderness)|12|6|;|Denarath Plains (Rabid Haunt)|3|14|
+Denarath Plains (Rabid Haunt)¦Denarath_Plains_(Rabid_Haunt)¦The Denarath Realms¦|Denarath Plains (Plain of Maniacs)|3|4|;|Denarath Plains (Woods)|12|13|
+Denarath Plains (Plain of Maniacs)¦Denarath_Plains_(Plain_of_Maniacs)¦The Denarath Realms¦|Denarath Plains (Brutish Base)|3|3|;|Denarath Plains (Rabid Haunt)|13|9|;|Stages 1-2:|10|5|
+Denarath Plains (Brutish Base)¦Denarath_Plains_(Brutish_Base)¦The Denarath Realms¦|Denarath Plains (Hunting Grounds)|2|4|;|Denarath Plains (Plain of Maniacs)|14|13|
+Denarath Plains (Hunting Grounds)¦Denarath_Plains_(Hunting_Grounds)¦The Denarath Realms¦|Denarath Plains (Hobgoblin Haunt)|15|2|;|Denarath Plains (Brutish Base)|6|11|
+Springtime Forest (Jarilos Haunt)¦Springtime_Forest_(Jarilos_Haunt)¦Krul Island¦|Springtime Forest (Outer Grove)|14|13|
+Denarath Plains (Hobgoblin Haunt)¦Denarath_Plains_(Hobgoblin_Haunt)¦The Denarath Realms¦|Denarath Plains (Bruisers Base)|3|2|;|Denarath Plains (Hunting Grounds)|7|13|;World Area|The Denarath Realms|2|9|
+Denarath Plains (Bruisers Base)¦Denarath_Plains_(Bruisers_Base)¦The Denarath Realms¦|Denarath Plains (Wastes)|6|4|;|Denarath Plains (Hobgoblin Haunt)|11|12|
+Denarath Plains (Wastes)¦Denarath_Plains_(Wastes)¦The Denarath Realms¦|Denarath Plains (Flats)|3|5|;|Denarath Plains (Bruisers Base)|15|13|
+Denarath Plains (Flats)¦Denarath_Plains_(Flats)¦The Denarath Realms¦|Denarath Mountains (Ascent)|2|7|;|Denarath Plains (Wastes)|11|14|;Portal|Denarath Plains (Flats) Portal|5|2|
+Denarath Mountains (Ascent)¦Denarath_Mountains_(Ascent)¦The Denarath Realms¦|Denarath Plains (Flats)|11|3|;|Denarath Mountains (Scree)|3|13|;World Area|The Denarath Realms|4|4|;|Stages 1-2:|6|9|
+Denarath Mountains (Scree)¦Denarath_Mountains_(Scree)¦The Denarath Realms¦Relic|Grey Man Bone Shrine|9|10|;|Denarath Mountains (Ascent)|13|2|;|Denarath Mountains (Edge)|5|13|
+Denarath Mountains (Edge)¦Denarath_Mountains_(Edge)¦The Denarath Realms¦|Denarath Mountains (Scree)|16|5|;|Denarath Mountains (Cliff)|3|12|
+Denarath Mountains (Cliff)¦Denarath_Mountains_(Cliff)¦The Denarath Realms¦|Denarath Mountains (Heights)|12|4|;|Denarath Mountains (Edge)|10|15|
+Denarath Mountains (Heights)¦Denarath_Mountains_(Heights)¦The Denarath Realms¦|Denarath Mountains (Cliff)|2|4|;|Denarath Mountains (Wilds)|11|14|
+Denarath Mountains (Wilds)¦Denarath_Mountains_(Wilds)¦The Denarath Realms¦|Denarath Mountains (Scramble)|9|2|;|Denarath Mountains (Heights)|3|11|
+Quango Mountain (Heights)¦Quango_Mountain_(Heights)¦Arrin Moors¦|Quango Island|1|6|;|Stages 1-2:|13|10|
+Denarath Mountains (Scramble)¦Denarath_Mountains_(Scramble)¦The Denarath Realms¦|Denarath Mountains (Precipice)|11|5|;|Denarath Mountains (Wilds)|4|13|;World Area|The Denarath Realms|3|6|
+Denarath Mountains (Precipice)¦Denarath_Mountains_(Precipice)¦The Denarath Realms¦|Denarath Mountains (Hide)|12|4|;|Denarath Mountains (Scramble)|6|14|
+Denarath Mountains (Hide)¦Denarath_Mountains_(Hide)¦The Denarath Realms¦|Denarath Mountains (Haunt)|5|4|;|Denarath Mountains (Precipice)|4|13|
+Denarath Mountains (Haunt)¦Denarath_Mountains_(Haunt)¦The Denarath Realms¦|Denarath Mountains (Village)|6|5|;|Denarath Mountains (Hide)|14|12|;Portal|Denarath Mountains Portal|9|17|
+Denarath Mountains (Sloggonoth Nest)¦Denarath_Mountains_(Sloggonoth_Nest)¦The Denarath Realms¦|Denarath Mountains (Village)|10|3|
+Denarath Mountains (Village)¦Denarath_Mountains_(Village)¦The Denarath Realms¦|Denarath Mountains (Sloggonoth Nest)|5|5|;|Denarath Mountain (Descent)|14|7|;|Denarath Mountains (Haunt)|15|16|;|Stages 1-3:|8|13|
+Denarath Mountain (Descent)¦Denarath_Mountain_(Descent)¦The Tayarog Wilderness¦Relic|Bahaka Altar|2|3|;|Denarath Mountains (Village)|12|4|;|Tayarog Valley (Orc Camp)|4|11|;World Area|The Tayarog Wilderness|13|11|
+Tayarog Valley (Orc Camp)¦Tayarog_Valley_(Orc_Camp)¦The Tayarog Wilderness¦|Tayarog Valley (War Camp)|4|4|;|Denarath Mountain (Descent)|9|13|
+Tayarog Valley (War Camp)¦Tayarog_Valley_(War_Camp)¦The Tayarog Wilderness¦|Tayarog Valley (Orc Camp)|18|4|;|Tayarog Valley (Death Pit)|3|10|
+Tayarog Valley (Death Pit)¦Tayarog_Valley_(Death_Pit)¦The Tayarog Wilderness¦|Tayarog Valley (War Camp)|6|5|;|Tayarog Valley (Wolf Den)|4|11|
+Tayarog Valley (Wolf Den)¦Tayarog_Valley_(Wolf_Den)¦The Tayarog Wilderness¦|Tayarog Valley (Golem Haunt)|2|8|;|Tayarog Valley (Death Pit)|8|13|;|Stages 1-2:|13|2|
+Tayarog Valley (Golem Haunt)¦Tayarog_Valley_(Golem_Haunt)¦The Tayarog Wilderness¦|Tayarog Valley (Wolf Den)|13|2|;|Tayarog Valley (Slither)|3|13|
+Tayarog Valley (Slither)¦Tayarog_Valley_(Slither)¦The Tayarog Wilderness¦|Tayarog Valley (Golem Haunt)|11|2|;|Tayarog Valley (Hunting Ground)|1|13|;World Area|The Tayarog Wilderness|15|8|
+Tayarog Valley (Hunting Ground)¦Tayarog_Valley_(Hunting_Ground)¦The Tayarog Wilderness¦|Tayarog Valley (Rubble)|5|4|;|Tayarog Valley (Slither)|12|10|
+Tayarog Valley (Rubble)¦Tayarog_Valley_(Rubble)¦The Tayarog Wilderness¦|Tayarog Valley (Hunting Ground)|5|5|;|Tayarog Valley (Pack Land)|14|12|;Portal|Tayarog Valley Portal|15|3|
+Tayarog Valley (Pack Land)¦Tayarog_Valley_(Pack_Land)¦The Tayarog Wilderness¦|Tayarog Valley (Rubble)|3|6|;|Tayarog Forest (Glade)|12|15|
+Tayarog Forest (Glade)¦Tayarog_Forest_(Glade)¦The Tayarog Wilderness¦Relic|Flourishing Radande Tree|13|11|;|Tayarog Valley (Pack Land)|12|5|;|Tayarog Forest (Darkness)|3|7|;World Area|The Tayarog Wilderness|8|12|
+Tayarog Forest (Darkness)¦Tayarog_Forest_(Darkness)¦The Tayarog Wilderness¦|Tayarog Forest (Edge)|10|6|;|Tayarog Forest (Glade)|4|11|
+Tayarog Forest (Edge)¦Tayarog_Forest_(Edge)¦The Tayarog Wilderness¦|Tayarog Forest (Green Spot)|3|6|;|Tayarog Forest (Darkness)|9|10|
+Tayarog Forest (Green Spot)¦Tayarog_Forest_(Green_Spot)¦The Tayarog Wilderness¦|Tayarog Forest (Bulwark)|5|4|;|Tayarog Forest (Edge)|10|14|
+Tayarog Forest (Bulwark)¦Tayarog_Forest_(Bulwark)¦The Tayarog Wilderness¦|Tayarog Forest (Dryad Land)|2|4|;|Tayarog Forest (Green Spot)|8|9|;|Stages 1-2:|12|3|
+Tayarog Forest (Dryad Land)¦Tayarog_Forest_(Dryad_Land)¦The Tayarog Wilderness¦|Tayarog Forest (Willow Copse)|4|4|;|Tayarog Forest (Bulwark)|13|13|
+Tayarog Forest (Willow Copse)¦Tayarog_Forest_(Willow_Copse)¦The Tayarog Wilderness¦|Tayarog Forest (Dryad Land)|3|4|;|Tayarog Forest (Grove)|7|10|
+Tayarog Forest (Grove)¦Tayarog_Forest_(Grove)¦The Tayarog Wilderness¦|Tayarog Forest (Willow Copse)|5|3|;|Tayarog Forest (Timberland)|2|12|
+Tayarog Forest (Timberland)¦Tayarog_Forest_(Timberland)¦The Tayarog Wilderness¦|Tayarog Forest (Clearing)|6|4|;|Tayarog Forest (Grove)|16|11|;Portal|Tayarog Forest Portal|13|3|
+Tayarog Forest (Clearing)¦Tayarog_Forest_(Clearing)¦The Tayarog Wilderness¦|Tayarog Forest (Nest)|4|4|;|Tayarog Forest (Timberland)|10|11|;World Area|The Tayarog Wilderness|11|5|
+Tayarog Forest (Nest)¦Tayarog_Forest_(Nest)¦The Tayarog Wilderness¦Relic|Razorbeak Nest|9|9|;|Tayarog Forest (Den)|3|4|;|Tayarog Forest (Clearing)|9|17|
+Tayarog Forest (Den)¦Tayarog_Forest_(Den)¦The Tayarog Wilderness¦|Tayarog Forest (Sprite Haunt)|17|3|;|Tayarog Forest (Nest)|10|9|
+Tayarog Forest (Sprite Haunt)¦Tayarog_Forest_(Sprite_Haunt)¦The Tayarog Wilderness¦|Vendorshan Valley (Giants Hideout)|5|3|;|Tayarog Forest (Den)|9|12|
+Vendorshan Valley (Giants Hideout)¦Vendorshan_Valley_(Giants_Hideout)¦The Tayarog Wilderness¦|Tayarog Forest (Sprite Haunt)|12|2|;|Vendorshan Valley (Hunters Haunt)|16|8|;World Area|The Tayarog Wilderness|6|6|
+Vendorshan Valley (Haramoths Haunt)¦Vendorshan_Valley_(Haramoths_Haunt)¦The Tayarog Wilderness¦|Vendorshan Valley (Hunters Haunt)|8|9|
+Vendorshan Valley (Hunters Haunt)¦Vendorshan_Valley_(Hunters_Haunt)¦The Tayarog Wilderness¦|Vendorshan Valley (Haramoths Haunt)|10|1|;|Vendorshan Valley (Giants Hideout)|1|12|;|Vendorshan Desert (Plain)|15|16|;|Stages 1-3:|11|8|
+Vendorshan Desert (Plain)¦Vendorshan_Desert_(Plain)¦The Vendorshan Desert¦|Vendorshan Valley (Hunters Haunt)|15|3|;|Vendorshan Desert (Waste)|15|15|;World Area|The Vendorshan Desert|2|15|
+Vendorshan Desert (Waste)¦Vendorshan_Desert_(Waste)¦The Vendorshan Desert¦|Vendorshan Desert (Plain)|8|2|;|Vendorshan Desert (Sands)|14|7|
+Vendorshan Desert (Sands)¦Vendorshan_Desert_(Sands)¦The Vendorshan Desert¦|Vendorshan Desert (Waste)|2|2|;|Vendorshan Desert (Wilds)|14|14|;|Stages 1-2:|2|14|;|Stage 3:|14|2|;|Stage 4:|9|8|
+Vendorshan Desert (Wilds)¦Vendorshan_Desert_(Wilds)¦The Vendorshan Desert¦|Vendorshan Desert (Sands)|2|2|;|Vendorshan Desert (Dunes)|14|4|;Portal|Vendorshan Desert Portal|2|16|
+Vendorshan Desert (Dunes)¦Vendorshan_Desert_(Dunes)¦The Vendorshan Desert¦|Vendorshan Desert (Arid Vale)|16|6|;|Vendorshan Desert (Wilds)|2|7|
+Vendorshan Desert (Arid Vale)¦Vendorshan_Desert_(Arid_Vale)¦The Vendorshan Desert¦Relic|Vendorshan Quick Sand Pit|14|8|;|Vendorshan Desert (Desolation)|13|3|;|Vendorshan Desert (Dunes)|2|8|
+Vendorshan Desert (Desolation)¦Vendorshan_Desert_(Desolation)¦The Vendorshan Desert¦|Inskal Tower (Halls)|8|7|;|Vendorshan Desert (Shifting Sands)|15|8|;|Vendorshan Desert (Arid Vale)|2|9|;|Stage 1:|9|16|;|Stage 2:|10|2|;|Stage 5:|10|2|;|Stage 6:|9|16|
+Inskal Tower (Halls)¦Inskal_Tower_(Halls)¦The Vendorshan Desert¦|Inskal Tower (Inner Sanctum)|8|5|;|Vendorshan Desert (Desolation)|1|14|;World Area|The Vendorshan Desert|15|1|
+Inskal Tower (Inner Sanctum)¦Inskal_Tower_(Inner_Sanctum)¦The Vendorshan Desert¦|Inskal Tower (Halls)|7|5|;|Stages 3-4:|16|14|
+Vendorshan Desert (Shifting Sands)¦Vendorshan_Desert_(Shifting_Sands)¦The Vendorshan Desert¦|Vendorshan Desert (Dusty Plain)|14|2|;|Vendorshan Desert (Desolation)|2|8|
+Vendorshan Desert (Dusty Plain)¦Vendorshan_Desert_(Dusty_Plain)¦The Vendorshan Desert¦|Vendorshan Desert (Shifting Sands)|2|10|;|Vendorshan Desert (Haunt)|10|15|
+Vendorshan Desert (Haunt)¦Vendorshan_Desert_(Haunt)¦The Vendorshan Desert¦|Vendorshan Desert (Dusty Plain)|2|2|;|Vendorshan Desert (Sacred Ground)|2|16|
+Vendorshan Desert (Sacred Ground)¦Vendorshan_Desert_(Sacred_Ground)¦The Vendorshan Desert¦|Vendorshan Desert (Haunt)|9|2|;|Vendorshan Desert (Tall Dunes)|15|8|;|Alkaar Tomb (Corridors)|11|10|;|Stages 1-2:|2|8|
+Alkaar Tomb (Corridors)¦Alkaar_Tomb_(Corridors)¦The Vendorshan Desert¦|Vendorshan Desert (Sacred Ground)|1|2|;|Alkaar Tomb (Antechamber)|9|9|;Portal|Alkaar Tomb Portal|16|14|;World Area|The Vendorshan Desert|17|2|;|Stages 3-4:|2|2|
+Alkaar Tomb (Antechamber)¦Alkaar_Tomb_(Antechamber)¦The Vendorshan Desert¦|Alkaar Tomb (Sepulchre)|15|8|;|Alkaar Tomb (Corridors)|6|10|;|Stages 5-6:|8|2|
+Alkaar Tomb (Sepulchre)¦Alkaar_Tomb_(Sepulchre)¦The Vendorshan Desert¦Relic|Alkaar Bone Pile|7|19|;|Alkaar Tomb (Antechamber)|1|10|;|Stages 7-8:|2|10|
+Vendorshan Desert (Tall Dunes)¦Vendorshan_Desert_(Tall_Dunes)¦The Vendorshan Desert¦|Vendorshan Desert (Sacred Ground)|2|2|;|Vendorshan Desert (Empty Land)|10|15|
+Vendorshan Desert (Empty Land)¦Vendorshan_Desert_(Empty_Land)¦The Vendorshan Desert¦|Vendorshan Desert (Tall Dunes)|9|2|;|Vendorshan Desert (Barren Sands)|7|15|
+Vendorshan Desert (Barren Sands)¦Vendorshan_Desert_(Barren_Sands)¦The Vendorshan Desert¦|Vendorshan Desert (Empty Land)|2|2|;|Alkoran Canyons (Rise)|14|2|;World Area|The Vendorshan Desert|4|12|
+Alkoran Canyons (Rise)¦Alkoran_Canyons_(Rise)¦The Vendorshan Desert¦|Vendorshan Desert (Barren Sands)|1|3|;|Alkoran Canyons (Runnel)|17|11|;World Area|The Vendorshan Desert|13|5|
+Alkoran Canyons (Runnel)¦Alkoran_Canyons_(Runnel)¦The Vendorshan Desert¦|Alkoran Canyons (Rise)|1|7|;|Alkoran Canyons (Ravine)|16|13|;|Stages 1-2:|13|2|
+Alkoran Canyons (Ravine)¦Alkoran_Canyons_(Ravine)¦The Vendorshan Desert¦|Alkoran Canyons (Runnel)|2|1|;|Alkoran Canyons (Gully)|16|4|
+Alkoran Canyons (Gully)¦Alkoran_Canyons_(Gully)¦The Vendorshan Desert¦|Alkoran Canyons (Ravine)|1|8|;|Alkoran Canyons (Gulch)|15|14|
+Alkoran Canyons (Gulch)¦Alkoran_Canyons_(Gulch)¦The Vendorshan Desert¦|Alkoran Canyons (Twisting Channels)|15|2|;|Alkoran Canyons (Gully)|1|14|;Portal|Alkoran Canyons Portal|13|9|
+Alkoran Canyons (Depths)¦Alkoran_Canyons_(Depths)¦The Vendorshan Desert¦|Alkoran Canyons (Twisting Channels)|8|1|;|Stages 5-6:|11|4|
+Alkoran Canyons (Twisting Channels)¦Alkoran_Canyons_(Twisting_Channels)¦The Vendorshan Desert¦|Alkoran Canyons (Gulch)|1|2|;|Sathrin Forest (Edge)|14|2|;|Alkoran Canyons (Depths)|10|7|;|Stages 1-2:|3|12|;|Stage 3:|11|14|;|Stage 4:|3|12|
+Sathrin Forest (Edge)¦Sathrin_Forest_(Edge)¦Sathrin Forest¦Relic|Enchanted Vines|3|2|;|Sathrin Forest (Vale)|18|7|;|Alkoran Canyons (Twisting Channels)|2|8|;World Area|Sathrin Forest|11|12|
+Sathrin Forest (Vale)¦Sathrin_Forest_(Vale)¦Sathrin Forest¦|Sathrin Forest (Tall Trees)|9|2|;|Sathrin Forest (Edge)|2|9|
+Sathrin Forest (Tall Trees)¦Sathrin_Forest_(Tall_Trees)¦Sathrin Forest¦|Sathrin Forest (Thicket)|16|2|;|Sathrin Forest (Vale)|2|13|
+Sathrin Forest (Thicket)¦Sathrin_Forest_(Thicket)¦Sathrin Forest¦|Sathrin Forest (Tall Trees)|2|9|;|Sathrin Forest (Murk)|16|10|
+Sathrin Forest (Murk)¦Sathrin_Forest_(Murk)¦Sathrin Forest¦|Sathrin Forest (Thicket)|2|11|;|Sathrin Forest (Dell)|9|19|;|Stages 1-2:|4|6|
+Sathrin Forest (Dell)¦Sathrin_Forest_(Dell)¦Sathrin Forest¦|Sathrin Forest (Murk)|7|2|;|Sathrin Forest (Wilds)|15|15|
+Sathrin Forest (Wilds)¦Sathrin_Forest_(Wilds)¦Sathrin Forest¦|Sathrin Forest (Dell)|2|2|;|Sathrin Forest (Open Ground)|15|2|
+Sathrin Forest (Open Ground)¦Sathrin_Forest_(Open_Ground)¦Sathrin Forest¦|Sathrin Forest (Wilds)|2|2|;|Sathrin Forest (Clump)|14|14|
+Sathrin Forest (Clump)¦Sathrin_Forest_(Clump)¦Sathrin Forest¦|Sathrin Forest (Open Ground)|8|2|;|Sathrin Forest (Depths)|14|13|;Portal|Sathrin Forest Portal|2|10|
+Sathrin Forest (Depths)¦Sathrin_Forest_(Depths)¦Sathrin Forest¦|Sathrin Village (East Quarter)|14|3|;|Sathrin Forest (Clump)|2|8|;|Stages 1-2:|2|14|
+Sathrin Village (East Quarter)¦Sathrin_Village_(East_Quarter)¦Sathrin Forest¦Relic|Elven Pillar of Light|9|2|;|Sathrin Village (Inner Quarter)|14|1|;|Sathrin Forest (Depths)|1|7|;|Sathrin Village (West Quarter)|17|8|;World Area|Sathrin Forest|8|15|;|Stages 3-4:|2|7|
+Sathrin Village (West Quarter)¦Sathrin_Village_(West_Quarter)¦Sathrin Forest¦|Sathrin Village (Inner Quarter)|2|1|;|Sathrin Forest (Hills)|16|6|;|Sathrin Village (East Quarter)|1|8|;|Stages 5-6:|14|6|
+Sathrin Village (Inner Quarter)¦Sathrin_Village_(Inner_Quarter)¦Sathrin Forest¦|Sathrin Village (East Quarter)|2|16|;|Sathrin Village (West Quarter)|16|16|;|Stages 7-8:|5|6|
+Sathrin Forest (Hills)¦Sathrin_Forest_(Hills)¦Sathrin Forest¦|Sathrin Village (West Quarter)|2|9|;|Sathrin Forest (Overgrowth)|8|16|
+Sathrin Forest (Overgrowth)¦Sathrin_Forest_(Overgrowth)¦Sathrin Forest¦|Sathrin Forest (Hills)|9|2|;|Sathrin Forest (Deeproot)|15|15|
+Sathrin Forest (Deeproot)¦Sathrin_Forest_(Deeproot)¦Sathrin Forest¦|Sathrin Forest (Overgrowth)|2|4|;|Sathrin Forest (Silent Weald)|4|14|
+Sathrin Forest (Silent Weald)¦Sathrin_Forest_(Silent_Weald)¦Sathrin Forest¦|Sathrin Forest (Deeproot)|8|2|;|Soldoril Grove (Twisted Wood)|15|7|
+Soldoril Grove (Twisted Wood)¦Soldoril_Grove_(Twisted_Wood)¦Sathrin Forest¦|Sathrin Forest (Silent Weald)|2|2|;|Soldoril Grove (Poisoned Earth)|11|16|;World Area|Sathrin Forest|16|2|;|Stages 1-2:|9|9|
+Soldoril Grove (Poisoned Earth)¦Soldoril_Grove_(Poisoned_Earth)¦Sathrin Forest¦|Soldoril Grove (Twisted Wood)|9|2|;|Soldoril Grove (Despoiled Haven)|15|9|;Portal|Soldoril Grove Portal|2|7|;|Stages 3-4:|8|13|
+Soldoril Grove (Despoiled Haven)¦Soldoril_Grove_(Despoiled_Haven)¦Sathrin Forest¦|Soldoril Grove (Poisoned Earth)|2|2|;|Soldoril Grove (Blackheart)|2|16|;|Stages 5-6:|16|2|
+Soldoril Grove (Blackheart)¦Soldoril_Grove_(Blackheart)¦Sathrin Forest¦Relic|Circle of Empowerment|10|8|;|Soldoril Grove (Despoiled Haven)|2|2|;|Sathrin Forest (Glade)|18|4|;|Stages 7-8:|14|4|
+Sathrin Forest (Glade)¦Sathrin_Forest_(Glade)¦Sathrin Forest¦|Soldoril Grove (Blackheart)|2|9|;|Sathrin Forest (Dense Undergrowth)|8|19|;|Stage 1:|8|2|;|Stage 2:|4|14|;|Stage 3:|8|2|
+Sathrin Forest (Dense Undergrowth)¦Sathrin_Forest_(Dense_Undergrowth)¦Sathrin Forest¦|Sathrin Forest (Glade)|9|2|;|Sathrin Forest (Greenleaf Elders)|14|7|
+Sathrin Forest (Greenleaf Elders)¦Sathrin_Forest_(Greenleaf_Elders)¦Sathrin Forest¦|Sathrin Forest (Dense Undergrowth)|2|2|;|Sathrin Forest (Woodland Glade)|15|2|
+Forest of Yule (Mine)¦Forest_of_Yule_(Mine)¦Krul Island¦|Forest of Yule (Miners Mountain)|9|4|;|Stages 2-3:|4|9|
+Forest of Yule (Miners Mountain)¦Forest_of_Yule_(Miners_Mountain)¦Krul Island¦|Forest of Yule (Mine)|3|3|;|Forest of Yule (Clearing)|13|16|;|Stages 1:|12|7|
+Sathrin Forest (Enclave)¦Sathrin_Forest_(Enclave)¦Sathrin Forest¦|Sathrin Forest (Woodland Glade)|7|2|;World Area|Sathrin Forest|7|12|;|Stage 3:|2|7|;|Stages 4-6:|7|7|;|Stage 7:|2|7|
+Sathrin Forest (Woodland Glade)¦Sathrin_Forest_(Woodland_Glade)¦Sathrin Forest¦|Sathrin Forest (Greenleaf Elders)|2|2|;|Infernal Chasm (Burning Halls)|16|2|;|Sathrin Forest (Enclave)|2|16|;|Stages 1-2:|6|2|

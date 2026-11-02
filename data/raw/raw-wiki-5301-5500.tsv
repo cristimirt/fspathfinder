@@ -1,0 +1,212 @@
+Ketoric Mines (Entrance)¦Ketoric_Mines_(Entrance)¦Milloric Wastes¦|Ketoric Mines (Tunnels)|18|1|;|Ketoric Fortress (Audience Chamber)|5|13|;World Area|Milloric Wastes|13|20|
+Ketoric Mines (Tunnels)¦Ketoric_Mines_(Tunnels)¦Milloric Wastes¦|Ketoric Mines (Seam)|19|1|;|Ketoric Mines (Entrance)|3|17|
+Ketoric Mines (Seam)¦Ketoric_Mines_(Seam)¦Milloric Wastes¦|Ketoric Mines (Tunnels)|2|2|;|Ketoric Mines (Work Face)|16|19|
+Ketoric Mines (Work Face)¦Ketoric_Mines_(Work_Face)¦Milloric Wastes¦|Milloric Wastes (Desolation)|18|1|;|Ketoric Mines (Seam)|1|17|
+Milloric Wastes (Desolation)¦Milloric_Wastes_(Desolation)¦Milloric Wastes¦|Ketoric Mines (Work Face)|4|3|;|Milloric Wastes (Walls)|19|13|;World Area|Milloric Wastes|4|13|
+Milloric Wastes (Walls)¦Milloric_Wastes_(Walls)¦Milloric Wastes¦Relic|Milloric Orcish Idol|12|9|;|Milloric Wastes (Range)|14|3|;|Milloric Wastes (Desolation)|3|16|
+Milloric Wastes (Range)¦Milloric_Wastes_(Range)¦Milloric Wastes¦|Milloric Wastes (Walls)|14|2|;|Milloric Wastes (Rage)|4|20|
+Milloric Wastes (Rage)¦Milloric_Wastes_(Rage)¦Milloric Wastes¦|Milloric Wastes (Range)|6|3|;|Milloric Wastes (Forage)|8|20|
+Milloric Wastes (Forage)¦Milloric_Wastes_(Forage)¦Milloric Wastes¦|Milloric Wastes (Hive)|15|4|;|Milloric Wastes (Rage)|6|19|
+Milloric Wastes (Hive)¦Milloric_Wastes_(Hive)¦Milloric Wastes¦|Milloric Wastes (War Camp)|14|2|;|Milloric Wastes (Forage)|3|15|
+Milloric Wastes (War Camp)¦Milloric_Wastes_(War_Camp)¦Milloric Wastes¦|Milloric Wastes (Crawl)|6|3|;|Milloric Wastes (Hive)|13|15|;World Area|Milloric Wastes|2|18|
+Milloric Wastes (Crawl)¦Milloric_Wastes_(Crawl)¦Milloric Wastes¦|Milloric Wastes (Slither)|3|3|;|Milloric Wastes (War Camp)|14|20|
+Milloric Wastes (Slither)¦Milloric_Wastes_(Slither)¦Milloric Wastes¦|Milloric Wastes (Crawl)|11|2|;|Milloric Wastes (Spore)|3|20|
+Milloric Wastes (Spore)¦Milloric_Wastes_(Spore)¦Milloric Wastes¦|Milloric Wastes (Razorfist)|6|4|;|Milloric Wastes (Slither)|13|17|
+Milloric Wastes (Razorfist)¦Milloric_Wastes_(Razorfist)¦Milloric Wastes¦|Milloric Wastes (Spore)|4|2|;|Milloric Wastes (Glade)|16|13|
+Milloric Wastes (Glade)¦Milloric_Wastes_(Glade)¦Milloric Wastes¦Relic|Thornvine Dryad Husk|4|13|;|Milloric Wastes (Burrow)|4|4|;|Milloric Wastes (Razorfist)|17|16|
+Milloric Wastes (Burrow)¦Milloric_Wastes_(Burrow)¦Milloric Wastes¦|Milloric Wastes (Fallen Copse)|4|5|;|Milloric Wastes (Glade)|21|14|
+Milloric Wastes (Fallen Copse)¦Milloric_Wastes_(Fallen_Copse)¦Milloric Wastes¦|Milloric Wastes (Burrow)|3|3|;|Gildarath Pits (Bile)|14|20|
+Gildarath Pits (Bile)¦Gildarath_Pits_(Bile)¦Milloric Wastes¦|Milloric Wastes (Fallen Copse)|12|2|;|Gildarath Pits (Lash)|3|16|;World Area|Milloric Wastes|15|18|
+Gildarath Pits (Lash)¦Gildarath_Pits_(Lash)¦Milloric Wastes¦|Gildarath Pits (Bile)|18|2|;|Gildarath Pits (Quarry)|5|16|
+Gildarath Pits (Quarry)¦Gildarath_Pits_(Quarry)¦Milloric Wastes¦|Gildarath Pits (Lash)|4|2|;|Gildarath Pits (Bone Pit)|21|15|
+Gildarath Pits (Bone Pit)¦Gildarath_Pits_(Bone_Pit)¦Milloric Wastes¦|Gildarath Pits (Rubble)|6|1|;|Gildarath Pits (Quarry)|9|19|
+Gildarath Pits (Rubble)¦Gildarath_Pits_(Rubble)¦Milloric Wastes¦|Gildarath Pits (Scrabble)|14|4|;|Gildarath Pits (Bone Pit)|3|19|
+Gildarath Pits (Scrabble)¦Gildarath_Pits_(Scrabble)¦Milloric Wastes¦|Gildarath Pits (Ambush)|18|4|;|Gildarath Pits (Rubble)|2|16|
+Gildarath Pits (Ambush)¦Gildarath_Pits_(Ambush)¦Milloric Wastes¦|Gildarath Pits (Lair)|15|2|;|Gildarath Pits (Scrabble)|1|15|;|Nalonic Plains (Scrap)|17|17|
+Gildarath Pits (Lair)¦Gildarath_Pits_(Lair)¦Milloric Wastes¦|Gildarath Pits (Ambush)|4|8|
+Springtime Forest (Fey Grove)¦Springtime_Forest_(Fey_Grove)¦Krul Island¦|Springtime Forest (Outer Grove)|9|13|
+Nalonic Plains (Scrap)¦Nalonic_Plains_(Scrap)¦Nalonic Plains¦Relic|Blood Tick Nest|14|12|;|Gildarath Pits (Ambush)|14|2|;|Nalonic Plains (Haunt)|3|16|;World Area|Nalonic Plains|5|5|
+Nalonic Plains (Haunt)¦Nalonic_Plains_(Haunt)¦Nalonic Plains¦|Nalonic Plains (Scrap)|12|4|;|Nalonic Plains (Ice)|5|17|
+Nalonic Plains (Ice)¦Nalonic_Plains_(Ice)¦Nalonic Plains¦|Nalonic Plains (Soar)|16|3|;|Nalonic Plains (Haunt)|7|16|
+Nalonic Plains (Soar)¦Nalonic_Plains_(Soar)¦Nalonic Plains¦|Nalonic Plains (Ice)|12|2|;|Nalonic Plains (Caves)|4|15|
+Nalonic Plains (Caves)¦Nalonic_Plains_(Caves)¦Nalonic Plains¦|Nalonic Plains (Soar)|4|2|;|Nalonic Plains (Nests)|11|21|
+Nalonic Plains (Nests)¦Nalonic_Plains_(Nests)¦Nalonic Plains¦|Nalonic Plains (Tundra)|4|4|;|Nalonic Plains (Caves)|18|11|
+Nalonic Plains (Tundra)¦Nalonic_Plains_(Tundra)¦Nalonic Plains¦|Nalonic Plains (Nests)|10|2|;|Nalonic Plains (Hide)|12|17|
+Nalonic Plains (Hide)¦Nalonic_Plains_(Hide)¦Nalonic Plains¦|Nalonic Plains (Tundra)|2|6|;|Nalonic Plains (Wastes)|22|13|
+Nalonic Plains (Wastes)¦Nalonic_Plains_(Wastes)¦Nalonic Plains¦|Nalonic Plains (Hide)|17|3|;|Nalonic Plains (Tar Pools)|7|16|;Portal|Nalonic Portal|7|4|;World Area|Nalonic Plains|10|8|
+Nalonic Plains (Tar Pools)¦Nalonic_Plains_(Tar_Pools)¦Nalonic Plains¦|Nalonic Plains (Wastes)|15|2|;|Nalonic Plains (Tar Flats)|5|15|
+Nalonic Plains (Tar Flats)¦Nalonic_Plains_(Tar_Flats)¦Nalonic Plains¦Relic|Nalonic Tar Pit|14|5|;|Nalonic Plains (Tar Pools)|6|2|;|Nalonic Plains (Tar Bone Pits)|12|15|
+Nalonic Plains (Tar Bone Pits)¦Nalonic_Plains_(Tar_Bone_Pits)¦Nalonic Plains¦|Nalonic Plains (Tar Flats)|4|4|;|Nalonic Plains (Tar Gas Fields)|11|19|
+Nalonic Plains (Tar Gas Fields)¦Nalonic_Plains_(Tar_Gas_Fields)¦Nalonic Plains¦|Nalonic Plains (Thorns)|17|3|;|Nalonic Plains (Tar Bone Pits)|3|16|
+Nalonic Plains (Thorns)¦Nalonic_Plains_(Thorns)¦Nalonic Plains¦|Nalonic Plains (Tar Gas Fields)|2|2|;|Nalonic Plains (Graves)|15|18|
+Nalonic Plains (Graves)¦Nalonic_Plains_(Graves)¦Nalonic Plains¦|Nalonic Plains (Thorns)|4|4|;|Nalonic Plains (Huts)|13|17|
+Nalonic Plains (Huts)¦Nalonic_Plains_(Huts)¦Nalonic Plains¦|Nalonic Plains (Graves)|2|3|;|Nalonic Plains (Village)|12|18|
+Nalonic Plains (Village)¦Nalonic_Plains_(Village)¦Nalonic Plains¦|Nalonic Plains (Grind)|18|5|;|Nalonic Plains (Huts)|4|19|
+Nalonic Plains (Grind)¦Nalonic_Plains_(Grind)¦Nalonic Plains¦|Tiranok Necropolis (Boneyard)|3|5|;|Nalonic Plains (Village)|21|13|
+Tiranok Necropolis (Boneyard)¦Tiranok_Necropolis_(Boneyard)¦Nalonic Plains¦|Nalonic Plains (Grind)|12|1|;|Tiranok Necropolis (Crypt)|1|15|;Portal|Tiranok Portal|9|17|;World Area|Nalonic Plains|10|11|
+Tiranok Necropolis (Crypt)¦Tiranok_Necropolis_(Crypt)¦Nalonic Plains¦|Tiranok Necropolis (Boneyard)|15|4|;|Tiranok Necropolis (Orchard)|4|19|
+Tiranok Necropolis (Orchard)¦Tiranok_Necropolis_(Orchard)¦Nalonic Plains¦Relic|Tiranok Nightmare Tree|10|9|;|Tiranok Necropolis (Crypt)|4|2|;|Tiranok Necropolis (Cacophony)|19|17|
+Tiranok Necropolis (Cacophony)¦Tiranok_Necropolis_(Cacophony)¦Nalonic Plains¦|Tiranok Necropolis (Orchard)|3|5|;|Tiranok Necropolis (Soul Vaults)|17|12|
+Tiranok Necropolis (Soul Vaults)¦Tiranok_Necropolis_(Soul_Vaults)¦Nalonic Plains¦|Tiranok Necropolis (Horror)|15|5|;|Tiranok Necropolis (Cacophony)|3|15|
+Tiranok Necropolis (Horror)¦Tiranok_Necropolis_(Horror)¦Nalonic Plains¦|Tiranok Necropolis (Tombs)|12|3|;|Tiranok Necropolis (Soul Vaults)|5|18|
+Quango Island (Savannah)¦Quango_Island_(Savannah)¦Arrin Moors¦|Quango Island|12|11|;|Stages 1-4:|3|5|;|Stages 5-6:|22|9|;|Stage 7:|23|8|;|Stage 8:|23|9|;|Stage 9:|3|5|
+Tiranok Necropolis (Sepulchre)¦Tiranok_Necropolis_(Sepulchre)¦Nalonic Plains¦|Tiranok Necropolis (Tombs)|13|12|
+Tiranok Necropolis (Tombs)¦Tiranok_Necropolis_(Tombs)¦Nalonic Plains¦|Tiranok City (Gates)|17|2|;|Tiranok Necropolis (Sepulchre)|2|5|;|Tiranok Necropolis (Horror)|15|16|
+Tiranok City (Gates)¦Tiranok_City_(Gates)¦Tiranok City¦|Tiranok City (Walls)|17|2|;|Tiranok Necropolis (Tombs)|1|14|;World Area|Tiranok City|15|21|
+Tiranok City (Walls)¦Tiranok_City_(Walls)¦Tiranok City¦|Tiranok City (Range)|20|4|;|Tiranok City (Gates)|2|15|
+Tiranok City (Range)¦Tiranok_City_(Range)¦Tiranok City¦|Tiranok City (Mercenary Quarter)|7|2|;|Tiranok City (Walls)|20|12|
+Tiranok City (Mercenary Quarter)¦Tiranok_City_(Mercenary_Quarter)¦Tiranok City¦|Tiranok City (Guard Rooms)|13|3|;|Tiranok City (Range)|10|24|;Portal|Tiranok City Portal|10|6|
+Tiranok City (Guard Rooms)¦Tiranok_City_(Guard_Rooms)¦Tiranok City¦|Tiranok City (Square)|15|3|;|Tiranok City (Mercenary Quarter)|1|14|
+Tiranok City (Square)¦Tiranok_City_(Square)¦Tiranok City¦Relic|Tiranok Bonfire|3|2|;|Tiranok City (Zoo)|14|6|;|Tiranok City (Guard Rooms)|5|15|
+Tiranok City (Zoo)¦Tiranok_City_(Zoo)¦Tiranok City¦|Tiranok City (Warren)|3|2|;|Tiranok City (Square)|14|27|;World Area|Tiranok City|2|17|
+Tiranok City (Warren)¦Tiranok_City_(Warren)¦Tiranok City¦|Tiranok City (Haunt)|26|2|;|Tiranok City (Zoo)|7|12|
+Tiranok City (Haunt)¦Tiranok_City_(Haunt)¦Tiranok City¦|Tiranok City (Warren)|4|2|;|Tiranok City (Alchemy Quarter)|11|14|
+Tiranok City (Alchemy Quarter)¦Tiranok_City_(Alchemy_Quarter)¦Tiranok City¦|Tiranok City (Haunt)|3|5|;|Tiranok City (Work Yards)|16|16|
+Tiranok City (Work Yards)¦Tiranok_City_(Work_Yards)¦Tiranok City¦|Tiranok City (Alleys)|13|2|;|Tiranok City (Alchemy Quarter)|9|13|
+Tiranok City (Alleys)¦Tiranok_City_(Alleys)¦Tiranok City¦|Tiranok City (Work Yards)|2|8|;|Tiranok City (Guard Quarter)|22|18|;World Area|Tiranok City|18|1|
+Tiranok City (Guard Quarter)¦Tiranok_City_(Guard_Quarter)¦Tiranok City¦|Tiranok City (Barracks)|14|4|;|Tiranok City (Alleys)|3|20|
+Tiranok City (Barracks)¦Tiranok_City_(Barracks)¦Tiranok City¦|Tiranok City (Guard Quarter)|15|3|;|Tiranok City (Stables)|7|15|;Portal|Tiranok City Portal 2|4|8|
+Tiranok City (Stables)¦Tiranok_City_(Stables)¦Tiranok City¦|Tiranok City (Barracks)|5|3|;|Tiranok City (King's Quarter)|14|17|
+Tiranok City (King's Quarter)¦¦¦
+Tiranok Dungeons (Pit)¦Tiranok_Dungeons_(Pit)¦Tiranok City¦|Tiranok City (King's Quarter)|3|2|;|Tiranok Dungeons (Kennels)|14|12|;World Area|Tiranok City|7|14|
+Tiranok Dungeons (Kennels)¦Tiranok_Dungeons_(Kennels)¦Tiranok City¦|Tiranok Dungeons (Pit)|13|4|;|Tiranok Dungeons (Fae Cells)|2|15|
+Tiranok Dungeons (Fae Cells)¦Tiranok_Dungeons_(Fae_Cells)¦Tiranok City¦|Tiranok Dungeons (Creep)|12|3|;|Tiranok Dungeons (Kennels)|5|16|
+Tiranok Dungeons (Halls of Temptation)¦¦¦
+Tiranok Dungeons (Creep)¦Tiranok_Dungeons_(Creep)¦Tiranok City¦|Tiranok Dungeons (Halls of Temptation)|6|2|;|Tiranok Dungeons (Sewer)|17|15|
+Tiranok Dungeons (Sewer)¦Tiranok_Dungeons_(Sewer)¦Tiranok City¦|Tiranok Dungeons (Creep)|2|3|;|Tiranok Dungeons (Slime Lair)|16|17|
+Tiranok Dungeons (Slime Lair)¦Tiranok_Dungeons_(Slime_Lair)¦Tiranok City¦|Tiranok Dungeons (Sewer)|5|2|;|Tiranok Dungeons (Grey Chambers)|16|14|
+Tiranok Dungeons (Grey Chambers)¦Tiranok_Dungeons_(Grey_Chambers)¦Tiranok City¦|Tiranok Dungeons (Slime Lair)|3|5|;|Tiranok Dungeons (Coven Chambers)|17|14|;Portal|Tiranok Dungeons Portal|2|14|
+Tiranok Dungeons (Coven Chambers)¦Tiranok_Dungeons_(Coven_Chambers)¦Tiranok City¦|Tiranok Dungeons (Grey Chambers)|8|2|;|Yendarath Dungeon (Gate)|3|8|;|Tiranok Dungeons (Lair)|15|18|
+Tiranok Dungeons (Lair)¦Tiranok_Dungeons_(Lair)¦Tiranok City¦|Tiranok Dungeons (Coven Chambers)|13|13|
+Yendarath Dungeon (Gate)¦Yendarath_Dungeon_(Gate)¦Orbal Flats¦Relic|Ancient Sarcophagus|15|5|;|Tiranok Dungeons (Coven Chambers)|6|12|;|Yendarath Dungeon (Roots)|16|14|;World Area|Orbal Flats|5|2|
+Yendarath Dungeon (Roots)¦Yendarath_Dungeon_(Roots)¦Orbal Flats¦|Yendarath Dungeon (Gate)|4|4|;|Yendarath Dungeon (Haunt)|10|15|
+Yendarath Dungeon (Haunt)¦Yendarath_Dungeon_(Haunt)¦Orbal Flats¦|Yendarath Dungeon (Web)|5|2|;|Yendarath Dungeon (Roots)|17|21|
+Yendarath Dungeon (Web)¦Yendarath_Dungeon_(Web)¦Orbal Flats¦|Yendarath Dungeon (Haunt)|14|3|;|Yendarath Dungeon (Burrows)|2|8|
+Yendarath Dungeon (Burrows)¦Yendarath_Dungeon_(Burrows)¦Orbal Flats¦|Yendarath Dungeon (Dwelling)|16|5|;|Yendarath Dungeon (Web)|2|17|
+Yendarath Dungeon (Dwelling)¦Yendarath_Dungeon_(Dwelling)¦Orbal Flats¦|Yendarath Dungeon (Lair)|16|8|;|Yendarath Dungeon (Burrows)|2|10|
+Yendarath Dungeon (Lair)¦Yendarath_Dungeon_(Lair)¦Orbal Flats¦|Morth Plains (Scavenge)|16|3|;|Yendarath Dungeon (Dwelling)|3|17|
+Morth Plains (Scavenge)¦Morth_Plains_(Scavenge)¦Orbal Flats¦|Yendarath Dungeon (Lair)|3|3|;|Morth Plains (Winds)|20|14|;World Area|Orbal Flats|6|13|
+Morth Plains (Winds)¦Morth_Plains_(Winds)¦Orbal Flats¦|Morth Plains (Scavenge)|12|4|;|Morth Plains (Spirit)|4|21|;Portal|Morth Portal|14|17|
+Morth Plains (Spirit)¦Morth_Plains_(Spirit)¦Orbal Flats¦|Morth Plains (Flats)|4|3|;|Morth Plains (Winds)|13|13|
+Morth Plains (Flats)¦Morth_Plains_(Flats)¦Orbal Flats¦Relic|Flayer Shrine|3|18|;|Morth Plains (Scrub)|3|4|;|Morth Plains (Spirit)|14|19|
+Morth Plains (Scrub)¦Morth_Plains_(Scrub)¦Orbal Flats¦|Morth Plains (Flats)|2|3|;|Morth Plains (Pride)|15|14|
+Morth Plains (Pride)¦Morth_Plains_(Pride)¦Orbal Flats¦|Morth Plains (Ash)|12|4|;|Morth Plains (Scrub)|3|17|
+Morth Plains (Ash)¦Morth_Plains_(Ash)¦Orbal Flats¦|Morth Plains (Pride)|4|2|;|Morth Plains (Mists)|16|16|
+Morth Plains (Mists)¦Morth_Plains_(Mists)¦Orbal Flats¦|Morth Plains (Ash)|17|5|;|Morth Plains (Rock Fall)|3|14|
+Morth Plains (Rock Fall)¦Morth_Plains_(Rock_Fall)¦Orbal Flats¦|Orbal Flats (Edges)|2|4|;|Morth Plains (Mists)|15|15|
+Orbal Flats (Edges)¦Orbal_Flats_(Edges)¦Orbal Flats¦|Orbal Flats (Scout)|15|5|;|Morth Plains (Rock Fall)|4|18|;World Area|Orbal Flats|3|4|
+Orbal Flats (Scout)¦Orbal_Flats_(Scout)¦Orbal Flats¦|Orbal Flats (Edges)|2|4|;|Orbal Flats (Brute)|17|18|
+Orbal Flats (Brute)¦Orbal_Flats_(Brute)¦Orbal Flats¦|Orbal Flats (Range)|19|2|;|Orbal Flats (Scout)|17|19|;Portal|Orbal Portal|11|17|
+Orbal Flats (Range)¦Orbal_Flats_(Range)¦Orbal Flats¦|Orbal Flats (Frenzy)|14|3|;|Orbal Flats (Brute)|3|15|
+Orbal Flats (Frenzy)¦Orbal_Flats_(Frenzy)¦Orbal Flats¦Relic|Savage Orc Idol|13|6|;|Orbal Flats (Range)|4|2|;|Orbal Flats (Magic)|17|19|
+Orbal Flats (Magic)¦Orbal_Flats_(Magic)¦Orbal Flats¦|Orbal Flats (Frenzy)|2|3|;|Orbal Flats (Spore)|2|14|
+Orbal Flats (Spore)¦Orbal_Flats_(Spore)¦Orbal Flats¦|Orbal Flats (Razorfist)|6|5|;|Orbal Flats (Magic)|3|21|;World Area|Orbal Flats|12|7|
+Orbal Flats (Razorfist)¦Orbal_Flats_(Razorfist)¦Orbal Flats¦|Orbal Flats (Thornvine)|23|5|;|Orbal Flats (Spore)|2|11|
+Orbal Flats (Fallen Grove)¦Orbal_Flats_(Fallen_Grove)¦Orbal Flats¦|Orbal Flats (Thornvine)|12|12|
+Orbal Flats (Thornvine)¦Orbal_Flats_(Thornvine)¦Orbal Flats¦|Orbal Flats (Razorfist)|3|2|;|Orbal Flats (Fallen Grove)|17|4|;|Uultar Tundra (Slime)|13|12|
+Uultar Tundra (Slime)¦Uultar_Tundra_(Slime)¦Boffid Cave Networks¦|Uultar Tundra (Terror)|4|6|;|Orbal Flats (Thornvine)|17|15|;World Area|Boffid Cave Networks|11|5|
+Uultar Tundra (Terror)¦Uultar_Tundra_(Terror)¦Boffid Cave Networks¦|Uultar Tundra (Slime)|12|4|;|Uultar Tundra (Ice)|5|16|
+Uultar Tundra (Ice)¦Uultar_Tundra_(Ice)¦Boffid Cave Networks¦|Uultar Tundra (Blood)|3|2|;|Uultar Tundra (Terror)|15|14|
+Uultar Tundra (Blood)¦Uultar_Tundra_(Blood)¦Boffid Cave Networks¦|Uultar Tundra (Edge)|15|2|;|Uultar Tundra (Ice)|2|17|;Portal|Uultar Portal|6|4|
+Uultar Tundra (Edge)¦Uultar_Tundra_(Edge)¦Boffid Cave Networks¦|Uultar Tundra (Blood)|4|3|;|Uultar Tundra (Smash)|16|16|
+Uultar Tundra (Smash)¦Uultar_Tundra_(Smash)¦Boffid Cave Networks¦Relic|Bonegwar Totem|5|3|;|Uultar Tundra (Edge)|19|2|;|Uultar Tundra (Grind)|2|13|
+Uultar Tundra (Grind)¦Uultar_Tundra_(Grind)¦Boffid Cave Networks¦|Uultar Tundra (Smash)|13|2|;|Uultar Tundra (Grasses)|5|15|;World Area|Boffid Cave Networks|13|14|
+Uultar Tundra (Grasses)¦Uultar_Tundra_(Grasses)¦Boffid Cave Networks¦|Uultar Tundra (Grind)|4|3|;|Uultar Tundra (Plague)|19|13|
+Uultar Tundra (Plague)¦Uultar_Tundra_(Plague)¦Boffid Cave Networks¦|Uultar Tundra (Thorn)|4|2|;|Uultar Tundra (Grasses)|11|22|
+Uultar Tundra (Thorn)¦Uultar_Tundra_(Thorn)¦Boffid Cave Networks¦|Uultar Tundra (Scrub)|16|5|;|Uultar Tundra (Plague)|4|17|
+Uultar Tundra (Scrub)¦Uultar_Tundra_(Scrub)¦Boffid Cave Networks¦|Uultar Tundra (Thorn)|4|2|;|Boffid Caves (Mouth)|12|16|
+Boffid Caves (Mouth)¦Boffid_Caves_(Mouth)¦Boffid Cave Networks¦|Uultar Tundra (Scrub)|4|2|;|Boffid Caves (Skitter)|10|13|;World Area|Boffid Cave Networks|13|6|
+Boffid Caves (Skitter)¦Boffid_Caves_(Skitter)¦Boffid Cave Networks¦|Boffid Caves (Mouth)|14|7|;|Boffid Caves (Chill)|4|15|
+Boffid Caves (Chill)¦Boffid_Caves_(Chill)¦Boffid Cave Networks¦|Boffid Caves (Skitter)|18|5|;|Boffid Caves (Sting)|5|15|;Portal|Boffid Portal|5|4|
+Boffid Caves (Sting)¦Boffid_Caves_(Sting)¦Boffid Cave Networks¦|Boffid Caves (Deposits)|13|4|;|Boffid Caves (Chill)|2|15|
+Boffid Caves (Deposits)¦Boffid_Caves_(Deposits)¦Boffid Cave Networks¦Relic|Inert Elemental|3|6|;|Boffid Caves (Sting)|18|2|;|Boffid Caves (Stone)|3|15|
+Boffid Caves (Stone)¦Boffid_Caves_(Stone)¦Boffid Cave Networks¦|Boffid Caves (Shimmer)|15|2|;|Boffid Caves (Deposits)|2|14|
+Boffid Caves (Shimmer)¦Boffid_Caves_(Shimmer)¦Boffid Cave Networks¦|Boffid Caves (Pools)|5|4|;|Boffid Caves (Stone)|12|18|
+Boffid Caves (Pools)¦Boffid_Caves_(Pools)¦Boffid Cave Networks¦|Boffid Caves (Shimmer)|5|8|;|Boffid Caves (Shallows)|22|13|;World Area|Boffid Cave Networks|12|3|
+Boffid Caves (Shallows)¦Boffid_Caves_(Shallows)¦Boffid Cave Networks¦|Boffid Caves (Pools)|3|3|;|Boffid Caves (Sludge)|16|16|
+Boffid Caves (Sludge)¦Boffid_Caves_(Sludge)¦Boffid Cave Networks¦|Boffid Caves (Stalk)|11|3|;|Boffid Caves (Shallows)|3|16|
+Boffid Caves (Stalk)¦Boffid_Caves_(Stalk)¦Boffid Cave Networks¦|Boffid Caves (Haunt)|3|5|;|Boffid Caves (Sludge)|14|16|
+Boffid Caves (Haunt)¦Boffid_Caves_(Haunt)¦Boffid Cave Networks¦|Boffid Caves (Stalk)|12|3|;|Boffid Caves (Darkness)|2|14|
+Boffid Caves (Darkness)¦Boffid_Caves_(Darkness)¦Boffid Cave Networks¦|Boffid Caves (Haunt)|2|3|;|Boffid Caves (Slime)|16|14|;Portal|Boffid Caves Portal|5|11|
+Boffid Caves (Goo Cave)¦Boffid_Caves_(Goo_Cave)¦Boffid Cave Networks¦|Boffid Caves (Slime)|6|6|
+Boffid Caves (Slime)¦Boffid_Caves_(Slime)¦Boffid Cave Networks¦|Boffid Caves (Darkness)|4|3|;|Yannick Dungeon (Slick)|2|16|;|Boffid Caves (Goo Cave)|15|16|
+Yannick Dungeon (Slick)¦Yannick_Dungeon_(Slick)¦Politark Wastes¦Relic|Ghostly Font|15|16|;|Boffid Caves (Slime)|14|2|;|Yannick Dungeon (Crypt)|4|19|;World Area|Politark Wastes|6|8|
+Yannick Dungeon (Crypt)¦Yannick_Dungeon_(Crypt)¦Politark Wastes¦|Yannick Dungeon (Roost)|17|2|;|Yannick Dungeon (Slick)|6|16|
+Yannick Dungeon (Roost)¦Yannick_Dungeon_(Roost)¦Politark Wastes¦|Yannick Dungeon (Warren)|16|2|;|Yannick Dungeon (Crypt)|3|13|
+Yannick Dungeon (Warren)¦Yannick_Dungeon_(Warren)¦Politark Wastes¦|Yannick Dungeon (Roost)|3|5|;|Yannick Dungeon (Slime)|19|15|
+Yannick Dungeon (Slime)¦Yannick_Dungeon_(Slime)¦Politark Wastes¦|Yannick Dungeon (Cairn)|18|2|;|Yannick Dungeon (Warren)|3|17|
+Yannick Dungeon (Cairn)¦Yannick_Dungeon_(Cairn)¦Politark Wastes¦|Yannick Dungeon (Slime)|18|2|;|Ganork Burrows (Nursery)|5|20|
+Ganork Burrows (Nursery)¦Ganork_Burrows_(Nursery)¦Politark Wastes¦|Yannick Dungeon (Cairn)|13|2|;|Ganork Burrows (Court)|5|16|;World Area|Politark Wastes|15|12|
+Ganork Burrows (Court)¦Ganork_Burrows_(Court)¦Politark Wastes¦|Ganork Burrows (Nursery)|4|2|;|Ganork Burrows (Guard Post)|6|22|
+Ganork Burrows (Guard Post)¦Ganork_Burrows_(Guard_Post)¦Politark Wastes¦|Ganork Burrows (Court)|2|8|;|Ganork Burrows (Barracks)|21|8|;Portal|Ganork Portal|10|3|
+Ganork Burrows (Barracks)¦Ganork_Burrows_(Barracks)¦Politark Wastes¦|Ganork Burrows (Guard Post)|4|3|;|Ganork Burrows (Halls)|15|18|
+Ganork Burrows (Halls)¦Ganork_Burrows_(Halls)¦Politark Wastes¦Relic|Suspicious Pit|14|4|;|Ganork Burrows (Gate)|4|2|;|Ganork Burrows (Barracks)|16|20|
+Ganork Burrows (Gate)¦Ganork_Burrows_(Gate)¦Politark Wastes¦|Ganork Burrows (Halls)|15|3|;|Ganork Hive (Entrance)|2|19|
+Ganork Hive (Entrance)¦Ganork_Hive_(Entrance)¦Politark Wastes¦|Ganork Burrows (Gate)|5|3|;|Ganork Hive (Outskirts)|17|19|
+Ganork Hive (Outskirts)¦Ganork_Hive_(Outskirts)¦Politark Wastes¦|Ganork Hive (Entrance)|16|5|;|Politark Wastes (Hunt)|3|16|
+Politark Wastes (Hunt)¦Politark_Wastes_(Hunt)¦Politark Wastes¦|Ganork Hive (Outskirts)|3|4|;|Politark Wastes (Rocks)|26|13|;World Area|Politark Wastes|23|5|
+Politark Wastes (Rocks)¦Politark_Wastes_(Rocks)¦Politark Wastes¦|Politark Wastes (Hunt)|3|5|;|Politark Wastes (Slither)|15|19|
+Politark Wastes (Slither)¦Politark_Wastes_(Slither)¦Politark Wastes¦|Politark Wastes (Rocks)|21|4|;|Politark Wastes (Winds)|4|14|
+Politark Wastes (Winds)¦Politark_Wastes_(Winds)¦Politark Wastes¦|Politark Wastes (Slither)|3|4|;|Politark Wastes (Stalk)|19|19|
+Politark Wastes (Stalk)¦Politark_Wastes_(Stalk)¦Politark Wastes¦|Politark Wastes (Dead Orchard)|4|4|;|Politark Wastes (Winds)|16|20|;Portal|Politark Portal|7|19|
+Politark Wastes (Dead Orchard)¦Politark_Wastes_(Dead_Orchard)¦Politark Wastes¦|Politark Wastes (Stalk)|4|4|;|Politark Wastes (Graves)|18|17|
+Politark Wastes (Graves)¦Politark_Wastes_(Graves)¦Politark Wastes¦Relic|Weird Plant Cluster|12|5|;|Politark Wastes (Giants Haunt)|3|4|;|Politark Wastes (Dead Orchard)|15|15|
+Politark Wastes (Giants Haunt)¦Politark_Wastes_(Giants_Haunt)¦Politark Wastes¦|Politark Wastes (Graves)|3|4|;|Politark Wastes (Scorch)|13|24|;World Area|Politark Wastes|3|15|
+Politark Wastes (Scorch)¦Politark_Wastes_(Scorch)¦Politark Wastes¦|Politark Wastes (Caves)|16|2|;|Politark Wastes (Giants Haunt)|4|17|
+Politark Wastes (Caves)¦Politark_Wastes_(Caves)¦Politark Wastes¦|Politark Wastes (Scorch)|5|4|;|Politark Wastes (Village)|24|12|
+Politark Wastes (Lair)¦Politark_Wastes_(Lair)¦Politark Wastes¦|Politark Wastes (Village)|3|12|
+Politark Wastes (Village)¦Politark_Wastes_(Village)¦Politark Wastes¦|Politark Wastes (Lair)|6|4|;|Awtier Savannah (Flats)|4|10|;|Politark Wastes (Caves)|18|20|
+Awtier Savannah (Flats)¦Awtier_Savannah_(Flats)¦Silatrip Swamp¦|Awtier Savannah (Stalk)|14|3|;|Politark Wastes (Village)|4|18|;World Area|Silatrip Swamp|6|7|
+Awtier Savannah (Stalk)¦Awtier_Savannah_(Stalk)¦Silatrip Swamp¦|Awtier Savannah (Flats)|4|3|;|Awtier Savannah (Grasses)|12|22|
+Awtier Savannah (Grasses)¦Awtier_Savannah_(Grasses)¦Silatrip Swamp¦|Awtier Savannah (Prowl)|21|7|;|Awtier Savannah (Stalk)|4|13|
+Awtier Savannah (Prowl)¦Awtier_Savannah_(Prowl)¦Silatrip Swamp¦|Awtier Savannah (Grasses)|10|2|;|Awtier Savannah (Graze)|7|13|;Portal|Awtier Portal|14|7|
+Awtier Savannah (Graze)¦Awtier_Savannah_(Graze)¦Silatrip Swamp¦|Awtier Savannah (Prowl)|2|2|;|Awtier Savannah (Rocks)|15|20|
+Awtier Savannah (Rocks)¦Awtier_Savannah_(Rocks)¦Silatrip Swamp¦Relic|Hornbuck Corpse|11|14|;|Awtier Savannah (Graze)|14|2|;|Awtier Savannah (Herd)|3|13|;World Area|Silatrip Swamp|3|7|
+Awtier Savannah (Herd)¦Awtier_Savannah_(Herd)¦Silatrip Swamp¦|Awtier Savannah (Rocks)|18|3|;|Awtier Savannah (Flight)|6|12|
+Awtier Savannah (Flight)¦Awtier_Savannah_(Flight)¦Silatrip Swamp¦|Awtier Savannah (Herd)|6|4|;|Awtier Savannah (Slither)|21|21|
+Awtier Savannah (Slither)¦Awtier_Savannah_(Slither)¦Silatrip Swamp¦|Awtier Savannah (Flight)|2|2|;|Awtier Savannah (Haunt)|16|14|
+Awtier Savannah (Haunt)¦Awtier_Savannah_(Haunt)¦Silatrip Swamp¦|Awtier Savannah (Slither)|3|3|;|Silatrip Swamp (Marsh)|14|14|
+Silatrip Swamp (Marsh)¦Silatrip_Swamp_(Marsh)¦Silatrip Swamp¦|Awtier Savannah (Haunt)|13|3|;|Silatrip Swamp (Pools)|7|22|;World Area|Silatrip Swamp|3|5|
+Silatrip Swamp (Pools)¦Silatrip_Swamp_(Pools)¦Silatrip Swamp¦|Silatrip Swamp (Marsh)|14|3|;|Silatrip Swamp (Lagoon)|4|15|
+Silatrip Swamp (Lagoon)¦Silatrip_Swamp_(Lagoon)¦Silatrip Swamp¦|Silatrip Swamp (Pools)|3|3|;|Silatrip Swamp (Poison)|20|13|
+Silatrip Swamp (Poison)¦Silatrip_Swamp_(Poison)¦Silatrip Swamp¦|Silatrip Swamp (Haunt)|3|3|;|Silatrip Swamp (Lagoon)|13|20|;Portal|Silatrip Portal|12|8|
+Silatrip Swamp (Haunt)¦Silatrip_Swamp_(Haunt)¦Silatrip Swamp¦|Silatrip Swamp (Poison)|8|2|;|Silatrip Swamp (Maw)|18|18|
+Silatrip Swamp (Maw)¦Silatrip_Swamp_(Maw)¦Silatrip Swamp¦Relic|Maw Toad Lair|10|4|;|Silatrip Swamp (Haunt)|2|2|;|Silatrip Swamp (Grove)|13|12|
+Silatrip Swamp (Grove)¦Silatrip_Swamp_(Grove)¦Silatrip Swamp¦|Silatrip Swamp (Gas)|12|2|;|Silatrip Swamp (Maw)|6|15|
+Silatrip Swamp (Gas)¦Silatrip_Swamp_(Gas)¦Silatrip Swamp¦|Silatrip Swamp (Pox)|11|4|;|Silatrip Swamp (Grove)|3|10|;World Area|Silatrip Swamp|9|9|
+Silatrip Swamp (Pox)¦Silatrip_Swamp_(Pox)¦Silatrip Swamp¦|Silatrip Swamp (Gas)|18|3|;|Silatrip Swamp (Plague)|2|18|
+Silatrip Swamp (Plague)¦Silatrip_Swamp_(Plague)¦Silatrip Swamp¦|Silatrip Swamp (Pox)|4|2|;|Silatrip Swamp (Shroud)|14|16|
+Silatrip Swamp (Shroud)¦Silatrip_Swamp_(Shroud)¦Silatrip Swamp¦|Silatrip Swamp (Plague)|13|3|;|Silatrip Swamp (Bog)|5|12|
+Silatrip Swamp (Bog)¦Silatrip_Swamp_(Bog)¦Silatrip Swamp¦|Silatrip Swamp (Copse)|18|3|;|Silatrip Swamp (Shroud)|4|16|
+Silatrip Swamp (Copse)¦Silatrip_Swamp_(Copse)¦Silatrip Swamp¦|Silatrip Swamp (Bog)|3|3|;|Silatrip Swamp (Shallows)|14|17|
+Silatrip Swamp (Shallows)¦Silatrip_Swamp_(Shallows)¦Silatrip Swamp¦|Silatrip Swamp (Copse)|6|2|;|Silatrip Swamp (Morass)|8|22|;Portal|Silatrip Swamp Portal|6|11|
+Silatrip Swamp (Lair)¦Silatrip_Swamp_(Lair)¦Silatrip Swamp¦|Silatrip Swamp (Morass)|6|11|
+Silatrip Swamp (Morass)¦Silatrip_Swamp_(Morass)¦Silatrip Swamp¦|Silatrip Swamp (Lair)|17|3|;|Silatrip Swamp (Shallows)|2|11|;|Feranoth Coast (Skitter)|17|16|
+Feranoth Coast (Skitter)¦Feranoth_Coast_(Skitter)¦Kendarar Wilds¦Relic|Ice Crab Carpace|17|3|;|Silatrip Swamp (Morass)|7|3|;|Feranoth Coast (Crawl)|16|18|;World Area|Kendarar Wilds|16|8|
+Feranoth Coast (Crawl)¦Feranoth_Coast_(Crawl)¦Kendarar Wilds¦|Feranoth Coast (Skitter)|16|6|;|Feranoth Coast (Pod)|11|17|
+Feranoth Coast (Pod)¦Feranoth_Coast_(Pod)¦Kendarar Wilds¦|Feranoth Coast (Crawl)|19|2|;|Feranoth Coast (Leaper)|5|13|
+Feranoth Coast (Leaper)¦Feranoth_Coast_(Leaper)¦Kendarar Wilds¦|Feranoth Coast (Pod)|14|3|;|Feranoth Coast (Stalk)|3|16|
+Feranoth Coast (Stalk)¦Feranoth_Coast_(Stalk)¦Kendarar Wilds¦|Feranoth Coast (Leaper)|14|2|;|Feranoth Coast (Breech)|3|20|
+Feranoth Coast (Breech)¦Feranoth_Coast_(Breech)¦Kendarar Wilds¦|Feranoth Coast (Stalk)|19|5|;|Feranoth Coast (Herd)|3|14|
+Feranoth Coast (Herd)¦Feranoth_Coast_(Herd)¦Kendarar Wilds¦|Feranoth Coast (Grasp)|15|2|;|Feranoth Coast (Breech)|5|13|
+Feranoth Coast (Grasp)¦Feranoth_Coast_(Grasp)¦Kendarar Wilds¦|Feranoth Coast (Herd)|4|3|;|Feranoth Coast (Beach)|13|16|
+Feranoth Coast (Beach)¦Feranoth_Coast_(Beach)¦Kendarar Wilds¦|Feranoth Coast (Grasp)|4|4|;|Feranoth Coast (Hunt)|16|18|;Portal|Feranoth Portal|12|5|;World Area|Kendarar Wilds|5|13|
+Feranoth Coast (Hunt)¦Feranoth_Coast_(Hunt)¦Kendarar Wilds¦|Feranoth Coast (Soar)|8|4|;|Feranoth Coast (Beach)|18|13|
+Feranoth Coast (Soar)¦Feranoth_Coast_(Soar)¦Kendarar Wilds¦Relic|Dread Claw Nest|5|14|;|Feranoth Coast (Depths)|2|2|;|Feranoth Coast (Hunt)|15|15|
+Feranoth Coast (Depths)¦Feranoth_Coast_(Depths)¦Kendarar Wilds¦|Feranoth Coast (Dread)|11|2|;|Feranoth Coast (Soar)|2|22|
+Feranoth Coast (Dread)¦Feranoth_Coast_(Dread)¦Kendarar Wilds¦|Feranoth Coast (Depths)|13|2|;|Feranoth Coast (Floe)|3|13|
+Feranoth Coast (Floe)¦Feranoth_Coast_(Floe)¦Kendarar Wilds¦|Feranoth Coast (Dread)|13|3|;|Feranoth Coast (Strike)|2|16|
+Feranoth Coast (Strike)¦Feranoth_Coast_(Strike)¦Kendarar Wilds¦|Feranoth Coast (Floe)|3|2|;|Kendarar Wilds (Webs)|23|15|
+Kendarar Wilds (Webs)¦Kendarar_Wilds_(Webs)¦Kendarar Wilds¦|Kendarar Wilds (Edge)|3|1|;|Feranoth Coast (Strike)|13|15|;World Area|Kendarar Wilds|15|4|
+Kendarar Wilds (Edge)¦Kendarar_Wilds_(Edge)¦Kendarar Wilds¦|Kendarar Wilds (Battlefield)|14|4|;|Kendarar Wilds (Webs)|4|17|
+Kendarar Wilds (Battlefield)¦Kendarar_Wilds_(Battlefield)¦Kendarar Wilds¦|Kendarar Wilds (Edge)|4|4|;|Kendarar Wilds (Cairns)|16|13|
+Kendarar Wilds (Cairns)¦Kendarar_Wilds_(Cairns)¦Kendarar Wilds¦|Kendarar Wilds (Battlefield)|3|4|;|Kendarar Wilds (Glacier)|14|15|;Portal|Kendarar Portal|2|12|
+Kendarar Wilds (Glacier)¦Kendarar_Wilds_(Glacier)¦Kendarar Wilds¦|Kendarar Wilds (Cairns)|13|1|;|Kendarar Wilds (Graze)|4|17|
+Kendarar Wilds (Graze)¦Kendarar_Wilds_(Graze)¦Kendarar Wilds¦Relic|Frozen Pillars of Kendarar|15|14|;|Kendarar Wilds (Glacier)|15|4|;|Kendarar Wilds (Herd)|3|12|
+Kendarar Wilds (Herd)¦Kendarar_Wilds_(Herd)¦Kendarar Wilds¦|Kendarar Wilds (Graze)|13|1|;|Kendarar Wilds (Prowl)|4|16|;World Area|Kendarar Wilds|4|8|
+Kendarar Wilds (Prowl)¦Kendarar_Wilds_(Prowl)¦Kendarar Wilds¦|Kendarar Wilds (Herd)|15|4|;|Kendarar Wilds (Farm)|6|21|
+Kendarar Wilds (Farm)¦Kendarar_Wilds_(Farm)¦Kendarar Wilds¦|Kendarar Wilds (Prowl)|18|2|;|Kendarar Wilds (Flats)|2|15|
+Forest of Yule (Bone Loch)¦Forest_of_Yule_(Bone_Loch)¦Krul Island¦|Forest of Yule (Rattling Spines)|9|17|;|Stages 4-6:|9|14|
+Forest of Yule (Rattling Spines)¦Forest_of_Yule_(Rattling_Spines)¦Krul Island¦|Forest of Yule (Bone Loch)|14|3|;|Forest of Yule (Clearing)|10|14|;|Stage 1:|10|12|;|Stage 2:|2|7|;|Stage 3:|11|4|;|Stage 7:|11|4|
+Kendarar Wilds (Flats)¦Kendarar_Wilds_(Flats)¦Kendarar Wilds¦|Kendarar Wilds (Ritual)|20|2|;|Kendarar Wilds (Farm)|5|14|;|Lackter Forest (Copse)|20|15|
+Kendarar Wilds (Ritual)¦Kendarar_Wilds_(Ritual)¦Kendarar Wilds¦|Kendarar Wilds (Flats)|8|7|

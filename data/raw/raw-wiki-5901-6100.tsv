@@ -1,0 +1,210 @@
+Worritoth Wastes (Range)¦Worritoth_Wastes_(Range)¦Opticot Desert¦|Worritoth Wastes (Savannah)|15|4|;|Jorikorm Caves (Haunt)|2|17|;World Area|Opticot Desert|4|4|
+Worritoth Wastes (Savannah)¦Worritoth_Wastes_(Savannah)¦Opticot Desert¦|Worritoth Wastes (Fields)|3|4|;|Worritoth Wastes (Range)|17|13|
+Worritoth Wastes (Fields)¦Worritoth_Wastes_(Fields)¦Opticot Desert¦|Worritoth Wastes (Soar)|11|4|;|Worritoth Wastes (Savannah)|5|19|
+Worritoth Wastes (Soar)¦Worritoth_Wastes_(Soar)¦Opticot Desert¦|Worritoth Wastes (Grasses)|8|2|;|Worritoth Wastes (Fields)|11|17|;Portal|Worritoth Portal|4|12|
+Worritoth Wastes (Grasses)¦Worritoth_Wastes_(Grasses)¦Opticot Desert¦|Worritoth Wastes (Soar)|3|2|;|Worritoth Wastes (Tunnels)|18|18|
+Worritoth Wastes (Tunnels)¦Worritoth_Wastes_(Tunnels)¦Opticot Desert¦Relic|Worritoth Deathworm Burrow|14|3|;|Worritoth Wastes (Grasses)|3|2|;|Borrinot Islands (Pride)|13|13|
+Borrinot Islands (Pride)¦Borrinot_Islands_(Pride)¦Opticot Desert¦|Borrinot Islands (Slither)|14|2|;|Worritoth Wastes (Tunnels)|3|31|;World Area|Opticot Desert|3|15|
+Borrinot Islands (Slither)¦Borrinot_Islands_(Slither)¦Opticot Desert¦|Borrinot Islands (Pride)|2|2|;|Borrinot Islands (Heath)|31|13|
+Borrinot Islands (Heath)¦Borrinot_Islands_(Heath)¦Opticot Desert¦|Borrinot Islands (Range)|3|3|;|Borrinot Islands (Slither)|13|15|
+Borrinot Islands (Range)¦Borrinot_Islands_(Range)¦Opticot Desert¦|Borrinot Islands (Heath)|2|2|;|Borrinot Islands (Dojo)|2|17|
+Borrinot Islands (Dojo)¦Borrinot_Islands_(Dojo)¦Opticot Desert¦|Borrinot Islands (Range)|2|4|;|Borrinot Islands (Masters Isle)|18|16|
+Borrinot Islands (Masters Isle)¦Borrinot_Islands_(Masters_Isle)¦Opticot Desert¦|Opticot Canyons (Village)|20|3|;|Borrinot Islands (Dojo)|4|20|
+Opticot Canyons (Village)¦Opticot_Canyons_(Village)¦Opticot Desert¦|Borrinot Islands (Masters Isle)|30|2|;|Opticot Canyons (Scree)|2|8|;World Area|Opticot Desert|17|12|
+Opticot Canyons (Scree)¦Opticot_Canyons_(Scree)¦Opticot Desert¦|Opticot Canyons (Village)|2|2|;|Opticot Canyons (Nursery)|14|31|;Portal|Opticot Portal|14|5|
+Opticot Canyons (Nursery)¦Opticot_Canyons_(Nursery)¦Opticot Desert¦|Opticot Canyons (Scree)|17|3|;|Opticot Canyons (Prowl)|2|16|
+Opticot Canyons (Prowl)¦Opticot_Canyons_(Prowl)¦Opticot Desert¦Relic|Opticot Tomb|5|24|;|Opticot Canyons (Nursery)|4|3|;|Opticot Canyons (Lair)|10|32|
+Opticot Canyons (Lair)¦Opticot_Canyons_(Lair)¦Opticot Desert¦|Opticot Canyons (Prowl)|5|2|;|Opticot Canyons (Caves)|28|13|
+Opticot Canyons (Caves)¦Opticot_Canyons_(Caves)¦Opticot Desert¦|Opticot Canyons (Element Fields)|3|2|;|Opticot Canyons (Lair)|15|14|
+Opticot Canyons (Element Fields)¦Opticot_Canyons_(Element_Fields)¦Opticot Desert¦|Opticot Canyons (Thermals)|2|2|;|Opticot Canyons (Caves)|13|25|
+Opticot Canyons (Thermals)¦Opticot_Canyons_(Thermals)¦Opticot Desert¦|Opticot Canyons (Element Fields)|4|2|;|Opticot Canyons (Crawl)|17|21|
+Opticot Canyons (Crawl)¦Opticot_Canyons_(Crawl)¦Opticot Desert¦|Opticot Canyons (Thermals)|14|2|;|Opticot City (Gates)|2|15|
+Opticot City (Gates)¦Opticot_City_(Gates)¦Opticot Desert¦|Opticot Canyons (Crawl)|3|1|;|Opticot City (Streets)|13|37|;World Area|Opticot Desert|8|12|
+Opticot City (Streets)¦Opticot_City_(Streets)¦Opticot Desert¦|Opticot City (Market)|36|1|;|Opticot City (Gates)|2|11|
+Opticot City (Market)¦Opticot_City_(Market)¦Opticot Desert¦|Opticot City (Streets)|14|4|;|Opticot City (Centre)|1|14|;Portal|Opticot City Portal|5|5|
+Opticot City (Centre)¦Opticot_City_(Centre)¦Opticot Desert¦|Opticot City (Court)|2|1|;|Koralith Desert (Skies)|12|14|;|Opticot City (Market)|17|16|
+Opticot City (Court)¦Opticot_City_(Court)¦Opticot Desert¦|Opticot City (Centre)|10|6|
+Koralith Desert (Skies)¦Koralith_Desert_(Skies)¦The Koralith Desert¦Relic|Koralith Trader Wreck|14|2|;|Koralith Desert (Soar)|3|5|;|Opticot City (Centre)|20|12|;World Area|The Koralith Desert|4|13|
+Koralith Desert (Soar)¦Koralith_Desert_(Soar)¦The Koralith Desert¦|Koralith Desert (Skies)|2|3|;|Koralith Desert (Trail)|14|22|
+Koralith Desert (Trail)¦Koralith_Desert_(Trail)¦The Koralith Desert¦|Koralith Desert (Soar)|12|2|;|Koralith Desert (Ambush)|3|15|
+Koralith Desert (Ambush)¦Koralith_Desert_(Ambush)¦The Koralith Desert¦|Koralith Desert (Trail)|12|2|;|Koralith Desert (Range)|2|15|
+Koralith Desert (Range)¦Koralith_Desert_(Range)¦The Koralith Desert¦|Koralith Desert (Ambush)|4|2|;|Koralith Desert (Crawl)|22|14|
+Koralith Desert (Crawl)¦Koralith_Desert_(Crawl)¦The Koralith Desert¦|Koralith Desert (Range)|14|2|;|Koralith Desert (Drift)|2|9|;World Area|The Koralith Desert|8|11|
+Koralith Desert (Drift)¦Koralith_Desert_(Drift)¦The Koralith Desert¦|Koralith Desert (Crawl)|13|2|;|Koralith Desert (Skuttle)|4|15|
+Koralith Desert (Skuttle)¦Koralith_Desert_(Skuttle)¦The Koralith Desert¦|Koralith Desert (Drift)|5|2|;|Koralith Desert (Dunes)|17|15|
+Koralith Desert (Dunes)¦Koralith_Desert_(Dunes)¦The Koralith Desert¦|Koralith Desert (Winds)|21|3|;|Koralith Desert (Skuttle)|2|14|;Portal|Koralith Portal|8|16|
+Koralith Desert (Winds)¦Koralith_Desert_(Winds)¦The Koralith Desert¦|Koralith Desert (Dunes)|17|2|;|Koralith Desert (Webs)|2|9|
+Koralith Desert (Webs)¦Koralith_Desert_(Webs)¦The Koralith Desert¦Relic|Koralith Oasis|12|2|;|Koralith Desert (Winds)|4|2|;|Koralith Desert (Rocks)|16|19|
+Koralith Desert (Rocks)¦Koralith_Desert_(Rocks)¦The Koralith Desert¦|Koralith Desert (Slither)|14|3|;|Koralith Desert (Webs)|2|14|
+Koralith Desert (Slither)¦Koralith_Desert_(Slither)¦The Koralith Desert¦|Koralith Desert (Rocks)|2|3|;|Koralith Desert (Slick)|14|21|;World Area|The Koralith Desert|2|14|
+Koralith Desert (Slick)¦Koralith_Desert_(Slick)¦The Koralith Desert¦|Koralith Desert (Slither)|2|2|;|Koralith Desert (Roots)|21|14|
+Koralith Desert (Roots)¦Koralith_Desert_(Roots)¦The Koralith Desert¦|Koralith Desert (Slick)|3|4|;|Koralith Desert (Lair)|17|17|
+Koralith Desert (Lair)¦Koralith_Desert_(Lair)¦The Koralith Desert¦|Koralith Desert (Roots)|4|2|;|Koralith Desert (Sands)|18|15|
+Koralith Desert (Sands)¦Koralith_Desert_(Sands)¦The Koralith Desert¦|Koralith Desert (Lair)|7|2|;|Tornak Swamp (Fens)|10|17|
+Tornak Swamp (Fens)¦Tornak_Swamp_(Fens)¦The Koralith Desert¦|Koralith Desert (Sands)|3|2|;|Tornak Swamp (Mushroom Patch)|16|14|;World Area|The Koralith Desert|5|13|
+Tornak Swamp (Mushroom Patch)¦Tornak_Swamp_(Mushroom_Patch)¦The Koralith Desert¦|Tornak Swamp (Fens)|21|4|;|Tornak Swamp (Mire)|2|20|;Portal|Tornak Portal|3|4|
+Tornak Swamp (Mire)¦Tornak_Swamp_(Mire)¦The Koralith Desert¦|Tornak Swamp (Mushroom Patch)|13|4|;|Tornak Swamp (Pools)|6|23|
+Tornak Swamp (Pools)¦Tornak_Swamp_(Pools)¦The Koralith Desert¦Relic|Tornak Pools|5|4|;|Tornak Swamp (Mire)|23|3|;|Tornak Swamp (Snap)|2|14|
+Tornak Swamp (Snap)¦Tornak_Swamp_(Snap)¦The Koralith Desert¦|Tornak Swamp (Pools)|2|3|;|Tornak Swamp (Haunt)|14|16|
+Tornak Swamp (Haunt)¦Tornak_Swamp_(Haunt)¦The Koralith Desert¦|Tornak Swamp (Snap)|2|3|;|Tornak Swamp (Marsh)|14|14|
+Tornak Swamp (Marsh)¦Tornak_Swamp_(Marsh)¦The Koralith Desert¦|Tornak Swamp (Haunt)|3|2|;|Tornak Swamp (Despair)|17|16|
+Tornak Swamp (Despair)¦Tornak_Swamp_(Despair)¦The Koralith Desert¦|Ponnation Caves (Tunnels)|13|4|;|Tornak Swamp (Marsh)|2|5|;|Tornak Swamp (Lair)|4|18|
+Tornak Swamp (Lair)¦Tornak_Swamp_(Lair)¦The Koralith Desert¦|Tornak Swamp (Despair)|5|10|
+Ponnation Caves (Tunnels)¦Ponnation_Caves_(Tunnels)¦The Ponnation Tunnels¦|Tornak Swamp (Despair)|3|11|;|Ponnation Caves (Stalk)|14|14|;World Area|The Ponnation Tunnels|21|6|
+Ponnation Caves (Stalk)¦Ponnation_Caves_(Stalk)¦The Ponnation Tunnels¦|Ponnation Caves (Tunnels)|5|6|;|Ponnation Caves (Scar)|12|22|
+Ponnation Caves (Scar)¦Ponnation_Caves_(Scar)¦The Ponnation Tunnels¦|Ponnation Caves (Stalk)|2|2|;|Ponnation Caves (Root)|17|10|
+Ponnation Caves (Root)¦Ponnation_Caves_(Root)¦The Ponnation Tunnels¦|Ponnation Caves (Scar)|3|3|;|Ponnation Caves (Haunt)|18|18|
+Ponnation Caves (Haunt)¦Ponnation_Caves_(Haunt)¦The Ponnation Tunnels¦|Ponnation Caves (Root)|3|2|;|Ponnation Caves (Dust)|19|19|
+Ponnation Caves (Dust)¦Ponnation_Caves_(Dust)¦The Ponnation Tunnels¦|Ponnation Caves (Haunt)|10|5|;|Ponnation Caves (Totem Fields)|2|14|
+Ponnation Caves (Totem Fields)¦Ponnation_Caves_(Totem_Fields)¦The Ponnation Tunnels¦|Ponnation Caves (Dust)|17|2|;|Ponnation Caves (Catacombs)|7|14|;World Area|The Ponnation Tunnels|5|5|
+Ponnation Caves (Catacombs)¦Ponnation_Caves_(Catacombs)¦The Ponnation Tunnels¦|Ponnation Caves (Totem Fields)|14|3|;|Ponnation Caves (Hell)|7|18|
+Ponnation Caves (Hell)¦Ponnation_Caves_(Hell)¦The Ponnation Tunnels¦|Ponnation Caves (Catacombs)|18|3|;|Ponnation Caves (Crawl)|5|14|
+Ponnation Caves (Crawl)¦Ponnation_Caves_(Crawl)¦The Ponnation Tunnels¦|Ponnation Caves (Hell)|3|3|;|Ponnation Caves (Twists)|22|15|
+Ponnation Caves (Twists)¦Ponnation_Caves_(Twists)¦The Ponnation Tunnels¦|Ponnation Caves (Crawl)|27|4|;|Ponnation Caves (Grub Nest)|2|12|
+Ponnation Caves (Grub Nest)¦Ponnation_Caves_(Grub_Nest)¦The Ponnation Tunnels¦|Ponnation Caves (Twists)|3|2|;|Ponnation Caves (Pools)|17|15|
+Ponnation Caves (Pools)¦Ponnation_Caves_(Pools)¦The Ponnation Tunnels¦|Ponnation Caves (Grub Nest)|3|2|;|Ponnation Caves (Weeds)|18|17|
+Ponnation Caves (Weeds)¦Ponnation_Caves_(Weeds)¦The Ponnation Tunnels¦|Ponnation Caves (Pools)|3|2|;|Ponnation Glacier (Ice)|13|19|
+Ponnation Glacier (Ice)¦Ponnation_Glacier_(Ice)¦The Ponnation Tunnels¦|Ponnation Caves (Weeds)|17|3|;|Ponnation Glacier (Tomb)|3|17|;World Area|The Ponnation Tunnels|18|13|
+Ponnation Glacier (Tomb)¦Ponnation_Glacier_(Tomb)¦The Ponnation Tunnels¦|Ponnation Glacier (Ice)|3|2|;|Ponnation Glacier (Pox)|17|15|
+Ponnation Glacier (Pox)¦Ponnation_Glacier_(Pox)¦The Ponnation Tunnels¦|Ponnation Glacier (Tomb)|1|2|;|Ponnation Glacier (Disease)|17|18|
+Ponnation Glacier (Disease)¦Ponnation_Glacier_(Disease)¦The Ponnation Tunnels¦|Ponnation Glacier (Pox)|13|1|;|Ponnation Glacier (Boneyard)|3|14|
+Ponnation Glacier (Boneyard)¦Ponnation_Glacier_(Boneyard)¦The Ponnation Tunnels¦|Ponnation Glacier (Disease)|4|3|;|Ponnation Glacier (Lake)|16|17|
+Ponnation Glacier (Lake)¦Ponnation_Glacier_(Lake)¦The Ponnation Tunnels¦|Ponnation Glacier (Boneyard)|17|4|;|Ponnation Glacier (Vines)|1|17|
+Ponnation Glacier (Vines)¦Ponnation_Glacier_(Vines)¦The Ponnation Tunnels¦|Ponnation Glacier (Lake)|2|3|;|Ponnation Glacier (Grave)|16|21|
+Ponnation Glacier (Grave)¦Ponnation_Glacier_(Grave)¦The Ponnation Tunnels¦|Ponnation Glacier (Vines)|3|3|;|Ponnation Glacier (Crawl)|22|17|
+Ponnation Glacier (Crawl)¦Ponnation_Glacier_(Crawl)¦The Ponnation Tunnels¦|Ponnation Glacier (Grave)|11|3|;|Ponnation Glacier (Shade)|1|22|;World Area|The Ponnation Tunnels|4|6|
+Ponnation Glacier (Shade)¦Ponnation_Glacier_(Shade)¦The Ponnation Tunnels¦|Ponnation Glacier (Crawl)|3|2|;|Ponnation Glacier (Wrack)|22|10|
+Ponnation Glacier (Lair)¦Ponnation_Glacier_(Lair)¦The Ponnation Tunnels¦|Ponnation Glacier (Wrack)|6|5|
+Ponnation Glacier (Wrack)¦Ponnation_Glacier_(Wrack)¦The Ponnation Tunnels¦|Ponnation Glacier (Shade)|4|2|;|Ponnation Glacier (Lair)|10|6|;|Kanarak Forest (Fields)|10|14|
+Kanarak Forest (Fields)¦Kanarak_Forest_(Fields)¦The Kanarak Region¦Relic|Kanarak Traders Carvaan|9|6|;|Ponnation Glacier (Wrack)|2|5|;|Kanarak Forest (Stalk)|12|14|;World Area|The Kanarak Region|2|16|
+Kanarak Forest (Stalk)¦Kanarak_Forest_(Stalk)¦The Kanarak Region¦|Kanarak Forest (Fields)|15|2|;|Kanarak Forest (Tribelands)|4|9|
+Kanarak Forest (Tribelands)¦Kanarak_Forest_(Tribelands)¦The Kanarak Region¦|Kanarak Forest (Stalk)|3|10|;|Kanarak Forest (Lair)|5|15|
+Kanarak Forest (Lair)¦Kanarak_Forest_(Lair)¦The Kanarak Region¦|Kanarak Forest (Tribelands)|18|10|;|Kanarak Forest (Battlefield)|2|13|
+Kanarak Forest (Battlefield)¦Kanarak_Forest_(Battlefield)¦The Kanarak Region¦|Kanarak Forest (Lair)|7|2|;|Kanarak Forest (Sorcerous Glade)|6|13|
+Kanarak Forest (Sorcerous Glade)¦Kanarak_Forest_(Sorcerous_Glade)¦The Kanarak Region¦|Kanarak Forest (Battlefield)|23|2|;|Kanarak Forest (Cairns)|3|4|
+Kanarak Forest (Cairns)¦Kanarak_Forest_(Cairns)¦The Kanarak Region¦|Kanarak Forest (Sorcerous Glade)|12|2|;|Kanarak Forest (Copse)|2|16|;World Area|The Kanarak Region|3|4|
+Kanarak Forest (Copse)¦Kanarak_Forest_(Copse)¦The Kanarak Region¦|Kanarak Forest (Cairns)|8|2|;|Kanarak Forest (Haunt)|3|15|
+Kanarak Forest (Haunt)¦Kanarak_Forest_(Haunt)¦The Kanarak Region¦|Kanarak Forest (Copse)|17|2|;|Kanarak Forest (Pride)|4|17|;Portal|Balacath Portal|4|5|
+Kanarak Forest (Pride)¦Kanarak_Forest_(Pride)¦The Kanarak Region¦|Kanarak Forest (Haunt)|13|3|;|Kanarak Forest (Frenzy)|2|22|
+Kanarak Forest (Frenzy)¦Kanarak_Forest_(Frenzy)¦The Kanarak Region¦Relic|Kanarak Magic Circle|2|13|;|Kanarak Forest (Pride)|2|2|;|Kanarak Forest (Nests)|13|14|
+Kanarak Forest (Nests)¦Kanarak_Forest_(Nests)¦The Kanarak Region¦|Kanarak Forest (Frenzy)|5|2|;|Kanarak Forest (Frost)|15|14|
+Kanarak Forest (Frost)¦Kanarak_Forest_(Frost)¦The Kanarak Region¦|Kanarak Forest (Nests)|16|2|;|Kanarak Forest (Crags)|4|16|
+Kanarak Forest (Crags)¦Kanarak_Forest_(Crags)¦The Kanarak Region¦|Kanarak Forest (Frost)|5|2|;|Kanarak Forest (Glade)|23|14|
+Kanarak Forest (Glade)¦Kanarak_Forest_(Glade)¦The Kanarak Region¦|Kanarak Forest (Crags)|2|2|;|Kanarak Forest (Pack)|14|23|;World Area|The Kanarak Region|3|14|
+Kanarak Forest (Pack)¦Kanarak_Forest_(Pack)¦The Kanarak Region¦|Kanarak Forest (Thunderous Meadow)|16|2|;|Kanarak Forest (Glade)|2|17|
+Kanarak Forest (Thunderous Meadow)¦Kanarak_Forest_(Thunderous_Meadow)¦The Kanarak Region¦|Kanarak Forest (Pack)|19|4|;|Kanarak Coast (Soar)|3|14|
+Kanarak Coast (Soar)¦Kanarak_Coast_(Soar)¦The Kanarak Region¦|Kanarak Forest (Thunderous Meadow)|2|2|;|Kanarak Coast (Crawl)|14|14|;World Area|The Kanarak Region|12|7|
+Kanarak Coast (Crawl)¦Kanarak_Coast_(Crawl)¦The Kanarak Region¦|Kanarak Coast (Soar)|3|2|;|Kanarak Coast (Floe)|15|13|;Portal|Kanarak Portal|5|11|
+Kanarak Coast (Floe)¦Kanarak_Coast_(Floe)¦The Kanarak Region¦|Kanarak Coast (Crawl)|3|2|;|Kanarak Coast (Breach)|20|20|
+Kanarak Coast (Breach)¦Kanarak_Coast_(Breach)¦The Kanarak Region¦Relic|Kanarak Orca Carcass|7|14|;|Kanarak Coast (Floe)|3|3|;|Kanarak Coast (Dread)|21|19|
+Kanarak Coast (Dread)¦Kanarak_Coast_(Dread)¦The Kanarak Region¦|Kanarak Coast (Breach)|5|2|;|Kanarak Coast (Surge)|17|13|
+Kanarak Coast (Surge)¦Kanarak_Coast_(Surge)¦The Kanarak Region¦|Kanarak Coast (Dread)|3|3|;|Kanarak Coast (Thrash)|15|18|
+Kanarak Coast (Thrash)¦Kanarak_Coast_(Thrash)¦The Kanarak Region¦|Kanarak Coast (Surge)|2|2|;|Kanarak Coast (Pools)|16|17|
+Kanarak Coast (Depths)¦Kanarak_Coast_(Depths)¦The Kanarak Region¦|Kanarak Coast (Pools)|13|3|
+Kanarak Coast (Pools)¦Kanarak_Coast_(Pools)¦The Kanarak Region¦|Uuzell Savannah (Dustflats)|3|2|;|Kanarak Coast (Thrash)|16|2|;|Kanarak Coast (Depths)|6|14|
+Uuzell Savannah (Dustflats)¦Uuzell_Savannah_(Dustflats)¦Ontarac Wastes¦|Kanarak Coast (Pools)|2|2|;|Uuzell Savannah (Plains)|17|22|;World Area|Ontarac Wastes|16|3|
+Uuzell Savannah (Plains)¦Uuzell_Savannah_(Plains)¦Ontarac Wastes¦|Uuzell Savannah (Dustflats)|16|4|;|Uuzell Savannah (Flats)|2|17|
+Uuzell Savannah (Flats)¦Uuzell_Savannah_(Flats)¦Ontarac Wastes¦|Uuzell Savannah (Soar)|14|4|;|Uuzell Savannah (Plains)|5|13|
+Uuzell Savannah (Soar)¦Uuzell_Savannah_(Soar)¦Ontarac Wastes¦|Uuzell Savannah (Flats)|13|2|;|Uuzell Savannah (Scrub)|4|14|;Portal|Uuzell Portal|2|6|
+Uuzell Savannah (Scrub)¦Uuzell_Savannah_(Scrub)¦Ontarac Wastes¦|Uuzell Savannah (Soar)|15|5|;|Uuzell Savannah (Grasses)|2|15|
+Uuzell Savannah (Grasses)¦Uuzell_Savannah_(Grasses)¦Ontarac Wastes¦Relic|Uuzell Glowing Rocks|7|8|;|Uuzell Savannah (Scrub)|13|2|;|Uuzell Savannah (Range)|3|15|;World Area|Ontarac Wastes|2|9|
+Uuzell Savannah (Range)¦Uuzell_Savannah_(Range)¦Ontarac Wastes¦|Uuzell Savannah (Grasses)|19|3|;|Uuzell Savannah (Wates)|2|20|
+Uuzell Savannah (Wates)¦Uuzell_Savannah_(Wates)¦Ontarac Wastes¦|Uuzell Savannah (Range)|19|3|;|Uuzell Savannah (Prowl)|5|14|
+Uuzell Savannah (Prowl)¦Uuzell_Savannah_(Prowl)¦Ontarac Wastes¦|Uuzell Savannah (Wates)|2|3|;|Ontarac Wastes (Chasm)|16|16|
+Ontarac Wastes (Chasm)¦Ontarac_Wastes_(Chasm)¦Ontarac Wastes¦|Uuzell Savannah (Prowl)|18|4|;|Ontarac Wastes (Web)|2|18|;World Area|Ontarac Wastes|18|15|
+Ontarac Wastes (Web)¦Ontarac_Wastes_(Web)¦Ontarac Wastes¦|Ontarac Wastes (Chasm)|20|2|;|Ontarac Wastes (Thermals)|2|20|
+Ontarac Wastes (Thermals)¦Ontarac_Wastes_(Thermals)¦Ontarac Wastes¦|Ontarac Wastes (Web)|16|3|;|Ontarac Wastes (Magma)|2|16|
+Ontarac Wastes (Magma)¦Ontarac_Wastes_(Magma)¦Ontarac Wastes¦|Ontarac Wastes (Thermals)|2|2|;|Ontarac Wastes (Scree)|15|15|
+Ontarac Wastes (Scree)¦Ontarac_Wastes_(Scree)¦Ontarac Wastes¦|Ontarac Wastes (Magma)|14|2|;|Ontarac Wastes (Lava)|3|16|;Portal|Ontarac Portal|2|4|
+Ontarac Wastes (Lava)¦Ontarac_Wastes_(Lava)¦Ontarac Wastes¦|Ontarac Wastes (Scree)|2|2|;|Ontarac Wastes (Snot)|16|18|
+Ontarac Wastes (Snot)¦Ontarac_Wastes_(Snot)¦Ontarac Wastes¦Relic|Ontarac Burial Ground|19|17|;|Ontarac Wastes (Lava)|21|3|;|Ontarac Wastes (Fire Pits)|2|16|
+Ontarac Wastes (Fire Pits)¦Ontarac_Wastes_(Fire_Pits)¦Ontarac Wastes¦|Ontarac Wastes (Snot)|16|3|;|Ontarac Wastes (Rock Fields)|4|16|
+Ontarac Wastes (Rock Fields)¦Ontarac_Wastes_(Rock_Fields)¦Ontarac Wastes¦|Ontarac Wastes (Fire Pits)|3|3|;|Ontarac Wastes (Thorns)|18|14|;World Area|Ontarac Wastes|11|2|
+Ontarac Wastes (Thorns)¦Ontarac_Wastes_(Thorns)¦Ontarac Wastes¦|Ontarac Wastes (Rock Fields)|20|5|;|Ontarac Wastes (Soar)|3|20|
+Ontarac Wastes (Soar)¦Ontarac_Wastes_(Soar)¦Ontarac Wastes¦|Ontarac Wastes (Thorns)|3|3|;|Ontarac Wastes (Gates)|17|18|
+Ontarac Wastes (Gates)¦Ontarac_Wastes_(Gates)¦Ontarac Wastes¦|Ontarac Wastes (Soar)|2|2|;|Ontarac Wastes (Fields)|16|13|
+Ontarac Wastes (Fields)¦Ontarac_Wastes_(Fields)¦Ontarac Wastes¦|Ontarac Wastes (Barracks)|14|2|;|Ontarac Wastes (Gates)|3|18|
+Ontarac Wastes (Barracks)¦Ontarac_Wastes_(Barracks)¦Ontarac Wastes¦|Ontarac Wastes (Executioner Yard)|17|4|;|Ontarac Wastes (Fields)|2|16|
+Ontarac Wastes (Executioner Yard)¦Ontarac_Wastes_(Executioner_Yard)¦Ontarac Wastes¦|Ontarac Wastes (Barracks)|2|2|;|Ontarac Wastes (Demonaut Yard)|16|15|;Portal|Ontarac Wastes Portal|15|3|
+Ontarac Wastes (Demonaut Yard)¦Ontarac_Wastes_(Demonaut_Yard)¦Ontarac Wastes¦|Ontarac Wastes (Executioner Yard)|2|2|;|Pentagoth Wastes (Ash)|3|10|;|Ontarac Wastes (Lair)|14|15|
+Ontarac Wastes (Lair)¦Ontarac_Wastes_(Lair)¦Ontarac Wastes¦|Ontarac Wastes (Demonaut Yard)|6|3|
+Quango Island (Forest of Ice)¦¦¦
+Pentagoth Wastes (Ash)¦Pentagoth_Wastes_(Ash)¦Pentagoth Wastes¦Relic|Ash Wastes Lava Pool|6|5|;|Ontarac Wastes (Demonaut Yard)|17|2|;|Pentagoth Wastes (Plain)|5|14|;World Area|Pentagoth Wastes|10|8|
+Pentagoth Wastes (Plain)¦Pentagoth_Wastes_(Plain)¦Pentagoth Wastes¦|Pentagoth Wastes (Ash)|6|2|;|Pentagoth Wastes (Scree)|26|13|
+Pentagoth Wastes (Scree)¦Pentagoth_Wastes_(Scree)¦Pentagoth Wastes¦|Pentagoth Wastes (Plain)|2|4|;|Pentagoth Wastes (Darkness)|18|17|
+Pentagoth Wastes (Darkness)¦Pentagoth_Wastes_(Darkness)¦Pentagoth Wastes¦|Pentagoth Wastes (Scree)|3|4|;|Pentagoth Wastes (Haunt)|17|15|
+Pentagoth Wastes (Haunt)¦Pentagoth_Wastes_(Haunt)¦Pentagoth Wastes¦|Pentagoth Wastes (Darkness)|10|2|;|Pentagoth Wastes (Obsidian Plain)|5|22|
+Pentagoth Wastes (Obsidian Plain)¦Pentagoth_Wastes_(Obsidian_Plain)¦Pentagoth Wastes¦|Pentagoth Wastes (Haunt)|20|4|;|Pentagoth Wastes (Edge)|6|14|
+Pentagoth Wastes (Edge)¦Pentagoth_Wastes_(Edge)¦Pentagoth Wastes¦|Pentagoth Wastes (Obsidian Plain)|13|4|;|Pentagoth Wastes (Village)|2|16|
+Pentagoth Wastes (Village)¦Pentagoth_Wastes_(Village)¦Pentagoth Wastes¦|Pentagoth Wastes (Edge)|13|4|;|Pentagoth Wastes (Ritual Site)|13|9|;World Area|Pentagoth Wastes|7|13|
+Pentagoth Wastes (Ritual Site)¦Pentagoth_Wastes_(Ritual_Site)¦Pentagoth Wastes¦|Pentagoth Wastes (Village)|8|5|;|Pentagoth Wastes (Chasm)|14|27|;Portal|Pentagoth Portal|5|18|
+Pentagoth Wastes (Chasm)¦Pentagoth_Wastes_(Chasm)¦Pentagoth Wastes¦|Pentagoth Wastes (Ritual Site)|27|2|;|Pentagoth Wastes (Slither)|2|7|
+Pentagoth Wastes (Slither)¦Pentagoth_Wastes_(Slither)¦Pentagoth Wastes¦Relic|Pentagoth Ritual Circle|14|3|;|Pentagoth Wastes (Chasm)|3|3|;|Pentagoth Wastes (Tomb)|14|16|
+Pentagoth Wastes (Tomb)¦Pentagoth_Wastes_(Tomb)¦Pentagoth Wastes¦|Pentagoth Wastes (Slither)|4|9|;|Pentagoth Wastes (Vapor)|17|16|
+Pentagoth Wastes (Vapor)¦Pentagoth_Wastes_(Vapor)¦Pentagoth Wastes¦|Pentagoth Wastes (Tomb)|5|5|;|Pentagoth Wastes (Ooze)|19|9|
+Pentagoth Wastes (Ooze)¦Pentagoth_Wastes_(Ooze)¦Pentagoth Wastes¦|Pentagoth Wastes (Vapor)|14|5|;|Pentagoth Wastes (Soar)|18|15|;World Area|Pentagoth Wastes|11|15|
+Pentagoth Wastes (Soar)¦Pentagoth_Wastes_(Soar)¦Pentagoth Wastes¦|Pentagoth Wastes (Ooze)|9|9|;|Pentagoth Wastes (Colony)|13|16|
+Pentagoth Wastes (Colony)¦Pentagoth_Wastes_(Colony)¦Pentagoth Wastes¦|Pentagoth Wastes (Soar)|10|2|;|Pentagoth Wastes (Skitter)|13|12|
+Pentagoth Wastes (Skitter)¦Pentagoth_Wastes_(Skitter)¦Pentagoth Wastes¦|Pentagoth Wastes (Colony)|15|2|;|Pentagoth Wastes (Hive)|12|13|
+Pentagoth Wastes (Hive)¦Pentagoth_Wastes_(Hive)¦Pentagoth Wastes¦|Pentagoth Wastes (Skitter)|7|2|;|Pentagoth Wastes (Prowl)|9|8|
+Pentagoth Wastes (Prowl)¦Pentagoth_Wastes_(Prowl)¦Pentagoth Wastes¦|Pentagoth Wastes (Hive)|2|2|;|Pentagoth Wastes (Flames)|18|12|;Portal|Pentagoth Portal|9|6|
+Pentagoth Wastes (Flames)¦Pentagoth_Wastes_(Flames)¦Pentagoth Wastes¦|Pentagoth Wastes (Prowl)|12|6|;|Pentagoth Wastes (Crevasse)|4|18|
+Pentagoth Wastes (Crevasse)¦Pentagoth_Wastes_(Crevasse)¦Pentagoth Wastes¦Relic|Pentagoth Fissure|15|18|;|Pentagoth Wastes (Flames)|18|2|;|Pentagoth Wastes (Conflagration)|3|8|;World Area|Pentagoth Wastes|5|4|
+Pentagoth Wastes (Conflagration)¦Pentagoth_Wastes_(Conflagration)¦Pentagoth Wastes¦|Pentagoth Wastes (Crevasse)|13|2|;|Pentagoth Wastes (Blaze)|3|12|
+Pentagoth Wastes (Blaze)¦Pentagoth_Wastes_(Blaze)¦Pentagoth Wastes¦|Pentagoth Wastes (Conflagration)|11|9|;|Pentagoth Wastes (Quarry)|10|16|
+Pentagoth Wastes (Quarry)¦Pentagoth_Wastes_(Quarry)¦Pentagoth Wastes¦|Pentagoth Wastes (Blaze)|2|8|;|Pentagoth Wastes (Thermals)|22|13|
+Pentagoth Wastes (Aerie)¦Pentagoth_Wastes_(Aerie)¦Pentagoth Wastes¦|Pentagoth Wastes (Thermals)|13|4|
+Pentagoth Wastes (Thermals)¦Pentagoth_Wastes_(Thermals)¦Pentagoth Wastes¦|Pentagoth Wastes (Quarry)|15|2|;|Kregnar Fortress (Ruins)|4|3|
+Kregnar Fortress (Ruins)¦Kregnar_Fortress_(Ruins)¦Kregnar Fortress¦|Pentagoth Wastes (Thermals)|6|2|;|Kregnar Fortress (Fires)|25|19|;World Area|Kregnar Fortress|12|12|
+Kregnar Fortress (Fires)¦Kregnar_Fortress_(Fires)¦Kregnar Fortress¦|Kregnar Fortress (Ruins)|21|7|;|Kregnar Fortress (Parapets)|3|15|
+Kregnar Fortress (Parapets)¦Kregnar_Fortress_(Parapets)¦Kregnar Fortress¦|Kregnar Fortress (Fires)|2|1|;|Kregnar Fortress (Charred Wing)|27|24|
+Kregnar Fortress (Charred Wing)¦Kregnar_Fortress_(Charred_Wing)¦Kregnar Fortress¦|Kregnar Fortress (Parapets)|12|3|;|Kregnar Fortress (Watch Tower)|15|26|;Portal|Kregnar Portal|3|10|
+Kregnar Fortress (Watch Tower)¦Kregnar_Fortress_(Watch_Tower)¦Kregnar Fortress¦|Kregnar Fortress (Charred Wing)|17|3|;|Kregnar Fortress (Smithy)|5|19|
+Kregnar Fortress (Smithy)¦Kregnar_Fortress_(Smithy)¦Kregnar Fortress¦Relic|Kregnar Forge|7|5|;|Kregnar Fortress (Watch Tower)|2|3|;|Kregnar Fortress (Range)|25|15|
+Kregnar Fortress (Range)¦Kregnar_Fortress_(Range)¦Kregnar Fortress¦|Kregnar Fortress (Smithy)|8|2|;|Kregnar Fortress (Barracks)|3|24|
+Kregnar Fortress (Barracks)¦Kregnar_Fortress_(Barracks)¦Kregnar Fortress¦|Kregnar Fortress (Range)|3|2|;|Kregnar Fortress (Stoneyard)|20|14|;World Area|Kregnar Fortress|9|18|
+Kregnar Fortress (Stoneyard)¦Kregnar_Fortress_(Stoneyard)¦Kregnar Fortress¦|Kregnar Fortress (Barracks)|3|4|;|Kregnar Fortress (Warforge)|25|17|
+Kregnar Fortress (Warforge)¦Kregnar_Fortress_(Warforge)¦Kregnar Fortress¦|Kregnar Fortress (Stoneyard)|8|2|;|Kregnar Fortress (Golem Yard)|23|18|
+Kregnar Fortress (Golem Yard)¦Kregnar_Fortress_(Golem_Yard)¦Kregnar Fortress¦|Kregnar Fortress (Warforge)|13|2|;|Kregnar Fortress (Golem Range)|5|28|
+Kregnar Fortress (Golem Range)¦Kregnar_Fortress_(Golem_Range)¦Kregnar Fortress¦|Kregnar Fortress (Golem Yard)|4|1|;|Kregnar Fortress (Shield Yard)|18|24|
+Kregnar Fortress (Shield Yard)¦Kregnar_Fortress_(Shield_Yard)¦Kregnar Fortress¦|Kregnar Fortress (Golem Range)|6|3|;|Kregnar Fortress (Bulwark Yard)|15|27|
+Kregnar Fortress (Bulwark Yard)¦Kregnar_Fortress_(Bulwark_Yard)¦Kregnar Fortress¦|Kregnar Fortress (Shield Yard)|3|1|;|Feranak Graveyards (Charnel Pit)|17|15|;Portal|Kregnar Fortress Portal|4|17|
+Feranak Graveyards (Charnel Pit)¦Feranak_Graveyards_(Charnel_Pit)¦Kregnar Fortress¦|Kregnar Fortress (Bulwark Yard)|27|2|;|Feranak Graveyards (Boneyard)|3|23|;World Area|Kregnar Fortress|9|13|
+Feranak Graveyards (Boneyard)¦Feranak_Graveyards_(Boneyard)¦Kregnar Fortress¦Relic|Feranak Charnal Pit|15|13|;|Feranak Graveyards (Charnel Pit)|2|8|;|Feranak Graveyards (Haunt)|26|15|
+Feranak Graveyards (Haunt)¦Feranak_Graveyards_(Haunt)¦Kregnar Fortress¦|Feranak Graveyards (Boneyard)|8|3|;|Feranak Graveyards (Grove)|15|15|
+Feranak Graveyards (Grove)¦Feranak_Graveyards_(Grove)¦Kregnar Fortress¦|Feranak Graveyards (Haunt)|27|5|;|Feranak Graveyards (Horror)|2|9|
+Feranak Graveyards (Horror)¦Feranak_Graveyards_(Horror)¦Kregnar Fortress¦|Feranak Graveyards (Grove)|2|3|;|Feranak Graveyards (Cairns)|11|26|
+Feranak Graveyards (Cairns)¦Feranak_Graveyards_(Cairns)¦Kregnar Fortress¦|Feranak Graveyards (Horror)|5|5|;|Feranak Graveyards (Fields of Honor)|15|15|
+Feranak Graveyards (Fields of Honor)¦¦¦
+Feranak Graveyards (Crypt)¦Feranak_Graveyards_(Crypt)¦Kregnar Fortress¦|Feranak Graveyards (Fields of Honor)|15|6|;|Feranak Graveyards (Fields)|2|27|;World Area|Kregnar Fortress|4|12|
+Feranak Graveyards (Fields)¦Feranak_Graveyards_(Fields)¦Kregnar Fortress¦|Feranak Graveyards (Crypt)|14|2|;|Feranak Graveyards (Orchard)|3|16|
+Feranak Graveyards (Orchard)¦Feranak_Graveyards_(Orchard)¦Kregnar Fortress¦|Feranak Graveyards (Fields)|17|3|;|Feranak Graveyards (Ritual Ward)|2|21|;Portal|Feranak Portal|10|5|
+Feranak Graveyards (Mausoleum)¦Feranak_Graveyards_(Mausoleum)¦Kregnar Fortress¦|Feranak Graveyards (Ritual Ward)|2|2|
+Feranak Graveyards (Ritual Ward)¦Feranak_Graveyards_(Ritual_Ward)¦Kregnar Fortress¦|Feranak Graveyards (Orchard)|2|8|;|Feranak Graveyards (Mausoleum)|13|18|;|Kathrac City (Crypt)|3|23|
+Springtime Forest (Daffodil Grove)¦Springtime_Forest_(Daffodil_Grove)¦Krul Island¦|Springtime Forest (Outer Grove)|10|11|
+Kathrac City (Crypt)¦Kathrac_City_(Crypt)¦Kathrac City¦Relic|Kathrac Bonfire|10|14|;|Feranak Graveyards (Ritual Ward)|22|1|;|Kathrac City (Gate)|4|9|;World Area|Kathrac City|11|16|
+Kathrac City (Gate)¦Kathrac_City_(Gate)¦Kathrac City¦|Kathrac City (Crypt)|7|2|;|Kathrac City (Shade)|17|15|
+Kathrac City (Shade)¦Kathrac_City_(Shade)¦Kathrac City¦|Kathrac City (Gate)|3|2|;|Kathrac City (Homes)|17|17|
+Kathrac City (Homes)¦Kathrac_City_(Homes)¦Kathrac City¦|Kathrac City (Shade)|4|2|;|Kathrac City (Walls)|13|19|
+Kathrac City (Walls)¦Kathrac_City_(Walls)¦Kathrac City¦|Kathrac City (Homes)|2|2|;|Kathrac City (Barracks)|22|12|
+Kathrac City (Barracks)¦Kathrac_City_(Barracks)¦Kathrac City¦|Kathrac City (Walls)|16|2|;|Kathrac City (Gloom)|5|15|
+Kathrac City (Gloom)¦Kathrac_City_(Gloom)¦Kathrac City¦|Kathrac City (Barracks)|16|2|;|Kathrac City (Range)|2|16|
+Kathrac City (Range)¦Kathrac_City_(Range)¦Kathrac City¦|Kathrac City (Gloom)|16|2|;|Kathrac City (Market)|2|17|;World Area|Kathrac City|14|12|
+Kathrac City (Market)¦Kathrac_City_(Market)¦Kathrac City¦|Kathrac City (Range)|16|5|;|Kathrac City (Merc Quarter)|2|16|;Portal|Kathrac City Portal|15|14|
+Kathrac City (Merc Quarter)¦Kathrac_City_(Merc_Quarter)¦Kathrac City¦|Kathrac City (Market)|5|2|;|Kathrac City (Alleys)|15|21|
+Kathrac City (Alleys)¦Kathrac_City_(Alleys)¦Kathrac City¦Relic|Alley Stockpile|12|4|;|Kathrac City (Merc Quarter)|2|5|;|Kathrac City (Slums)|21|15|
+Kathrac City (Slums)¦Kathrac_City_(Slums)¦Kathrac City¦|Kathrac City (Alleys)|2|2|;|Kathrac City (Highborn Quarter)|13|14|
+Kathrac City (Highborn Quarter)¦Kathrac_City_(Highborn_Quarter)¦Kathrac City¦|Kathrac City (Slums)|15|5|;|Kathrac Sewers (Warren)|2|15|
+Kathrac Sewers (Warren)¦Kathrac_Sewers_(Warren)¦Kathrac City¦|Kathrac City (Highborn Quarter)|17|6|;|Kathrac Sewers (Slop)|2|13|;World Area|Kathrac City|8|7|
+Kathrac Sewers (Slop)¦Kathrac_Sewers_(Slop)¦Kathrac City¦|Kathrac Sewers (Warren)|2|2|;|Kathrac Sewers (Burrows)|17|16|
+Kathrac Sewers (Burrows)¦Kathrac_Sewers_(Burrows)¦Kathrac City¦|Kathrac Sewers (Slop)|2|4|;|Kathrac Sewers (Dwelling)|18|21|
+Kathrac Sewers (Dwelling)¦Kathrac_Sewers_(Dwelling)¦Kathrac City¦|Kathrac Sewers (Burrows)|15|4|;|Kathrac Sewers (Slither)|3|16|
+Kathrac Sewers (Slither)¦Kathrac_Sewers_(Slither)¦Kathrac City¦|Kathrac Sewers (Dwelling)|2|2|;|Kathrac Sewers (Haunt)|15|15|
+Kathrac Sewers (Haunt)¦Kathrac_Sewers_(Haunt)¦Kathrac City¦|Kathrac Sewers (Slither)|19|2|;|Kathrac Sewers (Shadows)|4|17|;Portal|Kathrac Sewers Portal|5|3|
+Kathrac Sewers (Shadows)¦Kathrac_Sewers_(Shadows)¦Kathrac City¦|Kathrac Sewers (Haunt)|6|2|;|Kathrac Sewers (Hive)|14|21|
+Kathrac Sewers (Hive)¦Kathrac_Sewers_(Hive)¦Kathrac City¦Relic|Kathrac Hive Nest|11|11|;|Kathrac Sewers (Shadows)|8|2|;|Kathrac Sewers (Slime)|19|18|;World Area|Kathrac City|4|12|
+Kathrac Sewers (Slime)¦Kathrac_Sewers_(Slime)¦Kathrac City¦|Kathrac Sewers (Hive)|14|2|;|Kathrac Sewers (Destroyer Haunt)|2|14|
+Kathrac Sewers (Destroyer Haunt)¦Kathrac_Sewers_(Destroyer_Haunt)¦Kathrac City¦|Kathrac Sewers (Slime)|15|2|;|Kathrac Sewers (Explosives Hub)|5|15|
+Kathrac Sewers (Explosives Hub)¦Kathrac_Sewers_(Explosives_Hub)¦Kathrac City¦|Kathrac Sewers (Destroyer Haunt)|14|2|;|Kathrac Sewers (Workshop)|5|20|
+Kathrac Sewers (Garage)¦Kathrac_Sewers_(Garage)¦Kathrac City¦|Kathrac Sewers (Workshop)|13|9|
+Kathrac Sewers (Workshop)¦Kathrac_Sewers_(Workshop)¦Kathrac City¦|Kathrac Sewers (Explosives Hub)|2|4|;|Wrognoth Forest (Copse)|17|4|;|Kathrac Sewers (Garage)|22|11|

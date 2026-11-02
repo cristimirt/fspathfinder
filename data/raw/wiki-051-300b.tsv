@@ -1,0 +1,190 @@
+Ekloren (West)¦Ekloren (West)¦Aslara Divide¦|Ekloren (East)|4|3|
+Khorl (North)¦Khorl (North)¦Folays End¦Shop|Zhebs Armory|5|12|;|Khorl (South)|12|4|;Portal|Khorl Portal|14|13|;World Area|Folays End|3|2|
+Khorl (South)¦Khorl (South)¦Folays End¦|Khorl (North)|8|2|
+Dokar (North)¦Dokar (North)¦Folays End¦Shop|Claos Armory|2|3|;|Dokar (South)|12|6|;World Area|Folays End|3|11|
+Dokar (South)¦Dokar (South)¦Folays End¦Shop|Taleas Market|8|5|;|Dokar (North)|5|3|;|Dokar (East)|3|13|
+Dokar (East)¦Dokar (East)¦Folays End¦|Dokar (West)|12|3|;|Dokar (South)|3|4|
+Dokar (West)¦Dokar (West)¦Folays End¦Shop|Fenlars Store|8|11|;|Zovraks Den|2|6|;|Dokar (East)|14|6|;|Emerye (North)|2|11|
+Emerye (North)¦Emerye (North)¦Folays End¦Relic|Serpent Tree|3|12|;Shop|Eaiyr Market|4|3|;|Emerye (East)|14|3|;|Dokar (West)|11|9|;World Area|Desolate Lands|15|14|
+Zovraks Den¦Zovraks Den¦Folays End¦|Dokar (West)|2|2|
+Emerye (East)¦Emerye (East)¦Folays End¦|Emerye (North)|4|16|;|Emerye (South)|12|16|
+Emerye (South)¦Emerye (South)¦Folays End¦Shop|Kejel Stores|13|2|;|Emerye (East)|2|11|;|Emerye (West)|8|13|
+Emerye (West)¦Emerye (West)¦Folays End¦|Emerye (South)|4|13|
+Kral (North)¦Kral (North)¦Desolate Lands¦Shop|Mahje Market|12|11|;|Kral (East)|3|3|;World Area|Desolate Lands|4|12|
+Kral (East)¦Kral (East)¦¦|Kral (South)|6|15|;|Kral (North)|12|4|;portal|Kral Portal|3|7|
+Kral (South)¦Kral (South)¦¦|Kral (West)|2|5|;|Kral (East)|5|13|;shop|Ejalore Market|13|2|
+Kral (West)¦Kral (West)¦¦|Kral (South)|11|4|;shop|Kral Central Market|3|4|
+Dunale (North)¦Dunale (North)¦¦|Dunale (South)|12|2|;|Desolate Lands|2|13|;shop|Dreje Market|4|6|
+Dunale (South)¦Dunale (South)¦¦|Pelrei (North)|8|8|;|Dunale Cave|6|2|;|Dunale (North)|3|12|
+Dunale Cave¦Dunale Cave¦¦|Dunale (South)|2|2|
+Pelrei (North)¦Pelrei (North)¦Desolate Lands¦|Pelrei (South)|9|2|;|Dunale (South)|4|6|;World Area|Lands of Heath|4|16|
+Pelrei (South)¦Pelrei (South)¦Desolate Lands¦Relic|Sun Dial|4|8|;Shop|Alazadz Market|15|5|;|Pelrei (North)|4|3|;|Pelrei (East)|13|13|
+Pelrei (East)¦Pelrei (East)¦Desolate Lands¦Shop|Mad Wizzy's Bazaar|3|11|;|Pelrei (South)|14|15|
+Gumbrel (North)¦Gumbrel (North)¦Lands of Heath¦Shop|Kargrund's Boutique|14|12|;|Gumbrel (South)|3|2|;World Area|Lands of Heath|13|12|
+Gumbrel (Mount North)¦Gumbrel (Mount North)¦Lands of Heath¦|Gumbrel (Mount)|11|3|
+Gumbrel (Mount South)¦Gumbrel (Mount South)¦Lands of Heath¦|Gumbrel (Mount)|6|7|
+Gumbrel (Mount)¦Gumbrel (Mount)¦Lands of Heath¦|Gumbrel (Mount North)|9|2|;|Gumbrel (Mount South)|2|12|
+Gumbrel (South)¦Gumbrel (South)¦Lands of Heath¦|Gumbrel (North)|2|4|;|Marpolo Island|10|9|;|Naral (North)|8|16|;Portal|Gumbrel Portal|13|4|
+Marpolo Island¦Marpolo Island¦Lands of Heath¦|Gumbrel (South)|3|2|
+Naral (North)¦Naral (North)¦Lands of Heath¦Shop|Edklar Stores|7|14|;|Naral (South)|7|2|;|Gumbrel (South)|11|5|;World Area|Brale Cove|10|14|
+Naral (South)¦Naral (South)¦Lands of Heath¦|Naral (North)|3|3|;|Naral (East)|11|17|
+Naral (East)¦Naral (East)¦Lands of Heath¦Shop|Tandem Armory|14|7|;|Naral (South)|3|3|;|Naral (West)|8|9|;Portal|Brale Portal|15|12|
+Naral (West)¦Naral (West)¦Lands of Heath¦|Naral (East)|2|3|
+Brale (North)¦Brale (North)¦Brale Cove¦Shop|Cheklar Stores|14|8|;|Brale (South)|4|2|;World Area|Brale Cove|7|10|
+Brale (South)¦Brale (South)¦¦|Brale (East)|13|3|;|Brale (North)|5|2|;relic|Demonic Idol|0|0|
+Brale (East)¦Brale (East)¦¦|Brale (West)|5|9|;|Brale (South)|8|2|;shop|Lenmeer Armory|14|14|
+Brale (West)¦Brale (West)¦¦|Brale (East)|3|3|
+Angal Caves (North)¦Angal Caves (North)¦¦|Angal Caves (South)|10|8|;|Brale Cove|4|10|;shop|Kranl Armory|2|10|
+Angal Caves (South)¦Angal Caves (South)¦¦|Pelsar Canyon (North)|14|4|;|Mortugus Lair|14|14|;|Angal Caves (North)|8|9|
+Mortugus Lair¦Mortugus Lair¦¦|Angal Caves (South)|3|3|
+Pelsar Canyon (North)¦Pelsar Canyon (North)¦¦|Pelsar Canyon (South)|3|5|;|Angal Caves (South)|14|5|;|Jehlmar Flats|3|12|;shop|Pellak Stores|14|9|
+Pelsar Canyon (South)¦Pelsar Canyon (South)¦¦|Pelsar Canyon (East)|14|9|;|Pelsar Canyon (North)|3|2|
+Pelsar Canyon (East)¦Pelsar Canyon (East)¦¦|Pelsar Canyon (West)|13|3|;|Pelsar Canyon (South)|2|2|;portal|Pelsar Portal|8|14|
+Pelsar Canyon (West)¦Pelsar Canyon (West)¦¦|Pelsar Canyon (East)|2|3|
+Crombe Moors (North)¦Crombe Moors (North)¦¦|Crombe Moors (South)|4|3|;|Jehlmar Flats|12|4|;shop|Crombe Market|8|13|
+Crombe Moors (South)¦Crombe Moors (South)¦Jehlmar Flats¦|Crombe Moors (East)|13|6|;|Crombe Moors (North)|13|13|
+Crombe Moors (East)¦Crombe Moors (East)¦Jehlmar Flats¦|Crombe Moors (West)|9|8|;|Crombe Moors (South)|13|13|
+Crombe Moors (West)¦Crombe Moors (West)¦Jehlmar Flats¦Shop|Crombe Stores|10|6|;|Crombe Moors (East)|2|2|
+Crombe Moors. (Dark Wastes)¦Crombe Moors. (Dark Wastes)¦¦none||0|0|
+Crombe Moors. (Deep Dark Wastes)¦Crombe Moors. (Deep Dark Wastes)¦¦none||0|0|
+Tower of Khazal (Level 1)¦Tower of Khazal (Level 1)¦Jehlmar Flats¦|Tower of Khazal (Level 2)|3|15|;World Area|Jehlmar Flats|3|4|
+Tower of Khazal (Level 2)¦Tower of Khazal (Level 2)¦Jehlmar Flats¦|Tower of Khazal (Level 1)|2|2|;|Narkort (North)|12|12|
+Narkort (North)¦Narkort (North)¦Jehlmar Flats¦Shop|Kreq Stores|14|12|;|Narkort (South)|4|4|;|Tower of Khazal (Level 2)|3|11|;World Area|Haldmoor Strait|15|6|
+Narkort (South)¦Narkort (South)¦Jehlmar Flats¦|Narkort (North)|13|8|;|Narkort (East)|3|9|
+Narkort (East)¦Narkort (East)¦Jehlmar Flats¦|Narkort (South)|8|2|;|Narkort (West)|12|9|
+Narkort (West)¦Narkort (West)¦Jehlmar Flats¦|Narkort (East)|15|2|
+Caverns of Khel¦Caverns of Khel¦Haldmoor Strait¦Shop|Jalkaz Ice Merchant|8|4|;|Khel (North)|16|2|;|Labyrinth of Khel|8|8|
+Forest of Yule (Murk)¦Forest of Yule (Murk)¦Krul Island¦|Forest of Yule (Clearing)|2|6|;|Forest of Yule (Depths)|15|16|
+Gate of Khel¦Gate of Khel¦Haldmoor Strait¦|Sanctum of Khel|2|1|
+Khel (North)¦Khel (North)¦Haldmoor Strait¦Shop|Khelo Stores|8|15|;|Caverns of Khel|13|2|;|Khel (South)|4|3|;World Area|Haldmoor Strait|3|13|
+Labyrinth of Khel¦Labyrinth of Khel¦Haldmoor Strait¦|Caverns of Khel|17|6|;|Sanctum of Khel|9|10|
+Sanctum of Khel¦Sanctum of Khel¦Haldmoor Strait¦Shop|Ralnok Trader|9|8|;|Sanctum of Khel (North)|6|1|;|Gate of Khel|8|5|;|Labyrinth of Khel|9|7|;|Sanctum of Khel (East)|16|7|;|Vault of Khel|5|10|;|Sanctum of Khel (West)|1|11|;|Sanctum of Khel (South)|10|16|
+Sanctum of Khel (East)¦Sanctum of Khel (East)¦Haldmoor Strait¦|Sanctum of Khel|1|11|
+Sanctum of Khel (North)¦Sanctum of Khel (North)¦Haldmoor Strait¦|Sanctum of Khel|6|13|
+Sanctum of Khel (South)¦Sanctum of Khel (South)¦Haldmoor Strait¦|Sanctum of Khel|8|1|
+Sanctum of Khel (West)¦Sanctum of Khel (West)¦Haldmoor Strait¦|Sanctum of Khel|13|10|
+Vault of Khel¦Vault of Khel¦Haldmoor Strait¦Shop|Treasures of Khel|2|2|;|Sanctum of Khel|1|2|
+Khel (South)¦Khel (South)¦Haldmoor Strait¦|Khel (East)|3|4|;|Khel (North)|3|11|
+Khel (East)¦Khel (East)¦Haldmoor Strait¦|Khel (West)|12|3|;|Khel (South)|3|4|
+Khel (West)¦Khel (West)¦Haldmoor Strait¦Shop|Shelkan Market|4|11|;|Khel (East)|12|4|
+Daradom (Caves)¦Daradom (Caves)¦Haldmoor Strait¦|Daradom (Peak)|3|3|;|Maedos (North)|3|11|;Portal|Narkort Portal|10|11|;World Area|Haldmoor Strait|11|3|
+Daradom (Peak)¦Daradom (Peak)¦Haldmoor Strait¦|Daradom (Caves)|3|3|;|Daradom Catacomb|13|12|
+Daradom Catacomb¦Daradom Catacomb¦Haldmoor Strait¦|Daradom (Peak)|2|5|
+Maedos (North)¦Maedos (North)¦Haldmoor Strait¦Shop|Gojal Stores|3|13|;|Maedos (South)|4|3|;|Daradom (Caves)|11|15|;World Area|Meyra Coast|2|6|
+Maedos (South)¦Maedos (South)¦Haldmoor Strait¦|Maedos (North)|5|3|;|Maedos (East)|14|3|
+Maedos (East)¦Maedos (East)¦Haldmoor Strait¦|Maedos (South)|12|3|;|Maedos (West)|8|6|
+Maedos (West)¦Maedos (West)¦Haldmoor Strait¦Shop|Ashmora Market|14|10|;|Maedos (East)|14|3|;Portal|Maedos Portal|3|14|
+Bahruir (North)¦Bahruir (North)¦Meyra Coast¦|Bahruir (South)|3|3|;World Area|Meyra Coast|4|12|
+Quango Island (Eastern Reach)¦Quango Island (Eastern Reach)¦Arrin Moors¦|Quango Island|2|13|
+Bahruir (South)¦Bahruir (South)¦Meyra Coast¦Shop|Hadren Market|10|9|;|Bahruir (East)|6|3|;|Bahruir (North)|12|3|
+Bahruir (East)¦Bahruir (East)¦Meyra Coast¦|Bahruir (South)|13|3|;|Bahruir (West)|14|5|
+Bahruir (West)¦Bahruir (West)¦Meyra Coast¦Shop|Daelsor Market|6|2|;|Bahruir (East)|14|5|
+Aydr (North)¦Aydr (North)¦Meyra Coast¦|Aydr (South)|12|2|;World Area|Meyra Coast|4|5|
+Aydr (South)¦Aydr (South)¦Meyra Coast¦|Yuzha (North)|12|3|;|Aydr (North)|3|8|;|Maletornic Lair|13|12|
+Maletornic Lair¦Maletornic Lair¦Meyra Coast¦|Aydr (South)|4|5|
+Yuzha (North)¦Yuzha (North)¦Meyra Coast¦Shop|Barado Market|3|13|;|Yuzha (South)|14|2|;|Aydr (South)|14|11|;World Area|Yoshmur Isles|7|3|
+Yuzha (South)¦Yuzha (South)¦Meyra Coast¦|Yuzha (North)|12|3|;|Yuzha (East)|11|10|
+Yuzha (East)¦Yuzha (East)¦Meyra Coast¦Shop|Elphel Market|11|12|;|Yuzha (West)|3|9|;|Yuzha (South)|4|12|
+Yuzha (West)¦Yuzha (West)¦Meyra Coast¦|Yuzha (East)|11|4|
+Miyal (North)¦Miyal (North)¦Yoshmur Isles¦Shop|Breels Market|10|3|;|Miyal (South)|3|4|;World Area|Yoshmur Isles|11|10|
+Miyal (South)¦Miyal (South)¦Yoshmur Isles¦|Miyal (North)|3|3|;|Miyal (East)|10|3|;Portal|Miyal Portal|11|11|
+Miyal (East)¦Miyal (East)¦Yoshmur Isles¦Shop|Calbek Market|3|12|;|Miyal (South)|4|3|;|Miyal (West)|11|3|
+Miyal (West)¦Miyal (West)¦Yoshmur Isles¦|Miyal (East)|10|3|
+Kozyu (North)¦Kozyu (North)¦Yoshmur Isles¦Shop|Lurgberg Market|13|9|;|Kozyu (South)|12|2|;World Area|Yoshmur Isles|3|11|
+Forest of Yule (Depths)¦Forest of Yule (Depths)¦Krul Island¦|Forest of Yule (Murk)|8|6|
+Kozyu (South)¦Kozyu (South)¦Yoshmur Isles¦Relic|Crystal Pit of Kozyu|8|4|;Shop|Amune Stock|11|5|;|Kozyu (North)|2|3|;|Kozyu Crystal Catacombs|12|11|
+Kozyu Crystal Catacombs¦Kozyu Crystal Catacombs¦Yoshmur Isles¦|Kozyu (South)|5|4|;|Falagi (North)|2|7|
+Falagi (North)¦Falagi (North)¦Yoshmur Isles¦Shop|Xalens Store|14|12|;|Falagi (South)|3|3|;|Kozyu Crystal Catacombs|9|7|;World Area|Heidjal|3|11|
+Falagi (South)¦Falagi (South)¦Yoshmur Isles¦|Falagi (East)|12|3|;|Falagi (North)|3|4|
+Falagi (East)¦Falagi (East)¦Yoshmur Isles¦Shop|Nobles Store|12|10|;|Falagi (South)|3|3|;|Falagi (West)|8|6|
+Falagi (West)¦Falagi (West)¦Yoshmur Isles¦|Falagi (East)|2|4|;Portal|Falagi Portal|3|9|
+Ankura (North)¦Ankura (North)¦Heidjal¦Shop|Hengal Market|9|12|;|Ankura (South)|2|2|;World Area|Heidjal|4|9|
+Ankura (South)¦Ankura (South)¦Heidjal¦Shop|Andralis Market|12|2|;|Ankura (North)|4|3|;|Ankura (East)|2|11|
+Ankura (East)¦Ankura (East)¦Heidjal¦|Ankura (West)|2|3|;|Ankura (South)|11|3|
+Ankura (West)¦Ankura (West)¦Heidjal¦Shop|Joseli Store|2|4|;|Ankura (East)|9|3|
+Asjal (North)¦Asjal (North)¦Heidjal¦|Asjal (South)|2|3|;World Area|Heidjal|4|12|
+Asjal (South)¦Asjal (South)¦Heidjal¦Shop|Satyo Market|4|12|;|Asjal (North)|8|2|;|Faroth (North)|13|5|;|Vashku|5|6|
+Vashku¦Vashku¦Heidjal¦|Asjal (South)|4|6|
+Faroth (North)¦Faroth (North)¦Heidjal¦Shop|Nahar Market|13|10|;|Faroth (South)|2|2|;|Asjal (South)|21|3|;World Area|Pits of Farath|7|14|
+Faroth (South)¦Faroth (South)¦Heidjal¦|Faroth (North)|12|7|;|Faroth (East)|11|13|
+Faroth (East)¦Faroth (East)¦Heidjal¦Shop|Elgion Market|3|7|;|Faroth (South)|12|3|;|Faroth (West)|13|12|
+Faroth (West)¦Faroth (West)¦Heidjal¦|Faroth (East)|3|2|
+Emyr (North)¦Emyr (North)¦Pits of Faroth¦Shop|Nevrast Stores|4|12|;|Emyr (South)|11|3|;World Area|Pits of Farath|12|13|
+Emyr (South)¦Emyr (South)¦Pits of Faroth¦|Emyr (North)|2|2|;|Emyr (East)|15|2|
+Emyr (East)¦Emyr (East)¦Pits of Faroth¦Shop|Naire Market|13|11|;|Emyr (South)|3|3|;|Emyr (West)|11|3|;Portal|Faroth Portal|3|13|
+Emyr (West)¦Emyr (West)¦Pits of Farath¦Shop|Numenor Stores|13|12|;|Emyr (East)|3|2|
+Xenic Crypt (North)¦Xenic Crypt (North)¦Pits of Farath¦Shop|Naugl Market|3|13|;|Xenic Crypt (South)|10|3|;World Area|Pits of Farath|2|8|
+Xenic Crypt (South)¦Xenic Crypt (South)¦Pits of Farath¦|Xenic Crypt (North)|3|2|;|Ralath (North)|13|2|;|Xenix Den|9|7|
+Xenix Den¦Xenix Den¦Pits of Farath¦|Xenic Crypt (South)|7|8|
+Ralath (North)¦Ralath (North)¦Pits of Farath¦Shop|Hyrasil Market|3|12|;|Ralath (South)|3|5|;|Xenic Crypt (South)|12|12|;World Area|Grofland|12|3|
+Ralath (South)¦Ralath (South)¦Grofland¦|Ralath (East)|11|3|;|Ralath (North)|3|4|
+Ralath (East)¦Ralath (East)¦Grofland¦Shop|Noc Market|9|13|;|Ralath (South)|6|3|;|Ralath (West)|12|3|
+Ralath (West)¦Ralath (West)¦Grofland¦|Ralath (East)|12|4|
+Gerlond (North)¦Gerlond (North)¦Grofland¦Shop|Elbor Market|12|12|;|Gerlond (South)|4|4|;World Area|Grofland|4|11|
+Happy Bear Woods¦Happy Bear Woods¦Krul Island¦|The Grimmnor Forest|4|3|;|The Bears Cottage|15|19|
+Springtime Forest (Darkened Thicket)¦Springtime Forest (Darkened Thicket)¦Krul Island¦|Springtime Forest (Outer Grove)|11|6|
+The Bears Cottage¦The Bears Cottage¦Krul Island¦|Happy Bear Woods|2|5|
+Gerlond (South)¦Gerlond (South)¦Grofland¦|Gerlond (North)|5|2|;|Gerlond (East)|11|3|
+Gerlond (East)¦Gerlond (East)¦Grofland¦Shop|Orro Store|6|11|;|Gerlond (South)|11|4|;|Gerlond (West)|11|11|
+Gerlond (West)¦Gerlond (West)¦Grofland¦|Gerlond (East)|10|3|
+Nimaos (North)¦Nimaos (North)¦Alkmore Divide¦Shop|Lorando Market|14|12|;|Nimaos (South)|11|4|;World Area|Grofland|4|13|
+Nimaos (South)¦Nimaos (South)¦Alkmore Divide¦|Ghelmot (North)|2|4|;|Nimaos (North)|13|9|
+Ghelmot (North)¦Ghelmot (North)¦Grofland¦Shop|Nismil Market|4|11|;|Ghelmot (South)|3|2|;|Nimaos (South)|12|4|;World Area|Alkmore Divide|13|11|
+Ghelmot (South)¦Ghelmot (South)¦Grofland¦|Ghelmot (North)|3|4|;|Ghelmot (East)|13|4|
+Ghelmot (East)¦Ghelmot (East)¦Grofland¦Shop|Andoril Market|3|10|;|Ghelmot (South)|3|3|;|Ghelmot (West)|12|4|;Portal|Alkmore Portal|11|11|
+Ghelmot (West)¦Ghelmot (West)¦Grofland¦|Ghelmot (East)|3|4|
+Ossrand (North)¦Ossrand (North)¦Alkmore Divide¦Shop|Scelmo Market|6|12|;|Ossrand (South)|3|4|;|Ragnok Lair|13|6|;World Area|Alkmore Divide|14|12|
+Ragnok Lair¦Ragnok Lair¦Alkmore Divide¦|Ossrand (North)|7|4|
+Ossrand (South)¦Ossrand (South)¦Alkmore Divide¦|Ossrand (East)|11|2|;|Ossrand (North)|4|5|
+Ossrand (East)¦Ossrand (East)¦Alkmore Divide¦Shop|Minmato Market|4|12|;|Ossrand (South)|4|4|;|Ossrand (West)|12|5|
+Ossrand (West)¦Ossrand (West)¦Alkmore Divide¦|Ossrand (East)|7|2|
+Vrandu (North)¦Vrandu (North)¦Alkmore Divide¦Shop|Sirel Market|13|7|;|Vrandu (South)|4|12|;World Area|Alkmore Divide|2|5|
+Vrandu (South)¦Vrandu (South)¦Alkmore Divide¦|Vrandu (North)|9|3|;|Frozen Flats|3|7|
+Frozen Flats¦Frozen Flats¦Alkmore Divide¦|Aldmar Swamps (North)|9|3|;|Vrandu (South)|10|10|
+Aldmar Swamps (North)¦Aldmar Swamps (North)¦Alkmore Divide¦|Frozen Flats|9|2|;|Vorani Abyss|3|7|
+Vorani Abyss¦Vorani Abyss¦Alkmore Divide¦|Aldmar Swamps (North)|4|3|;|Aldmar Swamps (South)|11|8|
+Aldmar Swamps (South)¦Aldmar Swamps (South)¦Alkmore Divide¦|Vorani Abyss|5|2|;|Akenor Dungeon|10|11|
+Akenor Dungeon¦Akenor Dungeon¦Alkmore Divide¦|Aldmar Swamps (South)|5|2|;|The Horned Lair|12|3|;|Ofron Islands (North)|4|10|
+The Horned Lair¦The Horned Lair¦Alkmore Divide¦|Akenor Dungeon|7|7|
+Ofron Islands (Caves)¦Ofron Islands (Caves)¦Alkmore Divide¦|Ofron Islands (North)|6|11|
+Ofron Islands (North)¦Ofron Islands (North)¦Forgland¦Shop|Elkmaar Market|11|13|;|Akenor Dungeon|12|2|;|Ofron Islands (South)|3|3|;|Ofron Islands (Caves)|2|10|;World Area|Forgland|3|13|
+Ofron Islands (South)¦Ofron Islands (South)¦Forgland¦|Ofron Islands (North)|5|3|;|Ofron Islands (East)|12|4|
+Ofron Islands (East)¦Ofron Islands (East)¦Forgland¦Shop|Oralmo Market|4|14|;|Ofron Islands (South)|4|3|;|Ofron Islands (West)|10|3|
+Ofron Islands (West)¦Ofron Islands (West)¦Forgland¦|Ofron Islands (East)|3|3|
+Surfron (North)¦Surfron (North)¦Forgland¦Shop|Nokrol Market|13|7|;|Surfron (South)|9|2|;World Area|Forgland|3|12|
+Surfron (South)¦Surfron (South)¦Forgland¦|Surfron (North)|4|3|;|Surfron (East)|12|5|;Portal|Surfron Portal|7|15|
+Surfron (East)¦Surfron (East)¦Forgland¦Shop|Norkael Market|13|4|;|Surfron (South)|3|3|;|Surfron (West)|3|9|
+Surfron (West)¦Surfron (West)¦Forgland¦|Surfron (East)|3|3|
+Horthland (North)¦Horthland (North)¦Forgland¦Shop|Adelir Market|13|15|;|Horthland (South)|8|3|;World Area|Forgland|12|9|
+Horthland (South)¦Horthland (South)¦Forgland¦|Horthland (North)|4|5|;|Sir Ozomonds Castle|14|10|;|The Bitter Marsh (North)|5|14|
+Sir Ozomonds Castle¦Sir Ozomonds Castle¦Forgland¦|Horthland (South)|2|2|
+The Bitter Marsh (North)¦The Bitter Marsh (North)¦Forgland¦Shop|Elghir Store|5|5|;|Horthland (South)|13|1|;|The Bitter Marsh (South)|14|3|;World Area|Ephillanor|1|1|
+The Bitter Marsh (South)¦The Bitter Marsh (South)¦Forgland¦|The Bitter Marsh (North)|1|2|;|The Bitter Marsh (East)|10|10|
+The Bitter Marsh (East)¦The Bitter Marsh (East)¦Forgland¦Shop|Wesal Store|8|11|;|The Bitter Marsh (South)|13|4|;|The Bitter Marsh (West)|2|9|
+The Bitter Marsh (West)¦The Bitter Marsh (West)¦Forgland¦|The Bitter Marsh (East)|1|1|
+Ephal Swamp (Murk North)¦Ephal Swamp (Murk North)¦Ephillanor¦|Ephal Swamp (Murk)|9|15|
+Ephal Swamp (Murk South)¦Ephal Swamp (Murk South)¦Ephillanor¦|Ephal Swamp (Murk)|4|4|
+Ephal Swamp (Murk)¦Ephal Swamp (Murk)¦Ephillanor¦|Ephal Swamp (Murk North)|8|4|;|Ephal Swamp (Murk South)|17|17|
+Ephal Swamp (North)¦Ephal Swamp (North)¦Ephillanor¦Shop|Zhali Store|10|13|;|Ephal Swamp (South)|13|3|;World Area|Ephillanor|3|2|
+Ephal Swamp (South)¦Ephal Swamp (South)¦Ephillanor¦Relic|Temple of Lightning|12|4|;|Ephal Swamp (East)|3|12|;|Ephal Swamp (North)|11|13|
+Ephal Swamp (East)¦Ephal Swamp (East)¦Ephillanor¦Shop|Dhall Store|12|4|;|Ephal Swamp (South)|3|3|;|Ephal Swamp (West)|11|12|
+Ephal Swamp (West)¦Ephal Swamp (West)¦Ephillanor¦|Ephal Swamp (East)|2|3|
+The Grothan Way (North)¦The Grothan Way (North)¦Ephillanor¦Shop|Alghar Market|4|8|;|The Grothan Way (South)|4|3|;Portal|Delmuir Portal|12|10|;World Area|Ephillanor|12|4|
+Kruxgors Lair¦Kruxgors Lair¦Ephillanor¦|The Grothan Way (South)|4|3|
+The Grothan Way (South)¦The Grothan Way (South)¦Ephillanor¦|The Grothan Way (North)|9|3|;|Theotis (North)|13|5|;|Kruxgors Lair|6|8|
+Theotis (North)¦Theotis (North)¦Elohym¦Shop|Theotis Market|7|9|;|The Grothan Way (South)|12|4|;|Theotis (South)|4|10|;World Area|Elohym|13|13|
+Theotis (South)¦Theotis (South)¦Elohym¦|Theotis (East)|11|3|;|Theotis (North)|3|5|
+Theotis (East)¦Theotis (East)¦Elohym¦Shop|Elibhar Market|7|5|;|Theotis (South)|13|8|;|Theotis (West)|11|13|
+Theotis (West)¦Theotis (West)¦Elohym¦|Theotis (East)|6|2|
+Krysa (North)¦Krysa (North)¦Elohym¦Shop|Aarh Market|8|8|;|Krysa (South)|5|12|;World Area|Elohym|4|3|
+Krysa (South)¦Krysa (South)¦Elohym¦|Krysa (East)|9|3|;|Krysa (North)|2|4|
+Krysa (East)¦Krysa (East)¦Elohym¦|Krysa (South)|3|4|;|Krysa (West)|6|7|
+Krysa (West)¦Krysa (West)¦Elohym¦Relic|The Fallen Star|11|4|;Shop|Nepture Market|13|12|;|Krysa (East)|2|4|
+Erosi (North)¦Erosi (North)¦Elohym¦|Erosi (South)|12|3|;Portal|Erosi Portal|6|13|;World Area|Elohym|5|2|
+Domain of Air¦Domain of Air¦Azlore Plains¦|Land of the Elements|3|9|
+Erosi (South)¦Erosi (South)¦Elohym¦Relic|Apepinos Demon Pit|7|6|;Shop|Steamwork Forge|3|10|;|Erosi (North)|6|2|;|Sabertooth Lair|12|10|
+Forest of Yule (Thicket)¦Forest of Yule (Thicket)¦Krul Island¦|Forest of Yule (Workshop)|4|3|;|Forest of Yule (Clearing)|16|11|
+Forest of Yule (Workshop)¦Forest of Yule (Workshop)¦Krul Island¦|Forest of Yule (Thicket)|2|12|
+Haunt of Tommy Aches¦Haunt of Tommy Aches¦Krul Island¦|Oidhche Shamhna|5|11|
+Land of the Elements (Air)¦Land of the Elements (Air)¦Azlore Plains¦Shop|Air Elemental Wares|2|2|;|Land of the Elements|3|2|
+Sabertooth Lair¦Sabertooth Lair¦Elohym¦|Erosi (South)|3|3|;|Selari (North)|9|3|

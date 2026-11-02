@@ -1,0 +1,145 @@
+Celestial Temple (Hall)¦Celestial Temple (Hall)¦¦|Celestial Temple (Hall North)|6|1|;|Celestial Temple (Hall South)|8|18|
+Celestial Temple (Outer)¦Celestial Temple (Outer)¦¦|Celestial Temple (Inner)|3|1|;|Celestial Temple (Entrance)|2|13|;portal|Ardal Portal|6|12|
+Celestial Temple (Inner)¦Celestial Temple (Inner)¦¦|Celestial Temple (Chamber)|4|13|;|Celestial Temple (Outer)|2|1|
+Celestial Temple (Cavern)¦Celestial Temple (Cavern)¦¦|Celestial Temple (Chamber)|7|7|
+Celestial Temple (Chamber)¦Celestial Temple (Chamber)¦¦|Celestial Temple (Cavern)|7|8|;|Celestial Temple (Inner)|7|1|
+Encrow Bay (Outskirts)¦Encrow Bay (Outskirts)¦Encrow Strait¦World Area|Encrow Strait|11|7|;|Encrow Bay (Inner)|4|2|;|Celestial Temple (Entrance)|3|12|
+Encrow Bay (Inner)¦Encrow Bay (Inner)¦¦|Encrow Bay (Beach)|3|11|;|Encrow Bay (Outskirts)|11|12|;relic|Aura Rock|3|4|
+Encrow Bay (Beach)¦Encrow Bay (Beach)¦¦|Corrupt Islands (North)|7|11|;|Encrow Bay (Cove)|4|10|;|Encrow Bay (Inner)|2|5|;shop|Encrow Market|10|3|
+Encrow Bay (Cove)¦Encrow Bay (Cove)¦¦|Encrow Bay (Beach)|10|5|
+Corrupt Islands (North)¦Corrupt Islands (North)¦Encrow Strait¦World Area|Encrow Strait|5|7|;|Corrupt Islands (East)|12|10|;|Encrow Bay (Beach)|10|3|
+Corrupt Islands (East)¦Corrupt Islands (East)¦¦|Corrupt Islands (South)|13|3|;|Corrupt Islands (North)|12|12|
+Corrupt Islands (South)¦Corrupt Islands (South)¦¦|Corrupt Islands (West)|11|2|;|Corrupt Islands (East)|3|3|;portal|Corrupt Portal|8|9|
+Corrupt Islands (West)¦Corrupt Islands (West)¦¦|Corrupt Islands (Central)|13|4|;|Corrupt Islands (South)|5|2|;shop|The Corrupt Bazaar|15|13|
+Corrupt Islands (Central)¦Corrupt Islands (Central)¦¦|Ryken Mountain (Mouth)|15|16|;|Corrupt Islands (West)|5|2|
+Ryken Mountain (Mouth)¦Ryken Mountain (Mouth)¦Encrow Strait¦|Elridge Plains (North)|3|11|;|Ryken Mountain (Summit)|12|3|;|Corrupt Islands (Central)|2|7|;World Area|Encrow Strait|3|3|
+Forest of Yule (Grove)¦Forest of Yule (Grove)¦Krul Island¦|Forest of Yule (Clearing)|2|15|
+Ryken Mountain (Shelf)¦Ryken Mountain (Shelf)¦¦|Ryken Mountain (Summit)|3|2|
+Ryken Mountain (Summit)¦Ryken Mountain (Summit)¦¦|Ryken Mountain (Shelf)|11|9|;|Ryken Mountain (Mouth)|2|7|
+The Wretched Graveyard¦The Wretched Graveyard¦¦|Oidhche Shamhna|1|2|
+Elridge Plains (North)¦Elridge Plains (North)¦Elridge¦|Elridge Plains (East)|11|3|;|Ryken Mountain (Mouth)|3|4|;World Area|Elridge|11|12|
+Elridge Plains (East)¦Elridge Plains (East)¦¦|Elridge Plains (South)|12|11|;|Elridge Plains (North)|3|11|
+Elridge Plains (South)¦Elridge Plains (South)¦¦|Elridge Plains (West)|13|10|;|Elridge Plains (East)|3|11|;shop|Elridge Bazaar|13|4|
+Elridge Plains (West)¦Elridge Plains (West)¦¦|Felannar Dungeons (Entrance)|3|12|;|Elridge Plains (South)|12|12|
+Felannar Dungeons (Entrance)¦Felannar Dungeons (Entrance)¦Elridge¦World Area|Elridge|4|12|;|Elridge Plains (West)|13|13|;|Felannar Dungeons (Outer)|12|9|
+Felannar Dungeons (Outer)¦Felannar Dungeons (Outer)¦¦|Felannar Dungeons (Inner)|2|2|;|Felannar Dungeons (Entrance)|13|12|;portal|Felannar Portal|5|7|
+Felannar Dungeons (Inner)¦Felannar Dungeons (Inner)¦¦|Felannar Dungeons (Outer)|2|2|;|Desert of Brigands (North)|13|2|
+Desert of Brigands (North)¦Desert of Brigands (North)¦Elridge¦World Area|Elridge|2|15|;|Desert of Brigands (East)|5|8|;|Felannar Dungeons (Inner)|15|15|;relic|Shrieking Spire|13|3|;shop|Brigands Market|10|8|
+Desert of Brigands (East)¦Desert of Brigands (East)¦¦|Desert of Brigands (North)|3|2|;|Desert of Brigands (South)|8|2|
+Desert of Brigands (Enclave)¦Desert of Brigands (Enclave)¦¦|Desert of Brigands (West)|10|12|
+Desert of Brigands (South)¦Desert of Brigands (South)¦¦|Desert of Brigands (West)|5|2|;|Desert of Brigands (East)|5|10|;relic|Bandit Stronghold|8|16|
+Desert of Brigands (West)¦Desert of Brigands (West)¦¦|Desert of Brigands (South)|3|3|;|Desert of Brigands (Enclave)|8|6|;|Bleak Caves (Mouth)|6|10|
+Bleak Caves (Mouth)¦Bleak Caves (Mouth)¦Falorn¦World Area|Falorn|9|14|;|Bleak Caves (Upper)|14|3|;|Desert of Brigands (West)|13|11|
+Bleak Caves (Upper)¦Bleak Caves (Upper)¦¦|Bleak Caves (Mouth)|4|3|;|Bleak Caves (Lower)|18|13|
+Bleak Caves (Lower)¦Bleak Caves (Lower)¦¦|Bleak Caves (Upper)|3|4|;|Scorchful Depths (Level 1)|21|17|
+Scorchful Depths (Level 1)¦Scorchful Depths (Level 1)¦Falorn¦World Area|Falorn|7|8|;|Bleak Caves (Lower)|2|12|;|Scorchful Depths (Level 2)|12|12|
+Scorchful Depths (Level 2)¦Scorchful Depths (Level 2)¦¦|Scorchful Depths (Level 1)|3|12|;|Scorchful Depths (Level 3)|13|12|;shop|Scorchful Wares|13|3|;portal|Scorchful Portal|3|2|
+Scorchful Depths (Level 3)¦Scorchful Depths (Level 3)¦¦|Scorchful Depths (Level 2)|4|13|;|Necral Fields (North)|13|13|
+Necral Fields (North)¦Necral Fields (North)¦Falorn¦World Area|Falorn|9|12|;|Necral Fields (East)|16|2|;|Scorchful Depths (Level 3)|1|10|
+Necral Fields (East)¦Necral Fields (East)¦¦|Necral Fields (South)|9|7|;|Necral Fields (North)|2|8|;shop|Graveyard Store|9|4|
+Necral Fields (South)¦Necral Fields (South)¦¦|Necral Fields (East)|14|1|;|Necral Fields (West)|2|4|;relic|Giant Necral Skull|3|13|
+Necral Fields (Interior)¦Necral Fields (Interior)¦¦|Necral Fields (Wraiths Domain)|12|1|;|Necral Fields (West)|5|14|
+Necral Fields (West)¦Necral Fields (West)¦¦|Necral Fields (South)|4|1|;|Necral Fields (Interior)|10|6|;|Shadow Wood (Clearing)|1|7|
+Necral Fields (Wraiths Domain)¦Necral Fields (Wraiths Domain)¦¦|Necral Fields (Interior)|2|13|
+Shadow Wood (Clearing)¦Shadow Wood (Clearing)¦Dokfarn¦World Area|Dokfarn|3|11|;|Shadow Wood (Glade)|2|3|;|Necral Fields (West)|13|11|
+Shadow Wood (Glade)¦Shadow Wood (Glade)¦¦|Shadow Wood (Thicket)|11|3|;|Shadow Wood (Clearing)|3|11|
+Shadow Wood (Hunting Lodge)¦Shadow Wood (Hunting Lodge)¦¦|Shadow Wood (Thicket)|1|2|
+Shadow Wood (Thicket)¦Shadow Wood (Thicket)¦¦|Shadow Wood (Hunting Lodge)|12|3|;|Zrozon Glacier (Edge)|8|8|;|Shadow Wood (Glade)|12|13|
+Zrozon Glacier (Edge)¦Zrozon Glacier (Edge)¦Dokfarn¦World Area|Dokfarn|3|1|;|Zrozon Glacier (Crust)|8|8|;|Shadow Wood (Thicket)|1|13|;relic|Glacier Relic|5|7|;shop|Zrozon Wares|12|7|
+Zrozon Glacier (Crust)¦Zrozon Glacier (Crust)¦¦|Zrozon Glacier (Crevasse)|10|1|;|Zrozon Glacier (Edge)|13|11|
+Zrozon Glacier (Crevasse)¦Zrozon Glacier (Crevasse)¦¦|Zrozon Glacier (Corrie)|13|3|;|Zrozon Glacier (Hunting Lodge)|11|10|;|Zrozon Glacier (Crust)|4|13|
+Zrozon Glacier (Hunting Lodge)¦Zrozon Glacier (Hunting Lodge)¦¦|Zrozon Glacier (Crevasse)|1|2|
+Zrozon Glacier (Corrie)¦Zrozon Glacier (Corrie)¦¦|Dokfarn Lake (Mouth)|3|1|;|Zrozon Glacier (Crevasse)|6|6|
+Dokfarn Lake (Mouth)¦Dokfarn Lake (Mouth)¦Dokfarn¦World Area|Dokfarn|2|3|;|Zrozon Glacier (Corrie)|11|2|;|Dokfarn Lake (Islet)|3|12|;portal|Dokfarn Portal|15|8|
+Dokfarn Lake (Islet)¦Dokfarn Lake (Islet)¦¦|Dokfarn Lake (Island)|11|11|;|Dokfarn Lake (Mouth)|3|10|;shop|Dokfarn Market|11|2|
+Dokfarn Lake (Hunting Lodge)¦Dokfarn Lake (Hunting Lodge)¦¦|Dokfarn Lake (Island)|3|2|
+Dokfarn Lake (Island)¦Dokfarn Lake (Island)¦¦|Dokfarn Lake (Hunting Lodge)|3|2|;|Waza Island (Watch Point)|10|5|;|Dokfarn Lake (Islet)|8|13|;|Fluent Spire|2|17|
+Fluent Spire¦Fluent Spire¦¦|Dokfarn Lake (Island)|8|6|
+Waza Island (Watch Point)¦Waza Island (Watch Point)¦Gruzside¦World Area|Gruzside|2|9|;|Waza Island (Beacon Point)|6|2|;|Dokfarn Lake (Island)|11|15|
+Waza Island (Beacon Point)¦Waza Island (Beacon Point)¦¦|Waza Island (Watch Point)|4|4|;|Hobba Marsh (Edge)|11|17|
+Hobba Marsh (Edge)¦Hobba Marsh (Edge)¦Gruzside¦World Area|Gruzside|8|8|;|Waza Island (Beacon Point)|8|1|;|Hobba Marsh (Hobgoblin Ruins)|2|18|;shop|Hobba Market|7|19|
+Hobba Marsh (Hobgoblin Ruins)¦Hobba Marsh (Hobgoblin Ruins)¦¦|Hobba Marsh (Bog)|7|7|;|Hobba Marsh (Edge)|1|20|;relic|Hobba Fort|14|14|
+Hobba Marsh (Bog)¦Hobba Marsh (Bog)¦¦|Hobba Marsh (Hobgoblin Ruins)|1|1|;|Urz Wastes (Brushland)|18|1|;portal|Hobba Portal|5|9|
+Urz Wastes (Brushland)¦Urz Wastes (Brushland)¦Gruzside¦World Area|Gruzside|3|6|;|Hobba Marsh (Bog)|4|14|;|Urz Wastes (Thicket)|12|17|
+Urz Wastes (Thicket)¦Urz Wastes (Thicket)¦¦|Urz Wastes (Brushland)|2|2|;|Urz Wastes (Wurm Lands)|14|10|;shop|Urz Wares|8|15|
+Urz Wastes (Wurm Lands)¦Urz Wastes (Wurm Lands)¦¦|Urz Wastes (Hobgoblin Camp)|20|5|;|Urz Wastes (Thicket)|10|14|
+Urz Wastes (Hobgoblin Camp)¦Urz Wastes (Hobgoblin Camp)¦¦|Urz Wastes (Grutor Lands)|4|11|;|Urz Wastes (Wurm Lands)|17|16|
+Urz Wastes (Dark Interior)¦Urz Wastes (Dark Interior)¦¦|Urz Wastes (Grutor Lands)|11|7|
+Urz Wastes (Grutor Lands)¦Urz Wastes (Grutor Lands)¦¦|Urz Wastes (Hobgoblin Camp)|16|6|;|Eohlar (North)|16|10|;|Urz Wastes (Dark Interior)|2|15|
+Eohlar (North)¦Eohlar (North)¦The Ravaged Plain¦World Area|The Ravaged Plain|8|8|;|Eohlar (East)|11|4|;|Urz Wastes (Grutor Lands)|8|18|
+Eohlar (East)¦Eohlar (East)¦¦|Eohlar (South)|20|3|;|Eohlar (North)|5|4|
+Eohlar (South)¦Eohlar (South)¦¦|Eohlar (West)|9|8|;|Eohlar (East)|3|13|;shop|Eohlar Wares|3|3|;relic|Eohlar Relic|11|16|
+Eohlar (West)¦Eohlar (West)¦¦|Eohlar (South)|10|7|;|Audinar Depths (Entrance)|4|21|
+Audinar Depths (Entrance)¦Audinar Depths (Entrance)¦The Ravaged Plain¦World Area|The Ravaged Plain|5|4|;|Audinar Depths (Outer)|13|3|;|Eohlar (West)|7|17|
+Audinar Depths (Outer)¦Audinar Depths (Outer)¦¦|Audinar Depths (Entrance)|5|9|;|Audinar Depths (Inner)|15|3|;portal|Audinar Portal|4|3|
+Audinar Depths (Inner)¦Audinar Depths (Inner)¦¦|Audinar Depths (Lost Labyrinth)|2|13|;|Audinar Depths (Outer)|13|14|
+Audinar Depths (Lost Labyrinth)¦Audinar Depths (Lost Labyrinth)¦¦|Audinar Depths (Inner)|13|2|;|Elrill Dungeon (Entrance)|3|5|;shop|Audinar Market|2|16|
+Elrill Dungeon (Entrance)¦Elrill Dungeon (Entrance)¦The Ravaged Plain¦World Area|The Ravaged Plain|9|7|;|Audinar Depths (Lost Labyrinth)|17|14|;|Elrill Dungeon (Outer)|1|17|
+Elrill Dungeon (Lair)¦Elrill Dungeon (Lair)¦¦|Sarlonde Vault|12|2|;|Elrill Dungeon (Outer)|9|7|
+Elrill Dungeon (Outer)¦Elrill Dungeon (Outer)¦¦|Elrill Dungeon (Lair)|7|10|;|Elrill Dungeon (Entrance)|22|10|;|The Fire Forest (Outskirts)|12|18|;|The Toxic Swamp of Oozer|15|2|
+Sarlonde Vault¦Sarlonde Vault¦¦|Elrill Dungeon (Lair)|2|2|
+The Toxic Swamp of Oozer¦The Toxic Swamp of Oozer¦¦
+The Fire Forest (Outskirts)¦The Fire Forest (Outskirts)¦Fenblin¦World Area|Fenblin|3|1|;|The Fire Forest (Ridge)|21|4|;|Elrill Dungeon (Outer)|6|10|
+The Fire Forest (Ridge)¦The Fire Forest (Ridge)¦¦|The Fire Forest (Thicket)|17|12|;|The Fire Forest (Outskirts)|1|15|
+The Fire Forest (Thicket)¦The Fire Forest (Thicket)¦¦|The Fire Forest (Ridge)|3|1|;|The Fire Forest (Valley)|3|23|;shop|Thicket Wares|9|17|
+The Fire Forest (Valley)¦The Fire Forest (Valley)¦¦|The Fire Forest (Grove)|18|8|;|The Fire Forest (Thicket)|4|21|;relic|Old Ruins|13|16|
+The Fire Forest (Grove)¦The Fire Forest (Grove)¦¦|The Fire Forest (Valley)|2|1|;|The Fire Forest (Waterfall)|19|22|
+The Fire Forest (Waterfall)¦The Fire Forest (Waterfall)¦¦|The Fire Forest (Grove)|1|2|;|Caliginous Forests (Edge)|13|10|
+Caliginous Forests (Edge)¦Caliginous Forests (Edge)¦Fenblin¦World Area|Fenblin|7|14|;|Caliginous Forests (Murk)|4|2|;|The Fire Forest (Waterfall)|15|8|;shop|Caliginous Market|2|19|
+Caliginous Forests (Murk)¦Caliginous Forests (Murk)¦¦|Caliginous Forests (Edge)|2|2|;|Caliginous Forests (Mire)|14|13|;portal|Caliginous Portal|10|17|
+Caliginous Forests (Mire)¦Caliginous Forests (Mire)¦¦|Caliginous Forests (Murk)|2|2|;|Caliginous Forests (Thicket)|11|14|
+Caliginous Forests (Thicket)¦Caliginous Forests (Thicket)¦¦|Caliginous Forests (Mire)|3|4|;|Grove of Farn-org|3|14|;|Barbmore (Outskirts)|16|17|
+Grove of Farn-org¦Grove of Farn-org¦¦|Caliginous Forests (Thicket)|3|3|
+Barbmore (Outskirts)¦Barbmore (Outskirts)¦Domain of Heitwar¦World Area|Domain of Heitwar|6|21|;|Barbmore (Range)|4|3|;|Caliginous Forests (Thicket)|15|19|
+Barbmore (Range)¦Barbmore (Range)¦¦|Barbmore (Highland)|3|2|;|Barbmore (Outskirts)|19|14|
+Barbmore (Highland)¦Barbmore (Highland)¦¦|Barbmore (Range)|14|2|;|Barbmore (Maze)|15|16|;relic|Barbmore Pillars|3|3|;shop|Barbmore Bazaar|2|16|
+Barbmore (Maze)¦Barbmore (Maze)¦¦|Ecrulym Flats (Edge)|2|2|;|Barbmore (Highland)|15|3|
+Ecrulym Flats (Edge)¦Ecrulym Flats (Edge)¦Domain of Heitwar¦World Area|Domain of Heitwar|9|9|;|Ecrulym Flats (Slopes)|2|2|;|Barbmore (Maze)|2|18|
+Ecrulym Flats (Slopes)¦Ecrulym Flats (Slopes)¦¦|Ecrulym Flats (Mesa)|15|3|;|Ecrulym Flats (Edge)|3|19|
+Ecrulym Flats (Mesa)¦Ecrulym Flats (Mesa)¦¦|Ecrulym Flats (Plateau)|14|9|;|Ecrulym Flats (Slopes)|2|13|;shop|Ecrulym Market|10|9|;portal|Ecrulym Portal|17|4|
+Ecrulym Flats (Plateau)¦Ecrulym Flats (Plateau)¦¦|Ecrulym Flats (Mesa)|2|2|;|Heitwar Bastion (Entrance)|11|17|
+Heitwar Bastion (Entrance)¦Heitwar Bastion (Entrance)¦Domain of Heitwar¦World Area|Domain of Heitwar|1|9|;|Heitwar Bastion (Great Hall)|8|2|;|Ecrulym Flats (Plateau)|12|19|
+Dungeons of Heitwar¦Dungeons of Heitwar¦¦|Heitwar Bastion (Great Hall)|10|11|
+Heitwar Bastion (Great Hall)¦Heitwar Bastion (Great Hall)¦¦|The Battlegrounds|12|2|;|Dungeons of Heitwar|7|15|;|Heitwar Bastion (Entrance)|16|15|
+The Battlegrounds¦The Battlegrounds¦Eltwier Province¦World Area|Eltwier Province|2|17|;|Ravaged Forest (Outskirts)|15|2|;|Heitwar Bastion (Great Hall)|8|11|
+Ravaged Forest (Outskirts)¦Ravaged Forest (Outskirts)¦¦|The Battlegrounds|2|2|;|Ravaged Forest (Clearing)|11|12|
+Ravaged Forest (Clearing)¦Ravaged Forest (Clearing)¦¦|Ravaged Forest (Outskirts)|2|2|;|Meirfur Town (Outskirts)|22|2|;relic|Ravaged Cluster|10|2|;shop|Ravaged Wares|5|6|
+Meirfur Town (Outskirts)¦Meirfur Town (Outskirts)¦Eltwier Province¦World Area|Eltwier Province|4|6|;|Ravaged Forest (Clearing)|2|1|;|Meirfur Town (Edge)|4|14|
+Meirfur Town (Edge)¦Meirfur Town (Edge)¦¦|Meirfur Town (Center)|2|1|;|Meirfur Town (Outskirts)|17|3|
+Meirfur Town (Center)¦Meirfur Town (Center)¦¦|Meirfur Town (Edge)|2|1|;|Eltwier Fortress (Entrance)|15|10|
+Eltwier Fortress (Entrance)¦Eltwier Fortress (Entrance)¦Eltwier Province¦World Area|Eltwier Province|13|6|;|Eltwier Fortress (Courtyard)|2|1|;|Meirfur Town (Center)|8|16|;shop|Eltwier Market|8|13|;portal|Eltwier Portal|7|5|
+Eltwier Fortress (Courtyard)¦Eltwier Fortress (Courtyard)¦¦|Eltwier Fortress (Keep)|9|1|;|Eltwier Fortress (Entrance)|9|18|
+Eltwier Fortress (Keep)¦Eltwier Fortress (Keep)¦¦|Eltwier Fortress (Great Hall)|8|1|;|Eltwier Fortress (Courtyard)|9|18|
+Eltwier Fortress (Catacomb)¦Eltwier Fortress (Catacomb)¦¦|Eltwier Fortress (Great Hall)|11|17|
+Eltwier Fortress (Great Hall)¦Eltwier Fortress (Great Hall)¦¦|Forsaken Desert (Arid Outskirts)|12|1|;|Eltwier Fortress (Catacomb)|8|2|;|Eltwier Fortress (Keep)|7|13|
+Quango Mountain¦Quango Mountain¦Arrin Moors¦|Quango Jungle|13|4|;|Quango Island|1|9|
+Forsaken Desert (Arid Outskirts)¦Forsaken Desert (Arid Outskirts)¦Mittamurk¦World Area|Mittamurk|16|8|;|Forsaken Desert (Dunes)|2|2|;|Eltwier Fortress (Great Hall)|8|17|
+Forsaken Desert (Dunes)¦Forsaken Desert (Dunes)¦¦|Forsaken Desert (Wastes)|15|2|;|Forsaken Desert (Arid Outskirts)|15|15|;shop|Forsaken Wares|3|3|
+Forsaken Desert (Wastes)¦Forsaken Desert (Wastes)¦¦|Forsaken Desert (Badlands)|2|2|;|Forsaken Desert (Dunes)|8|14|;relic|Mittamurk Spires|12|10|
+Forsaken Desert (Badlands)¦Forsaken Desert (Badlands)¦¦|Forsaken Desert (Wastes)|2|4|;|Vapid Caves (Entrance)|12|14|
+Vapid Caves (Entrance)¦Vapid Caves (Entrance)¦Mittamurk¦World Area|Mittamurk|16|4|;|Vapid Caves (Depths)|4|5|;|Forsaken Desert (Badlands)|10|10|
+Vapid Caves (Depths)¦Vapid Caves (Depths)¦¦|Mittamurk Sewers (Ingress)|15|2|;|Vapid Caves (Entrance)|3|15|;shop|Vapid Market|2|2|
+Mittamurk Sewers (Ingress)¦Mittamurk Sewers (Ingress)¦Mittamurk¦World Area|Mittamurk|9|10|;|Vapid Caves (Depths)|3|1|;|Mittamurk Sewers (Inner Tunnels)|9|17|;portal|Mittamurk Portal|16|2|
+Mittamurk Sewers (Inner Tunnels)¦Mittamurk Sewers (Inner Tunnels)¦¦|Mittamurk Sewers (Outer Tunnels)|17|1|;|Mittamurk Sewers (Ingress)|13|14|
+Mittamurk Sewers (Outer Tunnels)¦Mittamurk Sewers (Outer Tunnels)¦¦|Mittamurk Sewers (Lower Chambers)|3|1|;|Mittamurk Sewers (Inner Tunnels)|13|15|
+Mittamurk Sewers (Lost Chasm)¦Mittamurk Sewers (Lost Chasm)¦¦|Mittamurk Sewers (Lower Chambers)|11|11|
+Mittamurk Sewers (Lower Chambers)¦Mittamurk Sewers (Lower Chambers)¦¦|Hyrmit Swamps (Edge)|8|1|;|Mittamurk Sewers (Outer Tunnels)|14|2|;|Mittamurk Sewers (Lost Chasm)|4|14|
+Hyrmit Swamps (Edge)¦Hyrmit Swamps (Edge)¦Torgais¦World Area|Torgais|3|3|;|Mittamurk Sewers (Lower Chambers)|9|8|;|Hyrmit Swamps (Mire)|15|16|
+Hyrmit Swamps (Mire)¦Hyrmit Swamps (Mire)¦¦|Hyrmit Swamps (Edge)|4|3|;|Hyrmit Swamps (Grounds)|14|13|
+Hyrmit Swamps (Grounds)¦Hyrmit Swamps (Grounds)¦¦|Hyrmit Swamps (Mire)|12|2|;|Hyrmit Swamps (Verge)|3|13|;shop|Hyrmit Stores|8|9|
+Hyrmit Swamps (Verge)¦Hyrmit Swamps (Verge)¦¦relic|Hyrmit Pillar|7|2|;|Hyrmit Swamps (Grounds)|8|9|;|Torgais Mountains (Mouth)|13|12|
+Torgais Mountains (Mouth)¦Torgais Mountains (Mouth)¦Torgais¦World Area|Torgais|5|10|;|Hyrmit Swamps (Verge)|1|3|;|Torgais Mountains (Slopes)|16|15|
+Torgais Mountains (Slopes)¦Torgais Mountains (Slopes)¦¦|Torgais Mountains (Summit)|15|2|;|Torgais Mountains (Mouth)|10|15|
+Torgais Mountains (Summit)¦Torgais Mountains (Summit)¦¦|City of Torgais (Outskirts)|15|1|;|Torgais Mountains (Slopes)|4|18|;shop|Torgais Bazaar|16|16|
+City of Torgais (Outskirts)¦City of Torgais (Outskirts)¦Torgais¦World Area|Torgais|4|5|;|Torgais Mountains (Summit)|9|1|;|City of Torgais (Center)|7|8|
+City of Torgais (Center)¦City of Torgais (Center)¦¦|City of Torgais (Temple)|11|1|;|City of Torgais (Outskirts)|3|12|;portal|Torgais Portal|15|17|
+Battleground of Gurgriss¦Battleground of Gurgriss¦¦|Oidhche Shamhna|17|3|
+City of Torgais (Halls of the Fallen)¦City of Torgais (Halls of the Fallen)¦¦|City of Torgais (Temple)|7|13|
+City of Torgais (Temple)¦City of Torgais (Temple)¦¦|City of Torgais (Halls of the Fallen)|2|1|;|City of Torgais (Center)|9|13|;|Stygian Flats (Edge)|15|16|
+Cursed Ones Frozen Forest¦Cursed Ones Frozen Forest¦¦|The Grimmnor Forest|3|3|;|The Decrepit Castle|9|13|
+Domain of Water¦Domain of Water¦¦|Land of the Elements|9|8|
+Forest of Yule (Heights)¦Forest of Yule (Heights)¦Krul Island¦|Forest of Yule (Clearing)|9|2|;|Forest of Yule (Timberland)|2|19|
+Forest of Yule (Timberland)¦Forest of Yule (Timberland)¦Krul Island¦|Forest of Yule (Heights)|4|16|
+Land of the Elements (Water)¦Land of the Elements (Water)¦Azlore Plains¦Shop|Water Elemental Wares|2|2|;|Land of the Elements|1|2|
+Springtime Forest (Mystical Meadow)¦Springtime Forest (Mystical Meadow)¦Krul Island¦|Springtime Forest (Outer Grove)|12|13|
+The Decrepit Castle¦The Decrepit Castle¦¦|Cursed Ones Frozen Forest|1|13|;shop|The Bottle Cupboard|6|11|

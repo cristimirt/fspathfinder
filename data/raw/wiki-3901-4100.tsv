@@ -1,0 +1,212 @@
+Manthalion Forest (Pack)¦Manthalion_Forest_(Pack)¦Janath Forest¦|Manthalion Forest (Hide)|23|3|;|Hoaragog Plains (Web)|2|10|;World Area|Janath Forest|12|13|
+Manthalion Forest (Hide)¦Manthalion_Forest_(Hide)¦Janath Forest¦|Manthalion Forest (Pack)|3|3|;|Manthalion Forest (Grave)|25|4|
+Manthalion Forest (Grave)¦Manthalion_Forest_(Grave)¦Janath Forest¦|Manthalion Forest (Hide)|4|5|;|Manthalion Forest (Battle)|11|15|
+Manthalion Forest (Battle)¦Manthalion_Forest_(Battle)¦Janath Forest¦|Manthalion Forest (Barrow)|2|2|;|Manthalion Forest (Grave)|16|10|;Portal|Manthalion Portal|2|11|
+Manthalion Forest (Barrow)¦Manthalion_Forest_(Barrow)¦Janath Forest¦|Manthalion Forest (Battle)|15|2|;|Manthalion Forest (Range)|4|16|;World Area|Janath Forest|3|3|
+Manthalion Forest (Range)¦Manthalion_Forest_(Range)¦Janath Forest¦Relic|Juggernaut Armour|10|14|;|Manthalion Forest (Barrow)|3|3|;|Manthalion Forest (Straight)|20|11|
+Manthalion Forest (Straight)¦Manthalion_Forest_(Straight)¦Janath Forest¦|Manthalion Forest (Were)|3|3|;|Manthalion Forest (Range)|9|19|
+Manthalion Forest (Were)¦Manthalion_Forest_(Were)¦Janath Forest¦|Manthalion Forest (Straight)|3|3|;|Manthalion Forest (Village)|16|13|
+Manthalion Forest (Village)¦Manthalion_Forest_(Village)¦Janath Forest¦|Manthalion Forest (Were)|25|3|;|Janath Forest (Edge)|3|9|
+Janath Forest (Edge)¦Janath_Forest_(Edge)¦Janath Forest¦|Janath Plains (Fields)|13|4|;|Manthalion Forest (Village)|6|14|
+Janath Plains (Fields)¦Janath_Plains_(Fields)¦Janath Forest¦|Janath Forest (Edge)|16|3|;|Janath Fortress (Gate)|2|17|
+Janath Fortress (Gate)¦Janath_Fortress_(Gate)¦Janath Forest¦|Janath Fortress (Sanctum)|17|6|;|Janath Plains (Fields)|2|15|;World Area|Janath Forest|7|2|
+Janath Fortress (Sanctum)¦Janath_Fortress_(Sanctum)¦Janath Forest¦|Janath Fortress (Chambers)|15|1|;|Janath Fortress (Gate)|1|21|
+Janath Fortress (Chambers)¦Janath_Fortress_(Chambers)¦Janath Forest¦|Janath Fortress (Blooding Vault)|27|2|;|Janath Fortress (Sanctum)|3|14|;Portal|Janath Portal|3|7|
+Janath Fortress (Blooding Vault)¦Janath_Fortress_(Blooding_Vault)¦Janath Forest¦|Janath Fortress (Grave)|15|2|;|Janath Fortress (Chambers)|1|16|
+Janath Fortress (Grave)¦Janath_Fortress_(Grave)¦Janath Forest¦Relic|Janath Cairn|4|13|;|Janath Fortress (Barracks)|2|1|;|Janath Fortress (Blooding Vault)|19|16|
+Janath Fortress (Barracks)¦Janath_Fortress_(Barracks)¦Janath Forest¦|Janath Fortress (Kennels)|10|5|;|Janath Fortress (Grave)|5|22|
+Janath Fortress (Kennels)¦Janath_Fortress_(Kennels)¦Janath Forest¦|Janath Fortress (Barracks)|2|2|;|Janath Fortress (Grounds)|10|15|
+Janath Fortress (Grounds)¦Janath_Fortress_(Grounds)¦Janath Forest¦|Janath Fortress (Council Hall)|12|5|;|Janath Fortress (Kennels)|9|16|;World Area|Janath Forest|3|3|
+Janath Fortress (Council Hall)¦Janath_Fortress_(Council_Hall)¦Janath Forest¦|Janath Fortress (Training Yard)|2|2|;|Janath Fortress (Grounds)|21|13|
+Janath Fortress (Training Yard)¦Janath_Fortress_(Training_Yard)¦Janath Forest¦|Janath Fortress (Council Hall)|2|4|;|Janath Fortress (Initiate Hall)|11|16|
+Janath Fortress (Initiate Hall)¦Janath_Fortress_(Initiate_Hall)¦Janath Forest¦|Janath Fortress (Training Yard)|15|3|;|Janath Fortress (Asylum)|9|16|
+Janath Fortress (Asylum)¦Janath_Fortress_(Asylum)¦Janath Forest¦|Janath Fortress (Initiate Hall)|3|3|;|Kananash Forest (Edge)|15|15|
+Kananash Forest (Edge)¦Kananash_Forest_(Edge)¦Janath Forest¦|Janath Fortress (Asylum)|8|2|;|Kananash Forest (Wither)|17|17|;Portal|Kananash Portal|7|14|
+Kananash Forest (Lair)¦Kananash_Forest_(Lair)¦Janath Forest¦|Kananash Forest (Wither)|8|13|
+Kananash Forest (Wither)¦Kananash_Forest_(Wither)¦Janath Forest¦|Kananash Forest (Edge)|17|4|;|Kananash Forest (Lair)|8|6|;|Kananash Forest (Spore Field)|2|16|
+Kananash Forest (Spore Field)¦Kananash_Forest_(Spore_Field)¦Denagar Desolation¦Relic|Spore Plant Cluster|9|11|;|Kananash Forest (Wither)|15|7|;|Kananash Forest (Razor Patch)|4|15|;World Area|Denagar Desolation|3|3|
+Kananash Forest (Razor Patch)¦Kananash_Forest_(Razor_Patch)¦Denagar Desolation¦|Kananash Forest (Spore Field)|2|4|;|Kananash Forest (Tangle)|12|16|
+Kananash Forest (Tangle)¦Kananash_Forest_(Tangle)¦Denagar Desolation¦|Kananash Forest (Razor Patch)|4|3|;|Kananash Forest (Copse)|15|16|
+Kananash Forest (Copse)¦Kananash_Forest_(Copse)¦Denagar Desolation¦|Kananash Forest (Slither)|18|3|;|Kananash Forest (Tangle)|5|19|
+Kananash Forest (Slither)¦Kananash_Forest_(Slither)¦Denagar Desolation¦|Kananash Forest (Copse)|3|4|;|Kananash Forest (Burrow)|18|13|
+Kananash Forest (Burrow)¦Kananash_Forest_(Burrow)¦Denagar Desolation¦|Kananash Forest (Ravage)|12|3|;|Kananash Forest (Slither)|11|21|
+Kananash Forest (Ravage)¦Kananash_Forest_(Ravage)¦Denagar Desolation¦|Kananash Forest (Web)|16|3|;|Kananash Forest (Burrow)|2|15|
+Kananash Forest (Web)¦Kananash_Forest_(Web)¦Denagar Desolation¦|Kananash Forest (Hive)|16|5|;|Kananash Forest (Ravage)|7|17|;World Area|Denagar Desolation|3|3|
+Kananash Forest (Hive)¦Kananash_Forest_(Hive)¦Denagar Desolation¦|Kananash Forest (Training Yard)|3|3|;|Kananash Forest (Web)|14|14|;Portal|Kananash Forest Portal|11|4|
+Kananash Forest (Training Yard)¦Kananash_Forest_(Training_Yard)¦Denagar Desolation¦|Kananash Forest (Hive)|13|3|;|Kananash Forest (Crush)|9|25|
+Kananash Forest (Crush)¦Kananash_Forest_(Crush)¦Denagar Desolation¦Relic|Orc Corpse|9|4|;|Kananash Forest (Training Yard)|25|3|;|Kananash Forest (Thicket)|3|14|
+Kananash Forest (Thicket)¦Kananash_Forest_(Thicket)¦Denagar Desolation¦|Kananash Forest (Grove)|13|5|;|Kananash Forest (Crush)|5|14|
+Kananash Forest (Grove)¦Kananash_Forest_(Grove)¦Denagar Desolation¦|Kananash Forest (Thicket)|3|3|;|Kananash Forest (Range)|16|11|
+Kananash Forest (Range)¦Kananash_Forest_(Range)¦Denagar Desolation¦|Kananash Forest (Grove)|15|2|;|Kananash Forest (Frenzy)|2|17|
+Kananash Forest (Frenzy)¦Kananash_Forest_(Frenzy)¦Denagar Desolation¦|Kananash Forest (Range)|5|4|;|Kananash Forest (Smash)|10|15|
+Kananash Forest (Smash)¦Kananash_Forest_(Smash)¦Denagar Desolation¦|Denagar Wastes (Burrow)|19|3|;|Kananash Forest (Frenzy)|6|14|
+Denagar Wastes (Burrow)¦Denagar_Wastes_(Burrow)¦Denagar Desolation¦|Kananash Forest (Smash)|10|2|;|Denagar Wastes (Haunt)|3|12|;World Area|Denagar Desolation|13|13|
+Denagar Wastes (Haunt)¦Denagar_Wastes_(Haunt)¦Denagar Desolation¦|Denagar Wastes (Burrow)|2|2|;|Denagar Wastes (Chill)|12|17|
+Denagar Wastes (Chill)¦Denagar_Wastes_(Chill)¦Denagar Desolation¦|Denagar Wastes (Haunt)|17|4|;|Denagar Wastes (Horror)|6|13|;Portal|Denagar Portal|3|3|
+Denagar Wastes (Horror)¦Denagar_Wastes_(Horror)¦Denagar Desolation¦|Denagar Wastes (Herd)|6|5|;|Denagar Wastes (Chill)|16|16|
+Denagar Wastes (Herd)¦Denagar_Wastes_(Herd)¦Denagar Desolation¦Relic|Razox Bull Corpse|8|14|;|Denagar Wastes (Caves)|17|4|;|Denagar Wastes (Horror)|2|11|;World Area|Denagar Desolation|3|3|
+Denagar Wastes (Caves)¦Denagar_Wastes_(Caves)¦Denagar Desolation¦|Denagar Wastes (Herd)|13|3|;|Denagar Wastes (Den)|5|26|
+Denagar Wastes (Den)¦Denagar_Wastes_(Den)¦Denagar Desolation¦|Denagar Wastes (Plague)|4|2|;|Denagar Wastes (Caves)|26|13|
+Denagar Wastes (Plague)¦Denagar_Wastes_(Plague)¦Denagar Desolation¦|Denagar Wastes (Den)|14|3|;|Denagar Wastes (Stalk)|5|15|
+Denagar Wastes (Hide)¦Denagar_Wastes_(Hide)¦Denagar Desolation¦|Denagar Wastes (Stalk)|2|6|
+Denagar Wastes (Stalk)¦Denagar_Wastes_(Stalk)¦Denagar Desolation¦|Denagar Wastes (Plague)|21|3|;|Denagar Wastes (Hide)|3|8|;|Denagar Wastes (Grizzle)|9|12|
+Denagar Wastes (Grizzle)¦Denagar_Wastes_(Grizzle)¦Kakarot Desert¦|Denagar Wastes (Shell)|16|2|;|Denagar Wastes (Stalk)|6|13|;World Area|Kakarot Desert|3|3|
+Denagar Wastes (Shell)¦Denagar_Wastes_(Shell)¦Kakarot Desert¦|Ornomot Savannah (Stalk)|2|2|;|Denagar Wastes (Grizzle)|13|17|
+Ornomot Savannah (Stalk)¦Ornomot_Savannah_(Stalk)¦Kakarot Desert¦|Denagar Wastes (Shell)|15|3|;|Ornomot Savannah (Range)|3|13|
+Ornomot Savannah (Range)¦Ornomot_Savannah_(Range)¦Kakarot Desert¦|Ornomot Savannah (Stalk)|2|2|;|Ornomot Savannah (Herd)|14|14|;Portal|Ornomot Portal|9|10|
+Ornomot Savannah (Herd)¦Ornomot_Savannah_(Herd)¦Kakarot Desert¦|Ornomot Savannah (Range)|15|3|;|Ornomot Savannah (Pride)|3|11|
+Ornomot Savannah (Pride)¦Ornomot_Savannah_(Pride)¦Kakarot Desert¦Relic|Bastet Lion Lair|9|8|;|Ornomot Savannah (Herd)|2|4|;|Ornomot Savannah (Dusts)|17|17|
+Ornomot Savannah (Dusts)¦Ornomot_Savannah_(Dusts)¦Kakarot Desert¦|Ornomot Savannah (Rock)|3|3|;|Ornomot Savannah (Pride)|18|14|
+Ornomot Savannah (Rock)¦Ornomot_Savannah_(Rock)¦Kakarot Desert¦|Ornomot Savannah (Dusts)|3|3|;|Ornomot Savannah (Skies)|13|18|;World Area|Kakarot Desert|10|6|
+Ornomot Savannah (Skies)¦Ornomot_Savannah_(Skies)¦Kakarot Desert¦|Ornomot Savannah (Slither)|2|2|;|Ornomot Savannah (Rock)|14|14|
+Ornomot Savannah (Slither)¦Ornomot_Savannah_(Slither)¦Kakarot Desert¦|Ornomot Savannah (Skies)|13|3|;|Ornomot Savannah (Hunt)|7|15|
+Ornomot Savannah (Hunt)¦Ornomot_Savannah_(Hunt)¦Kakarot Desert¦|Ornomot Savannah (Oasis)|6|3|;|Ornomot Savannah (Slither)|14|14|
+Ornomot Savannah (Oasis)¦Ornomot_Savannah_(Oasis)¦Kakarot Desert¦|Ornomot Savannah (Hunt)|3|3|;|Ornomot Savannah (Flats)|17|12|
+Ornomot Savannah (Flats)¦Ornomot_Savannah_(Flats)¦Kakarot Desert¦|Ornomot Savannah (Pack)|3|3|;|Ornomot Savannah (Oasis)|9|18|
+Ornomot Savannah (Pack)¦Ornomot_Savannah_(Pack)¦Kakarot Desert¦|Ornomot Savannah (Flats)|4|3|;|Kakarot Desert (Hide)|14|14|;Portal|Ornomot Savannah Portal|15|5|
+Kakarot Desert (Hide)¦Kakarot_Desert_(Hide)¦Kakarot Desert¦|Kakarot Desert (Nest)|4|3|;|Ornomot Savannah (Pack)|16|16|;World Area|Kakarot Desert|14|4|
+Kakarot Desert (Nest)¦Kakarot_Desert_(Nest)¦Kakarot Desert¦Relic|Beetle Larva Cluster|16|5|;|Kakarot Desert (Hide)|3|3|;|Kakarot Desert (Skitter)|5|15|
+Kakarot Desert (Skitter)¦Kakarot_Desert_(Skitter)¦Kakarot Desert¦|Kakarot Desert (Blaze)|23|3|;|Kakarot Desert (Nest)|4|12|
+Kakarot Desert (Blaze)¦Kakarot_Desert_(Blaze)¦Kakarot Desert¦|Kakarot Desert (Skitter)|18|3|;|Kakarot Desert (Haunt)|2|17|
+Kakarot Desert (Haunt)¦Kakarot_Desert_(Haunt)¦Kakarot Desert¦|Kakarot Desert (Scrabble)|6|3|;|Kakarot Desert (Blaze)|17|20|
+Kakarot Desert (Scrabble)¦Kakarot_Desert_(Scrabble)¦Kakarot Desert¦|Kakarot Desert (Hunt)|12|3|;|Kakarot Desert (Haunt)|3|15|
+Kakarot Desert (Hunt)¦Kakarot_Desert_(Hunt)¦Kakarot Desert¦|Kakarot Desert (Scrabble)|2|2|;|Kakarot Desert (Scamper)|10|14|;World Area|Kakarot Desert|14|3|
+Kakarot Desert (Scamper)¦Kakarot_Desert_(Scamper)¦Kakarot Desert¦|Kakarot Desert (Slither)|17|3|;|Kakarot Desert (Hunt)|2|21|
+Kakarot Desert (Slither)¦Kakarot_Desert_(Slither)¦Kakarot Desert¦|Kakarot Desert (Scamper)|4|2|;|Kakarot Desert (Dunes)|15|15|
+Kakarot Desert (Dunes)¦Kakarot_Desert_(Dunes)¦Kakarot Desert¦|Kakarot Desert (Slither)|14|3|;|Kakarot Desert (Stagger)|2|16|;Portal|Kakarot Portal|8|16|
+Kakarot Desert (Bowl)¦Kakarot_Desert_(Bowl)¦Kakarot Desert¦|Kakarot Desert (Stagger)|11|4|
+Kakarot Desert (Stagger)¦Kakarot_Desert_(Stagger)¦Kakarot Desert¦|Kakarot Desert (Bowl)|3|3|;|Inthar Coast (Stagger)|16|3|;|Kakarot Desert (Dunes)|17|17|
+Inthar Coast (Stagger)¦Inthar_Coast_(Stagger)¦The Inthar Coast¦Relic|Voodoo Inthar Group|9|9|;|Kakarot Desert (Stagger)|3|3|;|Inthar Coast (Grave)|16|12|;World Area|The Inthar Coast|13|4|
+Inthar Coast (Grave)¦Inthar_Coast_(Grave)¦The Inthar Coast¦|Inthar Coast (Stagger)|3|3|;|Inthar Coast (Spawn)|21|14|
+Inthar Coast (Spawn)¦Inthar_Coast_(Spawn)¦The Inthar Coast¦|Inthar Coast (Grave)|14|3|;|Inthar Coast (Twist)|6|15|
+Inthar Coast (Twist)¦Inthar_Coast_(Twist)¦The Inthar Coast¦|Inthar Coast (Boneyard)|15|3|;|Inthar Coast (Spawn)|4|14|
+Inthar Coast (Boneyard)¦Inthar_Coast_(Boneyard)¦The Inthar Coast¦|Inthar Coast (Twist)|18|3|;|Inthar Coast (Haunt)|2|16|
+Inthar Coast (Haunt)¦Inthar_Coast_(Haunt)¦The Inthar Coast¦|Inthar Coast (Thrash)|3|3|;|Inthar Coast (Boneyard)|11|16|
+Inthar Coast (Thrash)¦Inthar_Coast_(Thrash)¦The Inthar Coast¦|Inthar Coast (Haunt)|16|3|;|Inthar Coast (Crawl)|2|16|;World Area|The Inthar Coast|2|9|
+Inthar Coast (Crawl)¦Inthar_Coast_(Crawl)¦The Inthar Coast¦|Inthar Coast (Thrash)|15|2|;|Inthar Coast (Salt)|3|11|
+Inthar Coast (Salt)¦Inthar_Coast_(Salt)¦The Inthar Coast¦|Inthar Coast (Pool)|2|2|;|Inthar Coast (Crawl)|17|16|;Portal|Inthar Portal|8|7|
+Inthar Coast (Pool)¦Inthar_Coast_(Pool)¦The Inthar Coast¦|Inthar Coast (Salt)|15|2|;|Inthar Coast (Drift)|5|15|
+Inthar Coast (Drift)¦Inthar_Coast_(Drift)¦The Inthar Coast¦Relic|Sibisu Corpse|15|12|;|Inthar Coast (Lurch)|18|3|;|Inthar Coast (Pool)|7|16|
+Inthar Coast (Lurch)¦Inthar_Coast_(Lurch)¦The Inthar Coast¦|Inthar Coast (Sting)|3|3|;|Inthar Coast (Drift)|23|14|
+Inthar Coast (Sting)¦Inthar_Coast_(Sting)¦The Inthar Coast¦|Inthar Coast (Clamp)|26|3|;|Inthar Coast (Lurch)|9|11|
+Inthar Coast (Clamp)¦Inthar_Coast_(Clamp)¦The Inthar Coast¦|Inthar Coast (Sting)|3|3|;|Inthar Coast (Sand)|13|17|
+Inthar Coast (Sand)¦Inthar_Coast_(Sand)¦The Inthar Coast¦|Inthar Coast (Clamp)|3|3|;|Inthar Coast (Frenzy)|10|24|;World Area|The Inthar Coast|13|9|
+Inthar Coast (Frenzy)¦Inthar_Coast_(Frenzy)¦The Inthar Coast¦|Inthar Coast (Sand)|2|5|;|Inthar Coast (Edge)|11|16|
+Inthar Coast (Edge)¦Inthar_Coast_(Edge)¦The Inthar Coast¦|Inthar Coast (Pools)|3|3|;|Inthar Coast (Frenzy)|6|23|
+Inthar Coast (Pools)¦Inthar_Coast_(Pools)¦The Inthar Coast¦|Inthar Coast (Edge)|25|3|;|Inthar Coast (Swarm)|9|13|
+Inthar Coast (Swarm)¦Inthar_Coast_(Swarm)¦The Inthar Coast¦|Inthar Coast (Zin Flats)|2|2|;|Inthar Coast (Pools)|15|12|;Portal|Inthar Coast Portal|6|11|
+Inthar Coast (Zin Flats)¦Inthar_Coast_(Zin_Flats)¦The Inthar Coast¦|Inthar Coast (Swarm)|18|3|;|Inthar Coast (Cove)|8|15|
+Inthar Coast (Cove)¦Inthar_Coast_(Cove)¦The Inthar Coast¦Relic|Pirate Cache|11|8|;|Inthar Coast (Zin Flats)|5|4|;|Inthar Coast (Shallows)|10|17|;World Area|The Inthar Coast|16|3|
+Inthar Coast (Shallows)¦Inthar_Coast_(Shallows)¦The Inthar Coast¦|Inthar Coast (Shell)|2|2|;|Inthar Coast (Cove)|13|15|
+Inthar Coast (Shell)¦Inthar_Coast_(Shell)¦The Inthar Coast¦|Inthar Coast (Shallows)|3|3|;|Inthar Coast (Coils)|9|25|
+Inthar Coast (Coils)¦Inthar_Coast_(Coils)¦The Inthar Coast¦|Inthar Coast (Colony)|2|3|;|Inthar Coast (Shell)|14|15|
+Inthar Coast (Cave)¦Inthar_Coast_(Cave)¦The Inthar Coast¦|Inthar Coast (Colony)|5|9|
+Inthar Coast (Colony)¦Inthar_Coast_(Colony)¦The Inthar Coast¦|Inthar Coast (Coils)|3|3|;|Inthar Coast (Demon Pools)|15|6|;|Inthar Coast (Cave)|14|15|
+Quango Island (Depths)¦Quango_Island_(Depths)¦Arrin Moors¦|Quango Island|13|8|;|Stages 1-2:|25|2|
+Roots of the Spook Tree¦Roots_of_the_Spook_Tree¦Krul Island¦|Oidhche Shamhna|9|19|
+Inthar Coast (Demon Pools)¦Inthar_Coast_(Demon_Pools)¦Dorvash Coastline¦|Inthar Coast (Colony)|14|3|;|Onathar Reef (Fronds)|6|11|;World Area|Dorvash Coastline|2|2|
+Onathar Reef (Fronds)¦Onathar_Reef_(Fronds)¦Dorvash Coastline¦shop|Onathar Preserving Supplies|5|15|;|Inthar Coast (Demon Pools)|2|5|;|Onathar Reef (Nest)|19|16|;|Stages 1-3:|10|8|
+Onathar Reef (Nest)¦Onathar_Reef_(Nest)¦Dorvash Coastline¦|Onathar Reef (Fronds)|9|1|;|Onathar Reef (Whiplash)|16|19|
+Onathar Reef (Whiplash)¦Onathar_Reef_(Whiplash)¦Dorvash Coastline¦|Onathar Reef (Nest)|1|2|;|Onathar Reef (Strike)|15|12|;Portal|Onathar Portal|8|6|;|Stage 4:|14|3|
+Onathar Reef (Strike)¦Onathar_Reef_(Strike)¦Dorvash Coastline¦shop|Onathar Strike Shack|3|11|;|Onathar Reef (Pools)|16|3|;|Onathar Reef (Whiplash)|9|17|;|Stage 1:|3|11|;|Stage 2:|8|6|
+Onathar Reef (Pools)¦Onathar_Reef_(Pools)¦Dorvash Coastline¦Relic|Fiddler Crab Shell|6|12|;|Onathar Reef (Strike)|2|3|;|Dorvash Coast (Pools)|14|16|
+Dorvash Coast (Pools)¦Dorvash_Coast_(Pools)¦Dorvash Coastline¦|Dorvash Coast (Surf)|16|3|;|Onathar Reef (Pools)|5|16|;World Area|Dorvash Coastline|2|6|
+Dorvash Coast (Surf)¦Dorvash_Coast_(Surf)¦Dorvash Coastline¦|Dorvash Coast (Pod)|3|2|;|Dorvash Coast (Pools)|15|22|
+Dorvash Coast (Pod)¦Dorvash_Coast_(Pod)¦Dorvash Coastline¦|Dorvash Coast (Surf)|3|3|;|Dorvash Coast (Depths)|20|15|
+Dorvash Coast (Depths)¦Dorvash_Coast_(Depths)¦Dorvash Coastline¦|Dorvash Coast (Nursery)|17|3|;|Dorvash Coast (Pod)|9|17|
+Dorvash Coast (Nursery)¦Dorvash_Coast_(Nursery)¦Dorvash Coastline¦|Dorvash Coast (Depths)|13|3|;|Dorvash Coast (Iceberg)|2|15|
+Dorvash Coast (Iceberg)¦Dorvash_Coast_(Iceberg)¦Dorvash Coastline¦|Dorvash Coast (Hunt)|13|3|;|Dorvash Coast (Nursery)|3|14|
+Dorvash Coast (Hunt)¦Dorvash_Coast_(Hunt)¦Dorvash Coastline¦|Dorvash Coast (Iceberg)|15|3|;|Dorvash Coast (Colony)|4|14|
+Dorvash Coast (Colony)¦Dorvash_Coast_(Colony)¦Dorvash Coastline¦|Dorvash Coast (Bob)|3|3|;|Dorvash Coast (Hunt)|18|15|;Portal|Dorvash Portal|8|17|;World Area|Dorvash Coastline|11|6|
+Dorvash Coast (Bob)¦Dorvash_Coast_(Bob)¦Dorvash Coastline¦|Dorvash Coast (Colony)|19|4|;|Dorvash Coast (Horror)|3|14|
+Dorvash Coast (Horror)¦Dorvash_Coast_(Horror)¦Dorvash Coastline¦Relic|Deep Coelacanth Corpse|5|14|;|Dorvash Coast (Bob)|9|2|;|Yanrish Caves (Scree)|15|21|
+Yanrish Caves (Scree)¦Yanrish_Caves_(Scree)¦Dorvash Coastline¦|Yanrish Caves (Crawl)|14|3|;|Dorvash Coast (Horror)|5|14|
+Yanrish Caves (Crawl)¦Yanrish_Caves_(Crawl)¦Dorvash Coastline¦|Yanrish Caves (Scree)|14|2|;|Yanrish Caves (Hunt)|5|14|
+Yanrish Caves (Hunt)¦Yanrish_Caves_(Hunt)¦Dorvash Coastline¦|Yanrish Caves (Crawl)|3|2|;|Yanrish Caves (Haunt)|14|23|
+Yanrish Caves (Haunt)¦Yanrish_Caves_(Haunt)¦Dorvash Coastline¦|Yanrish Caves (Hunt)|2|2|;|Yanrish Caves (Range)|12|14|
+Yanrish Caves (Range)¦Yanrish_Caves_(Range)¦Dorvash Coastline¦|Yanrish Caves (Tunnels)|17|2|;|Yanrish Caves (Haunt)|7|13|;World Area|Dorvash Coastline|20|10|
+Yanrish Caves (Tunnels)¦Yanrish_Caves_(Tunnels)¦Dorvash Coastline¦|Yanrish Caves (Skitter)|3|3|;|Yanrish Caves (Range)|15|15|
+Yanrish Caves (Skitter)¦Yanrish_Caves_(Skitter)¦Dorvash Coastline¦|Yanrish Caves (Tunnels)|14|3|;|Yanrish Caves (Cold)|3|14|
+Yanrish Caves (Cold)¦Yanrish_Caves_(Cold)¦Dorvash Coastline¦|Yanrish Caves (Skitter)|3|3|;|Yanrish Caves (Poison)|17|17|;Portal|Yanrish Portal|14|13|
+Yanrish Caves (Burrow)¦Yanrish_Caves_(Burrow)¦Dorvash Coastline¦|Yanrish Caves (Poison)|13|8|
+Yanrish Caves (Poison)¦Yanrish_Caves_(Poison)¦Dorvash Coastline¦|Yanrish Caves (Cold)|3|3|;|Yanrish Caves (Burrow)|14|11|;|Yanrish Caves (Dust)|7|14|
+Yanrish Caves (Dust)¦Yanrish_Caves_(Dust)¦Nemarath Forest¦Relic|Yanrish Dust Tomb|3|12|;|Yanrish Caves (Poison)|14|3|;|Yanrish Caves (Spirit)|9|17|;World Area|Nemarath Forest|7|6|
+Yanrish Caves (Spirit)¦Yanrish_Caves_(Spirit)¦Nemarath Forest¦|Yanrish Caves (Shallows)|17|4|;|Yanrish Caves (Dust)|7|17|
+Yanrish Caves (Shallows)¦Yanrish_Caves_(Shallows)¦Nemarath Forest¦|Yanrish Caves (Spirit)|3|3|;|Yanrish Caves (Sludge)|18|12|;|Stages 1-2:|6|15|
+Yanrish Caves (Sludge)¦Yanrish_Caves_(Sludge)¦Nemarath Forest¦|Yanrish Caves (Pale)|14|4|;|Yanrish Caves (Shallows)|6|15|;|Stage 3:|3|8|
+Yanrish Caves (Pale)¦Yanrish_Caves_(Pale)¦Nemarath Forest¦|Korogoth Wastes (Shell)|8|3|;|Yanrish Caves (Sludge)|15|13|;|Stage 4:|9|11|
+Korogoth Wastes (Shell)¦Korogoth_Wastes_(Shell)¦Nemarath Forest¦|Korogoth Wastes (Monoliths)|4|5|;|Yanrish Caves (Pale)|17|17|;World Area|Nemarath Forest|5|16|
+Korogoth Wastes (Monoliths)¦Korogoth_Wastes_(Monoliths)¦Nemarath Forest¦|Korogoth Wastes (Shell)|18|3|;|Korogoth Wastes (Prowl)|6|19|
+Korogoth Wastes (Prowl)¦Korogoth_Wastes_(Prowl)¦Nemarath Forest¦|Korogoth Wastes (Monoliths)|2|4|;|Korogoth Wastes (Boneyard)|9|19|
+Korogoth Wastes (Boneyard)¦Korogoth_Wastes_(Boneyard)¦Nemarath Forest¦|Korogoth Wastes (Prowl)|2|2|;|Korogoth Wastes (Stalk)|19|3|;Portal|Korogoth Portal|10|13|
+Korogoth Wastes (Stalk)¦Korogoth_Wastes_(Stalk)¦Nemarath Forest¦|Korogoth Wastes (Grave)|14|3|;|Korogoth Wastes (Boneyard)|2|14|
+Korogoth Wastes (Grave)¦Korogoth_Wastes_(Grave)¦Nemarath Forest¦Relic|Inanimate Mamont Skeleton|7|5|;|Korogoth Wastes (Stalk)|17|3|;|Korogoth Wastes (Plains)|8|17|;|Stages 1-2:|3|10|
+Korogoth Wastes (Plains)¦Korogoth_Wastes_(Plains)¦Nemarath Forest¦|Korogoth Wastes (Grave)|3|3|;|Korogoth Wastes (Flats)|10|14|
+Korogoth Wastes (Flats)¦Korogoth_Wastes_(Flats)¦Nemarath Forest¦|Nemarath Forest (Crawl)|2|4|;|Korogoth Wastes (Plains)|16|16|;|Stages 3-4:|17|2|
+Nemarath Forest (Crawl)¦Nemarath_Forest_(Crawl)¦Nemarath Forest¦|Nemarath Forest (Sneak)|24|4|;|Korogoth Wastes (Flats)|6|14|;World Area|Nemarath Forest|3|3|
+Nemarath Forest (Sneak)¦Nemarath_Forest_(Sneak)¦Nemarath Forest¦|Nemarath Forest (Crawl)|13|3|;|Nemarath Forest (Camp)|4|24|
+Nemarath Forest (Camp)¦Nemarath_Forest_(Camp)¦Nemarath Forest¦|Nemarath Forest (Range)|3|3|;|Nemarath Forest (Sneak)|18|14|
+Nemarath Forest (Range)¦Nemarath_Forest_(Range)¦Nemarath Forest¦|Nemarath Forest (Shimmer)|15|3|;|Nemarath Forest (Camp)|2|11|
+Nemarath Forest (Shimmer)¦Nemarath_Forest_(Shimmer)¦Nemarath Forest¦|Nemarath Forest (Highway)|13|3|;|Nemarath Forest (Range)|7|16|
+Nemarath Forest (Highway)¦Nemarath_Forest_(Highway)¦Nemarath Forest¦|Nemarath Forest (Shimmer)|3|3|;|Nemarath Forest (Graze)|11|17|;Portal|Nemarath Portal|11|4|
+Nemarath Forest (Graze)¦Nemarath_Forest_(Graze)¦Nemarath Forest¦|Nemarath Forest (Highway)|15|3|;|Nemarath Forest (Haunt)|3|15|
+Nemarath Forest (Haunt)¦Nemarath_Forest_(Haunt)¦Nemarath Forest¦Relic|Haunted Dark Stump|20|9|;|Nemarath Forest (Lurk)|19|3|;|Nemarath Forest (Graze)|2|13|;World Area|Nemarath Forest|12|11|
+Nemarath Forest (Lurk)¦Nemarath_Forest_(Lurk)¦Nemarath Forest¦|Nemarath Forest (Haunt)|8|3|;|Nemarath Forest (Grove)|11|13|
+Nemarath Forest (Grove)¦Nemarath_Forest_(Grove)¦Nemarath Forest¦|Nemarath Forest (Lurk)|19|3|;|Nemarath Forest (Copse)|4|13|
+Nemarath Forest (Copse)¦Nemarath_Forest_(Copse)¦Nemarath Forest¦|Nemarath Forest (Grove)|5|4|;|Nemarath Forest (Temple)|8|19|;|Stages 1-2:|15|1|
+Nemarath Forest (Oratory)¦Nemarath_Forest_(Oratory)¦Nemarath Forest¦|Nemarath Forest (Temple)|5|2|
+Nemarath Forest (Temple)¦Nemarath_Forest_(Temple)¦Nemarath Forest¦|Nemarath Forest (Oratory)|15|2|;|Nemarath Forest (Slither)|8|6|;|Nemarath Forest (Copse)|7|14|;|Stages 3-5:|1|1|
+Nemarath Forest (Slither)¦Nemarath_Forest_(Slither)¦Carranath Caverns¦|Nemarath Forest (Temple)|16|3|;|Nemarath Forest (Glimmer)|7|15|;World Area|Carranath Caverns|2|9|
+Nemarath Forest (Glimmer)¦Nemarath_Forest_(Glimmer)¦Carranath Caverns¦|Nemarath Forest (Slither)|16|3|;|Nemarath Forest (Colony)|4|15|
+Nemarath Forest (Colony)¦Nemarath_Forest_(Colony)¦Carranath Caverns¦|Nemarath Forest (Glimmer)|3|3|;|Nemarath Forest (Shade)|8|16|
+Nemarath Forest (Shade)¦Nemarath_Forest_(Shade)¦Carranath Caverns¦|Nemarath Forest (Darkness)|3|3|;|Nemarath Forest (Colony)|15|16|;Portal|Nemarath Forest Portal|5|14|
+Nemarath Forest (Darkness)¦Nemarath_Forest_(Darkness)¦Carranath Caverns¦|Carranath Caverns (Shade)|20|3|;|Nemarath Forest (Shade)|6|14|
+Carranath Caverns (Shade)¦Carranath_Caverns_(Shade)¦Carranath Caverns¦Relic|Nightshade Tomb|5|12|;|Nemarath Forest (Darkness)|13|3|;|Carranath Caverns (Scree)|8|20|;World Area|Carranath Caverns|14|16|
+Carranath Caverns (Scree)¦Carranath_Caverns_(Scree)¦Carranath Caverns¦|Carranath Caverns (Rock)|16|3|;|Carranath Caverns (Shade)|9|16|
+Carranath Caverns (Rock)¦Carranath_Caverns_(Rock)¦Carranath Caverns¦|Carranath Caverns (Scree)|3|3|;|Carranath Caverns (Barracks)|14|16|
+Carranath Caverns (Barracks)¦Carranath_Caverns_(Barracks)¦Carranath Caverns¦|Carranath Caverns (Goo)|3|3|;|Carranath Caverns (Rock)|12|15|
+Carranath Caverns (Goo)¦Carranath_Caverns_(Goo)¦Carranath Caverns¦|Carranath Caverns (Barracks)|14|3|;|Carranath Caverns (Dust)|9|13|
+Carranath Caverns (Dust)¦Carranath_Caverns_(Dust)¦Carranath Caverns¦|Carranath Caverns (Goo)|21|3|;|Carranath Caverns (Haunt)|5|16|
+Carranath Caverns (Haunt)¦Carranath_Caverns_(Haunt)¦Carranath Caverns¦|Carranath Caverns (Dust)|3|3|;|Carranath Caverns (Pack)|16|16|
+Carranath Caverns (Pack)¦Carranath_Caverns_(Pack)¦Carranath Caverns¦|Carranath Caverns (Webs)|3|3|;|Carranath Caverns (Haunt)|17|12|
+Carranath Caverns (Webs)¦Carranath_Caverns_(Webs)¦Carranath Caverns¦|Carranath Caverns (Pack)|13|3|;|Carranath Caverns (Pride)|8|21|;Portal|Carranath Portal|11|14|
+Carranath Caverns (Pride)¦Carranath_Caverns_(Pride)¦Carranath Caverns¦|Carranath Caverns (Heartless)|21|3|;|Carranath Caverns (Webs)|8|13|
+Carranath Caverns (Heartless)¦Carranath_Caverns_(Heartless)¦Carranath Caverns¦Relic|Carranath Ritual Pit|8|6|;|Carranath Caverns (Mist)|17|4|;|Carranath Caverns (Pride)|6|16|;World Area|Carranath Caverns|14|11|
+Carranath Caverns (Mist)¦Carranath_Caverns_(Mist)¦Carranath Caverns¦|Carranath Caverns (Heartless)|3|3|;|Carranath Caverns (Flesh Pit)|12|14|
+Carranath Caverns (Flesh Pit)¦Carranath_Caverns_(Flesh_Pit)¦Carranath Caverns¦|Carranath Caverns (Mist)|17|3|;|Carranath Caverns (Murk)|5|13|
+Carranath Caverns (Murk)¦Carranath_Caverns_(Murk)¦Carranath Caverns¦|Carranath Caverns (Gaze)|14|3|;|Carranath Caverns (Flesh Pit)|7|16|
+Carranath Caverns (Gaze)¦Carranath_Caverns_(Gaze)¦Carranath Caverns¦|Carranath Caverns (Death)|6|2|;|Carranath Caverns (Murk)|12|15|
+Carranath Caverns (Death)¦Carranath_Caverns_(Death)¦Carranath Caverns¦|Carranath Caverns (Gaze)|3|3|;|Carranath Caverns (Depths)|11|14|
+Carranath Caverns (Depths)¦Carranath_Caverns_(Depths)¦Carranath Caverns¦|Carranath Caverns (Crawl)|3|3|;|Carranath Caverns (Death)|16|16|;World Area|Carranath Caverns|14|9|
+Carranath Caverns (Crawl)¦Carranath_Caverns_(Crawl)¦Carranath Caverns¦|Carranath Caverns (Depths)|14|2|;|Carranath Caverns (Slither)|9|19|
+Carranath Caverns (Slither)¦Carranath_Caverns_(Slither)¦Carranath Caverns¦|Carranath Caverns (Grip)|14|3|;|Carranath Caverns (Crawl)|8|14|;Portal|Carranath Caverns Portal|2|9|
+Carranath Caverns (Grip)¦Carranath_Caverns_(Grip)¦Carranath Caverns¦|Carranath Caverns (Slither)|21|3|;|Carranath Caverns (Lair)|8|7|;|Carranath Caverns (Charm)|4|13|
+Carranath Caverns (Lair)¦Carranath_Caverns_(Lair)¦Carranath Caverns¦|Carranath Caverns (Grip)|4|4|
+Carranath Caverns (Charm)¦Carranath_Caverns_(Charm)¦Ireshi Caverns¦Relic|Charmers Spell Circle|5|17|;|Carranath Caverns (Grip)|2|2|;|Carranath Caverns (Skitter)|14|21|;World Area|Ireshi Caverns|20|4|
+Carranath Caverns (Skitter)¦Carranath_Caverns_(Skitter)¦Ireshi Caverns¦|Carranath Caverns (Rot)|13|6|;|Carranath Caverns (Charm)|3|16|
+Carranath Caverns (Rot)¦Carranath_Caverns_(Rot)¦Ireshi Caverns¦|Ireshi Caverns (Ice)|15|4|;|Carranath Caverns (Skitter)|6|13|
+Ireshi Caverns (Ice)¦Ireshi_Caverns_(Ice)¦Ireshi Caverns¦|Carranath Caverns (Rot)|3|2|;|Ireshi Caverns (Pox)|9|15|;World Area|Ireshi Caverns|11|5|
+Ireshi Caverns (Pox)¦Ireshi_Caverns_(Pox)¦Ireshi Caverns¦|Ireshi Caverns (Ice)|3|2|;|Ireshi Caverns (Pestilence)|18|18|
+Ireshi Caverns (Pestilence)¦Ireshi_Caverns_(Pestilence)¦Ireshi Caverns¦|Ireshi Caverns (Slither)|15|2|;|Ireshi Caverns (Pox)|2|10|
+Ireshi Caverns (Slither)¦Ireshi_Caverns_(Slither)¦Ireshi Caverns¦|Ireshi Caverns (Pestilence)|11|3|;|Ireshi Caverns (Cold)|17|17|
+Ireshi Caverns (Cold)¦Ireshi_Caverns_(Cold)¦Ireshi Caverns¦|Ireshi Caverns (Chill)|19|1|;|Ireshi Caverns (Slither)|3|13|
+Ireshi Caverns (Chill)¦Ireshi_Caverns_(Chill)¦Ireshi Caverns¦|Ireshi Caverns (Glacier)|14|3|;|Ireshi Caverns (Cold)|10|22|;Portal|Ireshi Portal|4|12|
+Ireshi Caverns (Glacier)¦Ireshi_Caverns_(Glacier)¦Ireshi Caverns¦|Ireshi Caverns (Chill)|1|5|;|Ireshi Caverns (Haunt)|13|16|
+Ireshi Caverns (Haunt)¦Ireshi_Caverns_(Haunt)¦Ireshi Caverns¦Relic|Entombed Demon|3|11|;|Ireshi Caverns (Glacier)|15|2|;|Ireshi Caverns (Crawl)|8|17|
+Ireshi Caverns (Crawl)¦Ireshi_Caverns_(Crawl)¦Ireshi Caverns¦|Ireshi Caverns (Grave)|14|3|;|Ireshi Caverns (Haunt)|7|12|
+Ireshi Caverns (Grave)¦Ireshi_Caverns_(Grave)¦Ireshi Caverns¦|Ireshi Caverns (Shade)|13|2|;|Ireshi Caverns (Crawl)|1|21|
+Ireshi Caverns (Shade)¦Ireshi_Caverns_(Shade)¦Ireshi Caverns¦|Ireshi Caverns (Tomb)|1|7|;|Ireshi Caverns (Grave)|19|14|
+Ireshi Caverns (Tomb)¦Ireshi_Caverns_(Tomb)¦Ireshi Caverns¦|Manaroc Mountains (Flats)|2|1|;|Ireshi Caverns (Shade)|28|10|
+Manaroc Mountains (Flats)¦Manaroc_Mountains_(Flats)¦Ireshi Caverns¦|Manaroc Mountains (Hide)|2|4|;|Ireshi Caverns (Tomb)|11|14|;World Area|Ireshi Caverns|14|2|
+Manaroc Mountains (Hide)¦Manaroc_Mountains_(Hide)¦Ireshi Caverns¦|Manaroc Mountains (Flats)|2|2|;|Manaroc Mountains (Lair)|12|13|
+Manaroc Mountains (Lair)¦Manaroc_Mountains_(Lair)¦Ireshi Caverns¦|Manaroc Mountains (Circle)|16|3|;|Manaroc Mountains (Hide)|10|16|
+Manaroc Mountains (Circle)¦Manaroc_Mountains_(Circle)¦Ireshi Caverns¦|Manaroc Mountains (Lair)|2|6|;|Manaroc Mountains (Woods)|14|18|;Portal|Manaroc Portal|12|8|
+Manaroc Mountains (Woods)¦Manaroc_Mountains_(Woods)¦Ireshi Caverns¦|Manaroc Mountains (Freeze)|3|3|;|Manaroc Mountains (Circle)|16|13|
+Manaroc Mountains (Freeze)¦Manaroc_Mountains_(Freeze)¦Ireshi Caverns¦Relic|Ice Yeti Corpse|3|13|;|Manaroc Castle (Gates)|13|3|;|Manaroc Mountains (Woods)|7|24|;World Area|Ireshi Caverns|8|7|
+Manaroc Castle (Gates)¦Manaroc_Castle_(Gates)¦Ireshi Caverns¦|Manaroc Castle (Throne Room)|9|1|;|Manaroc Mountains (Freeze)|10|18|
+Manaroc Castle (Throne Room)¦Manaroc_Castle_(Throne_Room)¦Ireshi Caverns¦|Manaroc Castle (Pit)|1|4|;|Manaroc Castle (Gates)|11|17|
+Manaroc Castle (Pit)¦Manaroc_Castle_(Pit)¦Ireshi Caverns¦|Manaroc Castle (Throne Room)|22|3|;|Manaroc Castle (Crypt)|4|15|
+Forest of Yule (Morozko Mountain)¦Forest_of_Yule_(Morozko_Mountain)¦Krul Island¦|Forest of Yule (Rimsky Clearing)|3|3|;|Forest of Yule (Clearing)|11|10|;|Stages 1-3:|17|11|;|Stages 4-6:|6|8|;|Stage 9:|1|18|;|Stage 13:|17|11|
+Forest of Yule (Rimsky Clearing)¦Forest_of_Yule_(Rimsky_Clearing)¦Krul Island¦|Forest of Yule (Morozko Mountain)|7|11|;|Stages 7-8:|3|3|;|Stages 10-12:|3|3|
+Manaroc Castle (Crypt)¦Manaroc_Castle_(Crypt)¦Ireshi Caverns¦|Manaroc Castle (Pit)|5|1|;|Manaroc Castle (Tomb)|13|2|;|Manaroc Castle (Barracks)|16|14|
+Manaroc Castle (Tomb)¦Manaroc_Castle_(Tomb)¦Ireshi Caverns¦|Manaroc Castle (Crypt)|2|14|

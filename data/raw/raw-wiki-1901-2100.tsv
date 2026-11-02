@@ -1,0 +1,221 @@
+Infernal Chasm (Burning Halls)¦Infernal_Chasm_(Burning_Halls)¦Realm of Twisted Echos¦|Sathrin Forest (Woodland Glade)|2|2|;|Kalonash Plain (Wild)|23|12|;World Area|Realm of Twisted Echos|23|2|;|Stage 1:|8|8|;|Stages 2-3:|14|2|;|Stage 4:|8|8|
+Kalonash Plain (Wild)¦Kalonash_Plain_(Wild)¦Realm of Twisted Echos¦|Raloheim (Streets)|8|9|;|Infernal Chasm (Burning Halls)|3|16|
+Raloheim (Streets)¦Raloheim_(Streets)¦Realm of Twisted Echos¦|Kalonash Plain (Wild)|1|8|;|Gloom Caverns (Corridors)|11|8|;|Stage 1:|2|8|;|Stages 2-3:|9|2|;|Stage 4:|2|8|
+Gloom Caverns (Corridors)¦Gloom_Caverns_(Corridors)¦Realm of Twisted Echos¦|Gloom Caverns (Murk)|15|2|;|Raloheim (Streets)|9|8|;Portal|Gloom Caverns Portal|2|15|;|Stages 5-6:|15|15|
+Gloom Caverns (Murk)¦Gloom_Caverns_(Murk)¦Realm of Twisted Echos¦|Gloom Caverns (Depths)|8|2|;|Gloom Caverns (Corridors)|9|19|;|Stages 7-8:|2|11|
+Gloom Caverns (Depths)¦Gloom_Caverns_(Depths)¦Realm of Twisted Echos¦Relic|Shades Grave|17|17|;|Undercrypt (Mausoleum)|10|9|;|Gloom Caverns (Murk)|2|17|;|Stage 9:|2|2|;|Stages 10-11:|15|8|;|Stage 12:|2|2|
+Undercrypt (Mausoleum)¦Undercrypt_(Mausoleum)¦Realm of Twisted Echos¦|Undercrypt (Sanctuary)|2|7|;|Gloom Caverns (Depths)|9|16|;|Stages 13-14:|2|9|
+Twisting Dark (Formless Mist)¦Twisting_Dark_(Formless_Mist)¦Realm of Twisted Echos¦|Undercrypt (Sanctuary)|16|2|;|Twisting Dark (Narrow Path)|14|14|;|Stages 17-18:|14|2|
+Undercrypt (Sanctuary)¦Undercrypt_(Sanctuary)¦Realm of Twisted Echos¦|Undercrypt (Mausoleum)|3|5|;|Twisting Dark (Formless Mist)|8|8|;|Stages 15-16:|7|6|
+Twisted Castle (Gate)¦Twisted_Castle_(Gate)¦Realm of Twisted Echos¦|Twisted Castle (Echoing Halls)|2|1|;|Twisting Dark (Narrow Path)|14|16|;World Area|Realm of Twisted Echos|3|13|;|Stage 1:|14|15|;|Stage 2:|15|4|;|Stage 3:|14|15|
+Twisting Dark (Narrow Path)¦Twisting_Dark_(Narrow_Path)¦Realm of Twisted Echos¦|Twisting Dark (Formless Mist)|4|2|;|Twisted Castle (Gate)|2|12|;|Stage 19:|4|7|
+Twisted Castle (Echoing Halls)¦Twisted_Castle_(Echoing_Halls)¦Realm of Twisted Echos¦|Twisted Castle (Gate)|2|1|;|Twisted Castle (Lower Fortress)|17|14|;|Stages 1-2:|2|9|
+Twisted Castle (Lower Fortress)¦Twisted_Castle_(Lower_Fortress)¦Realm of Twisted Echos¦|Twisted Castle (Upper Fortress)|1|10|;|Twisted Castle (Echoing Halls)|14|15|;|Stages 1-2:|6|2|
+Twisted Castle (Upper Fortress)¦Twisted_Castle_(Upper_Fortress)¦Realm of Twisted Echos¦|Twisted Castle (West Tower)|9|1|;|Twisted Castle (Lower Fortress)|1|8|;|Stages 1-3:|14|13|
+Twisted Castle (West Tower)¦Twisted_Castle_(West_Tower)¦Realm of Twisted Echos¦|Twisted Castle (West Wing)|12|8|;|Twisted Castle (Upper Fortress)|8|17|;|Stages 1-2:|9|8|
+Twisted Castle (West Wing)¦Twisted_Castle_(West_Wing)¦Realm of Twisted Echos¦|Twisted Castle (Vaulted Chambers)|8|5|;|Twisted Castle (West Tower)|11|9|;Portal|Twisted Castle Portal|2|2|;|Stages 1-2:|6|9|
+Twisted Castle (Dark Basement)¦Twisted_Castle_(Dark_Basement)¦Realm of Twisted Echos¦|Twisted Castle (Vaulted Chambers)|3|2|;|Stages 1-2:|2|2|
+Twisted Castle (Vaulted Chambers)¦Twisted_Castle_(Vaulted_Chambers)¦Realm of Twisted Echos¦|Twisted Castle (West Wing)|6|3|;|Twisted Castle (Dark Basement)|9|9|;|Twisting Dark (Seething Fog)|2|17|;|Stages 1-2:|17|2|
+Twisted City (Sprawling Streets)¦Twisted_City_(Sprawling_Streets)¦Realm of Twisted Echos¦Relic|Merchants Stall|18|18|;|Twisting Dark (Seething Fog)|2|2|;|Twisted Citadel (Floor 1)|9|10|;World Area|Realm of Twisted Echos|14|1|;|Stage 1:|8|11|;|Stages 2-3:|9|7|;|Stage 4:|8|11|
+Twisting Dark (Seething Fog)¦Twisting_Dark_(Seething_Fog)¦Realm of Twisted Echos¦|Twisted City (Sprawling Streets)|3|3|;|Twisted Castle (Vaulted Chambers)|11|6|;|Stage 3:|7|6|
+Twisted Citadel (Floor 1)¦Twisted_Citadel_(Floor_1)¦Realm of Twisted Echos¦|Twisted Citadel (Floor 2)|10|9|;|Twisted City (Sprawling Streets)|9|15|
+Twisted Citadel (Cell)¦Twisted_Citadel_(Cell)¦Realm of Twisted Echos¦|Twisted Citadel (Floor 2)|2|3|;|Stage 3:|3|3|;|Stage 4:|6|3|;|Stage 5:|9|3|;|Stage 6:|3|3|
+Twisted Citadel (Floor 2)¦Twisted_Citadel_(Floor_2)¦Realm of Twisted Echos¦|Twisted Citadel (Cell)|15|4|;|Twisted Citadel (Floor 3)|5|9|;|Twisted Citadel (Floor 1)|7|9|;|Stage 1:|8|9|;|Stage 2:|9|7|
+Twisted Citadel (Floor 3)¦Twisted_Citadel_(Floor_3)¦Realm of Twisted Echos¦|Twisted Citadel (Floor 2)|4|12|;|Twisted Citadel (Floor 4)|7|12|
+Twisted Citadel (Floor 4)¦Twisted_Citadel_(Floor_4)¦Realm of Twisted Echos¦|Twisted Citadel (Floor 3)|1|7|;|Twisted Citadel (Floor 5)|7|13|;|Stage 1:|7|14|;|Stages 2-3:|5|3|;|Stage 4:|7|14|
+Twisted Citadel (Floor 5)¦Twisted_Citadel_(Floor_5)¦Realm of Twisted Echos¦|Twisted Citadel (Floor 6)|10|8|;|Twisted Citadel (Floor 4)|7|14|
+Twisted Citadel (Floor 6)¦Twisted_Citadel_(Floor_6)¦Realm of Twisted Echos¦|Twisted Citadel (Floor 7)|9|3|;|Twisted Citadel (Floor 5)|14|8|
+Twisted Citadel (Floor 7)¦Twisted_Citadel_(Floor_7)¦Realm of Twisted Echos¦|Twisted Citadel (Floor 6)|9|6|;|Twisted Citadel (Floor 8)|9|11|;|Stage 1:|4|13|;|Stages 2-3:|15|9|;|Stage 4:|4|13|
+Twisted Citadel (Floor 8)¦Twisted_Citadel_(Floor_8)¦Realm of Twisted Echos¦|Twisted Citadel (Floor 9)|13|9|;|Twisted Citadel (Floor 7)|9|13|;Portal|Twisted Citadel Portal|2|16|
+Twisted Citadel (Apex)¦Twisted_Citadel_(Apex)¦Realm of Twisted Echos¦|Twisted Citadel (Palace)|2|1|;|Twisted Citadel (Floor 9)|13|12|;World Area|Realm of Twisted Echos|10|7|;|Stages 1-2:|12|12|;|Stages 3-4:|2|2|
+Twisted Citadel (Floor 9)¦Twisted_Citadel_(Floor_9)¦Realm of Twisted Echos¦|Twisted Citadel (Apex)|1|2|;|Falden Forest (Outer)|18|2|;|Twisted Citadel (Floor 8)|14|9|;|Stage 1:|2|15|;|Stages 2-3:|10|9|;|Stage 4:|2|15|
+Twisted Citadel (Library)¦Twisted_Citadel_(Library)¦Realm of Twisted Echos¦|Twisted Citadel (Palace)|2|10|
+Twisted Citadel (Palace)¦Twisted_Citadel_(Palace)¦Realm of Twisted Echos¦|Twisting Dark (Churning Nether)|7|2|;|Twisted Citadel (Library)|8|6|;|Twisted Citadel (Apex)|2|13|;|Stages 1-3:|8|4|
+Twisting Dark (Churning Nether)¦Twisting_Dark_(Churning_Nether)¦Realm of Twisted Echos¦|Twisted Citadel (Palace)|2|22|
+Falden Forest (Outer)¦Falden_Forest_(Outer)¦Falracan Divide¦|Falden Forest (Canopy)|3|3|;|Twisted Citadel (Floor 9)|13|4|;World Area|Falracan Divide|4|14|;|Stage 1:|12|15|;|Stage 2:|1|6|;|Stage 3:|12|15|
+Falden Forest (Canopy)¦Falden_Forest_(Canopy)¦Falracan Divide¦|Falden Forest (Outer)|7|4|;|Falden Forest (Clearing)|11|10|
+Falden Forest (Clearing)¦Falden_Forest_(Clearing)¦Falracan Divide¦|Falden Forest (Canopy)|5|3|;|Falden Forest (Temple Entrance)|10|14|
+Falden Forest (Temple Entrance)¦Falden_Forest_(Temple_Entrance)¦Falracan Divide¦|Falden Temple (Outer Chambers)|11|3|;|Falden Forest (Clearing)|5|4|
+Falden Temple (Outer Chambers)¦Falden_Temple_(Outer_Chambers)¦Falracan Divide¦|Falden Forest (Temple Entrance)|7|1|;|Falden Temple (Inner Chambers)|18|18|;World Area|Falracan Divide|9|16|
+Falden Temple (Inner Chambers)¦Falden_Temple_(Inner_Chambers)¦Falracan Divide¦|Falden Temple (Outer Chambers)|7|1|;|Falden Temple (Chapel of Khairn)|13|15|
+Falden Temple (Chapel of Khairn)¦Falden_Temple_(Chapel_of_Khairn)¦Falracan Divide¦|Falden Temple (Inner Chambers)|17|1|;|Khairn Depths (Descent)|21|11|
+Khairn Depths (Descent)¦Khairn_Depths_(Descent)¦Falracan Divide¦|Falden Temple (Chapel of Khairn)|8|3|;|Khairn Depths (Crystal Lair)|12|11|;Relic|Inferno Circle|13|5|
+Khairn Depths (Crystal Lair)¦Khairn_Depths_(Crystal_Lair)¦Falracan Divide¦|Khairn Depths (Main Chamber)|13|5|;|Khairn Depths (Descent)|2|7|;Portal|Khairn Depths Portal|5|11|;|Stage 1:|10|15|;|Stages 2-3:|4|1|
+Khairn Depths (Main Chamber)¦Khairn_Depths_(Main_Chamber)¦Falracan Divide¦|Khairn Depths (Crystal Lair)|4|3|;|Khairn Depths (Chamber of Khairn)|7|12|
+Khairn Depths (Chamber of Khairn)¦Khairn_Depths_(Chamber_of_Khairn)¦Falracan Divide¦|Khairn Depths (Main Chamber)|4|3|;|Shadow Depths (Entrance)|13|3|
+Shadow Depths (Entrance)¦Shadow_Depths_(Entrance)¦Falracan Divide¦|Khairn Depths (Chamber of Khairn)|3|3|;|Shadow Depths (Maze)|10|9|
+Shadow Depths (Maze)¦Shadow_Depths_(Maze)¦Falracan Divide¦|Shadow Depths (Entrance)|5|5|;|Shadow Depths (Bridge)|12|14|
+Shadow Depths (Bridge)¦Shadow_Depths_(Bridge)¦Falracan Divide¦|Shadow Depths (Maze)|4|8|;|Shadow Depths (Dead Portal)|10|17|
+Shadow Depths (Dead Portal)¦Shadow_Depths_(Dead_Portal)¦Falracan Divide¦|Shadow Depths (Bridge)|4|5|;|Fharid Desert (Wilds)|8|15|
+Fharid Desert (Wilds)¦Fharid_Desert_(Wilds)¦Falracan Divide¦|Shadow Depths (Dead Portal)|3|2|;|Fharid Desert (Dunes)|10|13|
+Fharid Desert (Dunes)¦Fharid_Desert_(Dunes)¦Falracan Divide¦Relic|Arid Fissure|11|2|;|Fharid Desert (Wilds)|5|4|;|Fharid Desert (Oasis)|12|12|
+Fharid Desert (Oasis)¦Fharid_Desert_(Oasis)¦Falracan Divide¦|Fharid Desert (Dunes)|14|3|;|Fharid Desert (Wastes)|3|14|
+Fharid Desert (Wastes)¦Fharid_Desert_(Wastes)¦Falracan Divide¦|Fharid Desert (Oasis)|4|3|;|Fharid Desert (Edge)|18|7|;Portal|Fharid Desert Portal|11|10|
+Fharid Desert (Edge)¦Fharid_Desert_(Edge)¦Falracan Divide¦|Fharid Desert (Wastes)|13|3|;|Thracan City (Outskirt)|5|18|
+Thracan City (Outskirt)¦Thracan_City_(Outskirt)¦Falracan Divide¦|Fharid Desert (Edge)|5|1|;|Thracan City (Walls)|3|12|;World Area|Falracan Divide|9|7|
+Thracan City (Walls)¦Thracan_City_(Walls)¦Falracan Divide¦|Thracan City (Suburbs)|14|3|;|Thracan City (Outskirt)|2|4|
+Thracan City (Suburbs)¦Thracan_City_(Suburbs)¦Falracan Divide¦|Thracan City (Walls)|7|9|;|Thracan City (Plaza)|10|11|
+Thracan City (Plaza)¦Thracan_City_(Plaza)¦Falracan Divide¦|Thracan City (Suburbs)|1|7|;|Thracan City (Merchant)|16|15|
+Thracan City (Merchant)¦Thracan_City_(Merchant)¦Falracan Divide¦|Thracan City (Palace)|11|2|;|Thracan City (Plaza)|7|15|;|Kralen Flats (North)|17|18|
+Thracan City (Palace)¦Thracan_City_(Palace)¦Falracan Divide¦|Thracan City (Merchant)|7|1|;|Stages 1-2:|7|2|
+Kralen Flats (North)¦Kralen_Flats_(North)¦Realms of Ishiah¦|Kralen Flats (East)|12|2|;|Thracan City (Merchant)|2|12|;World Area|Realms of Ishiah|3|2|
+Kralen Flats (East)¦Kralen_Flats_(East)¦Realms of Ishiah¦|Kralen Flats (North)|2|2|;|Kralen Flats (South)|13|15|
+Kralen Flats (South)¦Kralen_Flats_(South)¦Realms of Ishiah¦|Kralen Flats (East)|3|3|;|Kralen Flats (West)|9|10|
+Kralen Flats (West)¦Kralen_Flats_(West)¦Realms of Ishiah¦|Kralen Flats (South)|2|2|;|Ishtahl Jungle (Outskirts)|15|15|;Portal|Kralen Flats Portal|11|6|;|Stages 1-2:|3|6|
+Ishtahl Jungle (Outskirts)¦Ishtahl_Jungle_(Outskirts)¦Realms of Ishiah¦|Kralen Flats (West)|2|1|;|Ishtahl Jungle (Clearing)|12|13|;World Area|Realms of Ishiah|7|7|
+Ishtahl Jungle (Clearing)¦Ishtahl_Jungle_(Clearing)¦Realms of Ishiah¦Relic|Enchanted Tree|7|11|;|Ishtahl Jungle (Outskirts)|7|2|;|Ishtahl Jungle (Thicket)|12|13|
+Ishtahl Jungle (Thicket)¦Ishtahl_Jungle_(Thicket)¦Realms of Ishiah¦|Ishtahl Jungle (Clearing)|2|3|;|Ishtahl Jungle (Grove)|16|9|
+Ishtahl Jungle (Grove)¦Ishtahl_Jungle_(Grove)¦Realms of Ishiah¦|Ishtahl Jungle (Thicket)|1|7|;|Ishtahl Jungle (Edge)|13|12|
+Ishtahl Jungle (Edge)¦Ishtahl_Jungle_(Edge)¦Realms of Ishiah¦|Ishtahl Jungle (Grove)|7|1|;|Krilla Arids (Outskirts)|12|13|
+Krilla Arids (Outskirts)¦Krilla_Arids_(Outskirts)¦Realms of Ishiah¦|Ishtahl Jungle (Edge)|3|3|;|Krilla Arids (South)|13|10|;World Area|Realms of Ishiah|5|18|;|Stages 1-2:|3|4|
+Krilla Arids (South)¦Krilla_Arids_(South)¦Realms of Ishiah¦|Krilla Arids (Outskirts)|8|1|;|Krilla Arids (North)|5|14|
+Krilla Arids (North)¦Krilla_Arids_(North)¦Realms of Ishiah¦|Krilla Arids (South)|1|3|;|Krilla Arids (Oasis)|16|15|
+Krilla Arids (Oasis)¦Krilla_Arids_(Oasis)¦Realms of Ishiah¦|Krilla Arids (North)|10|2|;|Krilla Arids (Wastes)|13|19|
+Krilla Arids (Wastes)¦Krilla_Arids_(Wastes)¦Realms of Ishiah¦|Krilla Arids (Brush)|7|2|;|Krilla Arids (Oasis)|18|9|;Portal|Krilla Arids Portal|13|7|
+Krilla Arids (Brush)¦Krilla_Arids_(Brush)¦Realms of Ishiah¦|Krilla Arids (Wastes)|5|2|;|Krilla Arids (Edge)|16|10|
+Krilla Arids (Edge)¦Krilla_Arids_(Edge)¦Realms of Ishiah¦Relic|Enraged Fissure|10|6|;|Kuate Sands (East)|11|1|;|Krilla Arids (Brush)|6|2|
+Kuate Sands (East)¦Kuate_Sands_(East)¦Realms of Ishiah¦|Krilla Arids (Edge)|3|5|;|Kuate Sands (North)|12|13|
+Kuate Sands (North)¦Kuate_Sands_(North)¦Realms of Ishiah¦|Kuate Sands (East)|2|3|;|Becuka Forest (Outskirts)|14|11|
+Becuka Forest (Outskirts)¦Becuka_Forest_(Outskirts)¦Realms of Ishiah¦|Kuate Sands (North)|3|5|;|Becuka Forest (South)|10|11|
+Becuka Forest (South)¦Becuka_Forest_(South)¦Realms of Ishiah¦|Becuka Forest (Outskirts)|3|5|;|Becuka Forest (East)|14|14|
+Becuka Forest (East)¦Becuka_Forest_(East)¦Realms of Ishiah¦|Becuka Forest (South)|2|4|;|Becuka Forest (North)|18|10|
+Becuka Forest (North)¦Becuka_Forest_(North)¦Realms of Ishiah¦|Becuka Forest (East)|6|4|;|Becuka Forest (West)|11|16|
+Becuka Forest (West)¦Becuka_Forest_(West)¦Realms of Ishiah¦|Becuka Forest (North)|2|4|;|Ryika Caverns (Entrance)|14|8|
+Ryika Caverns (Entrance)¦Ryika_Caverns_(Entrance)¦Dominion of Treshia¦|Becuka Forest (West)|4|3|;|Ryika Caverns (Tunnels)|13|16|;Portal|Ryika Caverns Portal|10|4|
+Ryika Caverns (Main Chamber)¦Ryika_Caverns_(Main_Chamber)¦Dominion of Treshia¦|Ryika Caverns (Tunnels)|2|12|
+Ryika Caverns (Tunnels)¦Ryika_Caverns_(Tunnels)¦Dominion of Treshia¦|Ryika Caverns (Entrance)|5|4|;|Ardigal Sewers (Entrance)|3|11|;|Ryika Caverns (Main Chamber)|14|13|;|Stages 1-2:|12|4|
+Ardigal Sewers (Entrance)¦Ardigal_Sewers_(Entrance)¦Dominion of Treshia¦Relic|Empowered Obelisk|13|4|;|Ryika Caverns (Tunnels)|2|1|;|Ardigal Sewers (Ingress)|14|14|;World Area|Dominion of Treshia|4|12|
+Ardigal Sewers (Ingress)¦Ardigal_Sewers_(Ingress)¦Dominion of Treshia¦|Ardigal Sewers (Entrance)|6|1|;|Ardigal Sewers (Breach)|12|18|
+Ardigal Sewers (Breach)¦Ardigal_Sewers_(Breach)¦Dominion of Treshia¦|Ardigal Sewers (Ingress)|12|2|;|Ardigal Sewers (Inner)|7|20|;|Stages 1-2:|11|11|
+Ardigal Sewers (Inner)¦Ardigal_Sewers_(Inner)¦Dominion of Treshia¦|Ardigal Sewers (Breach)|4|2|;|Ardigal Sewers (Egress)|14|15|
+Ardigal Sewers (Egress)¦Ardigal_Sewers_(Egress)¦Dominion of Treshia¦|Ardigal Sewers (Inner)|3|1|;|Maccha Town (Entrance)|2|14|
+Maccha Town (Entrance)¦Maccha_Town_(Entrance)¦Dominion of Treshia¦|Ardigal Sewers (Egress)|10|2|;|Maccha Town (Outskirts)|6|20|;World Area|Dominion of Treshia|10|12|
+Maccha Town (Outskirts)¦Maccha_Town_(Outskirts)¦Dominion of Treshia¦|Maccha Town (Entrance)|4|1|;|Maccha Town (Merchant District)|9|18|
+Maccha Town (Merchant District)¦Maccha_Town_(Merchant_District)¦Dominion of Treshia¦|Maccha Town (Outskirts)|11|1|;|Maccha Town (Center)|9|12|
+Maccha Town (Center)¦Maccha_Town_(Center)¦Dominion of Treshia¦|Maccha Town (Merchant District)|3|2|;|Maccha Town (Guardhouse)|6|16|;Portal|Maccha Town Portal|11|8|
+Maccha Town (Guardhouse)¦Maccha_Town_(Guardhouse)¦Dominion of Treshia¦|Maccha Town (Center)|2|3|;|Thosha Castle (Entrance)|19|13|
+Thosha Castle (Entrance)¦Thosha_Castle_(Entrance)¦Dominion of Treshia¦|Thosha Castle (Gate)|2|4|;|Maccha Town (Guardhouse)|15|14|;Relic|Pool of Death|12|4|
+Thosha Castle (Gate)¦Thosha_Castle_(Gate)¦Dominion of Treshia¦|Thosha Castle (Entrance)|2|1|;|Thosha Castle (Smithy)|13|16|
+Thosha Castle (Smithy)¦Thosha_Castle_(Smithy)¦Dominion of Treshia¦|Thosha Castle (Gate)|3|2|;|Thosha Castle (Armory)|8|14|
+Thosha Castle (Armory)¦Thosha_Castle_(Armory)¦Dominion of Treshia¦|Thosha Castle (Smithy)|2|1|;|Thosha Castle (Barracks)|17|16|
+Thosha Castle (Barracks)¦Thosha_Castle_(Barracks)¦Dominion of Treshia¦|Thosha Castle (Armory)|3|1|;|Thosha Castle (Halls)|10|14|
+Thosha Castle (Halls)¦Thosha_Castle_(Halls)¦Dominion of Treshia¦|Thosha Castle (Barracks)|9|1|;|Thosha Castle (Kings Chamber)|13|14|
+Thosha Castle (Kings Chamber)¦Thosha_Castle_(Kings_Chamber)¦Dominion of Treshia¦|Thosha Castle (Halls)|2|1|;|Thosha Depths (Entrance)|9|10|;|Stages 1-2:|2|9|
+Thosha Depths (Entrance)¦Thosha_Depths_(Entrance)¦Dominion of Treshia¦|Thosha Castle (Kings Chamber)|2|2|;|Thosha Depths (Maze)|9|12|;World Area|Dominion of Treshia|4|9|
+Thosha Depths (Maze)¦Thosha_Depths_(Maze)¦Dominion of Treshia¦|Thosha Depths (Entrance)|7|5|;|Thosha Depths (Chambers)|13|9|;Portal|Thosha Depths Portal|10|14|
+Thosha Depths (Chambers)¦Thosha_Depths_(Chambers)¦Dominion of Treshia¦|Thosha Depths (Maze)|3|2|;|Thosha Depths (Chasm)|11|8|
+Thosha Depths (Chasm)¦Thosha_Depths_(Chasm)¦Dominion of Treshia¦Relic|Empowering Vines|11|2|;|Thosha Depths (Chambers)|4|4|;|Thosha Depths (Exit)|13|14|
+Thosha Depths (Exit)¦Thosha_Depths_(Exit)¦Dominion of Treshia¦|Thosha Depths (Chasm)|11|9|;|Tharhe Savannah (Plains)|18|19|
+Tharhe Savannah (Plains)¦Tharhe_Savannah_(Plains)¦Dominion of Treshia¦|Thosha Depths (Exit)|4|3|;|Tharhe Savannah (Grazing)|11|11|;World Area|Dominion of Treshia|2|13|
+Tharhe Savannah (Grazing)¦Tharhe_Savannah_(Grazing)¦Dominion of Treshia¦|Tharhe Savannah (Plains)|2|5|;|Tharhe Savannah (Flats)|9|16|
+Quango Island (Swampy Interior)¦Quango_Island_(Swampy_Interior)¦¦|Quango Island|1|7|;|Stages 1-2:|15|10|
+Tharhe Savannah (Flats)¦Tharhe_Savannah_(Flats)¦Dominion of Treshia¦|Tharhe Savannah (Grazing)|2|3|;|Kanfall Burrows (Entrance)|14|4|;|Tharhe Savannah (Fort)|12|12|;|Stages 1-2:|5|14|
+Tharhe Savannah (Fort)¦Tharhe_Savannah_(Fort)¦Dominion of Treshia¦|Tharhe Savannah (Flats)|3|2|
+Kanfall Burrows (Entrance)¦Kanfall_Burrows_(Entrance)¦Ezibarr¦|Tharhe Savannah (Flats)|2|2|;|Kanfall Burrows (Tunnels)|12|12|;World Area|Ezibarr|12|2|
+Kanfall Burrows (Tunnels)¦Kanfall_Burrows_(Tunnels)¦Ezibarr¦|Kanfall Burrows (Entrance)|3|2|;|Kanfall Burrows (Outer Chambers)|12|12|
+Kanfall Burrows (Outer Chambers)¦Kanfall_Burrows_(Outer_Chambers)¦Ezibarr¦|Kanfall Burrows (Tunnels)|2|2|;|Kanfall Burrows (Inner Chambers)|12|12|
+Kanfall Burrows (Inner Chambers)¦Kanfall_Burrows_(Inner_Chambers)¦Ezibarr¦|Kanfall Burrows (Outer Chambers)|2|2|;|Kanfall Burrows (Central Chamber)|15|16|;Portal|Kanfall Burrows Portal|5|8|
+Kanfall Burrows (Central Chamber)¦Kanfall_Burrows_(Central_Chamber)¦Ezibarr¦|Kanfall Burrows (Inner Chambers)|2|2|;|Kanfall Burrows (Maze)|12|12|
+Kanfall Burrows (Maze)¦Kanfall_Burrows_(Maze)¦Ezibarr¦Relic|Fissure of Enlightenment|11|7|;|Kanfall Burrows (Central Chamber)|3|2|;|Reecha Barrens (Edge)|14|15|;|Stages 1-2:|2|7|
+Reecha Barrens (Edge)¦Reecha_Barrens_(Edge)¦Ezibarr¦|Kanfall Burrows (Maze)|2|1|;|Reecha Barrens (Clearing)|10|16|
+Reecha Barrens (Clearing)¦Reecha_Barrens_(Clearing)¦Ezibarr¦|Reecha Barrens (Edge)|2|1|;|Reecha Barrens (Ridge)|12|11|
+Reecha Barrens (Ridge)¦Reecha_Barrens_(Ridge)¦Ezibarr¦|Reecha Barrens (Clearing)|2|1|;|Reecha Barrens (Midst)|9|13|
+Reecha Barrens (Midst)¦Reecha_Barrens_(Midst)¦Ezibarr¦|Reecha Barrens (Ridge)|2|1|;|Reecha Barrens (Outskirts)|13|12|
+Reecha Barrens (Outskirts)¦Reecha_Barrens_(Outskirts)¦Ezibarr¦|Reecha Barrens (Midst)|1|2|;|Relcnoir Caves (Opening)|13|12|
+Relcnoir Caves (Opening)¦Relcnoir_Caves_(Opening)¦Ezibarr¦|Reecha Barrens (Outskirts)|2|1|;|Relcnoir Caves (Tunnels)|13|12|;World Area|Ezibarr|9|7|
+Relcnoir Caves (Tunnels)¦Relcnoir_Caves_(Tunnels)¦Ezibarr¦|Relcnoir Caves (Opening)|1|3|;|Relcnoir Caves (Outer Chambers)|20|13|
+Relcnoir Caves (Outer Chambers)¦Relcnoir_Caves_(Outer_Chambers)¦Ezibarr¦|Relcnoir Caves (Tunnels)|2|1|;|Relcnoir Caves (Inner Chambers)|13|12|;Portal|Relcnoir Caves Portal|7|6|;|Stage 1:|12|3|;|Stages 2-3:|1|13|;|Stage 4:|12|3|
+Relcnoir Caves (Inner Chambers)¦Relcnoir_Caves_(Inner_Chambers)¦Ezibarr¦|Relcnoir Caves (Outer Chambers)|1|2|;|Relcnoir Caves (Exit)|13|12|
+Relcnoir Caves (Exit)¦Relcnoir_Caves_(Exit)¦Ezibarr¦Relic|Magical Frozen Pillar|12|3|;|Relcnoir Caves (Inner Chambers)|1|2|;|Algir Forest (Outskirts)|13|12|
+Algir Forest (Outskirts)¦Algir_Forest_(Outskirts)¦Ezibarr¦|Relcnoir Caves (Exit)|2|2|;|Algir Forest (Clearing)|12|12|;World Area|Ezibarr|6|7|
+Algir Forest (Clearing)¦Algir_Forest_(Clearing)¦Ezibarr¦|Algir Forest (Outskirts)|2|2|;|Algir Forest (Ridge)|12|8|
+Algir Forest (Ridge)¦Algir_Forest_(Ridge)¦Ezibarr¦|Algir Forest (Clearing)|2|2|;|Algir Forest (Glade)|12|12|
+Algir Forest (Glade)¦Algir_Forest_(Glade)¦Ezibarr¦|Algir Forest (Ridge)|2|2|;|Algir Forest (Mine)|10|12|
+Algir Forest (Mine)¦Algir_Forest_(Mine)¦Ezibarr¦|Algir Forest (Glade)|2|2|;|Mjodir Bastion (Gates)|12|12|
+Mjodir Bastion (Gates)¦Mjodir_Bastion_(Gates)¦Ezibarr¦|Algir Forest (Mine)|2|2|;|Mjodir Bastion (Guardhouse)|12|12|;World Area|Ezibarr|2|12|
+Mjodir Bastion (Guardhouse)¦Mjodir_Bastion_(Guardhouse)¦Ezibarr¦|Mjodir Bastion (Gates)|2|1|;|Mjodir Bastion (Prison)|14|15|
+Mjodir Bastion (Prison)¦Mjodir_Bastion_(Prison)¦Ezibarr¦|Mjodir Bastion (Guardhouse)|1|2|;|Mjodir Bastion (Hall Entrance)|12|13|;Portal|Mjodir Bastion Portal|9|8|;|Stages 1-2:|1|13|
+Mjodir Bastion (Great Hall)¦Mjodir_Bastion_(Great_Hall)¦Ezibarr¦|Mjodir Bastion (Hall Entrance)|10|1|
+Mjodir Bastion (Hall Entrance)¦Mjodir_Bastion_(Hall_Entrance)¦Ezibarr¦|Mjodir Bastion (Prison)|1|2|;|Mullseer Forest (Outskirts)|13|3|;|Mjodir Bastion (Great Hall)|12|13|
+Mullseer Forest (Outskirts)¦Mullseer_Forest_(Outskirts)¦Eirulai¦Relic|Bear Cave|2|13|;|Mjodir Bastion (Hall Entrance)|4|3|;|Mullseer Forest (Clearing)|13|12|;World Area|Eirulai|15|6|;|Stages 1-4:|7|16|
+Mullseer Forest (Clearing)¦Mullseer_Forest_(Clearing)¦Eirulai¦|Mullseer Forest (Outskirts)|4|4|;|Mullseer Forest (Ridge)|15|14|
+Mullseer Forest (Ridge)¦Mullseer_Forest_(Ridge)¦Eirulai¦|Mullseer Forest (Canopy)|15|3|;|Mullseer Forest (Clearing)|12|16|
+Mullseer Forest (Canopy)¦Mullseer_Forest_(Canopy)¦Eirulai¦|Mullseer Forest (Thicket)|11|4|;|Mullseer Forest (Ridge)|3|13|
+Mullseer Forest (Thicket)¦Mullseer_Forest_(Thicket)¦Eirulai¦|Mullseer Forest (Canopy)|4|5|;|Mullseer Forest (Copse)|13|9|
+Mullseer Forest (Copse)¦Mullseer_Forest_(Copse)¦Eirulai¦|Mullseer Forest (Thicket)|3|3|;|Mullseer Forest (Edge)|9|16|
+Mullseer Forest (Edge)¦Mullseer_Forest_(Edge)¦Eirulai¦|Mullseer Forest (Depths)|16|6|;|Mullseer Forest (Copse)|5|13|
+Mullseer Forest (Depths)¦Mullseer_Forest_(Depths)¦Eirulai¦|Mullseer Forest (Heart)|11|3|;|Mullseer Forest (Edge)|2|12|;|Stages 1-2:|2|2|
+Mullseer Forest (Heart)¦Mullseer_Forest_(Heart)¦Eirulai¦|Mullseer Forest (Depths)|9|8|;|Mullseer Forest (Village)|2|9|;Portal|Mullseer Forest Portal|12|4|
+Mullseer Forest (Village)¦Mullseer_Forest_(Village)¦Eirulai¦|Mullseer Forest (Herd Lands)|6|4|;|Mullseer Forest (Heart)|10|10|
+Mullseer Forest (Herd Lands)¦Mullseer_Forest_(Herd_Lands)¦Eirulai¦Relic|Mysterious Bone Pile|5|13|;|Mullseer Forest (Haunt)|4|3|;|Mullseer Forest (Village)|12|11|
+Mullseer Forest (Haunt)¦Mullseer_Forest_(Haunt)¦Eirulai¦|Mullseer Forest (Herd Lands)|8|2|;|Arathir Forest (Drift)|14|15|
+Arathir Forest (Drift)¦Arathir_Forest_(Drift)¦Eirulai¦|Arathir Forest (Snow Bank)|6|2|;|Mullseer Forest (Haunt)|16|16|;World Area|Eirulai|11|9|
+Arathir Forest (Snow Bank)¦Arathir_Forest_(Snow_Bank)¦Eirulai¦|Arathir Forest (Drift)|4|8|;|Arathir Forest (Thicket)|18|15|
+Arathir Forest (Thicket)¦Arathir_Forest_(Thicket)¦Eirulai¦|Arathir Forest (Snow Bank)|4|3|;|Arathir Forest (Wilds)|8|16|
+Arathir Forest (Wilds)¦Arathir_Forest_(Wilds)¦Eirulai¦|Arathir Forest (Frenzy Lands)|14|4|;|Arathir Forest (Thicket)|6|10|
+Arathir Forest (Frenzy Lands)¦Arathir_Forest_(Frenzy_Lands)¦Eirulai¦|Arathir Forest (Wilds)|9|2|;|Arathir Forest (Lair)|15|15|;|Stages 1-2:|6|13|
+Arathir Forest (Lair)¦Arathir_Forest_(Lair)¦Eirulai¦|Arathir Forest (Darkness)|3|2|;|Arathir Forest (Frenzy Lands)|4|12|
+Arathir Forest (Darkness)¦Arathir_Forest_(Darkness)¦Eirulai¦|Arathir Forest (Lair)|12|3|;|Kantariss Plains (Aerie)|2|14|;Portal|Arathir Forest Portal|6|5|
+Kantariss Plains (Aerie)¦Kantariss_Plains_(Aerie)¦Eirulai¦|Arathir Forest (Darkness)|13|2|;|Kantariss Plains (Pasture)|2|14|;World Area|Eirulai|10|16|
+Kantariss Plains (Pasture)¦Kantariss_Plains_(Pasture)¦Eirulai¦Relic|Sheep Paddock|6|4|;|Kantariss Plains (Village)|16|1|;|Kantariss Plains (Aerie)|2|14|
+Kantariss Plains (Village)¦Kantariss_Plains_(Village)¦Eirulai¦|Kantariss Plains (Dead Fields)|5|2|;|Kantariss Plains (Pasture)|14|15|
+Kantariss Plains (Dead Fields)¦Kantariss_Plains_(Dead_Fields)¦Eirulai¦|Kantariss Plains (Village)|2|3|;|Kantariss Plains (Barrow Lands)|9|8|
+Kantariss Plains (Barrow Lands)¦Kantariss_Plains_(Barrow_Lands)¦Eirulai¦|Kantariss Plains (Spirit lands)|14|4|;|Kantariss Plains (Dead Fields)|3|14|
+Kantariss Plains (Spirit lands)¦Kantariss_Plains_(Spirit_lands)¦Eirulai¦|Neslir Woods (Outskirts)|14|2|;|Kantariss Woods (Goranoths Haunt)|2|4|;|Kantariss Plains (Barrow Lands)|16|15|;|Stages 1-2:|5|10|
+Kantariss Woods (Goranoths Haunt)¦Kantariss_Woods_(Goranoths_Haunt)¦Eirulai¦|Kantariss Plains (Spirit lands)|5|2|;World Area|Eirulai|12|12|
+Labyrinthine Forest¦Labyrinthine_Forest¦Krul Island¦|The Grimmnor Forest|7|3|;|Old Ladies Cottage|14|17|;|Stages 1-6:|5|11|;|Stage 7:|2|11|
+Old Ladies Cottage¦Old_Ladies_Cottage¦Krul Island¦|Labyrinthine Forest|1|2|;|Stages 8-10:|2|2|
+Neslir Woods (Outskirts)¦Neslir_Woods_(Outskirts)¦Creall¦|Kantariss Plains (Spirit lands)|13|2|;|Neslir Woods (Ridge)|10|16|;World Area|Creall|2|2|
+Neslir Woods (Ridge)¦Neslir_Woods_(Ridge)¦Creall¦|Neslir Woods (Outskirts)|2|2|;|Neslir Woods (Clearing)|12|12|
+Neslir Woods (Clearing)¦Neslir_Woods_(Clearing)¦Creall¦|Neslir Woods (Ridge)|2|2|;|Neslir Woods (Grove)|12|17|
+Neslir Woods (Grove)¦Neslir_Woods_(Grove)¦Creall¦|Neslir Woods (Clearing)|2|2|;|Neslir Woods (Gloom)|13|12|;Portal|Neslir Woods Portal|4|7|
+Neslir Woods (Gloom)¦Neslir_Woods_(Gloom)¦Creall¦|Neslir Woods (Grove)|2|2|;|Neslir Woods (Depths)|15|17|
+Neslir Woods (Depths)¦Neslir_Woods_(Depths)¦Creall¦Relic|Nelsir Graveyard|6|5|;|Neslir Woods (Gloom)|2|2|;|Phaerl Castle (Entrance)|12|12|;|Stages 1-2:|12|2|
+Phaerl Castle (Entrance)¦Phaerl_Castle_(Entrance)¦Creall¦|Neslir Woods (Depths)|2|1|;|Phaerl Castle (Armory)|14|15|;World Area|Creall|1|11|
+Phaerl Castle (Armory)¦Phaerl_Castle_(Armory)¦Creall¦|Phaerl Castle (Entrance)|2|1|;|Phaerl Castle (Tunnels)|14|16|
+Phaerl Castle (Tunnels)¦Phaerl_Castle_(Tunnels)¦Creall¦|Phaerl Castle (Armory)|2|1|;|Phaerl Castle (Outer Halls)|13|12|
+Phaerl Castle (Outer Halls)¦Phaerl_Castle_(Outer_Halls)¦Creall¦|Phaerl Castle (Tunnels)|1|4|;|Phaerl Castle (Inner Halls)|6|17|
+Phaerl Castle (Inner Halls)¦Phaerl_Castle_(Inner_Halls)¦Creall¦|Phaerl Castle (Outer Halls)|2|1|;|Phaerl Castle (Chamber)|13|5|
+Phaerl Castle (Chamber)¦Phaerl_Castle_(Chamber)¦Creall¦|Phaerl Castle (Inner Halls)|2|1|;|Krahil Depths (Outer Labyrinth)|16|13|
+Krahil Depths (Outer Labyrinth)¦Krahil_Depths_(Outer_Labyrinth)¦Creall¦|Phaerl Castle (Chamber)|2|1|;|Krahil Depths (Inner Labyrinth)|13|12|;World Area|Creall|2|8|
+Krahil Depths (Inner Labyrinth)¦Krahil_Depths_(Inner_Labyrinth)¦Creall¦|Krahil Depths (Outer Labyrinth)|3|1|;|Krahil Depths (Pathways)|13|12|;Portal|Krahil Depths Portal|3|4|;|Stages 1-2:|7|9|
+Krahil Depths (Pathways)¦Krahil_Depths_(Pathways)¦Creall¦|Krahil Depths (Inner Labyrinth)|2|1|;|Krahil Depths (Recess)|13|12|
+Krahil Depths (Recess)¦Krahil_Depths_(Recess)¦Creall¦Relic|Krahil Fissure|7|6|;|Krahil Depths (Pathways)|2|1|;|Krahil Depths (Halls)|12|13|
+Krahil Depths (Halls)¦Krahil_Depths_(Halls)¦Creall¦|Krahil Depths (Recess)|2|1|;|Krahil Depths (Maze)|16|9|
+Krahil Depths (Maze)¦Krahil_Depths_(Maze)¦Creall¦|Krahil Depths (Halls)|7|1|;|Keelfell Swamp (Outskirts)|13|7|
+Keelfell Swamp (Outskirts)¦Keelfell_Swamp_(Outskirts)¦Creall¦|Krahil Depths (Maze)|2|2|;|Keelfell Swamp (Boggy Waste)|12|12|;World Area|Creall|12|3|
+Keelfell Swamp (Boggy Waste)¦Keelfell_Swamp_(Boggy_Waste)¦Creall¦|Keelfell Swamp (Outskirts)|3|2|;|Keelfell Swamp (Clearing)|12|14|
+Keelfell Swamp (Clearing)¦Keelfell_Swamp_(Clearing)¦Creall¦|Keelfell Swamp (Boggy Waste)|3|2|;|Keelfell Swamp (Waste Land)|12|11|
+Keelfell Swamp (Waste Land)¦Keelfell_Swamp_(Waste_Land)¦Creall¦|Keelfell Swamp (Clearing)|2|2|;|Keelfell Swamp (Marshes)|11|12|
+Keelfell Swamp (Marshes)¦Keelfell_Swamp_(Marshes)¦Creall¦|Keelfell Swamp (Waste Land)|2|2|;|Keelfell Swamp (Sump)|14|14|
+Keelfell Swamp (Sump)¦Keelfell_Swamp_(Sump)¦Creall¦|Keelfell Swamp (Marshes)|2|2|;|Keelfell Swamp (Mire)|15|17|;Portal|Keelfell Swamp Portal|12|11|
+Keelfell Swamp (Darkness)¦Keelfell_Swamp_(Darkness)¦Creall¦|Keelfell Swamp (Mire)|6|2|;|Stages 1-2:|9|9|
+Keelfell Swamp (Mire)¦Keelfell_Swamp_(Mire)¦Creall¦|Keelfell Swamp (Sump)|2|2|;|Zuul Forest (Outskirts)|17|3|;|Keelfell Swamp (Darkness)|14|17|
+Zuul Forest (Outskirts)¦Zuul_Forest_(Outskirts)¦Entoira Expanse¦Relic|Mythic Zuul Altar|2|12|;|Keelfell Swamp (Mire)|9|1|;|Zuul Forest (Clearing)|13|12|;World Area|Entoira Expanse|6|6|
+Zuul Forest (Clearing)¦Zuul_Forest_(Clearing)¦Entoira Expanse¦|Zuul Forest (Outskirts)|2|2|;|Zuul Forest (Wilds)|13|12|
+Zuul Forest (Wilds)¦Zuul_Forest_(Wilds)¦Entoira Expanse¦|Zuul Forest (Clearing)|2|1|;|Zuul Forest (Thickets)|16|15|
+Zuul Forest (Thickets)¦Zuul_Forest_(Thickets)¦Entoira Expanse¦|Zuul Forest (Wilds)|2|1|;|Zuul Forest (Tall Trees)|14|17|;|Stages 1-2:|6|10|
+Zuul Forest (Tall Trees)¦Zuul_Forest_(Tall_Trees)¦Entoira Expanse¦|Zuul Forest (Thickets)|2|1|;|Zuul Forest (Overgrowth)|14|17|
+Zuul Forest (Overgrowth)¦Zuul_Forest_(Overgrowth)¦Entoira Expanse¦|Zuul Forest (Tall Trees)|2|1|;|Zuul Forest (Undergrowth)|13|12|
+Zuul Forest (Undergrowth)¦Zuul_Forest_(Undergrowth)¦Entoira Expanse¦|Zuul Forest (Overgrowth)|2|1|;|Crystal Bastion (Gate)|12|13|
+Crystal Bastion (Gate)¦Crystal_Bastion_(Gate)¦Entoira Expanse¦|Zuul Forest (Undergrowth)|2|1|;|(World Area) Entoira Expanse|7|7|;|Crystal Bastion (Hallways)|12|12|
+Crystal Bastion (Hallways)¦Crystal_Bastion_(Hallways)¦Entoira Expanse¦|Crystal Bastion (Gate)|2|1|;|Crystal Bastion (Alcove)|13|12|;Portal|Crystal Bastion Portal|10|8|
+Crystal Bastion (Alcove)¦Crystal_Bastion_(Alcove)¦Entoira Expanse¦|Crystal Bastion (Hallways)|3|1|;|Crystal Bastion (Armory)|13|12|
+Crystal Bastion (Armory)¦Crystal_Bastion_(Armory)¦Entoira Expanse¦|Crystal Bastion (Alcove)|2|1|;|Crystal Bastion (Barracks)|3|11|;Relic|Bastion Magical Arch|13|12|
+Crystal Bastion (Barracks)¦Crystal_Bastion_(Barracks)¦Entoira Expanse¦|Crystal Bastion (Armory)|2|1|;|Crystal Bastion (Smithy)|13|12|
+Crystal Bastion (Smithy)¦Crystal_Bastion_(Smithy)¦Entoira Expanse¦|Crystal Bastion (Barracks)|2|1|;|Crystal Bastion (Kings Chamber)|11|12|
+Crystal Bastion (Kings Chamber)¦Crystal_Bastion_(Kings_Chamber)¦Entoira Expanse¦|Crystal Bastion (Smithy)|1|3|;|Elihir Forest (Edge)|13|12|
+Elihir Forest (Edge)¦Elihir_Forest_(Edge)¦Entoira Expanse¦|Crystal Bastion (Kings Chamber)|6|1|;|Elihir Forest (Thicket)|14|15|;World Area|Entoira Expanse|4|12|
+Elihir Forest (Thicket)¦Elihir_Forest_(Thicket)¦Entoira Expanse¦|Elihir Forest (Edge)|1|2|;|Elihir Forest (Clearing)|20|5|
+Elihir Forest (Clearing)¦Elihir_Forest_(Clearing)¦Entoira Expanse¦|Elihir Forest (Thicket)|2|1|;|Elihir Forest (Ridge)|12|12|;|Stages 1-2:|7|9|
+Elihir Forest (Ridge)¦Elihir_Forest_(Ridge)¦Entoira Expanse¦|Elihir Forest (Clearing)|2|1|;|Elihir Forest (Haunt)|13|12|
+Elihir Forest (Haunt)¦Elihir_Forest_(Haunt)¦Entoira Expanse¦|Elihir Forest (Ridge)|2|2|;|Elihir Forest (Overgrowth)|13|12|;Portal|Elihir Forest Portal|4|6|
+Elihir Forest (Overgrowth)¦Elihir_Forest_(Overgrowth)¦Entoira Expanse¦|Elihir Forest (Haunt)|3|1|;|Edonhart Ruins (Entrance)|16|15|
+Edonhart Ruins (Entrance)¦Edonhart_Ruins_(Entrance)¦Entoira Expanse¦Relic|Edonhart Obelisk|4|8|;|Elihir Forest (Overgrowth)|2|1|;|Edonhart Ruins (Halls)|13|11|;World Area|Entoira Expanse|1|12|
+Edonhart Ruins (Halls)¦Edonhart_Ruins_(Halls)¦Entoira Expanse¦|Edonhart Ruins (Entrance)|2|1|;|Edonhart Ruins (Great Chamber)|9|13|
+Edonhart Ruins (Great Chamber)¦Edonhart_Ruins_(Great_Chamber)¦Entoira Expanse¦|Edonhart Ruins (Halls)|1|2|;|Edonhart Ruins (Pillars)|18|17|
+Edonhart Ruins (Pillars)¦Edonhart_Ruins_(Pillars)¦Entoira Expanse¦|Edonhart Ruins (Great Chamber)|4|1|;|Edonhart Ruins (Lair)|7|18|
+Edonhart Ruins (Enclave)¦Edonhart_Ruins_(Enclave)¦Entoira Expanse¦|Edonhart Ruins (Lair)|7|1|;|Stages 1-2:|7|2|
+Edonhart Ruins (Lair)¦Edonhart_Ruins_(Lair)¦Entoira Expanse¦|Edonhart Ruins (Pillars)|2|1|;|Edonhart Ruins (Enclave)|15|5|;|Jadhara Canyon (Scrub)|4|10|
+Forest of Yule (Hweol Village)¦Forest_of_Yule_(Hweol_Village)¦Krul Island¦|Forest of Yule (Clearing)|15|3|;|Stages 1-2:|13|14|;|Stage 3:|3|16|;|Stage 4:|13|14|;|Stage 5:|4|3|;|Stage 6-7:|13|14|
+Springtime Forest (Freyanas Wilds)¦Springtime_Forest_(Freyanas_Wilds)¦Krul Island¦|Springtime Forest (Outer Grove)|6|21|

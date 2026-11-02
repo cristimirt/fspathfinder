@@ -1,0 +1,104 @@
+Wrognoth Forest (Copse)¦Wrognoth_Forest_(Copse)¦Wrognoth Forest¦|Kathrac Sewers (Workshop)|17|2|;|Wrognoth Forest (Range)|2|18|;World Area|Wrognoth Forest|13|15|
+Wrognoth Forest (Range)¦Wrognoth_Forest_(Range)¦Wrognoth Forest¦|Wrognoth Forest (Copse)|2|6|;|Wrognoth Forest (Caves)|16|22|
+Wrognoth Forest (Caves)¦Wrognoth_Forest_(Caves)¦Wrognoth Forest¦|Wrognoth Forest (Range)|19|2|;|Wrognoth Forest (Thorns)|2|22|
+Wrognoth Forest (Thorns)¦Wrognoth_Forest_(Thorns)¦Wrognoth Forest¦|Wrognoth Forest (Caves)|3|2|;|Wrognoth Forest (Cairn)|16|21|;Portal|Wrognoth Portal|2|14|
+Wrognoth Forest (Cairn)¦Wrognoth_Forest_(Cairn)¦Wrognoth Forest¦|Wrognoth Forest (Thorns)|2|2|;|Wrognoth Forest (Darkness)|11|22|
+Wrognoth Forest (Darkness)¦Wrognoth_Forest_(Darkness)¦Wrognoth Forest¦Relic|Wrognoth Darkling Lair|13|8|;|Wrognoth Forest (Cairn)|22|2|;|Wrognoth Forest (Haunt)|4|13|
+Wrognoth Forest (Haunt)¦Wrognoth_Forest_(Haunt)¦Wrognoth Forest¦|Wrognoth Forest (Darkness)|15|2|;|Wrognoth Forest (Graves)|3|16|
+Wrognoth Forest (Graves)¦Wrognoth_Forest_(Graves)¦Wrognoth Forest¦|Wrognoth Forest (Haunt)|14|3|;|Wrognoth Forest (Webs)|3|20|;World Area|Wrognoth Forest|6|15|
+Wrognoth Forest (Webs)¦Wrognoth_Forest_(Webs)¦Wrognoth Forest¦|Wrognoth Forest (Graves)|17|2|;|Wrognoth Forest (Pools)|2|18|
+Wrognoth Forest (Pools)¦Wrognoth_Forest_(Pools)¦Wrognoth Forest¦|Wrognoth Forest (Webs)|19|3|;|Wrognoth Forest (Vale Vines)|2|15|
+Wrognoth Forest (Vale Vines)¦Wrognoth_Forest_(Vale_Vines)¦Wrognoth Forest¦|Wrognoth Forest (Pools)|2|2|;|Wrognoth Forest (Vale Grove)|15|17|
+Wrognoth Forest (Vale Grove)¦Wrognoth_Forest_(Vale_Grove)¦Wrognoth Forest¦|Wrognoth Forest (Vale Vines)|2|2|;|Wrognoth Forest (Ash)|16|16|
+Wrognoth Forest (Ash)¦Wrognoth_Forest_(Ash)¦Wrognoth Forest¦|Wrognoth Forest (Vale Grove)|2|7|;|Krennor Wastes (Ash Clouds)|15|14|
+Krennor Wastes (Ash Clouds)¦Krennor_Wastes_(Ash_Clouds)¦Wrognoth Forest¦|Wrognoth Forest (Ash)|3|2|;|Krennor Wastes (Smoke)|14|14|;Portal|Krennor Portal|2|8|;World Area|Wrognoth Forest|13|2|
+Krennor Wastes (Smoke)¦Krennor_Wastes_(Smoke)¦Wrognoth Forest¦|Krennor Wastes (Ash Clouds)|3|2|;|Krennor Wastes (Flames)|21|22|
+Krennor Wastes (Flames)¦Krennor_Wastes_(Flames)¦Wrognoth Forest¦|Krennor Wastes (Smoke)|21|2|;|Krennor Wastes (Ash)|2|19|
+Krennor Wastes (Ash)¦Krennor_Wastes_(Ash)¦Wrognoth Forest¦|Krennor Wastes (Flames)|3|2|;|Krennor Wastes (Haunt)|18|18|
+Krennor Wastes (Haunt)¦Krennor_Wastes_(Haunt)¦Wrognoth Forest¦|Krennor Wastes (Ash)|19|2|;|Krennor Wastes (Lava)|2|17|
+Krennor Wastes (Lava)¦Krennor_Wastes_(Lava)¦Wrognoth Forest¦|Krennor Wastes (Haunt)|2|4|;|Krennor Wastes (Blaze)|18|18|
+Krennor Wastes (Blaze)¦Krennor_Wastes_(Blaze)¦Wrognoth Forest¦|Krennor Wastes (Lava)|15|3|;|Krennor Wastes (Conflagration)|2|14|
+Krennor Wastes (Conflagration)¦Krennor_Wastes_(Conflagration)¦Wrognoth Forest¦|Krennor Wastes (Obsidian)|16|2|;|Krennor Wastes (Blaze)|2|13|;World Area|Wrognoth Forest|13|13|
+Krennor Wastes (Obsidian)¦Krennor_Wastes_(Obsidian)¦Wrognoth Forest¦|Krennor Wastes (Conflagration)|15|2|;|Krennor Wastes (Guard Post)|2|15|
+Krennor Wastes (Guard Post)¦Krennor_Wastes_(Guard_Post)¦Wrognoth Forest¦|Krennor Wastes (Obsidian)|14|2|;|Krennor Wastes (Barracks)|4|16|
+Krennor Wastes (Barracks)¦Krennor_Wastes_(Barracks)¦Wrognoth Forest¦|Krennor Wastes (Guard Post)|15|6|;|Krennor Wastes (Walls)|2|18|;Portal|Krennor (Barracks) Portal|17|16|
+Krennor Wastes (Court)¦Krennor_Wastes_(Court)¦Wrognoth Forest¦|Krennor Wastes (Walls)|9|3|
+Krennor Wastes (Walls)¦Krennor_Wastes_(Walls)¦Wrognoth Forest¦|Krennor Wastes (Barracks)|2|4|;|Krennor Wastes (Court)|15|12|;|Hynok Jungle (Scuttle)|2|14|
+Hynok Jungle (Scuttle)¦Hynok_Jungle_(Scuttle)¦Hynok Jungle¦Relic|Hynok Scorpion Nest|10|11|;|Krennor Wastes (Walls)|16|3|;|Hynok Jungle (Grove)|2|18|;World Area|Hynok Jungle|4|11|
+Hynok Jungle (Grove)¦Hynok_Jungle_(Grove)¦Hynok Jungle¦|Hynok Jungle (Scuttle)|3|1|;|Hynok Jungle (Moon)|15|18|
+Hynok Jungle (Moon)¦Hynok_Jungle_(Moon)¦Hynok Jungle¦|Hynok Jungle (Grove)|13|1|;|Hynok Jungle (Village)|1|14|
+Hynok Jungle (Village)¦Hynok_Jungle_(Village)¦Hynok Jungle¦|Hynok Jungle (Moon)|21|4|;|Hynok Jungle (Range)|5|15|
+Hynok Jungle (Range)¦Hynok_Jungle_(Range)¦Hynok Jungle¦|Hynok Jungle (Village)|5|6|;|Hynok Jungle (Ritual)|15|15|
+Hynok Jungle (Ritual)¦Hynok_Jungle_(Ritual)¦Hynok Jungle¦|Hynok Jungle (Range)|14|2|;|Hynok Jungle (Canopy)|2|10|
+Hynok Jungle (Canopy)¦Hynok_Jungle_(Canopy)¦Hynok Jungle¦|Hynok Jungle (Ritual)|6|3|;|Hynok Jungle (Spine)|18|21|
+Hynok Jungle (Spine)¦Hynok_Jungle_(Spine)¦Hynok Jungle¦|Hynok Jungle (Canopy)|20|5|;|Hynok Jungle (Haunt)|9|22|;World Area|Hynok Jungle|9|12|
+Hynok Jungle (Haunt)¦Hynok_Jungle_(Haunt)¦Hynok Jungle¦|Hynok Jungle (Spine)|13|2|;|Hynok Jungle (Copse)|4|12|;Portal|Hynok Portal|9|10|
+Hynok Jungle (Copse)¦Hynok_Jungle_(Copse)¦Hynok Jungle¦|Hynok Jungle (Haunt)|11|2|;|Hynok Jungle (Clearing)|9|16|
+Hynok Jungle (Clearing)¦Hynok_Jungle_(Clearing)¦Hynok Jungle¦Relic|Hynok Biawak Brood Nest|12|18|;|Hynok Jungle (Copse)|9|5|;|Hynok Jungle (Prowl)|5|19|
+Hynok Jungle (Prowl)¦Hynok_Jungle_(Prowl)¦Hynok Jungle¦|Hynok Jungle (Clearing)|19|2|;|Hynok Jungle (Soar)|2|10|
+Hynok Jungle (Soar)¦Hynok_Jungle_(Soar)¦Hynok Jungle¦|Hynok Jungle (Prowl)|15|4|;|Yelmorr Forest (Gore)|2|16|
+Yelmorr Forest (Gore)¦Yelmorr_Forest_(Gore)¦Hynok Jungle¦|Hynok Jungle (Soar)|3|6|;|Yelmorr Forest (Graves)|18|10|;World Area|Hynok Jungle|9|13|
+Yelmorr Forest (Graves)¦Yelmorr_Forest_(Graves)¦Hynok Jungle¦|Yelmorr Forest (Gore)|3|2|;|Yelmorr Forest (Cemetery)|14|22|
+Yelmorr Forest (Cemetery)¦Yelmorr_Forest_(Cemetery)¦Hynok Jungle¦|Yelmorr Forest (Graves)|17|2|;|Yelmorr Forest (Cairn)|2|17|
+Yelmorr Forest (Cairn)¦Yelmorr_Forest_(Cairn)¦Hynok Jungle¦|Yelmorr Forest (Cemetery)|18|4|;|Yelmorr Forest (Lair)|2|11|
+Yelmorr Forest (Lair)¦Yelmorr_Forest_(Lair)¦Hynok Jungle¦|Yelmorr Forest (Cairn)|19|3|;|Yelmorr Forest (Haunt)|4|14|
+Yelmorr Forest (Haunt)¦Yelmorr_Forest_(Haunt)¦Hynok Jungle¦|Yelmorr Forest (Lair)|19|4|;|Yelmorr Forest (Crag)|5|10|;Portal|Yelmorr Portal|5|4|
+Yelmorr Forest (Crag)¦Yelmorr_Forest_(Crag)¦Hynok Jungle¦|Yelmorr Forest (Haunt)|12|3|;|Yelmorr Forest (Clearing)|27|10|
+Yelmorr Forest (Clearing)¦Yelmorr_Forest_(Clearing)¦Hynok Jungle¦Relic|Ox Statue|11|17|;|Yelmorr Forest (Crag)|12|2|;|Yelmorr Forest (Prowl)|3|23|;World Area|Hynok Jungle|3|4|
+Yelmorr Forest (Prowl)¦Yelmorr_Forest_(Prowl)¦Hynok Jungle¦|Yelmorr Forest (Clearing)|21|10|;|Yelmorr Forest (Pride)|2|18|
+Yelmorr Forest (Pride)¦Yelmorr_Forest_(Pride)¦Hynok Jungle¦|Yelmorr Forest (Prowl)|2|5|;|Yelmorr Forest (Ice)|10|21|
+Yelmorr Forest (Ice)¦Yelmorr_Forest_(Ice)¦Hynok Jungle¦|Yelmorr Forest (Pride)|12|4|;|Yelmorr Forest (Clan Haunt)|5|20|
+Yelmorr Forest (Clan Haunt)¦Yelmorr_Forest_(Clan_Haunt)¦Hynok Jungle¦|Yelmorr Forest (Ice)|2|4|;|Pilradias Coast (Edge)|13|11|;|Yelmorr Forest (Coast)|15|15|
+Yelmorr Forest (Coast)¦Yelmorr_Forest_(Coast)¦Hynok Jungle¦|Yelmorr Forest (Clan Haunt)|6|2|
+Pilradias Coast (Edge)¦Pilradias_Coast_(Edge)¦The Pilradias Coast¦|Yelmorr Forest (Clan Haunt)|3|3|;|Pilradias Coast (Flats)|20|17|;World Area|The Pilradias Coast|3|17|
+Pilradias Coast (Flats)¦Pilradias_Coast_(Flats)¦The Pilradias Coast¦|Pilradias Coast (Edge)|16|6|;|Pilradias Coast (Ice)|3|19|
+Pilradias Coast (Ice)¦Pilradias_Coast_(Ice)¦The Pilradias Coast¦|Pilradias Coast (Flats)|18|6|;|Pilradias Coast (Surge)|2|16|
+Pilradias Coast (Surge)¦Pilradias_Coast_(Surge)¦The Pilradias Coast¦|Pilradias Coast (Ice)|3|3|;|Pilradias Coast (Crust)|17|17|;Portal|Pilradias Portal|16|5|
+Pilradias Coast (Crust)¦Pilradias_Coast_(Crust)¦The Pilradias Coast¦|Pilradias Coast (Surge)|13|2|;|Pilradias Coast (Breach)|2|14|
+Pilradias Coast (Breach)¦Pilradias_Coast_(Breach)¦The Pilradias Coast¦Relic|Pilradias Orca Carcass|18|16|;|Pilradias Coast (Crust)|21|2|;|Pilradias Coast (Thrash)|2|14|
+Pilradias Coast (Thrash)¦Pilradias_Coast_(Thrash)¦The Pilradias Coast¦|Pilradias Coast (Breach)|9|2|;|Pilradias Coast (Pools)|16|21|
+Pilradias Coast (Pools)¦Pilradias_Coast_(Pools)¦The Pilradias Coast¦|Pilradias Coast (Thrash)|2|2|;|Pilradias Coast (Foam)|13|15|
+Pilradias Coast (Foam)¦Pilradias_Coast_(Foam)¦The Pilradias Coast¦|Pilradias Coast (Pools)|2|2|;|Pilradias Coast (Cove)|11|15|;World Area|The Pilradias Coast|12|5|
+Pilradias Coast (Cove)¦Pilradias_Coast_(Cove)¦The Pilradias Coast¦|Pilradias Coast (Foam)|2|4|;|Pilradias Coast (Beach)|15|16|
+Pilradias Coast (Beach)¦Pilradias_Coast_(Beach)¦The Pilradias Coast¦|Pilradias Coast (Cove)|4|2|;|Pilradias Coast (Colony)|17|15|
+Pilradias Coast (Colony)¦Pilradias_Coast_(Colony)¦The Pilradias Coast¦|Pilradias Coast (Beach)|3|2|;|Pilradias Coast (Soar)|13|13|
+Pilradias Coast (Soar)¦Pilradias_Coast_(Soar)¦The Pilradias Coast¦|Pilradias Coast (Colony)|2|3|;|Pilradias Coast (Scuttle)|14|14|
+Pilradias Coast (Scuttle)¦Pilradias_Coast_(Scuttle)¦The Pilradias Coast¦|Pilradias Coast (Soar)|2|2|;|Pilradias Coast (Floe)|15|15|;Portal|Pilradias Coast Portal|6|14|
+Pilradias Coast (Floe)¦Pilradias_Coast_(Floe)¦The Pilradias Coast¦|Pilradias Coast (Scuttle)|29|3|;|Pilradias Coast (Haunt)|2|13|
+Pilradias Coast (Haunt)¦Pilradias_Coast_(Haunt)¦The Pilradias Coast¦Relic|Pilradias Peculiar Altar|12|27|;|Pilradias Coast (Floe)|4|2|;|Organath Coast (Salt)|2|31|
+Organath Coast (Salt)¦Organath_Coast_(Salt)¦The Pilradias Coast¦|Pilradias Coast (Haunt)|21|6|;|Organath Coast (Surge)|2|17|;World Area|The Pilradias Coast|21|21|
+Organath Coast (Surge)¦Organath_Coast_(Surge)¦The Pilradias Coast¦|Organath Coast (Salt)|20|4|;|Organath Coast (Haunt)|2|20|
+Organath Coast (Haunt)¦Organath_Coast_(Haunt)¦The Pilradias Coast¦|Organath Coast (Surge)|19|9|;|Organath Coast (Pools)|2|19|
+Organath Coast (Pools)¦Organath_Coast_(Pools)¦The Pilradias Coast¦|Organath Coast (Haunt)|2|3|;|Organath Coast (Frenzy)|4|18|
+Organath Coast (Frenzy)¦Organath_Coast_(Frenzy)¦The Pilradias Coast¦|Organath Coast (Pools)|17|2|;|Organath Coast (Outskirts)|3|17|
+Organath Coast (Outskirts)¦Organath_Coast_(Outskirts)¦The Pilradias Coast¦|Organath Coast (Frenzy)|2|4|;|Organath Coast (Gates)|15|14|;World Area|The Pilradias Coast|2|16|
+Organath Coast (Gates)¦Organath_Coast_(Gates)¦The Pilradias Coast¦|Organath Coast (Outskirts)|18|2|;|Organath Coast (Outpost)|2|15|
+Organath Coast (Outpost)¦Organath_Coast_(Outpost)¦The Pilradias Coast¦|Organath Coast (Gates)|15|4|;|Organath Coast (Arsenal)|2|12|;Portal|Organath Portal|13|12|
+Organath Coast (Arsenal)¦Organath_Coast_(Arsenal)¦The Pilradias Coast¦|Organath Coast (Outpost)|3|5|;|Ugarak Canyons (Den)|12|10|;|Organath Coast (Lair)|3|18|
+Organath Coast (Lair)¦Organath_Coast_(Lair)¦The Pilradias Coast¦|Organath Coast (Arsenal)|12|2|
+Ugarak Canyons (Den)¦Ugarak_Canyons_(Den)¦The Ugarak Canyons¦Relic|Ugarak Fissure|9|13|;|Organath Coast (Arsenal)|16|2|;|Ugarak Canyons (Crawl)|5|21|;World Area|The Ugarak Canyons|7|6|
+Ugarak Canyons (Crawl)¦Ugarak_Canyons_(Crawl)¦The Ugarak Canyons¦|Ugarak Canyons (Den)|21|3|;|Ugarak Canyons (Slither)|2|13|
+Ugarak Canyons (Slither)¦Ugarak_Canyons_(Slither)¦The Ugarak Canyons¦|Ugarak Canyons (Crawl)|2|2|;|Ugarak Canyons (Valley)|15|10|
+Ugarak Canyons (Valley)¦Ugarak_Canyons_(Valley)¦The Ugarak Canyons¦|Ugarak Canyons (Slither)|20|3|;|Ugarak Canyons (Webs)|3|16|
+Ugarak Canyons (Webs)¦Ugarak_Canyons_(Webs)¦The Ugarak Canyons¦|Ugarak Canyons (Valley)|2|4|;|Ugarak Canyons (Cacti)|15|19|
+Ugarak Canyons (Cacti)¦Ugarak_Canyons_(Cacti)¦The Ugarak Canyons¦|Ugarak Canyons (Webs)|22|6|;|Ugarak Canyons (Scree)|2|16|
+Ugarak Canyons (Scree)¦Ugarak_Canyons_(Scree)¦The Ugarak Canyons¦|Ugarak Canyons (Cacti)|17|3|;|Ugarak Canyons (Shimmer)|2|20|;World Area|The Ugarak Canyons|19|20|
+Ugarak Canyons (Shimmer)¦Ugarak_Canyons_(Shimmer)¦The Ugarak Canyons¦|Ugarak Canyons (Scree)|16|2|;|Ugarak Canyons (Prowl)|9|19|
+Ugarak Canyons (Prowl)¦Ugarak_Canyons_(Prowl)¦The Ugarak Canyons¦|Ugarak Canyons (Shimmer)|14|2|;|Ugarak Canyons (Scrub)|2|22|;Portal|Ugarak Portal|10|15|
+Ugarak Canyons (Scrub)¦Ugarak_Canyons_(Scrub)¦The Ugarak Canyons¦|Ugarak Canyons (Prowl)|2|4|;|Ugarak Canyons (Pride)|22|12|
+Ugarak Canyons (Pride)¦Ugarak_Canyons_(Pride)¦The Ugarak Canyons¦Relic|Ugarak Mummified Remains|6|5|;|Ugarak Canyons (Scrub)|15|2|;|Ugarak Canyons (Rubble)|2|14|
+Ugarak Canyons (Rubble)¦Ugarak_Canyons_(Rubble)¦The Ugarak Canyons¦|Ugarak Canyons (Pride)|3|2|;|Jorkath Desert (Nests)|14|14|
+Jorkath Desert (Nests)¦Jorkath_Desert_(Nests)¦The Ugarak Canyons¦|Ugarak Canyons (Rubble)|3|2|;|Jorkath Desert (Skitter)|14|16|;World Area|The Ugarak Canyons|4|15|
+Jorkath Desert (Skitter)¦Jorkath_Desert_(Skitter)¦The Ugarak Canyons¦|Jorkath Desert (Nests)|2|2|;|Jorkath Desert (Whip)|22|14|
+Jorkath Desert (Whip)¦Jorkath_Desert_(Whip)¦The Ugarak Canyons¦|Jorkath Desert (Skitter)|16|8|;|Jorkath Desert (Soar)|2|22|
+Jorkath Desert (Soar)¦Jorkath_Desert_(Soar)¦The Ugarak Canyons¦|Jorkath Desert (Whip)|22|2|;|Jorkath Desert (Dunes)|5|22|
+Jorkath Desert (Dunes)¦Jorkath_Desert_(Dunes)¦The Ugarak Canyons¦|Jorkath Desert (Soar)|2|5|;|Jorkath Desert (Sands)|28|8|
+Jorkath Desert (Sands)¦Jorkath_Desert_(Sands)¦The Ugarak Canyons¦|Jorkath Desert (Dunes)|15|2|;|Jorkath Desert (Shamble)|4|26|
+Jorkath Desert (Shamble)¦Jorkath_Desert_(Shamble)¦The Ugarak Canyons¦|Jorkath Desert (Sands)|15|2|;|Jorkath Desert (Stone Fields)|2|20|;Portal|Jorkath Portal|2|12|
+Jorkath Desert (Stone Fields)¦Jorkath_Desert_(Stone_Fields)¦The Ugarak Canyons¦|Jorkath Desert (Shamble)|9|2|;|Jorkath Desert (Spike)|2|19|;World Area|The Ugarak Canyons|15|8|
+Jorkath Desert (Spike)¦Jorkath_Desert_(Spike)¦The Ugarak Canyons¦Relic|Jorkath Stoneback Shell|9|13|;|Jorkath Desert (Stone Fields)|5|3|;|Jorkath Desert (Scamper)|19|15|
+Jorkath Desert (Scamper)¦Jorkath_Desert_(Scamper)¦The Ugarak Canyons¦|Jorkath Desert (Spike)|14|2|;|Jorkath Desert (Winds)|2|14|
+Jorkath Desert (Winds)¦Jorkath_Desert_(Winds)¦The Ugarak Canyons¦|Jorkath Desert (Scamper)|2|3|;|Jorkath Desert (Drifts)|15|13|
+Jorkath Desert (Drifts)¦Jorkath_Desert_(Drifts)¦The Ugarak Canyons¦|Jorkath Desert (Winds)|2|5|;|Jorkath Desert (Range)|16|16|
+Jorkath Desert (Court)¦Jorkath_Desert_(Court)¦The Ugarak Canyons¦|Jorkath Desert (Range)|3|2|
+Jorkath Desert (Range)¦Jorkath_Desert_(Range)¦The Ugarak Canyons¦|Jorkath Desert (Drifts)|2|2|;|Jorkath Desert (Court)|16|14|

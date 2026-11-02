@@ -1,0 +1,214 @@
+Lokat Plain (Skitter)¦Lokat_Plain_(Skitter)¦Kethnoir Wood¦|Lokat Plain (Haunt)|13|4|;|Lokat Plain (Bask)|12|15|;World Area|Kethnoir Wood|3|3|
+Lokat Plain (Bask)¦Lokat_Plain_(Bask)¦Kethnoir Wood¦|Lokat Plain (Pasture)|16|7|;|Lokat Plain (Skitter)|4|9|
+Lokat Plain (Pasture)¦Lokat_Plain_(Pasture)¦Kethnoir Wood¦|Lokat Plain (Bask)|4|6|;|Lokat Plain (Quarry)|14|18|
+Lokat Plain (Quarry)¦Lokat_Plain_(Quarry)¦Kethnoir Wood¦|Pellranor Forest (Mound)|14|9|;|Lokat Plain (Pasture)|2|15|;Portal|Lokat Portal|4|7|
+Pellranor Forest (Mound)¦Pellranor_Forest_(Mound)¦Kethnoir Wood¦|Pellranor Forest (Spore Fields)|15|3|;|Lokat Plain (Quarry)|6|9|;World Area|Kethnoir Wood|11|14|
+Pellranor Forest (Spore Fields)¦Pellranor_Forest_(Spore_Fields)¦Kethnoir Wood¦Relic|Gargantuan Spore Cluster|3|8|;|Pellranor Forest (Mound)|10|3|;|Pellranor Forest (Desolation)|6|15|
+Pellranor Forest (Desolation)¦Pellranor_Forest_(Desolation)¦Kethnoir Wood¦|Pellranor Forest (Calamity)|5|7|;|Pellranor Forest (Spore Fields)|10|17|
+Pellranor Forest (Calamity)¦Pellranor_Forest_(Calamity)¦Kethnoir Wood¦|Pellranor Forest (Bleak Grove)|2|2|;|Pellranor Forest (Desolation)|4|13|;|Stages 1-4:|13|10|
+Pellranor Forest (Bleak Grove)¦Pellranor_Forest_(Bleak_Grove)¦Kethnoir Wood¦|Pellranor Forest (Calamity)|16|3|;|Pellranor Forest (Hive)|4|10|;|Stages 5-6:|11|14|
+Pellranor Forest (Hive)¦Pellranor_Forest_(Hive)¦Kethnoir Wood¦|Pellranor Forest (Stalk)|3|9|;|Pellranor Forest (Bleak Grove)|18|13|
+Pellranor Forest (Stalk)¦Pellranor_Forest_(Stalk)¦Kethnoir Wood¦|Kethnoir Wood (Grove)|11|7|;|Pellranor Forest (Hive)|3|17|
+Kethnoir Wood (Grove)¦Kethnoir_Wood_(Grove)¦Kethnoir Wood¦|Pellranor Forest (Stalk)|15|5|;|Kethnoir Wood (Grave)|4|17|;World Area|Kethnoir Wood|3|3|
+Kethnoir Wood (Grave)¦Kethnoir_Wood_(Grave)¦Kethnoir Wood¦|Kethnoir Wood (Grove)|7|7|;|Kethnoir Wood (Barrow)|10|19|
+Kethnoir Wood (Barrow)¦Kethnoir_Wood_(Barrow)¦Kethnoir Wood¦|Kethnoir Wood (Grave)|9|6|;|Kethnoir Wood (Bones)|14|13|;Portal|Kethnoir Portal|3|11|;|Stages 1-3:|17|4|
+Kethnoir Wood (Bones)¦Kethnoir_Wood_(Bones)¦Kethnoir Wood¦|Kethnoir Wood (Barrow)|7|8|;|Kethnoir Wood (Shriek)|14|13|
+Kethnoir Wood (Shriek)¦Kethnoir_Wood_(Shriek)¦Kethnoir Wood¦Relic|Shriek Owl Nest|4|14|;|Kethnoir Wood (Mist)|3|3|;|Kethnoir Wood (Bones)|15|14|
+Kethnoir Wood (Mist)¦Kethnoir_Wood_(Mist)¦Kethnoir Wood¦|Kethnoir Wood (Shriek)|2|3|;|Kethnoir Wood (Tangle)|15|10|
+Kethnoir Wood (Tangle)¦Kethnoir_Wood_(Tangle)¦Kethnoir Wood¦|Kethnoir Wood (Mist)|8|8|;|Kethnoir Wood (Horror)|2|16|
+Kethnoir Wood (Horror)¦Kethnoir_Wood_(Horror)¦Kethnoir Wood¦|Kethnoir Wood (Shadow)|16|9|;|Kethnoir Wood (Tangle)|2|11|
+Kethnoir Wood (Shadow)¦Kethnoir_Wood_(Shadow)¦Kethnoir Wood¦|Kethnoir Wood (Horror)|13|3|;|Kethnoir Wood (River)|6|20|;World Area|Kethnoir Wood|4|10|
+Kethnoir Wood (River)¦Kethnoir_Wood_(River)¦Kethnoir Wood¦|Kethnoir Wood (Shadow)|6|5|;|Kethnoir Wood (Graze)|13|8|
+Kethnoir Wood (Graze)¦Kethnoir_Wood_(Graze)¦Kethnoir Wood¦|Kethnoir Wood (Haunt)|3|3|;|Kethnoir Wood (River)|8|12|
+Kethnoir Wood (Haunt)¦Kethnoir_Wood_(Haunt)¦Kethnoir Wood¦|Kethnoir Wood (Enclave)|9|4|;|Kethnoir Wood (Graze)|6|15|
+Kethnoir Wood (Enclave)¦Kethnoir_Wood_(Enclave)¦Kethnoir Wood¦|Kethnoir Wood (Haunt)|14|3|;|Kethnoir Wood (Holy Clearing)|7|12|;Portal|Kethnoir Wood Portal|3|6|;|Stages 4-5:|15|14|
+Kethnoir Wood (High Priests Quarters)¦Kethnoir_Wood_(High_Priests_Quarters)¦Kethnoir Wood¦|Kethnoir Wood (Holy Clearing)|9|9|
+Kethnoir Wood (Holy Clearing)¦Kethnoir_Wood_(Holy_Clearing)¦Kethnoir Wood¦|Kethnoir Wood (Enclave)|3|7|;|Kethnoir Wood (Edge)|9|11|;|Kethnoir Wood (High Priests Quarters)|14|14|;|Stages 6-7:|16|2|
+Kethnoir Wood (Edge)¦Kethnoir_Wood_(Edge)¦Salarath Forest¦Relic|Kethnoir Gnat Hive|16|3|;|Salarath Forest (Hive)|8|5|;|Kethnoir Wood (Holy Clearing)|5|12|;World Area|Salarath Forest|17|14|
+Salarath Forest (Hive)¦Salarath_Forest_(Hive)¦Salarath Forest¦|Kethnoir Wood (Edge)|5|2|;|Salarath Forest (Slick)|6|15|
+Salarath Forest (Slick)¦Salarath_Forest_(Slick)¦Salarath Forest¦|Salarath Forest (Hive)|10|8|;|Salarath Forest (Tremor)|8|15|
+Salarath Forest (Tremor)¦Salarath_Forest_(Tremor)¦Salarath Forest¦|Salarath Forest (Slither)|4|4|;|Salarath Forest (Slick)|18|13|
+Salarath Forest (Slither)¦Salarath_Forest_(Slither)¦Salarath Forest¦|Salarath Forest (Tremor)|3|8|;|Salarath Forest (Dark)|14|10|
+Salarath Forest (Dark)¦Salarath_Forest_(Dark)¦Salarath Forest¦|Salarath Forest (Coven)|3|4|;|Salarath Forest (Slither)|11|13|
+Salarath Forest (Coven)¦Salarath_Forest_(Coven)¦Salarath Forest¦|Salarath Forest (Slime)|6|9|;|Salarath Forest (Dark)|17|17|;World Area|Salarath Forest|3|3|
+Salarath Forest (Slime)¦Salarath_Forest_(Slime)¦Salarath Forest¦|Salarath Forest (Coven)|13|3|;|Salarath Forest (Skitter)|10|15|
+Salarath Forest (Skitter)¦Salarath_Forest_(Skitter)¦Salarath Forest¦|Salarath Forest (Copse)|7|5|;|Salarath Forest (Slime)|3|15|;Portal|Salarath Portal|12|10|
+Salarath Forest (Copse)¦Salarath_Forest_(Copse)¦Salarath Forest¦|Salarath Forest (Skitter)|12|5|;|Salarath Forest (Grove)|5|14|
+Salarath Forest (Grove)¦Salarath_Forest_(Grove)¦Salarath Forest¦Relic|Salarath Gator Corpse|15|6|;|Salarath Forest (Sting)|4|4|;|Salarath Forest (Copse)|2|16|
+Salarath Forest (Sting)¦Salarath_Forest_(Sting)¦Salarath Forest¦|Salarath Forest (Grove)|8|3|;|Salarath Forest (Nest)|3|15|
+Salarath Forest (Nest)¦Salarath_Forest_(Nest)¦Salarath Forest¦|Salarath Forest (Drop)|14|5|;|Salarath Forest (Sting)|3|7|;World Area|Salarath Forest|13|14|
+Salarath Forest (Drop)¦Salarath_Forest_(Drop)¦Salarath Forest¦|Salarath Forest (Nest)|5|5|;|Salarath Forest (Gully)|8|16|
+Salarath Forest (Gully)¦Salarath_Forest_(Gully)¦Salarath Forest¦|Salarath Forest (Lair)|3|3|;|Salarath Forest (Drop)|12|9|
+Salarath Forest (Lair)¦Salarath_Forest_(Lair)¦Salarath Forest¦|Salarath Forest (Gully)|7|3|;|Salarath Forest (Bane Copse)|4|17|
+Salarath Forest (Bane Copse)¦Salarath_Forest_(Bane_Copse)¦Salarath Forest¦|Salarath Forest (Lair)|14|3|;|Salarath Forest (Darkness)|10|14|
+Salarath Forest (Darkness)¦Salarath_Forest_(Darkness)¦Salarath Forest¦|Salarath Forest (Bane Copse)|2|4|;|Salarath Forest (Willow Grove)|12|7|
+Salarath Forest (Willow Grove)¦Salarath_Forest_(Willow_Grove)¦Salarath Forest¦|Thaengol Woods (Fae Clearing)|7|5|;|Salarath Forest (Darkness)|17|13|;Portal|Salarath Portal 2|5|11|
+Thaengol Woods (Fae Clearing)¦Thaengol_Woods_(Fae_Clearing)¦Salarath Forest¦|Salarath Forest (Willow Grove)|16|2|;|Thaengol Woods (Thicket of the Moon)|1|5|;World Area|Salarath Forest|12|8|
+Thaengol Woods (Thicket of the Moon)¦Thaengol_Woods_(Thicket_of_the_Moon)¦Salarath Forest¦Relic|Thaengol Moon Altar|2|7|;|Thaengol Woods (Fae Clearing)|14|4|;|Thaengol Woods (Orchard)|4|19|
+Thaengol Woods (Orchard)¦Thaengol_Woods_(Orchard)¦Salarath Forest¦|Thaengol Woods (Thicket of the Moon)|5|3|;|Thaengol Woods (Magical Ground)|16|11|
+Thaengol Woods (Magical Ground)¦Thaengol_Woods_(Magical_Ground)¦Salarath Forest¦|Thaengol Woods (Swarm)|12|4|;|Thaengol Woods (Orchard)|12|14|
+Thaengol Woods (Swarm)¦Thaengol_Woods_(Swarm)¦Salarath Forest¦|Thaengol Woods (Warrior Clearing)|14|3|;|Thaengol Woods (Magical Ground)|12|19|
+Drakefall Chasm (Core)¦Drakefall_Chasm_(Core)¦Krul Island¦|Drakefall Chasm (Pits)|11|15|
+Drakefall Chasm (Maw)¦Drakefall_Chasm_(Maw)¦Krul Island¦|Drakefall Chasm (Pits)|6|4|;|Cathedral of Ways (Sacristy)|9|8|;|Stages 1-2:|14|6|
+Drakefall Chasm (Pits)¦Drakefall_Chasm_(Pits)¦Krul Island¦|Drakefall Chasm (Maw)|10|4|;|Drakefall Chasm (Core)|5|13|
+Thaengol Woods (Audience Chamber)¦Thaengol_Woods_(Audience_Chamber)¦Salarath Forest¦|Thaengol Woods (Warrior Clearing)|6|1|
+Thaengol Woods (Warrior Clearing)¦Thaengol_Woods_(Warrior_Clearing)¦Salarath Forest¦|Thaengol Woods (Swarm)|4|5|;|Thaengol Woods (Audience Chamber)|16|10|;|Thaengol Forest (Bloom)|10|15|
+Thaengol Forest (Bloom)¦Thaengol_Forest_(Bloom)¦Rotarian Forest¦|Thaengol Woods (Warrior Clearing)|10|11|;|Thaengol Forest (Vorgid Nursery)|15|16|;World Area|Rotarian Forest|13|2|
+Thaengol Forest (Vorgid Nursery)¦Thaengol_Forest_(Vorgid_Nursery)¦Rotarian Forest¦|Thaengol Forest (Bloom)|9|2|;|Thaengol Forest (Thorns)|13|18|
+Thaengol Forest (Thorns)¦Thaengol_Forest_(Thorns)¦Rotarian Forest¦|Thaengol Forest (Trap)|10|1|;|Thaengol Forest (Vorgid Nursery)|1|13|
+Thaengol Forest (Trap)¦Thaengol_Forest_(Trap)¦Rotarian Forest¦|Thaengol Forest (Clearing)|2|2|;|Thaengol Forest (Thorns)|12|15|;Portal|Thaengol Portal|16|3|
+Thaengol Forest (Clearing)¦Thaengol_Forest_(Clearing)¦Rotarian Forest¦|Thaengol Forest (Trap)|15|3|;|Thaengol Forest (Aerie)|8|7|
+Thaengol Forest (Aerie)¦Thaengol_Forest_(Aerie)¦Rotarian Forest¦Relic|Thaengol Eagle Nest|12|16|;|Thaengol Forest (Thicket)|14|2|;|Thaengol Forest (Clearing)|2|17|
+Thaengol Forest (Thicket)¦Thaengol_Forest_(Thicket)¦Rotarian Forest¦|Maharoth Forest (Edge)|16|2|;|Thaengol Forest (Aerie)|9|14|
+Maharoth Forest (Edge)¦Maharoth_Forest_(Edge)¦Rotarian Forest¦|Thaengol Forest (Thicket)|8|4|;|Maharoth Forest (Copse)|4|17|;World Area|Rotarian Forest|11|19|
+Maharoth Forest (Copse)¦Maharoth_Forest_(Copse)¦Rotarian Forest¦|Maharoth Forest (Edge)|4|2|;|Maharoth Forest (Grove)|16|11|
+Maharoth Forest (Grove)¦Maharoth_Forest_(Grove)¦Rotarian Forest¦|Rotarian Forest (Edge)|5|3|;|Maharoth Forest (Copse)|12|11|
+Rotarian Forest (Edge)¦Rotarian_Forest_(Edge)¦Rotarian Forest¦|Maharoth Forest (Grove)|14|4|;|Rotarian Forest (Haunt)|2|11|
+Rotarian Forest (Haunt)¦Rotarian_Forest_(Haunt)¦Rotarian Forest¦|Rotarian Forest (Grave)|13|4|;|Rotarian Forest (Edge)|4|9|
+Rotarian Forest (Grave)¦Rotarian_Forest_(Grave)¦Rotarian Forest¦|Rotarian Forest (Haunt)|6|3|;|Rotarian Forest (Barrow)|9|12|;World Area|Rotarian Forest|3|14|
+Rotarian Forest (Barrow)¦Rotarian_Forest_(Barrow)¦Rotarian Forest¦|Rotarian Forest (Copse)|14|3|;|Rotarian Forest (Grave)|6|13|;Portal|Rotarian Portal|5|6|
+Rotarian Forest (Copse)¦Rotarian_Forest_(Copse)¦Rotarian Forest¦|Rotarian Forest (Barrow)|3|3|;|Rotarian Forest (Graze)|16|15|
+Rotarian Forest (Graze)¦Rotarian_Forest_(Graze)¦Rotarian Forest¦Relic|Lost Muskox Calf|9|15|;|Rotarian Forest (Prowl)|13|3|;|Rotarian Forest (Copse)|4|11|
+Rotarian Forest (Prowl)¦Rotarian_Forest_(Prowl)¦Rotarian Forest¦|Rotarian Forest (Graze)|15|2|;|Rotarian Canyon (Strike)|9|13|
+Rotarian Canyon (Strike)¦Rotarian_Canyon_(Strike)¦Rotarian Forest¦|Rotarian Forest (Prowl)|7|4|;|Rotarian Canyon (Scree)|13|14|;World Area|Rotarian Forest|16|7|
+Rotarian Canyon (Scree)¦Rotarian_Canyon_(Scree)¦Rotarian Forest¦|Rotarian Canyon (Strike)|3|2|;|Rotarian Canyon (Edge)|18|5|
+Rotarian Canyon (Edge)¦Rotarian_Canyon_(Edge)¦Rotarian Forest¦|Rotarian Canyon (Stalk)|16|5|;|Rotarian Canyon (Scree)|2|13|
+Rotarian Canyon (Stalk)¦Rotarian_Canyon_(Stalk)¦Rotarian Forest¦|Rotarian Canyon (Nest)|3|6|;|Rotarian Canyon (Edge)|13|19|
+Rotarian Canyon (Nest)¦Rotarian_Canyon_(Nest)¦Rotarian Forest¦|Rotarian Canyon (Hunt)|2|1|;|Rotarian Canyon (Stalk)|13|12|
+Rotarian Canyon (Hunt)¦Rotarian_Canyon_(Hunt)¦Rotarian Forest¦|Rotarian Canyon (Pride Land)|16|3|;|Rotarian Canyon (Nest)|3|15|
+Rotarian Canyon (Pride Land)¦Rotarian_Canyon_(Pride_Land)¦Rotarian Forest¦|Rotarian Canyon (Crevasse)|13|2|;|Rotarian Canyon (Hunt)|2|8|;Portal|Rotarian Canyon Portal|5|15|
+Rotarian Canyon (Crevasse)¦Rotarian_Canyon_(Crevasse)¦Rotarian Forest¦|Rotarian Canyon (Lair)|2|6|;|Rotarian Canyon (Haunt)|17|12|;|Rotarian Canyon (Pride Land)|15|15|
+Rotarian Canyon (Lair)¦Rotarian_Canyon_(Lair)¦Rotarian Forest¦|Rotarian Canyon (Crevasse)|13|11|
+Rotarian Canyon (Haunt)¦Rotarian_Canyon_(Haunt)¦Rotarian Forest¦Relic|Giant Black Slogath Skull|11|4|;|Rotarian Canyon (Crevasse)|1|13|;|Kellran Flats (Scrub)|13|17|
+Kellran Flats (Scrub)¦Kellran_Flats_(Scrub)¦Kellran Coast¦|Rotarian Canyon (Haunt)|13|2|;|Kellran Flats (Freeze)|2|17|;World Area|Kellran Coast|12|11|
+Kellran Flats (Freeze)¦Kellran_Flats_(Freeze)¦Kellran Coast¦|Kellran Flats (Scrub)|9|2|;|Kellran Flats (Prey)|5|15|
+Kellran Flats (Prey)¦Kellran_Flats_(Prey)¦Kellran Coast¦|Kellran Flats (Freeze)|3|4|;|Kellran Flats (Hunt)|13|8|
+Kellran Flats (Hunt)¦Kellran_Flats_(Hunt)¦Kellran Coast¦|Kellran Flats (Prey)|5|4|;|Kellran Flats (Snowfall)|8|17|
+Kellran Flats (Snowfall)¦Kellran_Flats_(Snowfall)¦Kellran Coast¦|Kellran Flats (Hunt)|4|2|;|Kellran Flats (Plain)|15|15|
+Kellran Flats (Plain)¦Kellran_Flats_(Plain)¦Kellran Coast¦|Kellran Flats (Snowfall)|1|6|;|Kellran Flats (Blizzard)|12|10|
+Kellran Flats (Blizzard)¦Kellran_Flats_(Blizzard)¦Kellran Coast¦|Kellran Flats (Plain)|15|3|;|Kellran Coast (Edge)|1|8|
+Kellran Coast (Edge)¦Kellran_Coast_(Edge)¦Kellran Coast¦|Kellran Flats (Blizzard)|15|9|;|Kellran Coast (Surf)|2|14|;Portal|Kellran Coast Portal|4|7|;World Area|Kellran Coast|10|13|
+Kellran Coast (Surf)¦Kellran_Coast_(Surf)¦Kellran Coast¦|Kellran Coast (Edge)|14|3|;|Kellran Coast (Assault)|11|13|
+Kellran Coast (Assault)¦Kellran_Coast_(Assault)¦Kellran Coast¦Relic|Inert Ice Man|2|13|;|Kellran Coast (Haunt)|14|4|;|Kellran Coast (Surf)|10|11|
+Kellran Coast (Haunt)¦Kellran_Coast_(Haunt)¦Kellran Coast¦|Kellran Coast (Assault)|3|2|;|Kellran Coast (Grave)|14|9|
+Kellran Coast (Grave)¦Kellran_Coast_(Grave)¦Kellran Coast¦|Kellran Coast (Haunt)|11|8|;|Kellran Coast (Surge)|17|17|
+Kellran Coast (Surge)¦Kellran_Coast_(Surge)¦Kellran Coast¦|Kellran Coast (Grave)|15|5|;|Kellran Coast (Soar)|4|15|
+Kellran Coast (Soar)¦Kellran_Coast_(Soar)¦Kellran Coast¦|Kellran Coast (Iceberg)|13|5|;|Kellran Coast (Surge)|10|13|;World Area|Kellran Coast|3|3|
+Kellran Coast (Iceberg)¦Kellran_Coast_(Iceberg)¦Kellran Coast¦|Kellran Coast (Soar)|7|7|;|Kellran Coast (Cracks)|12|15|
+Kellran Coast (Cracks)¦Kellran_Coast_(Cracks)¦Kellran Coast¦|Kellran Coast (Grasp)|3|3|;|Kellran Coast (Iceberg)|5|15|
+Kellran Coast (Grasp)¦Kellran_Coast_(Grasp)¦Kellran Coast¦|Kellran Coast (Predator)|14|3|;|Kellran Coast (Cracks)|9|13|
+Kellran Coast (Predator)¦Kellran_Coast_(Predator)¦Kellran Coast¦|Kellran Coast (Grasp)|11|8|;|Kellran Coast (Prey)|7|15|;Portal|Kellran Coast Portal 2|9|3|
+Kellran Coast (Prey)¦Kellran_Coast_(Prey)¦Kellran Coast¦|Kellran Coast (Predator)|12|3|;|Kaindarite Catacombs (Slime)|3|9|
+Kaindarite Catacombs (Slime)¦Kaindarite_Catacombs_(Slime)¦Kellran Coast¦Relic|Altar to the Beast|12|12|;|Kaindarite Catacombs (Roots)|3|3|;|Kellran Coast (Prey)|14|19|;World Area|Kellran Coast|4|16|
+Kaindarite Catacombs (Roots)¦Kaindarite_Catacombs_(Roots)¦Kellran Coast¦|Kaindarite Catacombs (Slime)|16|8|;|Kaindarite Catacombs (Tunnels)|1|12|
+Kaindarite Catacombs (Tunnels)¦Kaindarite_Catacombs_(Tunnels)¦Kellran Coast¦|Kaindarite Catacombs (Furnace)|3|2|;|Kaindarite Catacombs (Roots)|14|6|
+Kaindarite Catacombs (Furnace)¦Kaindarite_Catacombs_(Furnace)¦Kellran Coast¦|Kaindarite Catacombs (Darkness)|10|3|;|Kaindarite Catacombs (Tunnels)|10|17|
+Kaindarite Catacombs (Center)¦Kaindarite_Catacombs_(Center)¦Kellran Coast¦|Kaindarite Catacombs (Darkness)|2|13|
+Kaindarite Catacombs (Darkness)¦Kaindarite_Catacombs_(Darkness)¦Kellran Coast¦|Kaindarite Catacombs (Center)|3|3|;|Kaindarite Catacombs (Armory)|13|3|;|Kaindarite Catacombs (Furnace)|11|13|
+Kaindarite Catacombs (Armory)¦Kaindarite_Catacombs_(Armory)¦Peridon City¦|Kaindarite Catacombs (Darkness)|13|3|;|Kaindarite Catacombs (Dust)|1|14|;World Area|Peridon City|14|11|
+Kaindarite Catacombs (Dust)¦Kaindarite_Catacombs_(Dust)¦Peridon City¦|Peridon City (Gate)|6|4|;|Kaindarite Catacombs (Armory)|17|12|
+Peridon City (Gate)¦Peridon_City_(Gate)¦Peridon City¦|Peridon City (Alleys)|2|3|;|Kaindarite Catacombs (Dust)|14|9|;World Area|Peridon City|2|17|
+Peridon City (Alleys)¦Peridon_City_(Alleys)¦Peridon City¦|Peridon City (Streets)|11|2|;|Peridon City (Gate)|19|15|;Portal|Peridon City Portal|12|15|
+Peridon City (Streets)¦Peridon_City_(Streets)¦Peridon City¦|Peridon City (Outskirts)|15|5|;|Peridon City (Alleys)|8|16|
+Peridon City (Outskirts)¦Peridon_City_(Outskirts)¦Peridon City¦Relic|Peddlers Fruit Stall|14|3|;|Peridon City (Streets)|2|8|;|Peridon City (Merchants Quarter)|17|9|
+Peridon City (Merchants Quarter)¦Peridon_City_(Merchants_Quarter)¦Peridon City¦|Peridon Sewer (Murk)|3|5|;|Peridon City (Outskirts)|16|13|
+Peridon Sewer (Murk)¦Peridon_Sewer_(Murk)¦Peridon City¦|Peridon City (Merchants Quarter)|6|3|;|Peridon Sewer (Dwellings)|9|16|
+Peridon Sewer (Dwellings)¦Peridon_Sewer_(Dwellings)¦Peridon City¦|Peridon Sewer (Murk)|12|3|;|Peridon Sewer (Sump)|2|14|;World Area|Peridon City|14|9|
+Peridon Sewer (Sump)¦Peridon_Sewer_(Sump)¦Peridon City¦|Peridon Sewer (Dwellings)|14|5|;|Peridon Sewer (Lurk)|2|11|
+Peridon Sewer (Lurk)¦Peridon_Sewer_(Lurk)¦Peridon City¦|Peridon Sewer (Sump)|15|6|;|Peridon Sewer (Nest)|2|14|
+Peridon Sewer (Nest)¦Peridon_Sewer_(Nest)¦Peridon City¦|Peridon Sewer (Lurk)|11|4|;|Peridon Sewer (Stalk)|14|17|
+Peridon Sewer (Stalk)¦Peridon_Sewer_(Stalk)¦Peridon City¦|Peridon Sewer (Nest)|2|4|;|Peridon Sewer (Wretch)|14|15|
+Peridon Sewer (Wretch)¦Peridon_Sewer_(Wretch)¦Peridon City¦|Peridon Sewer (Horror)|14|4|;|Peridon Sewer (Stalk)|5|7|;Portal|Peridon Sewer Portal|14|16|
+Peridon Sewer (Horror)¦Peridon_Sewer_(Horror)¦Peridon City¦|Peridon Sewer (Wretch)|2|6|;|Peridon Sewer (Scuttle)|16|14|
+Peridon Sewer (Scuttle)¦Peridon_Sewer_(Scuttle)¦Peridon City¦Relic|Crawler Nest|3|3|;|Peridon Sewer (Horror)|3|2|;|Peridon Sewer (Corral)|16|15|
+Peridon Sewer (Corral)¦Peridon_Sewer_(Corral)¦Peridon City¦|Peridon Sewer (Mage Site)|12|2|;|Peridon Sewer (Scuttle)|2|10|
+Peridon Sewer (Mage Site)¦Peridon_Sewer_(Mage_Site)¦Peridon City¦|Peridon Sewer (Corral)|10|2|;|Peridon City (Market)|8|15|
+Peridon City (Market)¦Peridon_City_(Market)¦Peridon City¦|Peridon Sewer (Mage Site)|5|5|;|Peridon City (Wreck)|2|17|;World Area|Peridon City|14|3|
+Peridon City (Wreck)¦Peridon_City_(Wreck)¦Peridon City¦|Peridon City (Market)|8|2|;|Peridon City (Suburbs)|15|14|
+Peridon City (Suburbs)¦Peridon_City_(Suburbs)¦Peridon City¦|Peridon City (Royal Barracks)|4|2|;|Peridon City (Wreck)|14|14|
+Peridon City (Royal Barracks)¦Peridon_City_(Royal_Barracks)¦Peridon City¦|Peridon City (Stables)|2|3|;|Peridon City (Suburbs)|12|19|
+Peridon City (Stables)¦Peridon_City_(Stables)¦Peridon City¦|Peridon City (Royal Barracks)|15|9|;|Peridon City (Riot)|2|10|
+Peridon City (Riot)¦Peridon_City_(Riot)¦Peridon City¦|Peridon City (Stables)|15|3|;|Peridon City (High Quarter)|14|15|;Portal|Peridon City Portal|6|4|
+Peridon City (Fountain)¦Peridon_City_(Fountain)¦Peridon City¦|Peridon City (High Quarter)|4|13|
+Peridon City (High Quarter)¦Peridon_City_(High_Quarter)¦Peridon City¦|Peridon City (Fountain)|3|2|;|Peridon City (Labour Camp)|11|5|;|Peridon City (Riot)|15|9|
+Peridon City (Labour Camp)¦Peridon_City_(Labour_Camp)¦Peridon City¦Relic|Ogre Work Bench|3|4|;|Peridon City (High Quarter)|15|2|;|Peridon City (Edge)|7|15|
+Peridon City (Edge)¦Peridon_City_(Edge)¦Peridon City¦|Peridon City (Labour Camp)|16|4|;|Mordont Plains (Scrub)|6|14|
+Mordont Plains (Scrub)¦Mordont_Plains_(Scrub)¦Mordant Regions¦|Peridon City (Edge)|9|4|;|Mordont Plains (Quarry)|13|18|;World Area|Mordant Regions|5|14|
+Mordont Plains (Quarry)¦Mordont_Plains_(Quarry)¦Mordant Regions¦|Mordont Plains (Scrub)|6|4|;|Mordont Plains (Rocks)|16|13|
+Mordont Plains (Rocks)¦Mordont_Plains_(Rocks)¦Mordant Regions¦|Mordont Plains (Caves)|15|3|;|Mordont Plains (Quarry)|6|12|
+Mordont Plains (Caves)¦Mordont_Plains_(Caves)¦Mordant Regions¦|Mordont Plains (Prowl)|3|3|;|Mordont Plains (Rocks)|17|7|
+Mordont Plains (Prowl)¦Mordont_Plains_(Prowl)¦Mordant Regions¦|Mordont Plains (Caves)|12|11|;|Mordont Plains (Haunt)|3|15|
+Mordont Plains (Haunt)¦Mordont_Plains_(Haunt)¦Mordant Regions¦|Mordont Fire Wastes (Edge)|7|6|;|Mordont Plains (Prowl)|14|15|
+Mordont Fire Wastes (Edge)¦Mordont_Fire_Wastes_(Edge)¦Mordant Regions¦|Mordont Plains (Haunt)|13|3|;|Mordont Fire Wastes (Sting)|4|12|;Portal|Mordont Portal|7|6|;World Area|Mordant Regions|11|14|;|Stages 1-2:|2|4|
+Mordont Fire Wastes (Sting)¦Mordont_Fire_Wastes_(Sting)¦Mordant Regions¦|Mordont Fire Wastes (Colony)|6|4|;|Mordont Fire Wastes (Edge)|11|15|
+Mordont Fire Wastes (Colony)¦Mordont_Fire_Wastes_(Colony)¦Mordant Regions¦Relic|Giant Ant Carcass|12|3|;|Mordont Fire Wastes (Sting)|14|8|;|Mordont Fire Wastes (Flats)|4|11|
+Mordont Fire Wastes (Flats)¦Mordont_Fire_Wastes_(Flats)¦Mordant Regions¦|Mordont Fire Wastes (Colony)|4|3|;|Mordont Fire Wastes (Hive)|16|9|
+Mordont Fire Wastes (Hive)¦Mordont_Fire_Wastes_(Hive)¦Mordant Regions¦|Mordont Fire Wastes (Flats)|14|2|;|Mordont Fire Wastes (Soar)|5|11|
+Mordont Fire Wastes (Soar)¦Mordont_Fire_Wastes_(Soar)¦Mordant Regions¦|Mordont Fire Wastes (Blast)|2|5|;|Mordont Fire Wastes (Hive)|16|15|
+Mordont Fire Wastes (Blast)¦Mordont_Fire_Wastes_(Blast)¦Mordant Regions¦|Mordont Fire Wastes (Soar)|17|8|;|Mordont Magma Plains (Webs)|5|17|;|Stages 3-4:|3|3|
+Mordont Magma Plains (Webs)¦Mordont_Magma_Plains_(Webs)¦Mordant Regions¦|Mordont Fire Wastes (Blast)|13|3|;|Mordont Magma Plains (Crazed)|11|14|;World Area|Mordant Regions|3|4|
+Mordont Magma Plains (Crazed)¦Mordont_Magma_Plains_(Crazed)¦Mordant Regions¦|Mordont Magma Plains (Webs)|5|2|;|Mordont Magma Plains (Sprite Haunt)|10|14|
+Mordont Magma Plains (Sprite Haunt)¦Mordont_Magma_Plains_(Sprite_Haunt)¦Mordant Regions¦|Mordont Magma Plains (Crazed)|13|3|;|Mordont Magma Plains (Pride)|7|13|
+Mordont Magma Plains (Pride)¦Mordont_Magma_Plains_(Pride)¦Mordant Regions¦|Mordont Magma Plains (Sprite Haunt)|3|5|;|Mordont Magma Plains (Stalk)|15|10|;Portal|Mordont Magma Portal|5|12|
+Mordont Magma Plains (Stalk)¦Mordont_Magma_Plains_(Stalk)¦Mordant Regions¦|Mordont Magma Plains (Pride)|15|2|;|Mordont Magma Plains (Magma Vents)|3|13|
+Mordont Magma Plains (Magma Vents)¦Mordont_Magma_Plains_(Magma_Vents)¦Mordant Regions¦Relic|Steam Vent|10|4|;|Mordont Magma Plains (Stalk)|3|3|;|Mordont Magma Plains (Heights)|9|14|
+Mordont Magma Plains (Heights)¦Mordont_Magma_Plains_(Heights)¦Mordant Regions¦|Mordont Magma Plains (Magma Vents)|10|4|;|Mordont Fortress (Gate)|8|15|
+Mordont Fortress (Gate)¦Mordont_Fortress_(Gate)¦Mordant Regions¦|Mordont Fortress (Courtyard)|11|4|;|Mordont Magma Plains (Heights)|9|13|;World Area|Mordant Regions|1|2|;|Stage 5:|16|8|
+Mordont Fortress (Courtyard)¦Mordont_Fortress_(Courtyard)¦Mordant Regions¦|Mordont Fortress (Gate)|1|4|;|Mordont Fortress (Spite)|15|16|
+Mordont Fortress (Spite)¦Mordont_Fortress_(Spite)¦Mordant Regions¦|Mordont Fortress (Courtyard)|12|2|;|Mordont Fortress (Throne Room)|2|12|;|Mordont Fortress (Depths)|15|14|
+Mordont Fortress (Throne Room)¦Mordont_Fortress_(Throne_Room)¦Mordant Regions¦|Mordont Fortress (Spite)|11|7|;|Stages 6-7:|10|7|
+Mordont Fortress (Depths)¦Mordont_Fortress_(Depths)¦Mordant Regions¦|Galraq Caves (Boneyard)|4|3|;|Mordont Fortress (Spite)|14|12|
+Galraq Caves (Boneyard)¦Galraq_Caves_(Boneyard)¦Galraq Underground¦|Mordont Fortress (Depths)|15|6|;|Galraq Caves (Barrow)|4|9|;World Area|Galraq Underground|3|3|;|Stages 1-2:|14|14|
+Galraq Caves (Barrow)¦Galraq_Caves_(Barrow)¦Galraq Underground¦|Galraq Caves (Boneyard)|2|4|;|Galraq Caves (Haunt)|14|11|
+Galraq Caves (Haunt)¦Galraq_Caves_(Haunt)¦Galraq Underground¦|Galraq Caves (Scuttle)|11|3|;|Galraq Caves (Barrow)|9|13|;Portal|Galraq Caves Portal|3|10|;|Stages 3-5:|6|5|
+Galraq Caves (Scuttle)¦Galraq_Caves_(Scuttle)¦Galraq Underground¦|Galraq Caves (Spook)|3|7|;|Galraq Caves (Haunt)|15|11|
+Galraq Caves (Spook)¦Galraq_Caves_(Spook)¦Galraq Underground¦Relic|Disturbed Barrow|4|11|;|Galraq Caves (Creep)|12|3|;|Galraq Caves (Scuttle)|7|19|
+Galraq Caves (Creep)¦Galraq_Caves_(Creep)¦Galraq Underground¦|Galraq Caves (Spook)|3|3|;|Galraq Caves (Stalk)|10|12|
+Galraq Caves (Stalk)¦Galraq_Caves_(Stalk)¦Galraq Underground¦|Galraq Caves (Crawl)|12|3|;|Galraq Caves (Creep)|9|18|
+Galraq Caves (Crawl)¦Galraq_Caves_(Crawl)¦Galraq Underground¦|Galraq Caves (Slither)|3|3|;|Galraq Caves (Stalk)|13|8|
+Galraq Caves (Slither)¦Galraq_Caves_(Slither)¦Galraq Underground¦|Galraq Burrow (Nursery)|7|6|;|Galraq Caves (Crawl)|11|16|
+Galraq Burrow (Nursery)¦Galraq_Burrow_(Nursery)¦Galraq Underground¦|Galraq Burrow (Guard Hollow)|12|3|;|Galraq Caves (Slither)|4|10|;World Area|Galraq Underground|10|13|
+Galraq Burrow (Guard Hollow)¦Galraq_Burrow_(Guard_Hollow)¦Galraq Underground¦|Galraq Burrow (Sparring Pits)|12|3|;|Galraq Burrow (Nursery)|3|10|
+Galraq Burrow (Sparring Pits)¦Galraq_Burrow_(Sparring_Pits)¦Galraq Underground¦|Galraq Burrow (Royal Burrow)|3|3|;|Galraq Burrow (Guard Hollow)|12|18|
+Galraq Burrow (Royal Burrow)¦Galraq_Burrow_(Royal_Burrow)¦Galraq Underground¦|Galraq Burrow (Sparring Pits)|12|3|;|Galraq Burrow (Barracks)|6|12|;Portal|Galraq Burrow Portal|16|12|
+Galraq Burrow (Barracks)¦Galraq_Burrow_(Barracks)¦Galraq Underground¦|Telarath Fortress (Golem Yard)|17|9|;|Galraq Burrow (Royal Burrow)|2|17|
+Telarath Fortress (Golem Yard)¦Telarath_Fortress_(Golem_Yard)¦Galraq Underground¦Relic|Golem Worktop|20|6|;|Telarath Fortress (Kennels)|15|1|;|Galraq Burrow (Barracks)|5|9|;World Area|Galraq Underground|2|3|
+Telarath Fortress (Kennels)¦Telarath_Fortress_(Kennels)¦Galraq Underground¦|Telarath Fortress (Guardhouse)|9|2|;|Telarath Fortress (Golem Yard)|9|22|;|Stages 1-2:|3|10|
+Telarath Fortress (Guardhouse)¦Telarath_Fortress_(Guardhouse)¦Galraq Underground¦|Telarath Fortress (Council Hall)|2|3|;|Telarath Fortress (Kennels)|15|8|;|Stage 3:|5|9|
+Telarath Fortress (Council Hall)¦Telarath_Fortress_(Council_Hall)¦Galraq Underground¦|Telarath Fortress (Statuary)|10|2|;|Telarath Fortress (Guardhouse)|15|17|;|Stage 4:|8|14|
+Telarath Fortress (Statuary)¦Telarath_Fortress_(Statuary)¦Galraq Underground¦|Telarath Fortress (Trainee Barracks)|16|8|;|Telarath Fortress (Council Hall)|3|16|
+Telarath Fortress (Trainee Barracks)¦Telarath_Fortress_(Trainee_Barracks)¦Galraq Underground¦|Telarath Fortress (Statuary)|7|6|;|Telarath Fortress (Training Hall)|11|14|
+Telarath Fortress (Training Hall)¦Telarath_Fortress_(Training_Hall)¦Galraq Underground¦|Telarath Fortress (Trainee Barracks)|2|1|;|Telarath Fortress (Mausoleum)|10|21|
+Telarath Fortress (Mausoleum)¦Telarath_Fortress_(Mausoleum)¦Galraq Underground¦|Telarath Fortress (War Council)|5|5|;|Telarath Fortress (Training Hall)|14|14|;|Stage 5:|10|3|
+Telarath Fortress (War Council)¦Telarath_Fortress_(War_Council)¦Galraq Underground¦|Telarath Fortress (Cells)|10|2|;|Telarath Fortress (Mausoleum)|5|18|;Portal|Telarath Fortress Portal|16|8|
+Telarath Fortress (Cells)¦Telarath_Fortress_(Cells)¦Galraq Underground¦|Telarath Fortress (Corruptors Wing)|2|3|;|Grefflian Graves (Charnel Pits)|14|4|;|Telarath Fortress (War Council)|14|16|;|Stage 6:|10|9|
+Telarath Fortress (Corruptors Wing)¦Telarath_Fortress_(Corruptors_Wing)¦Galraq Underground¦|Telarath Fortress (Cells)|13|6|;|Stage 7:|3|3|
+Grefflian Graves (Charnel Pits)¦Grefflian_Graves_(Charnel_Pits)¦Galraq Underground¦Relic|Ghouls Charnel Pit|16|4|;|Telarath Fortress (Cells)|1|2|;|Grefflian Graves (Boneyard)|12|15|;World Area|The Grefflian Region|17|13|
+Grefflian Graves (Boneyard)¦Grefflian_Graves_(Boneyard)¦Galraq Underground¦|Grefflian Graves (Charnel Pits)|14|2|;|Grefflian Graves (Orchard)|10|15|
+Grefflian Graves (Orchard)¦Grefflian_Graves_(Orchard)¦Galraq Underground¦|Grefflian Graves (Boneyard)|15|3|;|Grefflian Graves (Sepulchure)|2|14|
+Grefflian Graves (Sepulchure)¦Grefflian_Graves_(Sepulchure)¦Galraq Underground¦|Grefflian Graves (Statuary)|7|2|;|Grefflian Graves (Orchard)|22|8|
+Grefflian Graves (Statuary)¦Grefflian_Graves_(Statuary)¦Galraq Underground¦|Grefflian Graves (Mausoleum)|1|4|;|Grefflian Graves (Sepulchure)|10|20|;|Stages 1-2:|9|7|
+Grefflian Graves (Mausoleum)¦Grefflian_Graves_(Mausoleum)¦The Grefflian Region¦|Grefflian Bone Wastes (Pit)|4|11|;|Grefflian Graves (Statuary)|18|11|;|Stage 3:|14|4|
+Grefflian Bone Wastes (Pit)¦Grefflian_Bone_Wastes_(Pit)¦The Grefflian Region¦|Grefflian Bone Wastes (Ogre Grave)|16|6|;|Grefflian Graves (Mausoleum)|5|15|;World Area|The Grefflian Region|3|2|
+Grefflian Bone Wastes (Ogre Grave)¦Grefflian_Bone_Wastes_(Ogre_Grave)¦The Grefflian Region¦|Grefflian Bone Wastes (Pit)|2|5|;|Grefflian Bone Wastes (Horror)|14|15|
+Grefflian Bone Wastes (Horror)¦Grefflian_Bone_Wastes_(Horror)¦The Grefflian Region¦|Grefflian Bone Wastes (Ogre Grave)|13|2|;|Grefflian Bone Wastes (Gnaw)|2|10|;Portal|Grefflian Portal|15|8|
+Grefflian Bone Wastes (Gnaw)¦Grefflian_Bone_Wastes_(Gnaw)¦The Grefflian Region¦|Grefflian Bone Wastes (Horror)|15|3|;|Grefflian Bone Wastes (Rattle)|1|10|
+Grefflian Bone Wastes (Rattle)¦Grefflian_Bone_Wastes_(Rattle)¦The Grefflian Region¦Relic|Ratman Spear Rack|14|13|;|Grefflian Bone Wastes (Gnaw)|9|4|;|Grefflian Bone Wastes (Blaze)|5|16|
+Grefflian Bone Wastes (Blaze)¦Grefflian_Bone_Wastes_(Blaze)¦The Grefflian Region¦|Grefflian Keep (Gate)|13|3|;|Grefflian Bone Wastes (Rattle)|5|15|
+Grefflian Keep (Gate)¦Grefflian_Keep_(Gate)¦The Grefflian Region¦|Grefflian Bone Wastes (Blaze)|2|3|;|Grefflian Keep (Courtyard)|14|15|;World Area|The Grefflian Region|12|6|;|Stages 1-2:|4|13|
+Grefflian Keep (Courtyard)¦Grefflian_Keep_(Courtyard)¦The Grefflian Region¦|Grefflian Keep (Cellar)|2|3|;|Grefflian Keep (Gate)|15|12|
+Grefflian Keep (Cellar)¦Grefflian_Keep_(Cellar)¦The Grefflian Region¦|Grefflian Keep (Courtyard)|14|3|;|Grefflian Keep (Lower Halls)|4|14|;|Stages 3-4:|3|6|
+Grefflian Keep (Lower Halls)¦Grefflian_Keep_(Lower_Halls)¦The Grefflian Region¦|Grefflian Keep (Servant Quarters)|16|3|;|Grefflian Keep (Cellar)|3|8|
+Grefflian Keep (Servant Quarters)¦Grefflian_Keep_(Servant_Quarters)¦The Grefflian Region¦|Grefflian Keep (Horror)|13|2|;|Grefflian Keep (Lower Halls)|2|9|;|Stage 5:|10|14|
+Grefflian Keep (Horror)¦Grefflian_Keep_(Horror)¦The Grefflian Region¦|Grefflian Keep (Halls)|15|3|;|Grefflian Keep (Servant Quarters)|10|14|
+Grefflian Keep (Halls)¦Grefflian_Keep_(Halls)¦The Grefflian Region¦|Grefflian Keep (Horror)|2|8|;|Grefflian Keep (Shadows)|13|15|;Portal|Grefflian Keep Portal|8|5|
+Grefflian Keep (Shadows)¦Grefflian_Keep_(Shadows)¦The Grefflian Region¦|Grefflian Keep (Armory)|15|3|;|Grefflian Keep (Halls)|8|8|
+Grefflian Keep (Armory)¦Grefflian_Keep_(Armory)¦The Grefflian Region¦Relic|Armor Rack|7|18|;|Grefflian Keep (Barracks)|2|3|;|Grefflian Keep (Shadows)|10|10|;World Area|The Grefflian Region|3|14|
+Grefflian Keep (Barracks)¦Grefflian_Keep_(Barracks)¦The Grefflian Region¦|Grefflian Keep (Armory)|16|3|;|Grefflian Keep (Training Grounds)|6|11|
+Grefflian Keep (Training Grounds)¦Grefflian_Keep_(Training_Grounds)¦The Grefflian Region¦|Grefflian Keep (Range)|15|5|;|Grefflian Keep (Barracks)|5|15|;|Stages 1-3:|3|3|
+Grefflian Keep (Range)¦Grefflian_Keep_(Range)¦The Grefflian Region¦|Grefflian Keep (Training Grounds)|14|3|;|Grefflian Keep (Gallows)|2|7|
+Forest of Yule (Odelia Town)¦Forest_of_Yule_(Odelia_Town)¦Krul Island¦|Forest of Yule (Webbed Grove)|12|2|;|Forest of Yule (Clearing)|17|17|;|Stages 1-3:|2|15|
+Forest of Yule (Webbed Grove)¦Forest_of_Yule_(Webbed_Grove)¦Krul Island¦|Forest of Yule (Odelia Town)|13|6|
+Grefflian Keep (Gallows)¦Grefflian_Keep_(Gallows)¦The Grefflian Region¦|Grefflian Keep (Ruins)|17|2|;|Grefflian Keep (Range)|3|7|;|Grefflian Keep (Tower)|15|8|;|Stages 4-5:|4|15|
+Grefflian Keep (Tower)¦Grefflian_Keep_(Tower)¦The Grefflian Region¦|Grefflian Keep (Gallows)|3|12|
+Quango Island (Laboratory)¦Quango_Island_(Laboratory)¦Arrin Moors¦Shop|Magic Gubbins Emporium|7|4|;|Quango Island|2|10|;|Stage 1-5:|19|14|

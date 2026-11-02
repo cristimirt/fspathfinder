@@ -1,0 +1,213 @@
+Tellroth Caverns (Cairn)¦Tellroth_Caverns_(Cairn)¦Tywith Grasslands¦|Tellroth Caverns (Range)|12|5|;|Tellroth Caverns (Magi Camp)|4|14|;World Area|Tywith Grasslands|2|2|
+Tellroth Caverns (Range)¦Tellroth_Caverns_(Range)¦Tywith Grasslands¦|Tellroth Caverns (Gloom)|3|6|;|Tellroth Caverns (Cairn)|11|13|
+Tellroth Caverns (Gloom)¦Tellroth_Caverns_(Gloom)¦Tywith Grasslands¦|Tellroth Caverns (Range)|13|3|;|Tellroth Caverns (Pits)|4|17|
+Tellroth Caverns (Pits)¦Tellroth_Caverns_(Pits)¦Tywith Grasslands¦|Tellroth Caverns (Gloom)|18|3|;|Tellroth Caverns (Edge)|12|7|;Portal|Tellroth Caverns (Pits) Portal|4|11|
+Tellroth Caverns (Edge)¦Tellroth_Caverns_(Edge)¦Tywith Grasslands¦|Tellroth Caverns (Prison)|12|7|;|Tellroth Caverns (Pits)|5|16|
+Tellroth Caverns (Prison)¦Tellroth_Caverns_(Prison)¦Tywith Grasslands¦|Tywith Caves (Nest)|7|6|;|Tellroth Caverns (Edge)|11|15|
+Tywith Caves (Nest)¦Tywith_Caves_(Nest)¦Tywith Grasslands¦|Tellroth Caverns (Prison)|10|7|;|Tywith Caves (Chill)|12|14|;World Area|Tywith Grasslands|16|3|
+Tywith Caves (Chill)¦Tywith_Caves_(Chill)¦Tywith Grasslands¦|Tywith Caves (Stalking Grounds)|18|5|;|Tywith Caves (Nest)|2|16|
+Tywith Caves (Stalking Grounds)¦Tywith_Caves_(Stalking_Grounds)¦Tywith Grasslands¦|Tywith Caves (Chill)|4|11|;|Tywith Caves (Lair)|14|19|
+Tywith Caves (Lair)¦Tywith_Caves_(Lair)¦Tywith Grasslands¦|Tywith Caves (Fighting Caves)|15|7|;|Tywith Caves (Stalking Grounds)|7|9|
+Tywith Caves (Fighting Caves)¦Tywith_Caves_(Fighting_Caves)¦Tywith Grasslands¦|Tywith Caves (Opening)|12|4|;|Tywith Caves (Lair)|4|12|
+Tywith Caves (Opening)¦Tywith_Caves_(Opening)¦Tywith Grasslands¦|Tywith Grasslands (Plains)|4|8|;|Tywith Caves (Fighting Caves)|15|13|
+Tywith Grasslands (Plains)¦Tywith_Grasslands_(Plains)¦Tywith Grasslands¦|Tywith Caves (Opening)|14|5|;|Tywith Grasslands (Wilderness)|11|19|;World Area|Tywith Grasslands|7|8|
+Tywith Grasslands (Wilderness)¦Tywith_Grasslands_(Wilderness)¦Tywith Grasslands¦|Tywith Grasslands (Prairie)|13|4|;|Tywith Grasslands (Plains)|15|11|;Portal|Tywith Portal|4|8|
+Tywith Grasslands (Prairie)¦Tywith_Grasslands_(Prairie)¦Tywith Grasslands¦|Tywith Grasslands (Wilderness)|5|7|;|Tywith Grasslands (Hunting Ground)|9|19|
+Tywith Grasslands (Hunting Ground)¦Tywith_Grasslands_(Hunting_Ground)¦Tywith Grasslands¦|Tywith Grasslands (Prairie)|7|6|;|Tywith Farmlands (Outskirts)|4|12|
+Tywith Farmlands (Outskirts)¦Tywith_Farmlands_(Outskirts)¦Tywith Grasslands¦|Tywith Grasslands (Hunting Ground)|2|4|;|Tywith Farmlands (Fields)|2|15|;World Area|Tywith Grasslands|15|10|
+Tywith Farmlands (Fields)¦Tywith_Farmlands_(Fields)¦Tywith Grasslands¦|Tywith Farmlands (Pasture)|11|3|;|Tywith Farmlands (Outskirts)|8|14|
+Tywith Farmlands (Pasture)¦Tywith_Farmlands_(Pasture)¦Tywith Grasslands¦|Tywith Farmlands (Fields)|9|3|;|Tywith Farmlands (Dairy)|13|17|
+Tywith Farmlands (Dairy)¦Tywith_Farmlands_(Dairy)¦Tywith Grasslands¦|Tywith Farmlands (Pasture)|2|6|;|Tywith Farmlands (Hunters Lodges)|15|13|
+Tywith Farmlands (Hunters Lodges)¦Tywith_Farmlands_(Hunters_Lodges)¦Tywith Grasslands¦|Tywith Farmlands (Archery Range)|5|1|;|Tywith Farmlands (Dairy)|14|14|
+Tywith Farmlands (Archery Range)¦Tywith_Farmlands_(Archery_Range)¦Tywith Grasslands¦|Tywith Farmlands (Kennels)|15|2|;|Tywith Farmlands (Hunters Lodges)|4|8|
+Tywith Farmlands (Kennels)¦Tywith_Farmlands_(Kennels)¦Tywith Grasslands¦|Tywith Farmlands (Prowl)|8|1|;|Tywith Farmlands (Archery Range)|14|9|
+Tywith Farmlands (Prowl)¦Tywith_Farmlands_(Prowl)¦Tywith Grasslands¦|Tywith Farmlands (Barracks)|2|12|;|Tywith Farmlands (Kennels)|15|15|
+Tywith Farmlands (Barracks)¦Tywith_Farmlands_(Barracks)¦Tywith Grasslands¦|Dresnoth Plains (Battlefield)|2|1|;|Tywith Farmlands (Prowl)|14|3|;|Tywith Farmlands (Square)|4|16|
+Tywith Farmlands (Square)¦Tywith_Farmlands_(Square)¦Tywith Grasslands¦|Tywith Farmlands (Barracks)|9|3|
+Dresnoth Plains (Battlefield)¦Dresnoth_Plains_(Battlefield)¦Cernagath Swamps¦|Tywith Farmlands (Barracks)|3|3|;|Dresnoth Plains (Corpse Field)|11|10|;World Area|Cernagath Swamps|15|5|
+Dresnoth Plains (Corpse Field)¦Dresnoth_Plains_(Corpse_Field)¦Cernagath Swamps¦|Dresnoth Plains (Haunted Land)|13|10|;|Dresnoth Plains (Battlefield)|3|14|
+Dresnoth Plains (Haunted Land)¦Dresnoth_Plains_(Haunted_Land)¦Cernagath Swamps¦|Dresnoth Plains (Terror Flats)|15|4|;|Dresnoth Plains (Corpse Field)|5|10|
+Dresnoth Plains (Terror Flats)¦Dresnoth_Plains_(Terror_Flats)¦Cernagath Swamps¦|Dresnoth Plains (Haunted Land)|13|3|;|Dresnoth Plains (Stalk)|3|9|
+Dresnoth Plains (Stalk)¦Dresnoth_Plains_(Stalk)¦Cernagath Swamps¦|Dresnoth Plains (Outskirts)|3|3|;|Dresnoth Plains (Terror Flats)|16|11|
+Dresnoth Plains (Outskirts)¦Dresnoth_Plains_(Outskirts)¦Cernagath Swamps¦|Dresnoth Plains (Stalk)|12|3|;|Dresnoth Plains (Settlement)|2|18|
+Dresnoth Plains (Settlement)¦Dresnoth_Plains_(Settlement)¦Cernagath Swamps¦|Dresnoth Plains (Desolation)|2|4|;|Dresnoth Plains (Outskirts)|13|12|;World Area|Cernagath Swamps|8|6|
+Dresnoth Plains (Desolation)¦Dresnoth_Plains_(Desolation)¦Cernagath Swamps¦|Dresnoth Plains (Ruins)|2|3|;|Dresnoth Plains (Settlement)|10|14|
+Dresnoth Plains (Ruins)¦Dresnoth_Plains_(Ruins)¦Cernagath Swamps¦|Dresnoth Plains (Desolation)|13|8|;|Dresnoth Plains (Ogre Lands)|4|9|;Portal|Dresnoth Portal|11|15|
+Dresnoth Plains (Ogre Lands)¦Dresnoth_Plains_(Ogre_Lands)¦Cernagath Swamps¦|Dresnoth Plains (Gas Flats)|4|10|;|Dresnoth Plains (Ruins)|14|13|
+Dresnoth Plains (Gas Flats)¦Dresnoth_Plains_(Gas_Flats)¦Cernagath Swamps¦|Dresnoth Plains (Ogre Lands)|6|2|;|Dresnoth Plains (Lava Holes)|10|11|
+Dresnoth Plains (Lava Holes)¦Dresnoth_Plains_(Lava_Holes)¦Cernagath Swamps¦|Dresnoth Plains (Bone Fields)|6|5|;|Dresnoth Plains (Gas Flats)|15|15|
+Dresnoth Plains (Bone Fields)¦Dresnoth_Plains_(Bone_Fields)¦Cernagath Swamps¦|Dresnoth Plains (Lava Holes)|4|3|;|Cernagath Swamp (Edge)|15|14|
+Cernagath Swamp (Edge)¦Cernagath_Swamp_(Edge)¦Cernagath Swamps¦|Cernagath Swamp (Bog)|3|3|;|Dresnoth Plains (Bone Fields)|10|15|;World Area|Cernagath Swamps|4|11|
+Cernagath Swamp (Bog)¦Cernagath_Swamp_(Bog)¦Cernagath Swamps¦|Cernagath Swamp (Fen)|16|4|;|Cernagath Swamp (Edge)|3|10|
+Cernagath Swamp (Fen)¦Cernagath_Swamp_(Fen)¦Cernagath Swamps¦|Cernagath Swamp (Bog)|3|3|;|Cernagath Swamp (Sump)|13|14|
+Cernagath Swamp (Sump)¦Cernagath_Swamp_(Sump)¦Cernagath Swamps¦|Cernagath Swamp (Fen)|13|2|;|Cernagath Swamp (Haunt)|5|10|
+Cernagath Swamp (Haunt)¦Cernagath_Swamp_(Haunt)¦Cernagath Swamps¦|Cernagath Swamp (Trap Fields)|9|2|;|Cernagath Swamp (Sump)|7|11|
+Cernagath Swamp (Trap Fields)¦Cernagath_Swamp_(Trap_Fields)¦Cernagath Swamps¦|Cernagath Swamp (Haunt)|11|3|;|Cernagath Swamp (Crawl)|3|11|;Portal|Cernagath Portal|9|10|
+Cernagath Swamp (Crawl)¦Cernagath_Swamp_(Crawl)¦Cernagath Swamps¦|Cernagath Swamp (Grove)|4|5|;|Cernagath Swamp (Trap Fields)|12|12|
+Cernagath Swamp (Grove)¦Cernagath_Swamp_(Grove)¦Cernagath Swamps¦|Cernagath Swamp (Pools)|11|3|;|Cernagath Swamp (Crawl)|6|12|
+Cernagath Swamp (Pools)¦Cernagath_Swamp_(Pools)¦Cernagath Swamps¦|Cernagath Swamp (Grove)|3|5|;|Cernagath Settlement (Fetid Quarter)|15|11|
+Cernagath Settlement (Fetid Quarter)¦Cernagath_Settlement_(Fetid_Quarter)¦Cernagath Swamps¦|Cernagath Settlement (Poxed Quarter)|15|3|;|Cernagath Swamp (Pools)|1|15|;World Area|Cernagath Swamps|1|2|
+Cernagath Settlement (Poxed Quarter)¦Cernagath_Settlement_(Poxed_Quarter)¦Cernagath Swamps¦|Cernagath Settlement (Fetid Quarter)|1|2|;|Cernagath Settlement (Bloodied Quarter)|13|21|
+Cernagath Settlement (Bloodied Quarter)¦Cernagath_Settlement_(Bloodied_Quarter)¦Cernagath Swamps¦|Cernagath Swamp (Marsh)|16|1|;|Cernagath Settlement (Poxed Quarter)|15|8|;|Cernagath Settlement (Elders Quarter)|2|16|
+Cernagath Settlement (Elders Quarter)¦Cernagath_Settlement_(Elders_Quarter)¦Cernagath Swamps¦|Cernagath Settlement (Bloodied Quarter)|13|4|
+Cernagath Swamp (Marsh)¦Cernagath_Swamp_(Marsh)¦Cernagath Swamps¦|Cernagath Swamp (Whisper)|1|1|;|Cernagath Settlement (Bloodied Quarter)|7|12|
+Cernagath Swamp (Whisper)¦Cernagath_Swamp_(Whisper)¦Cernagath Swamps¦|Cernagath Swamp (Marsh)|12|6|;|Cernagath Swamp (Mire)|1|21|
+Cernagath Swamp (Mire)¦Cernagath_Swamp_(Mire)¦Cernagath Swamps¦|Cernagath Swamp (Whisper)|1|4|;|Phosveroth Swamp (Bog)|1|16|
+Phosveroth Swamp (Bog)¦Phosveroth_Swamp_(Bog)¦Haunt of Thunder Lizards¦|Cernagath Swamp (Mire)|13|3|;|Phosveroth Swamp (Pools)|4|12|;World Area|Haunt of Thunder Lizards|15|14|
+Phosveroth Swamp (Pools)¦Phosveroth_Swamp_(Pools)¦Haunt of Thunder Lizards¦|Phosveroth Swamp (Mire)|6|2|;|Phosveroth Swamp (Bog)|2|17|
+Phosveroth Swamp (Mire)¦Phosveroth_Swamp_(Mire)¦Haunt of Thunder Lizards¦|Cernagath Swamp (Whisper)|1|4|;|Phosveroth Swamp (Bog)|1|16|
+Phosveroth Swamp (Mangroves)¦Phosveroth_Swamp_(Mangroves)¦Haunt of Thunder Lizards¦|Phosveroth Swamp (Mire)|13|4|;|Phosveroth Swamp (Hunt)|3|11|
+Phosveroth Swamp (Hunt)¦Phosveroth_Swamp_(Hunt)¦Haunt of Thunder Lizards¦|Phosveroth Swamp (Lair)|2|5|;|Phosveroth Swamp (Mangroves)|11|11|
+Phosveroth Swamp (Lair)¦Phosveroth_Swamp_(Lair)¦Haunt of Thunder Lizards¦|Phosveroth Swamp (Stalk)|4|5|;|Phosveroth Swamp (Hunt)|13|10|
+Phosveroth Swamp (Stalk)¦Phosveroth_Swamp_(Stalk)¦Haunt of Thunder Lizards¦|Phosveroth Swamp (Wilds)|4|8|;|Phosveroth Swamp (Lair)|11|16|
+Phosveroth Swamp (Wilds)¦Phosveroth_Swamp_(Wilds)¦Haunt of Thunder Lizards¦|Phosveroth Swamp (Stalk)|13|3|;|Phosveroth Swamp (Shallows)|4|11|
+Phosveroth Swamp (Shallows)¦Phosveroth_Swamp_(Shallows)¦Haunt of Thunder Lizards¦|Phosveroth Swamp (Hunting Grounds)|11|4|;|Phosveroth Swamp (Wilds)|5|14|
+Phosveroth Swamp (Hunting Grounds)¦Phosveroth_Swamp_(Hunting_Grounds)¦Haunt of Thunder Lizards¦|Phosveroth Swamp (Shallows)|2|4|;|Hyradar Plains (Graze)|13|16|
+Hyradar Plains (Graze)¦Hyradar_Plains_(Graze)¦Haunt of Thunder Lizards¦|Hyradar Plains (Herd Lands)|5|4|;|Phosveroth Swamp (Hunting Grounds)|10|15|;World Area|Haunt of Thunder Lizards|12|3|
+Hyradar Plains (Herd Lands)¦Hyradar_Plains_(Herd_Lands)¦Haunt of Thunder Lizards¦|Hyradar Plains (Graze)|18|3|;|Hyradar Plains (Savannah)|4|7|
+Hyradar Plains (Savannah)¦Hyradar_Plains_(Savannah)¦Haunt of Thunder Lizards¦|Hyradar Plains (Herd Lands)|5|3|;|Hyradar Plains (Nests)|12|16|
+Hyradar Plains (Nests)¦Hyradar_Plains_(Nests)¦Haunt of Thunder Lizards¦|Hyradar Plains (Thunder Lands)|11|3|;|Hyradar Plains (Savannah)|5|18|
+Hyradar Plains (Thunder Lands)¦Hyradar_Plains_(Thunder_Lands)¦Haunt of Thunder Lizards¦|Hyradar Plains (Predator Plains)|10|2|;|Hyradar Plains (Nests)|3|14|
+Hyradar Plains (Predator Plains)¦Hyradar_Plains_(Predator_Plains)¦Haunt of Thunder Lizards¦|Fellrani Forest (Scamper)|9|4|;|Hyradar Plains (Thunder Lands)|13|14|
+Fellrani Forest (Scamper)¦Fellrani_Forest_(Scamper)¦Haunt of Thunder Lizards¦|Hyradar Plains (Predator Plains)|16|4|;|Fellrani Forest (Grazing Lands)|3|14|;World Area|Haunt of Thunder Lizards|12|16|
+Fellrani Forest (Grazing Lands)¦Fellrani_Forest_(Grazing_Lands)¦Haunt of Thunder Lizards¦|Fellrani Forest (Scamper)|14|3|;|Fellrani Forest (Hammer Lands)|3|5|
+Fellrani Forest (Hammer Lands)¦Fellrani_Forest_(Hammer_Lands)¦Haunt of Thunder Lizards¦|Fellrani Forest (Hunting Grounds)|4|3|;|Fellrani Forest (Grazing Lands)|9|14|
+Fellrani Forest (Hunting Grounds)¦Fellrani_Forest_(Hunting_Grounds)¦Haunt of Thunder Lizards¦|Fellrani Forest (Nesting Grove)|2|2|;|Fellrani Forest (Hammer Lands)|10|14|
+Fellrani Forest (Nesting Grove)¦Fellrani_Forest_(Nesting_Grove)¦Haunt of Thunder Lizards¦|Fellrani Forest (Hunting Grounds)|14|3|;|Xaintor Jungle (Predator Paddock)|3|10|
+Xaintor Jungle (Hagaraths Haunt)¦Xaintor_Jungle_(Hagaraths_Haunt)¦Haunt of Thunder Lizards¦|Xaintor Jungle (Predator Paddock)|12|3|
+Xaintor Jungle (Predator Paddock)¦Xaintor_Jungle_(Predator_Paddock)¦Haunt of Thunder Lizards¦|Fellrani Forest (Nesting Grove)|14|2|;|Xaintor Jungle (Hagaraths Haunt)|3|13|;|Xaintor Jungle (Slither)|13|15|;World Area|Haunt of Thunder Lizards|5|3|
+Xaintor Jungle (Slither)¦Xaintor_Jungle_(Slither)¦Xaintor Jungle¦|Xaintor Jungle (Predator Paddock)|2|1|;|Xaintor Jungle (Nest)|5|17|;World Area|Xaintor Jungle|8|4|
+Xaintor Jungle (Nest)¦Xaintor_Jungle_(Nest)¦Xaintor Jungle¦|Xaintor Jungle (Prowl)|16|7|;|Xaintor Jungle (Slither)|6|15|
+Xaintor Jungle (Prowl)¦Xaintor_Jungle_(Prowl)¦Xaintor Jungle¦|Xaintor Jungle (Nest)|2|4|;|Xaintor Jungle (Lemur Lands)|18|17|
+Xaintor Jungle (Lemur Lands)¦Xaintor_Jungle_(Lemur_Lands)¦Xaintor Jungle¦|Xaintor Jungle (Prowl)|15|5|;|Xaintor Village (Huts)|16|15|
+Xaintor Village (Huts)¦Xaintor_Village_(Huts)¦Xaintor Jungle¦|Xaintor Jungle (Lemur Lands)|2|6|;|Xaintor Village (Death Fields)|14|13|;World Area|Xaintor Jungle|7|10|
+Xaintor Village (Death Fields)¦Xaintor_Village_(Death_Fields)¦Xaintor Jungle¦|Xaintor Village (Huts)|14|6|;|Xaintor Village (Ritual Fields)|6|15|
+Xaintor Village (Ritual Fields)¦Xaintor_Village_(Ritual_Fields)¦Xaintor Jungle¦|Xaintor Village (Death Fields)|16|3|;|Xaintor Village (Jaguar Fields)|17|14|
+Xaintor Village (Jaguar Fields)¦Xaintor_Village_(Jaguar_Fields)¦Xaintor Jungle¦|Xaintor Village (Ritual Fields)|10|1|;|Xaintor Village (Outskirts)|13|11|
+Xaintor Village (Outskirts)¦Xaintor_Village_(Outskirts)¦Xaintor Jungle¦|Xaintor Jungle (Hive)|14|2|;|Xaintor Village (Jaguar Fields)|1|9|
+Xaintor Jungle (Hive)¦Xaintor_Jungle_(Hive)¦Xaintor Jungle¦|Xaintor Jungle (Grove)|18|5|;|Xaintor Village (Outskirts)|3|19|
+Xaintor Jungle (Grove)¦Xaintor_Jungle_(Grove)¦Xaintor Jungle¦|Xaintor Jungle (Hive)|2|5|;|Xaintor Jungle (Haunt)|16|14|
+Xaintor Jungle (Haunt)¦Xaintor_Jungle_(Haunt)¦Xaintor Jungle¦|Xaintor Jungle (Brawl)|2|5|;|Xaintor Jungle (Grove)|13|8|
+Xaintor Jungle (Brawl)¦Xaintor_Jungle_(Brawl)¦Xaintor Jungle¦|Xaintor Jungle (Haunt)|20|4|;|Xaintor Jungle (Treetops)|5|12|
+Xaintor Jungle (Treetops)¦Xaintor_Jungle_(Treetops)¦Xaintor Jungle¦|Xaintor Jungle (Brawl)|12|2|;|Xaintor Jungle (Wetlands)|1|18|
+Xaintor Jungle (Wetlands)¦Xaintor_Jungle_(Wetlands)¦Xaintor Jungle¦|Xaintor Jungle (Treetops)|2|4|;|Xaintor Jungle (Prey)|11|12|
+Xaintor Jungle (Prey)¦Xaintor_Jungle_(Prey)¦Xaintor Jungle¦|Xaintor Jungle (Copse)|13|2|;|Xaintor Jungle (Wetlands)|4|17|;World Area|Xaintor Jungle|2|9|
+Xaintor Jungle (Copse)¦Xaintor_Jungle_(Copse)¦Xaintor Jungle¦|Xaintor Jungle (Pools)|17|3|;|Xaintor Jungle (Prey)|4|17|
+Xaintor Jungle (Pools)¦Xaintor_Jungle_(Pools)¦Xaintor Jungle¦|Xaintor Jungle (Copse)|13|2|;|Xaintor Jungle (Pits)|8|14|
+Xaintor Jungle (Pits)¦Xaintor_Jungle_(Pits)¦Xaintor Jungle¦|Xaintor Jungle (Tangle)|12|3|;|Xaintor Jungle (Pools)|4|11|
+Xaintor Jungle (Tangle)¦Xaintor_Jungle_(Tangle)¦Xaintor Jungle¦|Xaintor Jungle (Lash)|3|2|;|Xaintor Jungle (Pits)|16|5|
+Xaintor Jungle (Lash)¦Xaintor_Jungle_(Lash)¦Xaintor Jungle¦|Xaintor Jungle (Tangle)|12|3|;|Xaintor Jungle (Huts)|9|15|
+Xaintor Jungle (Huts)¦Xaintor_Jungle_(Huts)¦Xaintor Jungle¦|Xaintor Jungle (Lash)|2|3|;|Xaintor Jungle (Lodge)|18|12|
+Xaintor Jungle (Lodge)¦Xaintor_Jungle_(Lodge)¦Xaintor Jungle¦|Xaintor Jungle (Huts)|14|1|;|Xaintor Jungle (Shaman Grove)|1|13|
+Xaintor Jungle (Shaman Grove)¦Xaintor_Jungle_(Shaman_Grove)¦Xaintor Jungle¦|Xaintor Jungle (Lodge)|25|3|;|Xaintor Jungle (Quarry)|5|11|
+Xaintor Jungle (Altar of Targoz)¦Xaintor_Jungle_(Altar_of_Targoz)¦Xaintor Jungle¦|Xaintor Jungle (Quarry)|13|2|
+Xaintor Jungle (Quarry)¦Xaintor_Jungle_(Quarry)¦Xaintor Jungle¦|Xaintor Jungle (Shaman Grove)|15|2|;|Xaintor Jungle (Altar of Targoz)|2|6|;|Xaintor Jungle (Vipesh Haunt)|7|15|
+Xaintor Jungle (Vipesh Haunt)¦Xaintor_Jungle_(Vipesh_Haunt)¦Ganaroth Desert¦|Xaintor Jungle (Quarry)|14|2|;|Xaintor Jungle (Warrior Realm)|16|13|;World Area|Ganaroth Desert|1|8|
+Xaintor Jungle (Warrior Realm)¦Xaintor_Jungle_(Warrior_Realm)¦Ganaroth Desert¦|Xaintor Jungle (Vipesh Haunt)|1|3|;|Xaintor Jungle (Ritual Quarter)|17|4|
+Xaintor Jungle (Ritual Quarter)¦Xaintor_Jungle_(Ritual_Quarter)¦Ganaroth Desert¦|Xaintor Jungle (Warrior Realm)|12|5|;|Ganaroth Canyon (Hunting Grounds)|4|16|
+Ganaroth Canyon (Hunting Grounds)¦Ganaroth_Canyon_(Hunting_Grounds)¦Ganaroth Desert¦|Ganaroth Canyon (Cannibal Crevice)|14|3|;|Xaintor Jungle (Ritual Quarter)|12|10|;Portal|Ganaroth Portal|6|4|
+Ganaroth Canyon (Cannibal Crevice)¦Ganaroth_Canyon_(Cannibal_Crevice)¦Ganaroth Desert¦|Ganaroth Canyon (Hunting Grounds)|17|1|;|Ganaroth Canyon (Herd Lands)|17|14|;|Stages 1-2:|4|4|
+Ganaroth Canyon (Herd Lands)¦Ganaroth_Canyon_(Herd_Lands)¦Ganaroth Desert¦Relic|Ibex Grave|7|2|;|Ganaroth Canyon (Cannibal Crevice)|16|6|;|Ganaroth Canyon (Poisonous Paths)|13|15|
+Ganaroth Canyon (Poisonous Paths)¦Ganaroth_Canyon_(Poisonous_Paths)¦Ganaroth Desert¦|Ganaroth Canyon (Herd Lands)|12|7|;|Ganaroth Desert (Basking Sands)|3|16|
+Ganaroth Desert (Basking Sands)¦Ganaroth_Desert_(Basking_Sands)¦Ganaroth Desert¦|Ganaroth Desert (Spider Sands)|6|7|;|Ganaroth Canyon (Poisonous Paths)|11|19|;World Area|Ganaroth Desert|3|17|
+Ganaroth Desert (Spider Sands)¦Ganaroth_Desert_(Spider_Sands)¦Ganaroth Desert¦|Ganaroth Desert (Basking Sands)|5|8|;|Ganaroth Desert (Goblin Grounds)|13|15|
+Ganaroth Desert (Goblin Grounds)¦Ganaroth_Desert_(Goblin_Grounds)¦Ganaroth Desert¦|Ganaroth Desert (Training Pits)|6|6|;|Ganaroth Desert (Spider Sands)|3|14|
+Ganaroth Desert (Training Pits)¦Ganaroth_Desert_(Training_Pits)¦Ganaroth Desert¦|Ganaroth Desert (Goblin Grounds)|8|6|;|Ganaroth Desert (Arena)|19|10|
+Ganaroth Desert (Arena)¦Ganaroth_Desert_(Arena)¦Ganaroth Desert¦|Ganaroth Desert (Training Pits)|3|3|;|Ganaroth Desert (Gherdlia Dunes)|14|12|
+Ganaroth Desert (Gherdlia Dunes)¦Ganaroth_Desert_(Gherdlia_Dunes)¦Ganaroth Desert¦|Ganaroth Desert (Sand Storm)|15|3|;|Ganaroth Desert (Arena)|4|13|;|Stages 3-4:|10|9|
+Ganaroth Desert (Sand Storm)¦Ganaroth_Desert_(Sand_Storm)¦Ganaroth Desert¦|Ganaroth Desert (Gherdlia Dunes)|11|8|;|Ganaroth Desert (Shamble)|6|14|;Portal|Ganaroth Desert Portal|15|16|
+Ganaroth Desert (Shamble)¦Ganaroth_Desert_(Shamble)¦Ganaroth Desert¦|Ganaroth Desert (Slime Trails)|5|5|;|Ganaroth Desert (Sand Storm)|17|13|;World Area|Ganaroth Desert|19|3|
+Ganaroth Desert (Slime Trails)¦Ganaroth_Desert_(Slime_Trails)¦Ganaroth Desert¦Relic|Acedon Shell|5|18|;|Ganaroth Desert (Shamble)|4|4|;|Ganaroth Desert (Snake Pits)|15|17|
+Ganaroth Desert (Snake Pits)¦Ganaroth_Desert_(Snake_Pits)¦Ganaroth Desert¦|Ganaroth Desert (Webs)|14|3|;|Ganaroth Desert (Slime Trails)|8|7|
+Ganaroth Desert (Webs)¦Ganaroth_Desert_(Webs)¦Ganaroth Desert¦|Ganaroth Desert (Snake Pits)|19|2|;|Ganaroth Desert (Savage Dunes)|4|4|
+Ganaroth Desert (Savage Dunes)¦Ganaroth_Desert_(Savage_Dunes)¦Ganaroth Desert¦|Ganaroth Desert (Lechacidi Haunt)|8|8|;|Ganaroth Desert (Webs)|4|18|;|Stages 5-6:|14|3|
+Ganaroth Desert (Lechacidi Haunt)¦Ganaroth_Desert_(Lechacidi_Haunt)¦Ganaroth Desert¦|Ganaroth Desert (Golem Grounds)|5|4|;|Ganaroth Desert (Savage Dunes)|15|15|
+Ganaroth Desert (Golem Grounds)¦Ganaroth_Desert_(Golem_Grounds)¦Ganaroth Desert¦|Ganaroth Desert (Stalking Sands)|12|5|;|Ganaroth Desert (Lechacidi Haunt)|4|10|
+Ganaroth Desert (Stalking Sands)¦Ganaroth_Desert_(Stalking_Sands)¦Ganaroth Desert¦|Ganaroth Desert (Golem Grounds)|5|6|;|Ganaroth Desert (Skuttle)|2|12|
+Ganaroth Desert (Skuttle)¦Ganaroth_Desert_(Skuttle)¦Ganaroth Desert¦|Ganaroth Desert (Stalking Sands)|10|3|;|Ganaroth Desert (Shifting Boulders)|15|12|
+Ganaroth Desert (Shifting Boulders)¦Ganaroth_Desert_(Shifting_Boulders)¦Ganaroth Desert¦|Ganaroth Desert (Writhing Dunes)|14|6|;|Ganaroth Desert (Skuttle)|2|14|;Portal|Ganaroth Desert (Shifting Boulders) Portal|5|4|;World Area|Ganaroth Desert|11|12|
+Ganaroth Desert (Worm Haunt)¦Ganaroth_Desert_(Worm_Haunt)¦Ganaroth Desert¦|Ganaroth Desert (Writhing Dunes)|6|2|
+Ganaroth Desert (Writhing Dunes)¦Ganaroth_Desert_(Writhing_Dunes)¦Ganaroth Desert¦|Ganaroth Desert (Shifting Boulders)|2|2|;|Ganaroth Desert (Beetle Haunt)|13|4|;|Ganaroth Desert (Worm Haunt)|10|10|;|Stages 7-9:|4|13|
+Ganaroth Desert (Beetle Haunt)¦Ganaroth_Desert_(Beetle_Haunt)¦The Anarain Region¦Relic|Beetle Mound|6|11|;|Ganaroth Desert (Writhing Dunes)|13|2|;|Ganaroth Desert (Slither)|11|14|;World Area|The Anarain Region|4|4|
+Ganaroth Desert (Slither)¦Ganaroth_Desert_(Slither)¦The Anarain Region¦|Ganaroth Desert (Ogre Territory)|17|7|;|Ganaroth Desert (Beetle Haunt)|5|14|
+Ganaroth Desert (Ogre Territory)¦Ganaroth_Desert_(Ogre_Territory)¦The Anarain Region¦|Ganaroth Desert (Trail)|15|7|;|Ganaroth Desert (Slither)|4|8|;|Stages 1-2:|12|12|
+Ganaroth Desert (Trail)¦Ganaroth_Desert_(Trail)¦The Anarain Region¦|Ganaroth Desert (Ogre Territory)|19|3|;|Ganaroth Desert (Rocky Outcrops)|3|6|
+Ganaroth Desert (Rocky Outcrops)¦Ganaroth_Desert_(Rocky_Outcrops)¦The Anarain Region¦|Anarain Town (Outskirts)|4|4|;|Ganaroth Desert (Trail)|10|13|
+Anarain Town (Outskirts)¦Anarain_Town_(Outskirts)¦The Anarain Region¦|Anarain Town (Barracks)|17|3|;|Ganaroth Desert (Rocky Outcrops)|2|17|;World Area|The Anarain Region|2|4|;|Stage 3:|7|10|
+Anarain Town (Barracks)¦Anarain_Town_(Barracks)¦The Anarain Region¦|Anarain Town (Outskirts)|2|3|;|Anarain Town (Market)|4|15|
+Anarain Town (Market)¦Anarain_Town_(Market)¦The Anarain Region¦|Anarain Town (Barracks)|9|7|;|Anarain Town (Training Grounds)|9|16|
+Anarain Town (Training Grounds)¦Anarain_Town_(Training_Grounds)¦The Anarain Region¦|Anarain Town (Arena)|2|1|;|Anarain Town (Market)|15|16|
+Anarain Town (Arena)¦Anarain_Town_(Arena)¦The Anarain Region¦|Ganaroth Desert (Flats)|18|3|;|Anarain Town (Training Grounds)|13|15|;|Stages 4-5:|4|6|
+Ganaroth Desert (Flats)¦Ganaroth_Desert_(Flats)¦The Anarain Region¦Relic|Bandit Encampment|11|3|;|Ganaroth Desert (Range)|5|6|;|Anarain Town (Arena)|9|18|
+Ganaroth Desert (Range)¦Ganaroth_Desert_(Range)¦The Anarain Region¦|Ganaroth Desert (Sand Sheet)|15|3|;|Ganaroth Desert (Flats)|3|12|
+Ganaroth Desert (Sand Sheet)¦Ganaroth_Desert_(Sand_Sheet)¦The Anarain Region¦|Sharbonar Savannah (Grasses)|14|3|;|Ganaroth Desert (Range)|4|13|
+Sharbonar Savannah (Grasses)¦Sharbonar_Savannah_(Grasses)¦The Anarain Region¦|Ganaroth Desert (Sand Sheet)|6|7|;|Sharbonar Savannah (Slither)|18|18|;World Area|The Anarain Region|5|16|
+Sharbonar Savannah (Slither)¦Sharbonar_Savannah_(Slither)¦The Anarain Region¦|Sharbonar Savannah (Grasses)|3|3|;|Sharbonar Savannah (Stalk)|13|8|
+Sharbonar Savannah (Stalk)¦Sharbonar_Savannah_(Stalk)¦The Anarain Region¦|Sharbonar Savannah (Slither)|5|2|;|Sharbonar Savannah (Range)|11|18|
+Sharbonar Savannah (Range)¦Sharbonar_Savannah_(Range)¦The Anarain Region¦|Sharbonar Savannah (Stalk)|3|3|;|Sharbonar Savannah (Scrub)|10|14|;|Stages 1-2:|13|8|
+Sharbonar Savannah (Scrub)¦Sharbonar_Savannah_(Scrub)¦The Anarain Region¦|Pandarite Sea (Coast)|18|8|;|Sharbonar Savannah (Range)|5|15|
+Pandarite Sea (Coast)¦Pandarite_Sea_(Coast)¦The Anarain Region¦|Sharbonar Savannah (Scrub)|15|7|;|Pandarite Sea (Cove)|4|16|;World Area|The Anarain Region|12|14|
+Pandarite Sea (Cove)¦Pandarite_Sea_(Cove)¦The Anarain Region¦|Pandarite Sea (Coast)|4|4|;|Pandarite Coast (Crawler Cove)|13|12|;|Stages 3-4:|2|13|
+Pandarite Coast (Crawler Cove)¦Pandarite_Coast_(Crawler_Cove)¦The Anarain Region¦Relic|Sand Crawler Shell|11|9|;|Pandarite Sea (Sands)|16|4|;|Pandarite Sea (Cove)|4|12|
+Pandarite Sea (Sands)¦Pandarite_Sea_(Sands)¦The Anarain Region¦|Pandarite Coast (Crawler Cove)|2|2|;|Pandarite Sea (Shallows)|4|13|
+Pandarite Sea (Shallows)¦Pandarite_Sea_(Shallows)¦The Anarain Region¦|Pandarite Sea (Squirming Sand)|16|4|;|Pandarite Sea (Sands)|5|11|
+Pandarite Sea (Squirming Sand)¦Pandarite_Sea_(Squirming_Sand)¦The Anarain Region¦|Pandarite Sea (Pools)|4|4|;|Pandarite Sea (Shallows)|2|18|
+Cobblers House¦Cobblers_House¦Krul Island¦|Town of Aarne|2|6|;|Stages 7-11:|2|5|
+Pandarite Sea (Kraken Cove)¦Pandarite_Sea_(Kraken_Cove)¦The Anarain Region¦|Pandarite Sea (Pools)|9|12|
+Pandarite Sea (Pools)¦Pandarite_Sea_(Pools)¦The Anarain Region¦|Pandarite Sea (Squirming Sand)|3|3|;|Pandarite Sea (Rocks)|9|5|;|Pandarite Sea (Kraken Cove)|11|14|;|Stages 5-6:|13|8|
+Springtime Forest (Cernuthraas Sanctuary)¦Springtime_Forest_(Cernuthraas_Sanctuary)¦Krul Island¦|Springtime Forest (Outer Grove)|8|9|
+Town of Aarne¦Town_of_Aarne¦Krul Island¦|The Grimmnor Forest|2|3|;|Cobblers House|15|16|;|Stages 1-6:|5|16|
+Pandarite Sea (Rocks)¦Pandarite_Sea_(Rocks)¦Hornarac Beach¦|Pandarite Sea (Shore)|15|3|;|Pandarite Sea (Pools)|13|19|;World Area|Hornarac Beach|2|4|
+Pandarite Sea (Shore)¦Pandarite_Sea_(Shore)¦Hornarac Beach¦|Pandarite Sea (Salt Sands)|14|5|;|Pandarite Sea (Rocks)|5|15|
+Pandarite Sea (Salt Sands)¦Pandarite_Sea_(Salt_Sands)¦Hornarac Beach¦|Pandarite Sea (Shore)|3|3|;|Pandarite Sea (Swell)|9|10|
+Pandarite Sea (Swell)¦Pandarite_Sea_(Swell)¦Hornarac Beach¦|Pandarite Sea (Salt Sands)|15|3|;|Pandarite Sea (Primitive Pools)|4|15|;Portal|Pandarite Portal|6|6|
+Pandarite Sea (Primitive Pools)¦Pandarite_Sea_(Primitive_Pools)¦Hornarac Beach¦|Hornarac Beach (Slimy Stretch)|6|5|;|Pandarite Sea (Swell)|11|12|
+Hornarac Beach (Slimy Stretch)¦Hornarac_Beach_(Slimy_Stretch)¦Hornarac Beach¦Relic|Sea Slug Pit|3|2|;|Pandarite Sea (Primitive Pools)|16|4|;|Hornarac Beach (Blug Haunt)|8|15|;World Area|Hornarac Beach|6|8|
+Hornarac Beach (Blug Haunt)¦Hornarac_Beach_(Blug_Haunt)¦Hornarac Beach¦|Hornarac Beach (Slimy Stretch)|10|8|;|Hornarac Beach (Kelp Fields)|11|20|;|Stages 1-2:|12|2|
+Hornarac Beach (Kelp Fields)¦Hornarac_Beach_(Kelp_Fields)¦Hornarac Beach¦|Hornarac Beach (Blug Haunt)|4|4|;|Hornarac Beach (Wallow)|13|11|
+Hornarac Beach (Wallow)¦Hornarac_Beach_(Wallow)¦Hornarac Beach¦|Hornarac Beach (Reef)|2|2|;|Hornarac Beach (Kelp Fields)|9|7|
+Hornarac Beach (Reef)¦Hornarac_Beach_(Reef)¦Hornarac Beach¦|Hornarac Beach (Pools)|8|5|;|Hornarac Beach (Wallow)|19|11|
+Hornarac Beach (Pools)¦Hornarac_Beach_(Pools)¦Hornarac Beach¦|Hornarac Beach (Depths)|13|4|;|Hornarac Beach (Reef)|4|17|
+Hornarac Beach (Depths)¦Hornarac_Beach_(Depths)¦Hornarac Beach¦|Hornarac Beach (Abac Abyss)|10|3|;|Hornarac Beach (Pools)|13|13|
+Hornarac Beach (Abac Abyss)¦Hornarac_Beach_(Abac_Abyss)¦Hornarac Beach¦|Hornarac Beach (Slime)|14|3|;|Hornarac Beach (Depths)|3|9|
+Hornarac Beach (Slime)¦Hornarac_Beach_(Slime)¦Hornarac Beach¦|Hornarac Beach (Hakulaq Haunt)|13|3|;|Hornarac Beach (Abac Abyss)|6|12|;Portal|Hornarac Portal|3|6|;World Area|Hornarac Beach|12|10|;|Stages 3-4:|7|2|
+Hornarac Beach (Hakulaq Haunt)¦Hornarac_Beach_(Hakulaq_Haunt)¦Hornarac Beach¦|Hornarac Beach (Urchinoid Pools)|3|3|;|Hornarac Beach (Slime)|10|15|
+Hornarac Beach (Urchinoid Pools)¦Hornarac_Beach_(Urchinoid_Pools)¦Hornarac Beach¦Relic|Urchinoid Colony|16|7|;|Hornarac Beach (Shallows)|13|3|;|Hornarac Beach (Hakulaq Haunt)|5|8|
+Hornarac Beach (Shallows)¦Hornarac_Beach_(Shallows)¦Hornarac Beach¦|Hornarac Beach (Rocks)|3|7|;|Hornarac Beach (Urchinoid Pools)|17|14|
+Hornarac Beach (Rocks)¦Hornarac_Beach_(Rocks)¦Hornarac Beach¦|Hornarac Beach (Lagoon)|4|7|;|Hornarac Beach (Shallows)|15|14|
+Hornarac Beach (Lagoon)¦Hornarac_Beach_(Lagoon)¦Hornarac Beach¦|Hornarac Beach (Bay)|15|6|;|Hornarac Beach (Rocks)|5|13|
+Hornarac Beach (Bay)¦Hornarac_Beach_(Bay)¦Hornarac Beach¦|Hornarac Beach (Lagoon)|15|6|;|Hornarac Beach (Dunes)|8|10|
+Hornarac Beach (Dunes)¦Hornarac_Beach_(Dunes)¦Hornarac Beach¦|Hornarac Beach (Garrison)|5|2|;|Hornarac Beach (Bay)|16|10|
+Hornarac Beach (Garrison)¦Hornarac_Beach_(Garrison)¦Hornarac Beach¦|Hornarac Beach (Tides)|14|4|;|Hornarac Beach (Dunes)|4|14|;World Area|Hornarac Beach|16|16|
+Hornarac Beach (Tides)¦Hornarac_Beach_(Tides)¦Hornarac Beach¦|Hornarac Beach (Headland)|12|5|;|Hornarac Beach (Garrison)|3|14|
+Hornarac Beach (Headland)¦Hornarac_Beach_(Headland)¦Hornarac Beach¦|Hornarac Beach (Tombolo)|13|7|;|Hornarac Beach (Tides)|3|15|;Portal|Hornarac Beach Portal 2|7|9|;|Stages 1-2:|3|3|
+Hornarac Beach (Island)¦Hornarac_Beach_(Island)¦Hornarac Beach¦|Hornarac Beach (Tombolo)|10|7|
+Hornarac Beach (Tombolo)¦Hornarac_Beach_(Tombolo)¦Hornarac Beach¦|Hornarac Beach (Headland)|8|5|;|Hornarac Beach (Chum)|10|12|;|Hornarac Beach (Island)|4|15|;|Stages 3-4:|15|7|
+Quango Plains (Savannah)¦Quango_Plains_(Savannah)¦Arrin Moors¦|Quango Island|7|15|;|Stages 1-2:|3|3|;|Stages 3-4:|14|18|;|Stages 5-6:|19|5|
+Hornarac Beach (Chum)¦Hornarac_Beach_(Chum)¦Golwoth Islands¦Relic|Hornarac Shark Carcass|18|14|;|Hornarac Beach (Tombolo)|3|6|;|Hornarac Beach (Paimon Haunt)|13|8|;World Area|Golwoth Islands|16|3|
+Hornarac Beach (Paimon Haunt)¦Hornarac_Beach_(Paimon_Haunt)¦Golwoth Islands¦|Hornarac Beach (Surf)|4|3|;|Hornarac Beach (Chum)|15|10|
+Hornarac Beach (Surf)¦Hornarac_Beach_(Surf)¦Golwoth Islands¦|Hornarac Beach (Paimon Haunt)|11|2|;|Golwoth Islands (Shallows)|6|13|
+Golwoth Islands (Shallows)¦Golwoth_Islands_(Shallows)¦Golwoth Islands¦|Golwoth Islands (Pools)|4|2|;|Hornarac Beach (Surf)|15|17|;World Area|Golwoth Islands|14|3|
+Golwoth Islands (Pools)¦Golwoth_Islands_(Pools)¦Golwoth Islands¦|Golwoth Islands (Shallows)|11|5|;|Golwoth Islands (Rocks)|15|19|
+Golwoth Islands (Rocks)¦Golwoth_Islands_(Rocks)¦Golwoth Islands¦|Golwoth Islands (Squirm)|19|2|;|Golwoth Islands (Pools)|13|9|
+Golwoth Islands (Squirm)¦Golwoth_Islands_(Squirm)¦Golwoth Islands¦|Golwoth Islands (Writhe)|15|2|;|Golwoth Islands (Rocks)|2|6|
+Golwoth Islands (Writhe)¦Golwoth_Islands_(Writhe)¦Golwoth Islands¦|Golwoth Islands (Trap)|4|5|;|Golwoth Islands (Squirm)|11|15|
+Golwoth Islands (Trap)¦Golwoth_Islands_(Trap)¦Golwoth Islands¦|Golwoth Islands (Writhe)|5|5|;|Golwoth Islands (Muster)|10|21|;Portal|Golwoth Islands Portal|13|12|;|Stages 1-2:|6|14|
+Golwoth Islands (Muster)¦Golwoth_Islands_(Muster)¦Golwoth Islands¦|Golwoth Islands (Trap)|3|3|;|Golwoth Island (Colony)|12|15|
+Golwoth Island (Colony)¦Golwoth_Island_(Colony)¦Golwoth Islands¦Relic|Glorious Coral Colony|11|5|;|Golwoth Islands (Muster)|3|2|;|Golwoth Islands (Front)|18|10|;|Stage 3:|4|12|
+Golwoth Islands (Front)¦Golwoth_Islands_(Front)¦Golwoth Islands¦|Golwoth Islands (Breach)|17|3|;|Golwoth Island (Colony)|3|14|
+Golwoth Islands (Breach)¦Golwoth_Islands_(Breach)¦Golwoth Islands¦|Golwoth Islands (Front)|5|4|;|Golwoth Islands (Staging Point)|12|13|;|Stage 4:|7|17|
+Golwoth Islands (Staging Point)¦Golwoth_Islands_(Staging_Point)¦Golwoth Islands¦|Golwoth Islands (Breach)|10|1|;|Elwakor Archipelago (Bay)|1|9|;|Stage 5:|8|12|
+Elwakor Archipelago (Bay)¦Elwakor_Archipelago_(Bay)¦Golwoth Islands¦|Golwoth Islands (Staging Point)|19|7|;|Elwakor Archipelago (Hideaway)|3|14|;World Area|Golwoth Islands|7|5|
+Elwakor Archipelago (Hideaway)¦Elwakor_Archipelago_(Hideaway)¦Golwoth Islands¦|Elwakor Archipelago (Bay)|15|4|;|Elwakor Archipelago (Frenzy)|4|13|
+Elwakor Archipelago (Frenzy)¦Elwakor_Archipelago_(Frenzy)¦Golwoth Islands¦|Elwakor Archipelago (Hideaway)|3|3|;|Elwakor Archipelago (Settlement)|11|15|
+Elwakor Archipelago (Settlement)¦Elwakor_Archipelago_(Settlement)¦Golwoth Islands¦|Elwakor Archipelago (Ambush)|2|2|;|Elwakor Archipelago (Frenzy)|6|9|
+Elwakor Archipelago (Ambush)¦Elwakor_Archipelago_(Ambush)¦Golwoth Islands¦|Elwakor Archipelago (Barracks)|14|3|;|Elwakor Archipelago (Settlement)|12|14|;Portal|Elwakor Portal|3|2|
+Elwakor Archipelago (Barracks)¦Elwakor_Archipelago_(Barracks)¦Golwoth Islands¦|Lokat Plain (Rockies)|3|3|;|Elwakor Archipelago (Ambush)|8|14|
+Lokat Plain (Rockies)¦Lokat_Plain_(Rockies)¦Golwoth Islands¦Relic|Stone Grinder Graveyard|3|18|;|Elwakor Archipelago (Barracks)|11|2|;|Lokat Plain (Murk)|13|16|;World Area|Golwoth Islands|5|6|
+Lokat Plain (Murk)¦Lokat_Plain_(Murk)¦Golwoth Islands¦|Lokat Plain (Rockies)|3|12|;|Lokat Plain (Flats)|12|15|
+Lokat Plain (Flats)¦Lokat_Plain_(Flats)¦Golwoth Islands¦|Lokat Plain (Murk)|12|6|;|Lokat Plain (Shadow)|3|13|
+Lokat Plain (Shadow)¦Lokat_Plain_(Shadow)¦Golwoth Islands¦|Lokat Plain (Flats)|16|6|;|Lokat Plain (Haunt)|4|14|;|Stages 1-2:|3|3|
+Forest of Yule (Thessa Town)¦Forest_of_Yule_(Thessa_Town)¦Krul Island¦|Forest of Yule (Clearing)|2|9|;|Stage 1:|13|11|;|Stage 2:|6|4|;|Stage 3:|17|17|;|Stage 4:|16|3|;|Stage 5:|13|11|
+Lokat Plain (Haunt)¦Lokat_Plain_(Haunt)¦Golwoth Islands¦|Lokat Plain (Shadow)|4|3|;|Lokat Plain (Skitter)|10|6|;|Lokat Plain (Shroud)|12|15|;|Stages 3-5:|3|17|
+Lokat Plain (Shroud)¦Lokat_Plain_(Shroud)¦Golwoth Islands¦|Lokat Plain (Haunt)|3|12|

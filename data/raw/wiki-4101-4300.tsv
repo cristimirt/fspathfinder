@@ -1,0 +1,212 @@
+Manaroc Castle (Barracks)¦Manaroc_Castle_(Barracks)¦Tenarog Forest¦|Manaroc Castle (Arcanum)|16|2|;|Manaroc Castle (Crypt)|10|21|;World Area|Tenarog Forest|5|5|
+Manaroc Castle (Arcanum)¦Manaroc_Castle_(Arcanum)¦Tenarog Forest¦|Manaroc Castle (Barracks)|2|4|;|Manaroc Castle (Library)|25|13|
+Manaroc Castle (Library)¦Manaroc_Castle_(Library)¦Tenarog Forest¦|Manaroc Castle (Arcanum)|2|3|;|Tenarog Forest (Edge)|16|17|
+Tenarog Forest (Edge)¦Tenarog_Forest_(Edge)¦Tenarog Forest¦|Manaroc Castle (Library)|3|3|;|Tenarog Forest (Clearing)|15|15|;Portal|Tenarog Portal|9|5|
+Tenarog Forest (Clearing)¦Tenarog_Forest_(Clearing)¦Tenarog Forest¦|Tenarog Forest (Herd)|3|3|;|Tenarog Forest (Edge)|7|15|
+Tenarog Forest (Herd)¦Tenarog_Forest_(Herd)¦Tenarog Forest¦Relic|Muskox Carcass|16|8|;|Tenarog Forest (Clearing)|14|2|;|Tenarog Forest (Lair)|2|17|
+Tenarog Forest (Lair)¦Tenarog_Forest_(Lair)¦Tenarog Forest¦|Tenarog Forest (Herd)|15|3|;|Tenarog Forest (Chill)|4|14|
+Tenarog Forest (Chill)¦Tenarog_Forest_(Chill)¦Tenarog Forest¦|Tenarog Forest (Lair)|3|3|;|Tenarog Forest (Shadows)|14|16|;World Area|Tenarog Forest|16|9|
+Tenarog Forest (Shadows)¦Tenarog_Forest_(Shadows)¦Tenarog Forest¦|Tenarog Forest (Depths)|3|3|;|Tenarog Forest (Chill)|9|15|
+Tenarog Forest (Depths)¦Tenarog_Forest_(Depths)¦Tenarog Forest¦|Tenarog Forest (Shadows)|3|3|;|Tenarog Forest (Brawl)|17|20|
+Tenarog Forest (Brawl)¦Tenarog_Forest_(Brawl)¦Tenarog Forest¦|Tenarog Forest (Hunt)|16|3|;|Tenarog Forest (Depths)|4|14|
+Tenarog Forest (Hunt)¦Tenarog_Forest_(Hunt)¦Tenarog Forest¦|Tenarog Forest (Brawl)|14|3|;|Tenarog Forest (Flame)|3|19|
+Tenarog Forest (Flame)¦Tenarog_Forest_(Flame)¦Tenarog Forest¦|Tenarog Forest (Glade)|16|3|;|Tenarog Forest (Hunt)|3|11|
+Tenarog Forest (Glade)¦Tenarog_Forest_(Glade)¦Tenarog Forest¦|Tenarog Forest (Flame)|3|3|;|Tenarog Forest (Horror)|17|17|;Portal|Tenarog Forest Portal|15|8|
+Tenarog Forest (Horror)¦Tenarog_Forest_(Horror)¦Tenarog Forest¦|Tenarog Forest (Glade)|2|4|;|Tenarog Forest (Thistle Grove)|20|15|;World Area|Tenarog Forest|21|3|
+Tenarog Forest (Thistle Grove)¦Tenarog_Forest_(Thistle_Grove)¦Tenarog Forest¦Relic|Giant Thistle|5|8|;|Tenarog Forest (Horror)|3|3|;|Tenarog Forest (Hide)|14|11|
+Tenarog Forest (Hide)¦Tenarog_Forest_(Hide)¦Tenarog Forest¦|Tenarog Forest (Thistle Grove)|3|3|;|Tenarog Forest (Grove)|8|22|
+Tenarog Forest (Grove)¦Tenarog_Forest_(Grove)¦Tenarog Forest¦|Tenarog Forest (Hide)|24|3|;|Tenarog Forest (Copse)|5|13|
+Tenarog Forest (Copse)¦Tenarog_Forest_(Copse)¦Tenarog Forest¦|Helanian Forest (Clearing)|18|2|;|Tenarog Forest (Grove)|9|17|
+Helanian Forest (Clearing)¦Helanian_Forest_(Clearing)¦Tenarog Forest¦|Helanian Forest (Grove)|14|3|;|Tenarog Forest (Copse)|4|16|;World Area|Tenarog Forest|2|3|
+Helanian Forest (Grove)¦Helanian_Forest_(Grove)¦Tenarog Forest¦|Helanian Forest (Clearing)|17|3|;|Helanian Forest (Silk)|2|18|
+Helanian Forest (Silk)¦Helanian_Forest_(Silk)¦Tenarog Forest¦|Helanian Forest (Grove)|13|1|;|Helanian Forest (Bud)|3|15|
+Helanian Forest (Bud)¦Helanian_Forest_(Bud)¦Tenarog Forest¦|Helanian Forest (Silk)|2|3|;|Helanian Forest (Range)|17|16|
+Helanian Forest (Range)¦Helanian_Forest_(Range)¦Tenarog Forest¦|Helanian Forest (Bud)|20|2|;|Helanian Forest (Copse)|2|15|;Portal|Helanian Portal|10|5|
+Helanian Forest (Copse)¦Helanian_Forest_(Copse)¦Tenarog Forest¦|Helanian Forest (Range)|15|3|;|Helanian Forest (Lair)|2|12|;|Helanian Forest (Bloom)|5|23|
+Helanian Forest (Lair)¦Helanian_Forest_(Lair)¦Tenarog Forest¦|Helanian Forest (Copse)|14|6|
+Springtime Forest (Flower Glade)¦Springtime_Forest_(Flower_Glade)¦Krul Island¦|Springtime Forest (Outer Grove)|9|8|
+Helanian Forest (Bloom)¦Helanian_Forest_(Bloom)¦Illiath Jungle¦Relic|Blooming Fairy Flowers|5|7|;|Helanian Forest (Copse)|13|2|;|Helanian Forest (Darkness)|3|17|;World Area|Illiath Jungle|1|13|
+Helanian Forest (Darkness)¦Helanian_Forest_(Darkness)¦Illiath Jungle¦|Helanian Forest (Edge)|16|2|;|Helanian Forest (Bloom)|5|16|
+Helanian Forest (Edge)¦Helanian_Forest_(Edge)¦Illiath Jungle¦|Helanian Forest (Darkness)|2|3|;|Illiath Jungle (Edge)|14|22|
+Illiath Jungle (Edge)¦Illiath_Jungle_(Edge)¦Illiath Jungle¦|Helanian Forest (Edge)|3|2|;|Illiath Jungle (Range)|23|14|
+Illiath Jungle (Range)¦Illiath_Jungle_(Range)¦Illiath Jungle¦|Illiath Jungle (Ritual Clearing)|15|2|;|Illiath Jungle (Edge)|1|14|
+Illiath Jungle (Ritual Clearing)¦Illiath_Jungle_(Ritual_Clearing)¦Illiath Jungle¦|Illiath Jungle (Council)|2|3|;|Illiath Jungle (Range)|13|20|
+Illiath Jungle (Council)¦Illiath_Jungle_(Council)¦Illiath Jungle¦|Illiath Jungle (Lair)|1|2|;|Illiath Jungle (Ritual Clearing)|18|9|
+Illiath Jungle (Lair)¦Illiath_Jungle_(Lair)¦Illiath Jungle¦|Illiath Jungle (Council)|14|3|;|Illiath Jungle (River)|2|22|
+Illiath Jungle (River)¦Illiath_Jungle_(River)¦Illiath Jungle¦|Illiath Jungle (Lair)|21|2|;|Illiath Jungle (Hive)|2|14|;Portal|Illiath Portal|3|8|;World Area|Illiath Jungle|23|7|
+Illiath Jungle (Hive)¦Illiath_Jungle_(Hive)¦Illiath Jungle¦|Illiath Jungle (River)|15|3|;|Illiath Jungle (Haunt)|2|17|
+Illiath Jungle (Haunt)¦Illiath_Jungle_(Haunt)¦Illiath Jungle¦Relic|Giant Jungle Flower|18|7|;|Illiath Jungle (Herd)|1|5|;|Illiath Jungle (Hive)|17|16|
+Illiath Jungle (Herd)¦Illiath_Jungle_(Herd)¦Illiath Jungle¦|Illiath Jungle (Stalk)|16|2|;|Illiath Jungle (Haunt)|3|16|
+Illiath Jungle (Stalk)¦Illiath_Jungle_(Stalk)¦Illiath Jungle¦|Illiath Jungle (Nest)|2|1|;|Illiath Jungle (Herd)|13|17|
+Illiath Jungle (Nest)¦Illiath_Jungle_(Nest)¦Illiath Jungle¦|Illiath Jungle (Stalk)|14|2|;|Illiath Jungle (Sting)|2|16|
+Illiath Jungle (Sting)¦Illiath_Jungle_(Sting)¦Illiath Jungle¦|Illiath Jungle (Hunt)|16|2|;|Illiath Jungle (Nest)|4|15|
+Illiath Jungle (Hunt)¦Illiath_Jungle_(Hunt)¦Illiath Jungle¦|Illiath Jungle (Sting)|1|5|;|Illiath Jungle (Darkness)|19|18|
+Illiath Jungle (Darkness)¦Illiath_Jungle_(Darkness)¦Illiath Jungle¦|Illiath Jungle (Hunt)|15|3|;|Illiath Jungle (Grove)|2|18|;World Area|Illiath Jungle|18|13|
+Illiath Jungle (Grove)¦Illiath_Jungle_(Grove)¦Illiath Jungle¦|Illiath Jungle (Darkness)|14|1|;|Illiath Jungle (Colony)|2|16|
+Illiath Jungle (Colony)¦Illiath_Jungle_(Colony)¦Illiath Jungle¦|Illiath Jungle (Clearing)|16|2|;|Illiath Jungle (Grove)|1|17|;Portal|Illiath Jungle Portal|9|16|
+Illiath Jungle (Clearing)¦Illiath_Jungle_(Clearing)¦Illiath Jungle¦|Kendaron Swamp (Lair)|16|3|;|Illiath Jungle (Colony)|9|22|
+Kendaron Swamp (Lair)¦Kendaron_Swamp_(Lair)¦Illiath Jungle¦Relic|Dimetrodon Carcass|5|11|;|Illiath Jungle (Clearing)|3|3|;|Kendaron Swamp (Grove)|20|9|;World Area|Illiath Jungle|12|13|
+Kendaron Swamp (Grove)¦Kendaron_Swamp_(Grove)¦Illiath Jungle¦|Kendaron Swamp (Lair)|14|3|;|Kendaron Swamp (Haunt)|5|14|
+Kendaron Swamp (Haunt)¦Kendaron_Swamp_(Haunt)¦Illiath Jungle¦|Kendaron Swamp (Grove)|3|3|;|Kendaron Swamp (Horror)|17|16|
+Kendaron Swamp (Horror)¦Kendaron_Swamp_(Horror)¦Illiath Jungle¦|Kendaron Swamp (Haunt)|16|6|;|Kendaron Swamp (Lurk)|3|15|
+Kendaron Swamp (Bog Hole)¦Kendaron_Swamp_(Bog_Hole)¦Illiath Jungle¦|Kendaron Swamp (Lurk)|9|8|
+Kendaron Swamp (Lurk)¦Kendaron_Swamp_(Lurk)¦Illiath Jungle¦|Kendaron Swamp (Horror)|14|2|;|Kendaron Swamp (Bog Hole)|3|3|;|Kendaron Swamp (Trap)|6|13|
+Kendaron Swamp (Trap)¦Kendaron_Swamp_(Trap)¦Kendaron Swamp¦|Kendaron Swamp (Lurk)|17|3|;|Kendaron Swamp (Pools)|6|13|;World Area|Kendaron Swamp|16|15|
+Kendaron Swamp (Pools)¦Kendaron_Swamp_(Pools)¦Kendaron Swamp¦|Kendaron Swamp (Trap)|3|3|;|Kendaron Swamp (Burrows)|12|21|
+Kendaron Swamp (Burrows)¦Kendaron_Swamp_(Burrows)¦Kendaron Swamp¦|Kendaron Swamp (Pools)|3|3|;|Kendaron Swamp (Depths)|18|14|
+Kendaron Swamp (Depths)¦Kendaron_Swamp_(Depths)¦Kendaron Swamp¦|Kendaron Swamp (Burrows)|2|5|;|Kendaron Swamp (Bone Yard)|12|17|;Portal|Kendaron Portal|10|8|
+Kendaron Swamp (Bone Yard)¦Kendaron_Swamp_(Bone_Yard)¦Kendaron Swamp¦|Kendaron Swamp (Depths)|21|3|;|Kendaron Swamp (Colony)|9|18|
+Kendaron Swamp (Colony)¦Kendaron_Swamp_(Colony)¦Kendaron Swamp¦Relic|Swamp Ape Corpse|4|16|;|Kendaron Swamp (Bone Yard)|3|3|;|Kendaron Swamp (Sump)|16|13|
+Kendaron Swamp (Sump)¦Kendaron_Swamp_(Sump)¦Kendaron Swamp¦|Kendaron Swamp (Waterway)|15|3|;|Kendaron Swamp (Colony)|10|16|
+Kendaron Swamp (Waterway)¦Kendaron_Swamp_(Waterway)¦Kendaron Swamp¦|Kendaron Swamp (Copse)|10|5|;|Kendaron Swamp (Sump)|2|14|;World Area|Kendaron Swamp|3|3|
+Kendaron Swamp (Copse)¦Kendaron_Swamp_(Copse)¦Kendaron Swamp¦|Kendaron Swamp (Waterway)|17|3|;|Kendaron Swamp (Drizzle)|3|16|
+Kendaron Swamp (Drizzle)¦Kendaron_Swamp_(Drizzle)¦Kendaron Swamp¦|Kendaron Swamp (Copse)|3|3|;|Kendaron Swamp (Mire)|17|17|
+Kendaron Swamp (Mire)¦Kendaron_Swamp_(Mire)¦Kendaron Swamp¦|Kendaron Swamp (Drizzle)|14|6|;|Kendaron Swamp (Bog)|5|22|
+Kendaron Swamp (Bog)¦Kendaron_Swamp_(Bog)¦Kendaron Swamp¦|Kendaron Swamp (Mire)|3|3|;|Kendaron Swamp (Rot)|20|14|
+Kendaron Swamp (Rot)¦Kendaron_Swamp_(Rot)¦Kendaron Swamp¦|Kendaron Swamp (Bog)|18|5|;|Kendaron Swamp (Pit)|2|15|
+Kendaron Swamp (Pit)¦Kendaron_Swamp_(Pit)¦Kendaron Swamp¦|Kendaron Swamp (Rot)|15|4|;|Kendaron Swamp (Hunt)|10|21|;Portal|Kendaron Portal|6|13|
+Kendaron Swamp (Hunt)¦Kendaron_Swamp_(Hunt)¦Kendaron Swamp¦|Kendaron Swamp (Pit)|5|5|;|Onaroc Plains (Grasses)|12|17|
+Onaroc Plains (Grasses)¦Onaroc_Plains_(Grasses)¦Kendaron Swamp¦Relic|Deathworm Tunnel|5|10|;|Kendaron Swamp (Hunt)|3|3|;|Onaroc Plains (Range)|16|18|;World Area|Kendaron Swamp|18|4|
+Onaroc Plains (Range)¦Onaroc_Plains_(Range)¦Kendaron Swamp¦|Onaroc Plains (Burrows)|14|6|;|Onaroc Plains (Grasses)|5|20|
+Onaroc Plains (Burrows)¦Onaroc_Plains_(Burrows)¦Kendaron Swamp¦|Onaroc Plains (Range)|22|2|;|Onaroc Plains (Flats)|2|13|
+Onaroc Plains (Flats)¦Onaroc_Plains_(Flats)¦Kendaron Swamp¦|Onaroc Plains (Burrows)|4|2|;|Onaroc Plains (Soar)|11|16|
+Onaroc Plains (Soar)¦Onaroc_Plains_(Soar)¦Kendaron Swamp¦|Onaroc Plains (Flats)|3|3|;|Onaroc Plains (Ambush)|11|15|
+Onaroc Plains (Ambush)¦Onaroc_Plains_(Ambush)¦Kendaron Swamp¦|Onaroc Plains (Soar)|2|4|;|Onaroc Plains (Crawl)|15|14|
+Onaroc Plains (Crawl)¦Onaroc_Plains_(Crawl)¦Kendaron Swamp¦|Onaroc Plains (Charge)|3|3|;|Onaroc Plains (Ambush)|15|17|;World Area|Kendaron Swamp|2|11|
+Onaroc Plains (Charge)¦Onaroc_Plains_(Charge)¦Kendaron Swamp¦|Onaroc Plains (Crawl)|22|4|;|Onaroc Plains (Savannah)|2|13|
+Onaroc Plains (Savannah)¦Onaroc_Plains_(Savannah)¦Kendaron Swamp¦|Onaroc Plains (Charge)|14|3|;|Onaroc Plains (Herd)|2|15|;Portal|Kendaron Portal|5|8|
+Onaroc Plains (Herd)¦Onaroc_Plains_(Herd)¦Kendaron Swamp¦|Onaroc Plains (Savannah)|3|3|;|Onaroc Plains (Wastes)|12|9|;|Onaroc Plains (Stalk)|14|19|
+Onaroc Plains (Wastes)¦Onaroc_Plains_(Wastes)¦Kendaron Swamp¦|Onaroc Plains (Herd)|7|10|
+Onaroc Plains (Stalk)¦Onaroc_Plains_(Stalk)¦The Bentaroth Wastes¦Relic|Savannah Oasis|3|13|;|Onaroc Plains (Herd)|14|2|;|Onaroc Plains (Tribe)|5|14|;World Area|The Bentaroth Wastes|17|11|
+Onaroc Plains (Tribe)¦Onaroc_Plains_(Tribe)¦The Bentaroth Wastes¦|Onaroc Plains (Stalk)|3|3|;|Bentaroth Wastes (Prowl)|17|17|
+Bentaroth Wastes (Prowl)¦Bentaroth_Wastes_(Prowl)¦The Bentaroth Wastes¦|Onaroc Plains (Tribe)|2|5|;|Bentaroth Wastes (Pride)|11|15|
+Bentaroth Wastes (Pride)¦Bentaroth_Wastes_(Pride)¦The Bentaroth Wastes¦|Bentaroth Wastes (Prowl)|14|3|;|Bentaroth Wastes (Slither)|4|11|
+Bentaroth Wastes (Slither)¦Bentaroth_Wastes_(Slither)¦The Bentaroth Wastes¦|Bentaroth Wastes (Soar)|3|3|;|Bentaroth Wastes (Pride)|16|16|
+Bentaroth Wastes (Soar)¦Bentaroth_Wastes_(Soar)¦The Bentaroth Wastes¦|Bentaroth Wastes (Dustflats)|16|3|;|Bentaroth Wastes (Slither)|2|17|
+Bentaroth Wastes (Dustflats)¦Bentaroth_Wastes_(Dustflats)¦The Bentaroth Wastes¦|Bentaroth Wastes (Soar)|16|4|;|Bentaroth Wastes (Scorch)|7|13|
+Bentaroth Wastes (Scorch)¦Bentaroth_Wastes_(Scorch)¦The Bentaroth Wastes¦|Bentaroth Wastes (Stalk)|11|3|;|Bentaroth Wastes (Dustflats)|4|14|;World Area|The Bentaroth Wastes|2|6|
+Bentaroth Wastes (Stalk)¦Bentaroth_Wastes_(Stalk)¦The Bentaroth Wastes¦|Bentaroth Wastes (Scorch)|7|3|;|Bentaroth Wastes (Range)|12|22|;Portal|Bentaroth Portal|9|16|
+Bentaroth Wastes (Range)¦Bentaroth_Wastes_(Range)¦The Bentaroth Wastes¦|Bentaroth Wastes (Village)|21|3|;|Bentaroth Wastes (Stalk)|5|9|
+Bentaroth Wastes (Village)¦Bentaroth_Wastes_(Village)¦The Bentaroth Wastes¦Relic|Rack of Bentaroth Spears|10|3|;|Bentaroth Wastes (Range)|2|5|;|Bentaroth Wastes (Training Ground)|12|16|
+Bentaroth Wastes (Training Ground)¦Bentaroth_Wastes_(Training_Ground)¦The Bentaroth Wastes¦|Bentaroth Wastes (Village)|17|4|;|Bentaroth Wastes (Ritual Site)|7|17|
+Bentaroth Wastes (Ritual Site)¦Bentaroth_Wastes_(Ritual_Site)¦The Bentaroth Wastes¦|Bentaroth Wastes (Stampede)|13|3|;|Bentaroth Wastes (Training Ground)|5|16|
+Bentaroth Wastes (Stampede)¦Bentaroth_Wastes_(Stampede)¦The Bentaroth Wastes¦|Bentaroth Wastes (Ritual Site)|12|3|;|Bentaroth Wastes (Rocky Range)|7|14|
+Bentaroth Wastes (Rocky Range)¦Bentaroth_Wastes_(Rocky_Range)¦The Bentaroth Wastes¦|Bentaroth Wastes (Stampede)|3|3|;|Bentaroth Wastes (Haunt)|17|16|;World Area|The Bentaroth Wastes|14|10|
+Bentaroth Wastes (Haunt)¦Bentaroth_Wastes_(Haunt)¦The Bentaroth Wastes¦|Bentaroth Wastes (Scrub)|3|3|;|Bentaroth Wastes (Rocky Range)|21|14|
+Bentaroth Wastes (Scrub)¦Bentaroth_Wastes_(Scrub)¦The Bentaroth Wastes¦|Malanar Coast (Shallows)|13|3|;|Bentaroth Wastes (Haunt)|10|21|
+Malanar Coast (Shallows)¦Malanar_Coast_(Shallows)¦The Bentaroth Wastes¦|Malanar Coast (Rock Pools)|16|3|;|Bentaroth Wastes (Scrub)|9|15|
+Malanar Coast (Rock Pools)¦Malanar_Coast_(Rock_Pools)¦The Bentaroth Wastes¦|Malanar Coast (Shallows)|2|3|;|Malanar Coast (Cove)|19|19|;Portal|Malanar Portal|13|10|
+Malanar Coast (Cove)¦Malanar_Coast_(Cove)¦The Bentaroth Wastes¦|Malanar Coast (Rock Pools)|5|3|;|Malanar Coast (Depths)|16|14|
+Malanar Coast (Depths)¦Malanar_Coast_(Depths)¦The Bentaroth Wastes¦Relic|Sea Witch Cauldron|2|5|;|Malanar Coast (Cove)|4|3|;|Malanar Coast (Edge)|18|14|;World Area|The Bentaroth Wastes|21|3|
+Malanar Coast (Edge)¦Malanar_Coast_(Edge)¦The Bentaroth Wastes¦|Malanar Coast (Salt)|3|3|;|Malanar Coast (Depths)|10|23|
+Malanar Coast (Salt)¦Malanar_Coast_(Salt)¦The Bentaroth Wastes¦|Malanar Coast (Edge)|16|3|;|Malanar Coast (Sting)|2|17|
+Malanar Coast (Sting)¦Malanar_Coast_(Sting)¦The Bentaroth Wastes¦|Malanar Coast (Tide Pools)|4|6|;|Malanar Coast (Salt)|16|16|
+Malanar Coast (Lair)¦Malanar_Coast_(Lair)¦The Bentaroth Wastes¦|Malanar Coast (Tide Pools)|11|6|
+Malanar Coast (Tide Pools)¦Malanar_Coast_(Tide_Pools)¦The Bentaroth Wastes¦|Malanar Coast (Sting)|3|3|;|Malanar Coast (Lair)|12|4|;|Malanar Coast (Fury)|11|14|
+Malanar Coast (Fury)¦Malanar_Coast_(Fury)¦Sitarnath Coast¦|Malanar Coast (Tide Pools)|15|3|;|Jenneth Coast (Cove)|3|11|;World Area|Sitarnath Coast|17|14|
+Jenneth Coast (Cove)¦Jenneth_Coast_(Cove)¦Sitarnath Coast¦|Jenneth Coast (Town)|15|6|;|Malanar Coast (Fury)|4|13|
+Jenneth Coast (Town)¦Jenneth_Coast_(Town)¦Sitarnath Coast¦|Jenneth Coast (Shanty)|15|5|;|Jenneth Coast (Cove)|4|14|
+Jenneth Coast (Shanty)¦Jenneth_Coast_(Shanty)¦Sitarnath Coast¦|Jenneth Coast (Town)|16|7|;|Jenneth Coast (Crawl)|5|18|;Portal|Jenneth Portal|7|4|
+Jenneth Coast (Crawl)¦Jenneth_Coast_(Crawl)¦Sitarnath Coast¦|Jenneth Coast (Store)|6|3|;|Jenneth Coast (Shanty)|5|18|
+Jenneth Coast (Store)¦Jenneth_Coast_(Store)¦Sitarnath Coast¦Relic|Bomb Stash|6|7|;|Jenneth Coast (Crawl)|2|2|;|Jenneth Coast (Huts)|10|16|
+Jenneth Coast (Huts)¦Jenneth_Coast_(Huts)¦Sitarnath Coast¦|Jenneth Coast (Store)|17|3|;|Jenneth Coast (Range)|11|22|;World Area|Sitarnath Coast|5|15|
+Jenneth Coast (Range)¦Jenneth_Coast_(Range)¦Sitarnath Coast¦|Jenneth Coast (Huts)|12|3|;|Jenneth Coast (Edge)|4|22|
+Jenneth Coast (Edge)¦Jenneth_Coast_(Edge)¦Sitarnath Coast¦|Jenneth Coast (Range)|3|3|;|Jenneth Coast (Flight)|22|7|
+Jenneth Coast (Flight)¦Jenneth_Coast_(Flight)¦Sitarnath Coast¦|Jenneth Coast (Brawl)|16|3|;|Jenneth Coast (Edge)|5|16|
+Jenneth Coast (Brawl)¦Jenneth_Coast_(Brawl)¦Sitarnath Coast¦|Jenneth Coast (Flight)|2|4|;|Jenneth Coast (Shallows)|12|17|
+Jenneth Coast (Shallows)¦Jenneth_Coast_(Shallows)¦Sitarnath Coast¦|Jenneth Coast (Brawl)|13|3|;|Jenneth Coast (Scrub)|3|13|
+Jenneth Coast (Scrub)¦Jenneth_Coast_(Scrub)¦Sitarnath Coast¦|Sitarnath Coast (Edge)|2|7|;|Jenneth Coast (Shallows)|13|16|
+Sitarnath Coast (Edge)¦Sitarnath_Coast_(Edge)¦Sitarnath Coast¦|Jenneth Coast (Scrub)|4|3|;|Sitarnath Coast (Defense)|14|17|;Portal|Sitarnath Portal|12|10|;World Area|Sitarnath Coast|7|16|
+Sitarnath Coast (Defense)¦Sitarnath_Coast_(Defense)¦Sitarnath Coast¦|Sitarnath Coast (Curse)|3|3|;|Sitarnath Coast (Edge)|12|22|
+Sitarnath Coast (Curse)¦Sitarnath_Coast_(Curse)¦Sitarnath Coast¦Relic|Unquiet Grave|13|10|;|Sitarnath Coast (Soar)|20|6|;|Sitarnath Coast (Defense)|6|14|
+Sitarnath Coast (Soar)¦Sitarnath_Coast_(Soar)¦Sitarnath Coast¦|Sitarnath Coast (Shallows)|15|3|;|Sitarnath Coast (Curse)|2|9|
+Sitarnath Coast (Shallows)¦Sitarnath_Coast_(Shallows)¦Sitarnath Coast¦|Sitarnath Coast (Soar)|14|3|;|Sitarnath Coast (Lair)|5|14|
+Sitarnath Coast (Lair)¦Sitarnath_Coast_(Lair)¦Sitarnath Coast¦|Sitarnath Coast (Beach)|22|4|;|Sitarnath Coast (Shallows)|9|14|
+Sitarnath Coast (Beach)¦Sitarnath_Coast_(Beach)¦Sitarnath Coast¦|Sitarnath Coast (Lair)|9|3|;|Sitarnath Coast (Pools)|10|22|
+Sitarnath Coast (Pools)¦Sitarnath_Coast_(Pools)¦Sitarnath Coast¦|Sitarnath Coast (Beach)|5|3|;|Sitarnath Coast (Depths)|12|16|;World Area|Sitarnath Coast|16|9|
+Sitarnath Coast (Depths)¦Sitarnath_Coast_(Depths)¦Sitarnath Coast¦|Sitarnath Coast (Pools)|14|4|;|Sitarnath Coast (Frenzy)|3|11|
+Sitarnath Coast (Frenzy)¦Sitarnath_Coast_(Frenzy)¦Sitarnath Coast¦|Sitarnath Coast (Depths)|3|3|;|Sitarnath Coast (Abyss)|15|11|
+Sitarnath Coast (Abyss)¦Sitarnath_Coast_(Abyss)¦Sitarnath Coast¦|Sitarnath Coast (Fae)|3|3|;|Sitarnath Coast (Frenzy)|11|15|;Portal|Sitarnath Coast Portal|7|11|
+Quango Island (Festival)¦Quango_Island_(Festival)¦Arrin Moors¦Shop|Marvellous Mushroom!|7|2|;|Quango Island|3|22|;|Stages 1-6:|11|8|
+Sitarnath Coast (Den)¦Sitarnath_Coast_(Den)¦Sitarnath Coast¦|Sitarnath Coast (Fae)|11|3|
+Sitarnath Coast (Fae)¦Sitarnath_Coast_(Fae)¦Sitarnath Coast¦|Sitarnath Coast (Den)|4|2|;|Sitarnath Coast (Surf)|16|3|;|Sitarnath Coast (Abyss)|11|14|
+Sitarnath Coast (Surf)¦Sitarnath_Coast_(Surf)¦Yilnaroth Forest¦Relic|Selkie Corpse|5|11|;|Sitarnath Coast (Fae)|8|6|;|Sitarnath Coast (Rot)|11|16|;World Area|Yilnaroth Forest|15|3|
+Sitarnath Coast (Rot)¦Sitarnath_Coast_(Rot)¦Yilnaroth Forest¦|Sitarnath Coast (Surf)|10|4|;|Ishnaron Coast (Beach)|17|17|
+Ishnaron Coast (Beach)¦Ishnaron_Coast_(Beach)¦Yilnaroth Forest¦|Sitarnath Coast (Rot)|5|5|;|Ishnaron Coast (Crawl)|21|12|
+Ishnaron Coast (Crawl)¦Ishnaron_Coast_(Crawl)¦Yilnaroth Forest¦|Ishnaron Coast (Beach)|13|3|;|Ishnaron Coast (Shallows)|6|21|
+Ishnaron Coast (Shallows)¦Ishnaron_Coast_(Shallows)¦Yilnaroth Forest¦|Ishnaron Coast (Crawl)|3|3|;|Ishnaron Coast (Hide)|14|12|
+Ishnaron Coast (Hide)¦Ishnaron_Coast_(Hide)¦Yilnaroth Forest¦|Ishnaron Coast (Shallows)|14|3|;|Ishnaron Coast (Depths)|9|22|
+Ishnaron Coast (Depths)¦Ishnaron_Coast_(Depths)¦Yilnaroth Forest¦|Ishnaron Coast (Hide)|17|3|;|Ishnaron Coast (Lair)|8|15|
+Ishnaron Coast (Lair)¦Ishnaron_Coast_(Lair)¦Yilnaroth Forest¦|Ishnaron Coast (Depths)|4|3|;|Ishnaron Coast (Moon)|15|12|;World Area|Yilnaroth Forest|17|4|
+Ishnaron Coast (Moon)¦Ishnaron_Coast_(Moon)¦Yilnaroth Forest¦|Ishnaron Coast (Lair)|4|3|;|Ishnaron Coast (Skitter)|9|14|;Portal|Ishnaron Portal|10|6|
+Ishnaron Coast (Skitter)¦Ishnaron_Coast_(Skitter)¦Yilnaroth Forest¦|Ishnaron Coast (Moon)|3|3|;|Ishnaron Coast (Lance)|9|16|
+Ishnaron Coast (Lance)¦Ishnaron_Coast_(Lance)¦Yilnaroth Forest¦Relic|Narwhal Horn|10|5|;|Ishnaron Coast (Breach)|3|3|;|Ishnaron Coast (Skitter)|12|14|
+Ishnaron Coast (Breach)¦Ishnaron_Coast_(Breach)¦Yilnaroth Forest¦|Ishnaron Coast (Dread)|18|5|;|Ishnaron Coast (Lance)|8|18|
+Ishnaron Coast (Dread)¦Ishnaron_Coast_(Dread)¦Yilnaroth Forest¦|Ishnaron Coast (Breach)|3|3|;|Ishnaron Coast (Churn)|15|11|
+Ishnaron Coast (Churn)¦Ishnaron_Coast_(Churn)¦Yilnaroth Forest¦|Yilnaroth Forest (Blood)|17|3|;|Ishnaron Coast (Dread)|7|14|
+Yilnaroth Forest (Blood)¦Yilnaroth_Forest_(Blood)¦Yilnaroth Forest¦|Ishnaron Coast (Churn)|2|4|;|Yilnaroth Forest (Lair)|21|10|;World Area|Yilnaroth Forest|17|3|
+Yilnaroth Forest (Lair)¦Yilnaroth_Forest_(Lair)¦Yilnaroth Forest¦|Yilnaroth Forest (Blood)|6|3|;|Yilnaroth Forest (Clearing)|2|22|
+Yilnaroth Forest (Clearing)¦Yilnaroth_Forest_(Clearing)¦Yilnaroth Forest¦|Yilnaroth Forest (Lair)|16|3|;|Yilnaroth Forest (Copse)|8|14|
+Yilnaroth Forest (Copse)¦Yilnaroth_Forest_(Copse)¦Yilnaroth Forest¦|Yilnaroth Forest (Grave)|14|4|;|Yilnaroth Forest (Clearing)|5|13|
+Yilnaroth Forest (Grave)¦Yilnaroth_Forest_(Grave)¦Yilnaroth Forest¦|Yilnaroth Forest (Copse)|15|3|;|Yilnaroth Forest (Bones)|3|12|;Portal|Yilnaroth Portal|13|10|
+Yilnaroth Forest (Bones)¦Yilnaroth_Forest_(Bones)¦Yilnaroth Forest¦|Yilnaroth Forest (Grave)|15|3|;|Yilnaroth Forest (Sepulchre)|9|17|
+Yilnaroth Forest (Sepulchre)¦Yilnaroth_Forest_(Sepulchre)¦Yilnaroth Forest¦Relic|Snowy Sepulchre|3|13|;|Yilnaroth Forest (Bones)|10|2|;|Yilnaroth Forest (Hide)|15|15|
+Yilnaroth Forest (Hide)¦Yilnaroth_Forest_(Hide)¦Yilnaroth Forest¦|Yilnaroth Forest (Sepulchre)|13|4|;|Yilnaroth Forest (Charge)|6|15|;World Area|Yilnaroth Forest|3|3|
+Yilnaroth Forest (Charge)¦Yilnaroth_Forest_(Charge)¦Yilnaroth Forest¦|Yilnaroth Forest (Hide)|3|3|;|Yilnaroth Forest (Prowl)|10|15|
+Yilnaroth Forest (Prowl)¦Yilnaroth_Forest_(Prowl)¦Yilnaroth Forest¦|Yilnaroth Forest (Shade)|14|3|;|Yilnaroth Forest (Charge)|6|12|
+Yilnaroth Forest (Glade)¦Yilnaroth_Forest_(Glade)¦Yilnaroth Forest¦|Yilnaroth Forest (Shade)|5|11|
+Yilnaroth Forest (Shade)¦Yilnaroth_Forest_(Shade)¦Yilnaroth Forest¦|Yilnaroth Forest (Roost)|16|3|;|Yilnaroth Forest (Glade)|7|7|;|Yilnaroth Forest (Prowl)|3|14|
+Yilnaroth Forest (Roost)¦Yilnaroth_Forest_(Roost)¦Ultanis Forest¦|Yilnaroth Forest (Shade)|3|3|;|Yilnaroth Forest (Pasture)|15|20|;World Area|Ultanis Forest|2|21|
+Yilnaroth Forest (Pasture)¦Yilnaroth_Forest_(Pasture)¦Ultanis Forest¦|Yilnaroth Forest (Roost)|14|3|;|Sharath Forest (Solitary)|6|13|
+Sharath Forest (Solitary)¦Sharath_Forest_(Solitary)¦Ultanis Forest¦|Yilnaroth Forest (Pasture)|3|3|;|Sharath Forest (Edge)|8|16|
+Sharath Forest (Edge)¦Sharath_Forest_(Edge)¦Ultanis Forest¦|Sharath Forest (Shroud)|12|3|;|Sharath Forest (Solitary)|3|16|;Portal|Sharath Portal|17|15|
+Sharath Forest (Shroud)¦Sharath_Forest_(Shroud)¦Ultanis Forest¦|Sharath Forest (Edge)|12|3|;|Sharath Forest (Grove)|8|20|
+Sharath Forest (Grove)¦Sharath_Forest_(Grove)¦Ultanis Forest¦Relic|Petrified Dryad|12|10|;|Sharath Forest (Lair)|16|3|;|Sharath Forest (Shroud)|7|14|
+Sharath Forest (Lair)¦Sharath_Forest_(Lair)¦Ultanis Forest¦|Sharath Forest (Grove)|16|5|;|Sharath Forest (Stalk)|7|16|
+Sharath Forest (Stalk)¦Sharath_Forest_(Stalk)¦Ultanis Forest¦|Sharath Forest (Ravage)|13|3|;|Sharath Forest (Lair)|6|14|;World Area|Ultanis Forest|2|7|
+Sharath Forest (Ravage)¦Sharath_Forest_(Ravage)¦Ultanis Forest¦|Sharath Forest (Stalk)|14|4|;|Sharath Forest (Graze)|4|17|
+Sharath Forest (Graze)¦Sharath_Forest_(Graze)¦Ultanis Forest¦|Sharath Forest (Ravage)|3|3|;|Sharath Forest (Webs)|11|20|
+Sharath Forest (Webs)¦Sharath_Forest_(Webs)¦Ultanis Forest¦|Sharath Forest (Graze)|15|2|;|Sharath Forest (Horror)|2|12|
+Sharath Forest (Horror)¦Sharath_Forest_(Horror)¦Ultanis Forest¦|Sharath Forest (Webs)|7|5|;|Sharath Forest (Thorn)|10|15|
+Sharath Forest (Thorn)¦Sharath_Forest_(Thorn)¦Ultanis Forest¦|Sharath Forest (Horror)|2|7|;|Sharath Forest (Vale)|12|17|
+Sharath Forest (Vale)¦Sharath_Forest_(Vale)¦Ultanis Forest¦|Sharath Forest (Thorn)|15|2|;|Sharath Forest (Copse)|2|10|;Portal|Sharath Forest Portal|9|15|
+Sharath Forest (Copse)¦Sharath_Forest_(Copse)¦Ultanis Forest¦|Sharath Forest (Vale)|3|3|;|Ultanis Forest (Herd)|13|22|
+Ultanis Forest (Herd)¦Ultanis_Forest_(Herd)¦Ultanis Forest¦Relic|Black Stag Corpse|3|3|;|Sharath Forest (Copse)|22|4|;|Ultanis Forest (Nursery)|7|13|;World Area|Ultanis Forest|19|10|
+Ultanis Forest (Nursery)¦Ultanis_Forest_(Nursery)¦Ultanis Forest¦|Ultanis Forest (Herd)|14|3|;|Ultanis Forest (Silence)|2|9|
+Ultanis Forest (Silence)¦Ultanis_Forest_(Silence)¦Ultanis Forest¦|Ultanis Forest (Soar)|14|3|;|Ultanis Forest (Nursery)|8|16|
+Ultanis Forest (Soar)¦Ultanis_Forest_(Soar)¦Ultanis Forest¦|Ultanis Forest (Silence)|2|5|;|Ultanis Forest (Grove)|18|12|
+Ultanis Forest (Grove)¦Ultanis_Forest_(Grove)¦Ultanis Forest¦|Ultanis Forest (Soar)|14|2|;|Ultanis Forest (Lair)|3|12|
+Ultanis Forest (Lair)¦Ultanis_Forest_(Lair)¦Ultanis Forest¦|Ultanis Forest (Grove)|13|3|;|Ultanis Forest (Scrabble)|5|21|
+Ultanis Forest (Scrabble)¦Ultanis_Forest_(Scrabble)¦Ultanis Forest¦|Ultanis Forest (Lair)|13|3|;|Ultanis Forest (Clearing)|4|13|;World Area|Ultanis Forest|2|7|
+Ultanis Forest (Clearing)¦Ultanis_Forest_(Clearing)¦Ultanis Forest¦|Ultanis Forest (Scrabble)|15|3|;|Ultanis Forest (Depths)|2|13|
+Ultanis Forest (Depths)¦Ultanis_Forest_(Depths)¦Ultanis Forest¦|Ultanis Forest (Clearing)|2|5|;|Monatis Forest (Stillness)|12|20|;Portal|Ultanis Portal|13|3|
+Monatis Forest (Copse)¦Monatis_Forest_(Copse)¦Ultanis Forest¦|Monatis Forest (Stillness)|2|2|
+Monatis Forest (Stillness)¦Monatis_Forest_(Stillness)¦Ultanis Forest¦|Ultanis Forest (Depths)|16|3|;|Monatis Forest (Copse)|6|10|;|Monatis Forest (Curse)|19|12|
+Monatis Forest (Curse)¦Monatis_Forest_(Curse)¦Poranian Forest¦Relic|Cursed Burial Mound|15|4|;|Monatis Forest (Glade)|3|3|;|Monatis Forest (Stillness)|6|14|;World Area|Poranian Forest|13|11|
+Monatis Forest (Glade)¦Monatis_Forest_(Glade)¦Poranian Forest¦|Monatis Forest (Curse)|16|3|;|Monatis Forest (Glimmer)|9|16|
+Monatis Forest (Glimmer)¦Monatis_Forest_(Glimmer)¦Poranian Forest¦|Monatis Forest (Colony)|11|3|;|Monatis Forest (Glade)|8|16|
+Monatis Forest (Colony)¦Monatis_Forest_(Colony)¦Poranian Forest¦|Monatis Forest (Burrow)|14|6|;|Monatis Forest (Glimmer)|4|15|
+Monatis Forest (Burrow)¦Monatis_Forest_(Burrow)¦Poranian Forest¦|Monatis Forest (Colony)|16|2|;|Monatis Forest (Haunt)|5|13|
+Monatis Forest (Haunt)¦Monatis_Forest_(Haunt)¦Poranian Forest¦|Monatis Forest (Slither)|16|3|;|Monatis Forest (Burrow)|8|16|
+Monatis Forest (Slither)¦Monatis_Forest_(Slither)¦Poranian Forest¦|Monatis Forest (Haunt)|3|3|;|Monatis Forest (Hide)|10|14|
+Monatis Forest (Hide)¦Monatis_Forest_(Hide)¦Poranian Forest¦|Monatis Forest (Graze)|14|3|;|Monatis Forest (Slither)|5|15|
+Monatis Forest (Graze)¦Monatis_Forest_(Graze)¦Poranian Forest¦|Monatis Forest (Grove)|4|3|;|Monatis Forest (Hide)|11|20|;Portal|Monatis Portal|2|17|;World Area|Poranian Forest|12|7|
+Monatis Forest (Grove)¦Monatis_Forest_(Grove)¦Poranian Forest¦|Monatis Forest (Graze)|4|3|;|Monatis Forest (Roots)|16|10|
+Monatis Forest (Roots)¦Monatis_Forest_(Roots)¦Poranian Forest¦Relic|Giant Root Cluster|5|4|;|Monatis Forest (Circle)|14|3|;|Monatis Forest (Grove)|8|16|
+Monatis Forest (Circle)¦Monatis_Forest_(Circle)¦Poranian Forest¦|Monatis Forest (Roots)|3|3|;|Monatis Forest (Terror)|9|14|
+Monatis Forest (Terror)¦Monatis_Forest_(Terror)¦Poranian Forest¦|Monatis Forest (Nursery)|16|3|;|Monatis Forest (Circle)|10|17|
+Monatis Forest (Nursery)¦Monatis_Forest_(Nursery)¦Poranian Forest¦|Monatis Forest (Terror)|12|3|;|Monatis Forest (Orchard)|6|17|
+Monatis Forest (Orchard)¦Monatis_Forest_(Orchard)¦Poranian Forest¦|Monatis Forest (Nursery)|3|3|;|Poranian Forest (Blaze)|14|15|
+Poranian Forest (Blaze)¦Poranian_Forest_(Blaze)¦Poranian Forest¦|Monatis Forest (Orchard)|3|3|;|Poranian Forest (Vines)|12|15|;World Area|Poranian Forest|16|9|
+Poranian Forest (Vines)¦Poranian_Forest_(Vines)¦Poranian Forest¦|Poranian Forest (Bark)|14|6|;|Poranian Forest (Blaze)|2|16|
+Poranian Forest (Bark)¦Poranian_Forest_(Bark)¦Poranian Forest¦|Poranian Forest (Vines)|16|3|;|Poranian Forest (Haunt)|8|17|
+Poranian Forest (Haunt)¦Poranian_Forest_(Haunt)¦Poranian Forest¦|Poranian Forest (Bark)|2|3|;|Poranian Forest (Village)|20|22|;Portal|Poranian Portal|11|20|
+Poranian Forest (Village)¦Poranian_Forest_(Village)¦Poranian Forest¦|Poranian Forest (Haunt)|3|3|;|Poranian Forest (Brawl)|7|15|
+Poranian Forest (Brawl)¦Poranian_Forest_(Brawl)¦Poranian Forest¦Relic|Gnome Hut|10|12|;|Poranian Forest (Stalk)|15|6|;|Poranian Forest (Village)|5|17|
+Poranian Forest (Stalk)¦Poranian_Forest_(Stalk)¦Poranian Forest¦|Poranian Forest (Brawl)|14|3|;|Poranian Forest (Horror)|3|10|;World Area|Poranian Forest|9|14|
+Poranian Forest (Horror)¦Poranian_Forest_(Horror)¦Poranian Forest¦|Poranian Forest (Toon)|15|3|;|Poranian Forest (Stalk)|5|13|
+Poranian Forest (Toon)¦Poranian_Forest_(Toon)¦Poranian Forest¦|Poranian Forest (Horror)|6|3|;|Poranian Forest (Graze)|14|12|
+Forest of Yule (Paradeus Grove)¦Forest_of_Yule_(Paradeus_Grove)¦Krul Island¦|Forest of Yule (Paradeus Mountain)|14|4|
+Forest of Yule (Paradeus Mountain)¦Forest_of_Yule_(Paradeus_Mountain)¦Krul Island¦Shop|Paradeus Knick Knacks|3|3|;|Forest of Yule (Clearing)|6|14|;|Forest of Yule (Paradeus Grove)|2|22|;|Stages 1-7:|17|7|
+Poranian Forest (Graze)¦Poranian_Forest_(Graze)¦Poranian Forest¦|Poranian Forest (Manor)|15|2|;|Poranian Forest (Toon)|3|3|;|Poranian Forest (Thistle)|17|10|
+Poranian Forest (Manor)¦Poranian_Forest_(Manor)¦Poranian Forest¦|Poranian Forest (Graze)|8|6|
