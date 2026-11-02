@@ -589,7 +589,7 @@
   // ---------------------------------------------------------------- routing
   // Cost is in moves: walking inside a realm is the straight-line distance between the tile you arrive on and the tile of
   // the next stairs / portal (diagonals allowed, obstacles ignored). A portal reaches any master realm's world map, and you can
-  // always teleport to Mountain Path for free, so the cheapest way may start by walking to a nearby portal instead.
+  // teleport to Mountain Path for 25 stamina, so the cheapest way may start by walking to a nearby portal instead.
   const findRoute = R.findRoute;
   // a master realm is shown with its level in brackets, the way the game sorts its portal menu
   const wm = (n) => esc(n) + (byName[n] && byName[n].kind === 'master' ? ' [' + byName[n].level + ']' : '');
@@ -598,7 +598,7 @@
     const e = s.edge;
     const walk = s.walk ? ' <span class="mv">' + s.walk + ' move' + (s.walk === 1 ? '' : 's') + ' to get there</span>' : '';
     if (e.kind === 'free') {
-      return 'Teleport to ' + link(e.to) + ' <span class="sub">&mdash; free from anywhere, you arrive at ' + coord(e.ax, e.ay) + '</span>';
+      return 'Teleport to ' + link(e.to) + ' <span class="sub">&mdash; from anywhere, costs 25 stamina, you arrive at ' + coord(e.ax, e.ay) + '</span>';
     }
     if (e.kind === 'portal') {
       return 'In ' + link(s.from) + ', walk to the <b>' + esc(e.name) + '</b> ' + coord(e.x, e.y) + walk + ' and teleport to the ' + link(e.to) +
