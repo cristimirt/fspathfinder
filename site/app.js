@@ -7,29 +7,17 @@
   const norm = (s) => String(s).toLowerCase().replace(/[^a-z0-9]/g, '');
 
   // ---------------------------------------------------------------- level colours
-  // Same idea as the original guide's colour bar: purple at level 1, through blue, teal, green, yellow, orange to dark red.
-  const STOPS = [
-    [1, [123, 31, 162]], [10, [91, 54, 184]], [20, [58, 73, 214]], [30, [44, 102, 230]], [40, [28, 140, 214]],
-    [50, [19, 168, 184]], [70, [39, 174, 96]], [100, [226, 196, 0]], [115, [243, 156, 18]], [130, [239, 108, 26]],
-    [150, [224, 58, 47]], [190, [139, 26, 26]], [300, [122, 28, 92]], [400, [76, 40, 126]], [500, [34, 62, 120]], [600, [20, 96, 110]], [700, [24, 110, 70]],
-  ];
-  // above 700 the hue keeps walking round the wheel, one stop per 100 levels, so neighbouring bands stay distinct
-  for (let l = 800; l <= 6400; l += 100) {
-    const h = (l / 100 * 47) % 360, s = 0.55, v = 0.36;
-    const f = (n) => { const k = (n + h / 60) % 6; return Math.round(255 * (v - v * s * Math.max(0, Math.min(k, 4 - k, 1)))); };
-    STOPS.push([l, [f(5), f(3), f(1)]]);
-  }
+  // One rainbow over the whole range: violet at level 1 through indigo, blue, green, yellow and orange to red at level 10000.
+  // A square-root scale: half way between a straight line and a log scale, so the early levels change colour a little sooner
+  // than a straight line would (level 1000 is a third of the way along, level 3000 is at green) without racing ahead.
+  const RAINBOW = [[123, 31, 162], [75, 54, 190], [44, 102, 230], [39, 174, 96], [226, 196, 0], [239, 125, 26], [205, 40, 40]];
+  const TOP_LEVEL = 10000;
+  const levelT = (l) => Math.sqrt(Math.max(0, Math.min(1, (l - 1) / (TOP_LEVEL - 1)))); // 0 .. 1 along the rainbow
   function levelRGB(l) {
-    if (l <= STOPS[0][0]) return STOPS[0][1];
-    for (let i = 1; i < STOPS.length; i++) {
-      if (l <= STOPS[i][0]) {
-        const [l0, c0] = STOPS[i - 1];
-        const [l1, c1] = STOPS[i];
-        const t = (l - l0) / (l1 - l0);
-        return c0.map((v, k) => Math.round(v + (c1[k] - v) * t));
-      }
-    }
-    return STOPS[STOPS.length - 1][1];
+    const x = levelT(l) * (RAINBOW.length - 1);
+    const i = Math.min(Math.floor(x), RAINBOW.length - 2);
+    const f = x - i;
+    return RAINBOW[i].map((v, k) => Math.round(v + (RAINBOW[i + 1][k] - v) * f));
   }
   const rgbStr = (c) => c.join(',');
   const isLight = (c) => (0.299 * c[0] + 0.587 * c[1] + 0.114 * c[2]) / 255 > 0.62;
@@ -85,6 +73,7 @@
   }
   realms.forEach((r) => { if (depth[r.name] == null) depth[r.name] = 99; });
 
+  const offPage = (a) => a.stairs.map((s) => byName[s.to]).filter((o) => o && pageOf(o).id !== pageOf(a).id);
   const nextPage = (a) => a.beyond.length > 0 || a.stairs.some((s) => byName[s.to] && pageOf(byName[s.to]).id !== pageOf(a).id);
 
   // ---------------------------------------------------------------- state
@@ -110,7 +99,7 @@
       '<span class="lv">' + a.level + '</span>' + (a.dark ? '<span class="dr">DR</span>' : '') +
       '<span class="nm">' + esc(a.name) + '</span>' +
       (a.kind === 'master' ? '<span class="sub">Master realm</span>' : '') +
-      '<span class="badges">' + b.join('') + '</span>' + linksHTML(a, 'links') + '</div>';
+      '<span class="badges">' + b.join('') + '</span>' + linksHTML(a, 'links', a.kind === 'realm' && offPage(a).length ? '<a data-jump title="Continues on another page: go there">&#8599;</a>' : '') + '</div>';
   }
 
   // ---------------------------------------------------------------- page
@@ -125,222 +114,91 @@
     return list.slice().sort((x, y) => (score(x) - score(y)) || (x.level - y.level) || x.name.localeCompare(y.name));
   }
 
-  // Grid layout like the original guide: every area sits in a cell of a grid and every connection runs along the
-  // channels between the cells (horizontal / vertical lines), so a line can never pass behind an area.
-  // 1) a force simulation gives each area a rough place so that neighbours end up close,
-  // 2) the places are snapped to free grid cells, 3) each connection is routed through the channels.
-  const NW = 108, NH = 52, PX = 136, PY = 76;
+  // Layout: the ELK "layered" algorithm (vendor/elk.bundled.js). The world map is the top row, every realm sits one row below the
+  // realm it is reached from, realms in a row are ordered to cut down crossings, and each connection is a polyline (straight
+  // segments, diagonals allowed, no curves) that leaves the boxes alone.
+  const NW = 108, NH = 52;
+  const elk = new ELK();
+  const ELK_OPTIONS = {
+    'elk.algorithm': 'layered',
+    'elk.direction': 'DOWN',
+    'elk.edgeRouting': 'POLYLINE',
+    'elk.padding': '[top=12,left=12,bottom=12,right=12]',
+    'elk.spacing.nodeNode': '34',
+    'elk.spacing.edgeNode': '18',
+    'elk.spacing.edgeEdge': '14',
+    'elk.spacing.componentComponent': '44',
+    'elk.layered.spacing.nodeNodeBetweenLayers': '52',
+    'elk.layered.spacing.edgeNodeBetweenLayers': '20',
+    'elk.layered.spacing.edgeEdgeBetweenLayers': '14',
+    'elk.separateConnectedComponents': 'true',
+    'elk.aspectRatio': '2',
+    'elk.layered.crossingMinimization.strategy': 'LAYER_SWEEP',
+    'elk.layered.crossingMinimization.thoroughness': '30',
+    'elk.layered.nodePlacement.strategy': 'NETWORK_SIMPLEX',
+  };
 
-  const MinHeap = FSRoute.MinHeap;
-
-  function layoutCanvas(canvas, members, primary) {
-    const ITER = 400;
-    const cw = Math.max(480, canvas.clientWidth);
-    const C = Math.max(3, Math.min(14, Math.floor(cw / PX)));
-    const GX = PX - NW, GY = PY - NH, L0 = PX * 1.05;
+  async function layoutCanvas(canvas, members, primary, master) {
     const els = {};
     canvas.querySelectorAll('.node').forEach((el) => { els[el.dataset.name] = el; });
     const set = new Set(members.map((r) => r.name));
-    const N = members.map((r, i) => ({ name: r.name, i, w: NW, h: NH, x: 0, y: 0, layer: primary.has(r.name) ? (r.kind === 'master' ? 0 : Math.min(depth[r.name], 6)) : -1 }));
     const idx = {};
-    N.forEach((n) => { idx[n.name] = n.i; });
+    members.forEach((r, i) => { idx[r.name] = i; });
     const E = [];
     drawn.forEach((e, key) => {
       if (set.has(e.a) && set.has(e.b) && e.a !== e.b && (primary.has(e.a) || primary.has(e.b))) E.push({ a: idx[e.a], b: idx[e.b], key, e });
     });
-    const nbr = N.map(() => []);
+
+    // row of each area: its distance from the world map. Copies of areas of other maps take the average of what they touch.
+    const nbr = members.map(() => []);
     E.forEach((r) => { nbr[r.a].push(r.b); nbr[r.b].push(r.a); });
-    N.forEach((n) => {
-      if (n.layer >= 0) return;
-      const ls = nbr[n.i].map((j) => N[j].layer).filter((l) => l >= 0);
-      n.layer = ls.length ? Math.round(ls.reduce((p, q) => p + q, 0) / ls.length) : 1;
+    const layer = members.map((r) => (primary.has(r.name) ? (r.kind === 'master' ? 0 : Math.min(depth[r.name], 6)) : -1));
+    layer.forEach((l, i) => {
+      if (l >= 0) return;
+      const ls = nbr[i].map((j) => layer[j]).filter((x) => x >= 0);
+      layer[i] = ls.length ? Math.round(ls.reduce((p, q) => p + q, 0) / ls.length) : 1;
     });
 
-    // initial rows by distance from the world map
-    const W = C * PX;
-    const layers = {};
-    N.forEach((n) => { (layers[n.layer] = layers[n.layer] || []).push(n); });
-    const placed = {};
-    let y = 0;
-    Object.keys(layers).map(Number).sort((p, q) => p - q).forEach((L) => {
-      const score = (n) => { const v = nbr[n.i].filter((j) => placed[j] != null).map((j) => placed[j]); return v.length ? v.reduce((p, q) => p + q, 0) / v.length : 1e9; };
-      const list = layers[L].slice().sort((p, q) => (score(p) - score(q)) || (members[p.i].level - members[q.i].level) || p.name.localeCompare(q.name));
-      for (let s = 0; s < list.length; s += C) {
-        const line = list.slice(s, s + C);
-        let x = (W - line.length * PX) / 2 + PX / 2;
-        line.forEach((n) => { n.x = x; n.y = y; x += PX; });
-        y += PY;
-      }
-      list.forEach((n) => { placed[n.i] = n.x; });
+    // connections point from the row nearer the world map to the row further away, which is what makes the rows
+    const build = (opts) => ({
+      id: 'root',
+      layoutOptions: opts,
+      children: members.map((r, i) => {
+        const c = { id: 'n' + i, width: NW, height: NH };
+        if (r === master && primary.has(r.name)) c.layoutOptions = { 'elk.layered.layering.layerConstraint': 'FIRST' };
+        return c;
+      }),
+      edges: E.map((r, k) => {
+        const flip = layer[r.a] > layer[r.b] || (layer[r.a] === layer[r.b] && r.a > r.b);
+        return { id: 'e' + k, sources: ['n' + (flip ? r.b : r.a)], targets: ['n' + (flip ? r.a : r.b)] };
+      }),
     });
-    N.forEach((n) => { n.hy = n.y; });
-
-    for (let it = 0; it < ITER + 120; it++) {
-      const fin = it >= ITER;
-      const T = fin ? 14 : 30 * (1 - it / ITER) + 1.5;
-      N.forEach((n) => { n.dx = 0; n.dy = 0; });
-      if (!fin) {
-        E.forEach((r) => {
-          const p = N[r.a], q = N[r.b];
-          const dx = q.x - p.x, dy = q.y - p.y, d = Math.hypot(dx, dy) || 1;
-          const f = (d - L0) * 0.07;
-          p.dx += dx / d * f; p.dy += dy / d * f; q.dx -= dx / d * f; q.dy -= dy / d * f;
-        });
-      }
-      for (let a = 0; a < N.length; a++) {
-        for (let b = a + 1; b < N.length; b++) {
-          const p = N[a], q = N[b];
-          let dx = p.x - q.x, dy = p.y - q.y;
-          if (!dx && !dy) { dx = (a % 2 ? 1 : -1); dy = 0.5; }
-          const ox = PX - Math.abs(dx), oy = PY - Math.abs(dy);
-          if (ox > 0 && oy > 0) {
-            if (ox < oy) { const s = Math.sign(dx) * ox / 2; p.dx += s; q.dx -= s; } else { const s = Math.sign(dy) * oy / 2; p.dy += s; q.dy -= s; }
-          } else if (!fin) {
-            const d2 = dx * dx + dy * dy, d = Math.sqrt(d2), f = Math.min(20, 9000 / d2);
-            p.dx += dx / d * f; p.dy += dy / d * f; q.dx -= dx / d * f; q.dy -= dy / d * f;
-          }
-        }
-      }
-      N.forEach((n) => {
-        if (!fin) { n.dy += (n.hy - n.y) * 0.01; n.dx += (W / 2 - n.x) * 0.002; }
-        const m = Math.hypot(n.dx, n.dy);
-        if (m > T) { n.dx *= T / m; n.dy *= T / m; }
-        n.x = Math.min(W - PX / 2, Math.max(PX / 2, n.x + n.dx));
-        n.y += n.dy;
-      });
+    // a row that is wider than the page is laid out again with a cap on how many areas one row may hold, until it fits
+    const avail = Math.max(480, canvas.clientWidth);
+    let res = await elk.layout(build(ELK_OPTIONS));
+    let cap = Math.floor((avail - 24 + 34) / (NW + 34));
+    while (res.width > avail && cap >= 3) {
+      res = await elk.layout(build(Object.assign({}, ELK_OPTIONS, { 'elk.layered.layering.strategy': 'COFFMAN_GRAHAM', 'elk.layered.layering.coffmanGraham.layerBound': String(cap) })));
+      cap--;
     }
 
-    // snap to grid cells (busiest areas first so hubs keep their ideal cell)
-    const minY = Math.min.apply(null, N.map((n) => n.y));
-    N.forEach((n) => { n.gc = Math.min(C - 1, Math.max(0, n.x / PX - 0.5)); n.gr = (n.y - minY) / PY; });
-    const maxRow = Math.ceil(Math.max.apply(null, N.map((n) => n.gr))) + 3;
-    const taken = new Set();
-    N.slice().sort((p, q) => nbr[q.i].length - nbr[p.i].length || p.i - q.i).forEach((n) => {
-      let best = null, bd = Infinity;
-      for (let r = 0; r <= maxRow; r++) {
-        for (let c = 0; c < C; c++) {
-          if (taken.has(c + ',' + r)) continue;
-          const d = (c - n.gc) * (c - n.gc) + (r - n.gr) * (r - n.gr) * 1.1;
-          if (d < bd) { bd = d; best = [c, r]; }
-        }
-      }
-      n.c = best[0]; n.r = best[1];
-      taken.add(best[0] + ',' + best[1]);
+    res.children.forEach((c) => {
+      const el = els[members[+c.id.slice(1)].name];
+      el.style.left = Math.round(c.x) + 'px';
+      el.style.top = Math.round(c.y) + 'px';
     });
-    // drop rows nobody uses
-    const usedRows = Array.from(new Set(N.map((n) => n.r))).sort((p, q) => p - q);
-    N.forEach((n) => { n.r = usedRows.indexOf(n.r); });
-    const R = usedRows.length;
-
-    // route every connection through the channels. Lattice point (X,Y): cell (c,r) is at (2c+1,2r+1), channels at even coordinates.
-    const LW = 2 * C + 1, LH = 2 * R + 1;
-    const occ = new Int32Array(LW * LH).fill(-1);
-    N.forEach((n) => { occ[(2 * n.r + 1) * LW + 2 * n.c + 1] = n.i; });
-    const use = {}, vh = {}, vv = {};
-    const segKey = (x, y, nx, ny) => (y === ny ? 'h' + Math.min(x, nx) + ',' + y : 'v' + x + ',' + Math.min(y, ny));
-    const DIR = [[1, 0], [0, 1], [-1, 0], [0, -1]];
-    const book = (verts, sign) => {
-      for (let i = 0; i + 1 < verts.length; i++) {
-        const k = segKey(verts[i][0], verts[i][1], verts[i + 1][0], verts[i + 1][1]);
-        use[k] = (use[k] || 0) + sign;
-        if (i > 0) {
-          const p = verts[i][0] + ',' + verts[i][1];
-          const h1 = verts[i - 1][1] === verts[i][1], h2 = verts[i][1] === verts[i + 1][1];
-          if (h1 && h2) vh[p] = (vh[p] || 0) + sign;
-          else if (!h1 && !h2) vv[p] = (vv[p] || 0) + sign;
-        }
-      }
-    };
-    const routeOne = (ed) => {
-      const A = N[ed.a], B = N[ed.b];
-      const sx = 2 * A.c + 1, sy = 2 * A.r + 1, gx = 2 * B.c + 1, gy = 2 * B.r + 1;
-      const S = LW * LH * 5;
-      const dist = new Float64Array(S).fill(Infinity);
-      const prev = new Int32Array(S).fill(-1);
-      const heap = new MinHeap();
-      const st = (x, y, d) => (y * LW + x) * 5 + d;
-      dist[st(sx, sy, 4)] = 0;
-      heap.push(0, st(sx, sy, 4));
-      let end = -1;
-      while (heap.size) {
-        const [cd, s] = heap.pop();
-        if (cd > dist[s]) continue;
-        const d = s % 5, p = (s - d) / 5, x = p % LW, y = (p - x) / LW;
-        if (x === gx && y === gy) { end = s; break; }
-        for (let k = 0; k < 4; k++) {
-          const nx = x + DIR[k][0], ny = y + DIR[k][1];
-          if (nx < 0 || ny < 0 || nx >= LW || ny >= LH) continue;
-          const o = occ[ny * LW + nx];
-          if (o >= 0 && !(nx === gx && ny === gy)) continue;
-          let c = 1 + (d !== 4 && d !== k ? 1.5 : 0) + 2.5 * (use[segKey(x, y, nx, ny)] || 0);
-          if (d === k) { const pk = x + ',' + y; if (k % 2 === 0 ? vv[pk] > 0 : vh[pk] > 0) c += 6; } // would cross another line
-          if ((nx & 1) && (ny & 1) && o < 0) c += 0.4;
-          const ns = st(nx, ny, k);
-          if (cd + c < dist[ns]) { dist[ns] = cd + c; prev[ns] = s; heap.push(cd + c, ns); }
-        }
-      }
-      if (end < 0) return [[sx, sy], [gx, gy]];
-      const verts = [];
-      for (let s = end; s >= 0; s = prev[s]) { const p = (s - (s % 5)) / 5; verts.push([p % LW, (p - (p % LW)) / LW]); }
-      return verts.reverse();
-    };
-    const order = E.slice().sort((p, q) => (Math.abs(N[p.a].c - N[p.b].c) + Math.abs(N[p.a].r - N[p.b].r)) - (Math.abs(N[q.a].c - N[q.b].c) + Math.abs(N[q.a].r - N[q.b].r)));
-    const routed = order.map((ed) => ({ ed, A: N[ed.a], B: N[ed.b], verts: null }));
-    routed.forEach((r) => { r.verts = routeOne(r.ed); book(r.verts, 1); });
-    // rip up and re-route each line once the others are known, which untangles most crossings
-    for (let pass = 0; pass < 3; pass++) {
-      routed.forEach((r) => { book(r.verts, -1); r.verts = routeOne(r.ed); book(r.verts, 1); });
-    }
-
-    // spread lines that share a channel into lanes
-    const lanes = {};
-    routed.forEach((r) => {
-      for (let i = 0; i + 1 < r.verts.length; i++) {
-        const k = segKey(r.verts[i][0], r.verts[i][1], r.verts[i + 1][0], r.verts[i + 1][1]);
-        (lanes[k] = lanes[k] || []).push(r);
-      }
-    });
-    const px = (X) => X * PX / 2, py = (Y) => Y * PY / 2;
-    const routes = routed.map((r) => {
-      const v = r.verts, n = v.length;
-      const off = [];
-      for (let i = 0; i + 1 < n; i++) {
-        const horiz = v[i][1] === v[i + 1][1];
-        const k = segKey(v[i][0], v[i][1], v[i + 1][0], v[i + 1][1]);
-        const list = lanes[k];
-        const touches = (v[i][0] === v[0][0] && v[i][1] === v[0][1]) || (v[i + 1][0] === v[n - 1][0] && v[i + 1][1] === v[n - 1][1]);
-        let o = 0;
-        if (!touches && list.length > 1) {
-          const maxOff = (horiz ? GY : GX) / 2 - 5;
-          const step = Math.min(5, 2 * maxOff / (list.length - 1));
-          o = (list.indexOf(r) - (list.length - 1) / 2) * step;
-        }
-        off.push(horiz ? [0, o] : [o, 0]);
-      }
-      const pts = [[px(v[0][0]), py(v[0][1])]];
-      for (let i = 1; i < n - 1; i++) {
-        const a = off[i - 1], b = off[i];
-        const horizA = v[i - 1][1] === v[i][1], horizB = v[i][1] === v[i + 1][1];
-        const bx = px(v[i][0]), by = py(v[i][1]);
-        if (horizA !== horizB) pts.push([bx + a[0] + b[0], by + a[1] + b[1]]);
-        else if (a[0] !== b[0] || a[1] !== b[1]) { pts.push([bx + a[0], by + a[1]]); pts.push([bx + b[0], by + b[1]]); }
-      }
-      pts.push([px(v[n - 1][0]), py(v[n - 1][1])]);
-      return { key: r.ed.key, a: r.ed.e.a, b: r.ed.e.b, kind: r.ed.e.kind, pts };
-    });
-
-    N.forEach((n) => {
-      els[n.name].style.left = Math.round(n.c * PX + (PX - NW) / 2) + 'px';
-      els[n.name].style.top = Math.round(n.r * PY + (PY - NH) / 2) + 'px';
-    });
-    canvas.style.width = (C * PX) + 'px';
-    canvas.style.height = (R * PY) + 'px';
-    return routes;
+    canvas.style.width = Math.ceil(res.width) + 'px';
+    canvas.style.height = Math.ceil(res.height) + 'px';
+    return res.edges.map((ed, k) => {
+      const s = ed.sections && ed.sections[0];
+      const pts = s ? [s.startPoint].concat(s.bendPoints || [], [s.endPoint]).map((p) => [p.x, p.y]) : [];
+      return { key: E[k].key, a: E[k].e.a, b: E[k].e.b, kind: E[k].e.kind, pts };
+    }).filter((r) => r.pts.length > 1);
   }
 
   const graphs = [];
   // Put the given areas (plus ghost copies of the areas they connect to in other world maps) on a canvas and route the lines.
-  function mountGraph(canvas, primaryAreas, master, masterHere, pid) {
+  async function mountGraph(canvas, primaryAreas, master, masterHere, pid) {
     const primary = new Set(primaryAreas.map((a) => a.name));
     const ghosts = [];
     drawn.forEach((e) => {
@@ -352,10 +210,13 @@
     });
     canvas.innerHTML = primaryAreas.map((r) => nodeHTML(r, r === master && !masterHere ? 'ghost' : '')).join('') +
       ghosts.map((g) => nodeHTML(g, 'dup ghost')).join('');
-    graphs.push({ canvas, routes: layoutCanvas(canvas, primaryAreas.concat(ghosts), primary) });
+    return { canvas, routes: await layoutCanvas(canvas, primaryAreas.concat(ghosts), primary, master) };
   }
 
+  let renderToken = 0;
   function renderPage(pid) {
+    const token = ++renderToken;
+    const jobs = [];
     state.page = pid;
     const page = D.pages.find((p) => p.id === pid);
     const wrap = $('#sections');
@@ -385,7 +246,7 @@
       canvas.className = 'canvas';
       sec.appendChild(canvas);
       wrap.appendChild(sec);
-      mountGraph(canvas, [m].concat(items), m, masterHere, pid);
+      jobs.push(mountGraph(canvas, [m].concat(items), m, masterHere, pid));
     });
 
     // event-only areas (Christmas, Halloween, ...) are not part of any world map: one section of their own
@@ -399,7 +260,7 @@
       canvas.className = 'canvas';
       sec.appendChild(canvas);
       wrap.appendChild(sec);
-      mountGraph(canvas, ev, null, true, pid);
+      jobs.push(mountGraph(canvas, ev, null, true, pid));
     }
 
     // an area can also appear as a copy in a neighbouring map (a ghost); the real box is the one that gets highlighted
@@ -407,8 +268,13 @@
     wrap.querySelectorAll('.node.dup').forEach((el) => { if (!nodeEls[el.dataset.name]) nodeEls[el.dataset.name] = el; });
     renderTabs();
     renderStrip();
-    drawEdges();
-    applyRoute();
+    renderLevelBar();
+    return Promise.all(jobs).then((done) => {
+      if (token !== renderToken) return;
+      graphs.push.apply(graphs, done);
+      drawEdges();
+      applyRoute();
+    });
   }
 
   // ---------------------------------------------------------------- lines between areas
@@ -474,33 +340,78 @@
         '<span class="w" data-w="' + esc(m.name) + '" style="--c:rgb(' + rgbStr(levelRGB(m.level)) + ')" title="Level ' + m.level + '">' + esc(m.name) + '</span>';
     }).join('');
   }
+  // The bar always runs from level 1 to 10000, but the levels of the page you are looking at take the wide middle part of it
+  // (a "fisheye": the levels below and above are squeezed into the sides). The colours are the same as on the realms.
+  function renderLevelBar() {
+    const el = $('#lvBar');
+    if (!el) return;
+    const pg = D.pages.find((x) => x.id === state.page) || D.pages[0];
+    const lo = pg.min, hi = Math.max(pg.max, pg.min + 1);
+    const tlo = levelT(lo), thi = levelT(hi);
+    const L = Math.min(0.3, tlo * 3); // share of the bar for the levels below the page (less when the page is at the very start)
+    const R = Math.min(0.3, (1 - thi) * 3); // and above it
+    const F = 1 - L - R;
+    const levelAt = (x) => {
+      if (x < L) return 1 + (lo - 1) * (x / L);
+      if (x <= L + F) return lo + (hi - lo) * ((x - L) / F);
+      return hi + (TOP_LEVEL - hi) * ((x - L - F) / R);
+    };
+    const posOf = (l) => {
+      if (l < lo) return lo > 1 ? L * (l - 1) / (lo - 1) : 0;
+      if (l <= hi) return L + F * (l - lo) / (hi - lo);
+      return L + F + R * (l - hi) / (TOP_LEVEL - hi);
+    };
+    const N = 240;
+    const grad = 'linear-gradient(90deg,' + Array.from({ length: N }, (_, k) => {
+      const x = k / (N - 1);
+      return 'rgb(' + rgbStr(levelRGB(levelAt(x))) + ') ' + (x * 100).toFixed(2) + '%';
+    }).join(',') + ')';
+    // labels: the edges of this page first, then the round numbers that still fit
+    const placed = [];
+    [lo, hi, 1, 10000, 5000, 2500, 7500, 1000, 2000, 3000, 4000, 6000, 8000, 9000].forEach((l, k) => {
+      if (k >= 2 && l >= lo && l <= hi) return;
+      const p = posOf(l) * 100;
+      if (placed.every((q) => Math.abs(q.p - p) >= 10)) placed.push({ l, p });
+    });
+    const ticks = placed.map((q) => '<span style="left:' + q.p.toFixed(2) + '%;transform:translateX(' + (q.p < 2 ? 0 : q.p > 98 ? -100 : -50) + '%)">' + q.l + '</span>').join('');
+    el.innerHTML = '<div class="bar" style="background:' + grad + '"></div><div class="lvfocus" style="left:' + (L * 100).toFixed(2) + '%;width:' + (F * 100).toFixed(2) + '%"></div><div class="bar-l">' + ticks + '</div>';
+  }
   function renderLegend() {
     const mini = (cls, label, extra, name) =>
       '<div class="it"><div class="node ' + cls + ' legend-node" style="--c:' + extra + '"><span class="nm">' + name + '</span></div><span>' + label + '</span></div>';
-    const grad = 'linear-gradient(90deg,' + [1, 10, 20, 30, 40, 50].map((l) => 'rgb(' + rgbStr(levelRGB(l)) + ')').join(',') + ')';
     $('#legend').innerHTML =
       mini('master', '<b>Master Realm</b> (world map)', 'rgb(' + rgbStr(levelRGB(20)) + ')', 'Name') +
       mini('realm', '<b>Realm</b>', 'rgb(' + rgbStr(levelRGB(20)) + ')', 'Name') +
       '<div class="it"><div class="node realm legend-node" style="--c:rgb(' + rgbStr(levelRGB(20)) + ')"><span class="dr">DR</span><span class="nm">Name</span></div><span><b>Dark Realm</b> (needs the Vision skill)</span></div>' +
-      mini('realm next', '<b>Continues</b> on another page / at higher levels', 'rgb(' + rgbStr(levelRGB(20)) + ')', 'Name') +
+      mini('realm next', '<b>Continues</b> on another page / at higher levels (the &#8599; tab under it goes there)', 'rgb(' + rgbStr(levelRGB(20)) + ')', 'Name') +
       mini('realm event', '<b>Special event</b> area', '#6f747d', 'Name') +
       '<div class="it">' + ICON.portal + '<span><b>Portal</b> &mdash; coordinates in the info card</span></div>' +
       '<div class="it">' + ICON.shop + '<span><b>Shop</b></span></div>' +
       '<div class="it">' + ICON.quest + '<span><b>Quest</b></span></div>' +
       '<div class="it">' + ICON.relic + '<span><b>Relic</b></span></div>' +
-      '<div class="it"><div><div class="bar" style="background:' + grad + '"></div><div class="bar-l"><span>1</span><span>10</span><span>20</span><span>30</span><span>40</span><span>50</span></div></div><span>Minimum <b>level</b></span></div>';
+      '<div class="it"><svg class="lsample" width="34" height="10" aria-hidden="true"><line class="sample" x1="1" y1="5" x2="33" y2="5"/></svg><span><b>Solid line</b> &mdash; stairs between two realms</span></div>' +
+      '<div class="it"><svg class="lsample" width="34" height="10" aria-hidden="true"><line class="sample exit" x1="1" y1="5" x2="33" y2="5"/></svg><span><b>Dotted line</b> &mdash; to or from the world map (leave the realm / enter it from the world map)</span></div>' +
+      mini('realm ghost', '<b>Faded</b> &mdash; belongs to another world map or page; shown only to say where a connection leads', 'rgb(' + rgbStr(levelRGB(20)) + ')', 'Name') +
+      '<div class="it"><div id="lvBar"></div><span>Minimum <b>level</b> (1 &ndash; 10000). The levels on this page get the wide middle part.</span></div>';
+    renderLevelBar();
   }
 
   // ---------------------------------------------------------------- info card
   // The guide has a page per realm; master realms are not in it, so they link to the guide's search for the name.
-  const guideUrl = (a) => a.guideId
-    ? 'https://guide.fallensword.com/index.php?cmd=realms&subcmd=view&realm_id=' + a.guideId
-    : 'https://guide.fallensword.com/index.php?cmd=realms&search_name=' + encodeURIComponent(a.name);
+  // master realms have a page of their own in the Guide (Krul Island has none, so it gets the list of master realms)
+  const guideUrl = (a) => a.kind === 'master'
+    ? 'https://guide.fallensword.com/index.php?cmd=masterrealms' + (a.guideId ? '&subcmd=view&masterrealm_id=' + a.guideId : '')
+    : a.guideId
+      ? 'https://guide.fallensword.com/index.php?cmd=realms&subcmd=view&realm_id=' + a.guideId
+      : 'https://guide.fallensword.com/index.php?cmd=realms&search_name=' + encodeURIComponent(a.name);
   const wikiUrl = (a) => 'https://wiki.fallensword.com/index.php/' +
     encodeURIComponent((a.wikiTitle || a.name).replace(/ /g, '_')).replace(/%28/g, '(').replace(/%29/g, ')').replace(/%2C/g, ',').replace(/%27/g, "'");
-  const linksHTML = (a, cls) =>
-    '<span class="' + cls + '"><a href="' + guideUrl(a) + '" target="_blank" rel="noopener" title="Open ' + esc(a.name) + ' in the Guide">Guide</a>' +
-    '<a href="' + wikiUrl(a) + '" target="_blank" rel="noopener" title="Open ' + esc(a.name) + ' on the Wiki">Wiki</a></span>';
+  // the small tabs under a realm say just G and W; next to a world map's name they are spelled out
+  const linksHTML = (a, cls, extra) => {
+    const short = cls === 'links';
+    return '<span class="' + cls + '"><a href="' + guideUrl(a) + '" target="_blank" rel="noopener" title="Open ' + esc(a.name) + ' in the Guide">' + (short ? 'G' : 'Guide') + '</a>' +
+      '<a href="' + wikiUrl(a) + '" target="_blank" rel="noopener" title="Open ' + esc(a.name) + ' on the Wiki">' + (short ? 'W' : 'Wiki') + '</a>' + (extra || '') + '</span>';
+  };
   const coord = (x, y) => (x != null && y != null ? '<span class="coord">(' + x + ',' + y + ')</span>' : '');
 
   function questHTML(q) {
@@ -552,7 +463,7 @@
       const ex = a.worldExits.map((e) => '<li><div class="stair"><span>World map: <a data-go="' + esc(e.world) + '">' + esc(e.world) + '</a></span>' + coord(e.x, e.y) + '</div></li>');
       const st = a.stairs.map((s) => {
         const o = byName[s.to];
-        return '<li><div class="stair"><span>&rarr; <a data-go="' + esc(s.to) + '">' + esc(s.to) + '</a>' + (o ? ' <span class="coord">Lv ' + o.level + '</span>' : '') +
+        return '<li><div class="stair"><span>&rarr; <a data-go="' + esc(s.to) + '">' + esc(s.to) + '</a>' + (o ? ' <span class="coord">Lv ' + o.level + '</span>' : '') + (o && pageOf(o).id !== pageOf(a).id ? ' <span class="coord">' + esc(pageOf(o).label) + '</span>' : '') +
           (s.note ? ' <span class="coord">' + esc(s.note) + '</span>' : '') + '</span>' + coord(s.x, s.y) + '</div></li>';
       });
       h += section('Exits &amp; stairs', '', '<ul>' + ex.concat(st).join('') + '</ul>', 'None known');
@@ -698,7 +609,7 @@
   function goTo(name, pin) {
     const a = byName[name];
     if (!a) return;
-    if (pageOf(a).id !== state.page) renderPage(pageOf(a).id);
+    if (pageOf(a).id !== state.page) { renderPage(pageOf(a).id).then(() => goTo(name, pin)); return; }
     const el = nodeEls[name];
     if (!el) return;
     el.scrollIntoView({ block: 'center', behavior: 'smooth' });
@@ -713,6 +624,17 @@
         showCard(name, r.right, r.top, true);
       }, 520);
     }
+  }
+
+  // The arrow tab of a dashed area. If everything it leads to is on one other page, go there; if it leads to several pages,
+  // pin its info card, which lists every exit with the page it is on (each one is a link).
+  function jumpOn(name) {
+    const out = offPage(byName[name]);
+    if (!out.length) return;
+    if (new Set(out.map((o) => pageOf(o).id)).size === 1) { hideCard(); unfocus(); goTo(out[0].name); return; }
+    const r = nodeEls[name].getBoundingClientRect();
+    state.pinned = name;
+    showCard(name, r.right, r.top, true);
   }
 
   // ---------------------------------------------------------------- autocomplete
@@ -780,7 +702,7 @@
         $('#tabs').querySelectorAll('details[open]').forEach((o) => { if (o !== d) o.open = false; });
       } else if (state.openGroup === d.dataset.g) state.openGroup = null;
     }, true);
-    const hh = () => $('#side').style.setProperty('--hh', $('#top').offsetHeight + 'px');
+    const hh = () => document.documentElement.style.setProperty('--hh', $('#top').offsetHeight + 'px');
     hh(); window.addEventListener('resize', hh);
     $('#goLevel').addEventListener('change', (e) => {
       const l = +e.target.value;
@@ -791,15 +713,17 @@
       const w = e.target.closest('.w');
       if (!w) return;
       const m = byName[w.dataset.w];
-      if (!$('#w-' + norm(m.name))) renderPage(pageOf(m).id);
-      const sec = $('#w-' + norm(m.name));
-      if (sec) sec.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      const show = () => { const sec = $('#w-' + norm(m.name)); if (sec) sec.scrollIntoView({ behavior: 'smooth', block: 'start' }); };
+      if (!$('#w-' + norm(m.name))) renderPage(pageOf(m).id).then(show); else show();
     });
-    $('#legendBtn').addEventListener('click', () => {
-      const l = $('#legend');
-      l.hidden = !l.hidden;
-      $('#legendBtn').setAttribute('aria-expanded', String(!l.hidden));
-    });
+    // the legend hangs from the sticky page bar, so it can be opened anywhere on the page; the choice is remembered
+    const showLegend = (on) => {
+      $('#legend').hidden = !on;
+      $('#legendBtn').setAttribute('aria-expanded', String(on));
+      try { localStorage.setItem('fspf_legend', on ? '1' : '0'); } catch (err) { /* ignore */ }
+    };
+    try { if (localStorage.getItem('fspf_legend') === '1') showLegend(true); } catch (err) { /* ignore */ }
+    $('#legendBtn').addEventListener('click', () => showLegend($('#legend').hidden));
 
     const map = $('#map');
     map.addEventListener('mouseover', (e) => {
@@ -816,6 +740,8 @@
       if (!state.pinned) { state.hover = null; card.hidden = true; }
     });
     map.addEventListener('click', (e) => {
+      const jump = e.target.closest('[data-jump]');
+      if (jump) { e.preventDefault(); e.stopPropagation(); jumpOn(jump.closest('.node').dataset.name); return; }
       if (e.target.closest('a')) return; // Guide / Wiki links open normally
       const n = e.target.closest('.node');
       if (n) {
@@ -828,7 +754,7 @@
       if (card.classList.contains('pinned') && !e.target.closest('#card') && !e.target.closest('.node')) hideCard();
     });
     document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') hideCard();
+      if (e.key === 'Escape') { hideCard(); if (!$('#legend').hidden) showLegend(false); }
       if (e.key === '/' && !/INPUT|TEXTAREA/.test((document.activeElement || {}).tagName || '')) { e.preventDefault(); q.focus(); q.select(); }
     });
     card.addEventListener('click', (e) => {

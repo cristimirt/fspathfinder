@@ -49,10 +49,9 @@
 <nav id="pageBar">
   <div id="pageTitle"></div>
   <div id="worldStrip" aria-label="World map order"></div>
-  <button id="legendBtn" type="button" class="ghost" aria-expanded="true">Legend</button>
+  <button id="legendBtn" type="button" class="ghost" aria-expanded="false">Legend</button>
+  <section id="legend" hidden></section>
 </nav>
-
-<section id="legend"></section>
 
 <div id="routePanel" hidden></div>
 
@@ -71,6 +70,7 @@
 <div id="card" hidden></div>
 
 <script src="data.js"></script>
+<script src="vendor/elk.bundled.js"></script>
 <script src="route.js"></script>
 <script src="app.js"></script>
 </body>

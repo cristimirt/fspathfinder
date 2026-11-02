@@ -10,7 +10,7 @@ Open `site/index.html` in a browser (double-click works, it is all relative file
 
 ## What it shows
 - A left-side menu with one group per 1000 levels (1-999, 1000-1999, ... up to 6200, the highest level with areas); each group is split into pages of about 50 realms, always starting on a level divisible by 5 (`PAGE_SIZE` in `tools/build-data.js`). A "Go to level" box sits above the menu.
-- One section per master realm (world map), realms laid out in rows by distance from the world map, lines between areas that have stairs.
+- One section per master realm (world map), realms laid out in rows by distance from the world map with the ELK "layered" layout (`site/vendor/elk.bundled.js`, elkjs 0.12.1, EPL-2.0, licence next to it), lines between areas that have stairs (straight segments, diagonals allowed, no curves). A row wider than the page is laid out again with fewer areas per row.
 - Legend as in the original: master realm (double-border square), realm (rounded), dark realm (DR tag), continues on another page (dashed), special event (grey), portal / shop / quest / relic icons, colour by minimum level.
 - Hover an area: info card (creatures with rank and race, shops with coordinates, quests, relics, portal coordinates, every exit with its tile coordinates). Click to pin it (adds "Route from/to here").
 - Every area has a **Guide** and a **Wiki** link: small tabs under the node on hover, in the pinned card, and next to each master realm's heading.
