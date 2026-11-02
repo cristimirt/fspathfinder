@@ -702,6 +702,15 @@
         $('#tabs').querySelectorAll('details[open]').forEach((o) => { if (o !== d) o.open = false; });
       } else if (state.openGroup === d.dataset.g) state.openGroup = null;
     }, true);
+    // dark or game (parchment) theme; the choice is remembered. The page already has it applied from index.html.
+    const themeBtn = $('#themeBtn');
+    const setTheme = (name) => {
+      document.documentElement.dataset.theme = name;
+      themeBtn.textContent = 'Theme: ' + (name === 'game' ? 'Game' : 'Dark');
+      try { localStorage.setItem('fspf_theme', name); } catch (err) { /* ignore */ }
+    };
+    setTheme(document.documentElement.dataset.theme === 'game' ? 'game' : 'dark');
+    themeBtn.addEventListener('click', () => setTheme(document.documentElement.dataset.theme === 'game' ? 'dark' : 'game'));
     const hh = () => document.documentElement.style.setProperty('--hh', $('#top').offsetHeight + 'px');
     hh(); window.addEventListener('resize', hh);
     $('#goLevel').addEventListener('change', (e) => {

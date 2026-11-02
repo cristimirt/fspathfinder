@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Fallen Sword Path Finder</title>
+<script>try { if (localStorage.getItem('fspf_theme') === 'game') document.documentElement.dataset.theme = 'game'; } catch (e) { /* no storage */ }</script>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -37,6 +38,7 @@
       <button id="rClear" type="button" class="ghost" hidden>Clear</button>
     </div>
   </div>
+  <button id="themeBtn" type="button" class="ghost" title="Switch between the dark theme and the game's parchment theme">Theme</button>
 </header>
 
 <div id="shell">
