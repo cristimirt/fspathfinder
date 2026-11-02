@@ -1,4 +1,4 @@
-# Fallen Sword Path Finder (proof of concept, levels 1-6200)
+# Fallen Sword Path Finder (proof of concept, levels 1-6276)
 
 A modern replacement for the old RFSA "Reference Fallen Sword Areas" site. Plain HTML/CSS/JS, no database, no build step for the page itself.
 
@@ -9,7 +9,7 @@ The site is published to https://cristimirt.github.io/fspathfinder/ by `.github/
 Open `site/index.html` in a browser (double-click works, it is all relative files). For local testing with a server: `node tools/serve.js` then http://127.0.0.1:48790/
 
 ## What it shows
-- A left-side menu with one group per 1000 levels (1-999, 1000-1999, ... up to 6200, the highest level with areas); each group is split into pages of about 50 realms, always starting on a level divisible by 5 (`PAGE_SIZE` in `tools/build-data.js`). A "Go to level" box sits above the menu.
+- A left-side menu with one group per 1000 levels (1-999, 1000-1999, ... up to 6276, the highest level with areas); each group is split into pages of about 50 realms, always starting on a level divisible by 5 (`PAGE_SIZE` in `tools/build-data.js`). A "Go to level" box sits above the menu.
 - One section per master realm (world map), realms laid out in rows by distance from the world map with the ELK "layered" layout (`site/vendor/elk.bundled.js`, elkjs 0.12.1, EPL-2.0, licence next to it), lines between areas that have stairs (straight segments, diagonals allowed, no curves). A row wider than the page is laid out again with fewer areas per row.
 - Legend as in the original: master realm (double-border square), realm (rounded), dark realm (DR tag), continues on another page (dashed), special event (grey), portal / shop / quest / relic icons, colour by minimum level.
 - Hover an area: info card (creatures with rank and race, shops with coordinates, quests, relics, portal coordinates, every exit with its tile coordinates). Click to pin it (adds "Route from/to here").
@@ -22,6 +22,7 @@ Open `site/index.html` in a browser (double-click works, it is all relative file
 - `wiki-*.tsv`: wiki.fallensword.com page of each realm: world area, stairs / portals / shops / relics with `(x,y)`, notes, world-map exit tiles (`World Area` entries). The second column is the wiki page title used (batch 51-300) or the level (batch 1-50).
 - `world-areas-*.tsv`: master realms (level, neighbours on the world map, nearest portal).
 
+- `links-features.tsv`: what each realm's own map in the guide shows: portal tiles, shops, relics (each with its tile) and the stairway out to a master realm (world-map exit tile). It replaces the wiki for those tiles. The guide's shop and relic lists (`cmd=shops`, `cmd=relics`) were checked against it and agree. A master realm can be missing from the guide's master list pages (Banoron Swamp, id 346, was); probe `masterrealm_id` past the last known id.
 - `links-masters.tsv` / `links-stairs.tsv`: crawled from the guide's master realm pages and from the stairway links inside each realm's map (`.realmContainer`). **The guide is the source of truth** (the wiki is no longer updated): the list of master realms, which realms each world map opens, and every stairway with its tile come from here. The wiki only adds portals, shops, relics, world-map exit tiles and nearest-portal text. A realm's world is: its master's main-realm list, else the master fewest stairways away, else (below level 1001 only) the wiki's "Located in".
 
 `node tools/build-data.js` turns them into `site/data.js`. Manual fixes live at the top of that file (`WORLD_OVERRIDE`, `ENTRY_OVERRIDE`).

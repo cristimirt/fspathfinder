@@ -25,9 +25,11 @@ const WORLD_OVERRIDE = {
   'Ethereal Frontier': 'Bay of Zenel', 'Ethereal Badlands': 'Bay of Zenel', 'Ethereal Plains': 'Bay of Zenel', // wiki says Krul Island
   'Jahd Swamps (North)': 'Bay of Zenel', 'Jahd Swamps (Trogladores Cave)': 'Bay of Zenel', 'Jahd Swamps (West)': 'Bay of Zenel',
   'Jahd Swamps (South)': 'Bay of Zenel', 'Jahd Swamps (East)': 'Bay of Zenel',
+  // the way on into The Killgorey Labyrinth starts here, which makes these look closer to it than to their own world map
+  'Jorkath Desert (Drifts)': 'The Ugarak Canyons', 'Jorkath Desert (Court)': 'The Ugarak Canyons', 'Jorkath Desert (Range)': 'The Ugarak Canyons',
 };
 // areas that only exist during a seasonal event (the wiki files them under Krul Island)
-const EVENT_NAME = /^(Forest of Yule|Springtime Forest|Grannies Cottage|Woodsman Forest|Toad Swamp|The Virtue Desert|Quango|Battleground of Gurgriss|Cursed Ones Frozen Forest|The Decrepit Castle|The Wretched Graveyard|Dark Dwarf|Horrifying Haunt|Happy Bear Woods|The Bears Cottage|Haunt of Tommy Aches|Hallowed Isle|Cursed Ones Autumn Forest|The Overgrown Castle)/;
+const EVENT_NAME = /^(Forest of Yule|Springtime Forest|Grannies Cottage|Woodsman Forest|Toad Swamp|The Virtue Desert|Quango|Battleground of Gurgriss|Cursed Ones Frozen Forest|The Decrepit Castle|The Wretched Graveyard|Dark Dwarf|Horrifying Haunt|Happy Bear Woods|The Bears Cottage|Haunt of Tommy Aches|Hallowed Isle|Cursed Ones Autumn Forest|The Overgrown Castle|Carle Farm|Arable Farmers Mart)/; // the last two only open from The Grimmnor Forest (Halloween)
 // Realms entered straight from the world map when the wiki has no "World Area" exit for the world.
 // Entries added by hand. An empty list means the world map has no way in from a realm (nothing is guessed for it).
 const ENTRY_OVERRIDE = { 'Krul Island': [] };
@@ -44,7 +46,8 @@ raw('guide-').forEach((line) => {
     shops: list(shops),
     relics: list(relics),
     quests: list(quests),
-    creatures: list(creatures).map((c) => {
+    // the guide sometimes lists a creature twice
+    creatures: list(creatures).filter((c, i, all) => all.indexOf(c) === i).map((c) => {
       // "Skull Carver (Super Elite) (Demon)" -> name, rank, race
       const clean = (c.match(/\(([^()]*)\)/g) || []).map((p) => p.slice(1, -1).trim());
       const rank = clean.find((p) => ranks.indexOf(p) !== -1) || '';
@@ -82,6 +85,15 @@ const guideLinks = {};
 raw('links-stairs').forEach((line) => {
   const [id, , ls] = line.split('¦');
   guideLinks[id] = list(ls).map((x) => { const [to, lx, ly] = x.split(':'); return { to: +to, x: +lx, y: +ly }; });
+});
+// links-features.tsv: realm id, then what the guide's own realm map shows: "x:y:id" portal tiles, "x:y:name" shops, relics and
+// stairways to a master realm (the way out to the world map). The guide is the truth for what stands on which tile.
+const unesc = (s) => s.split(String.fromCharCode(92)).join('');
+const guideFeat = {};
+raw('links-features').forEach((line) => {
+  const [id, portals, shops, relics, exits] = line.split('¦');
+  const items = (s) => list(s).map((x) => { const [px, py, ...rest] = x.split(':'); return { x: +px, y: +py, name: unesc(rest.join(':')) }; });
+  guideFeat[id] = { portals: items(portals), shops: items(shops), relics: items(relics), exits: items(exits) };
 });
 // four master realms share their name with a realm in them ("City of Xinderoth" is both), and node names must be unique:
 // they keep the shorter names the wiki gave them
@@ -222,6 +234,23 @@ areas.filter((a) => a.kind === 'realm').forEach((a) => {
         if (/event/i.test(it.note)) target.event = true;
       }
     }
+  });
+});
+
+// ---- the guide's map replaces what the wiki said about portal, shop, relic and world-map exit tiles
+areas.filter((a) => a.kind === 'realm').forEach((a) => {
+  const f = guideFeat[a.guideId];
+  if (!f) return;
+  // the guide does not name portals; keep the wiki's name when it has one on the same tile
+  a.portals = f.portals.map((p) => { const old = a.portals.find((o) => o.x === p.x && o.y === p.y); return { name: old ? old.name : 'Portal', x: p.x, y: p.y }; });
+  a.shopSpots = f.shops.map((s) => ({ name: s.name, x: s.x, y: s.y }));
+  a.relicSpots = f.relics.map((s) => ({ name: s.name, x: s.x, y: s.y }));
+  a.worldExits = [];
+  f.exits.forEach((e) => {
+    const nm = e.name.trim(); // the guide's tooltips sometimes end in a space
+    const wn = MASTER_NAME[nm] || nm;
+    if (byName[wn] && byName[wn].kind === 'master') a.worldExits.push({ world: wn, x: e.x, y: e.y });
+    else console.log('unknown master realm in an exit:', a.name, e.name);
   });
 });
 
