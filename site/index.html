@@ -49,10 +49,12 @@
 <div id="content">
 
 <nav id="pageBar">
+  <button id="levelsBtn" type="button" class="ghost" aria-expanded="false" aria-controls="side">&#9776; Levels</button>
   <div id="pageTitle"></div>
   <div id="worldStrip" aria-label="World map order"></div>
   <button id="creatureBtn" type="button" class="ghost" aria-expanded="false" title="Find realms by the creatures living there">Creatures</button>
-  <button id="legendBtn" type="button" class="ghost" aria-expanded="false">Legend</button>
+  <button id="resetBtn" type="button" class="ghost" title="Put the boxes you moved back where they were">Reset layout</button>
+  <button id="legendBtn"type="button" class="ghost" aria-expanded="false">Legend</button>
   <section id="creatures" hidden>
     <div class="crRow">
       <label>Race <select id="crRace"></select></label>
@@ -78,6 +80,7 @@
 </div>
 </div>
 
+<div id="sideScrim" hidden></div>
 <div id="card" hidden></div>
 
 <script src="data.js"></script>

@@ -174,26 +174,80 @@
       }),
     });
     // a row that is wider than the page is laid out again with a cap on how many areas one row may hold, until it fits
-    const avail = Math.max(480, canvas.clientWidth);
-    let res = await elk.layout(build(ELK_OPTIONS));
+    const avail = Math.max(2 * NW + 34 + 24, canvas.clientWidth); // at least two columns, so a phone gets a tall, narrow map
+    // on a narrow screen the separate pieces of the map stack in one column instead of sitting side by side
+    const base = avail < 600 ? Object.assign({}, ELK_OPTIONS, { 'elk.aspectRatio': '0.2' }) : ELK_OPTIONS;
+    let res = await elk.layout(build(base));
     let cap = Math.floor((avail - 24 + 34) / (NW + 34));
-    while (res.width > avail && cap >= 3) {
-      res = await elk.layout(build(Object.assign({}, ELK_OPTIONS, { 'elk.layered.layering.strategy': 'COFFMAN_GRAHAM', 'elk.layered.layering.coffmanGraham.layerBound': String(cap) })));
+    while (res.width > avail && cap >= 2) {
+      res = await elk.layout(build(Object.assign({}, base, { 'elk.layered.layering.strategy': 'COFFMAN_GRAHAM', 'elk.layered.layering.coffmanGraham.layerBound': String(cap) })));
       cap--;
     }
 
-    res.children.forEach((c) => {
-      const el = els[members[+c.id.slice(1)].name];
-      el.style.left = Math.round(c.x) + 'px';
-      el.style.top = Math.round(c.y) + 'px';
+    const pos = {};
+    let routes;
+    if (res.width > avail) {
+      // still too wide for a phone: rows of the grid by distance from the world map, wrapped to what fits, lines straight between boxes
+      const order = res.children.map((c) => ({ c, i: +c.id.slice(1) })).sort((p, q) => layer[p.i] - layer[q.i] || p.c.x - q.c.x);
+      const cols = Math.max(1, Math.floor((avail - 24 + 34) / (NW + 34)));
+      let row = 0, col = 0, prev = null, maxCol = 0;
+      order.forEach((o) => {
+        if (prev !== null && (layer[o.i] !== prev || col === cols)) { row++; col = 0; }
+        prev = layer[o.i];
+        pos[members[o.i].name] = [12 + col * (NW + 34), 12 + row * (NH + 52)];
+        maxCol = Math.max(maxCol, col);
+        col++;
+      });
+      res = { width: 24 + (maxCol + 1) * (NW + 34) - 34, height: 24 + (row + 1) * (NH + 52) - 52 };
+      routes = E.map((r) => ({ key: r.key, a: r.e.a, b: r.e.b, kind: r.e.kind, pts: [] }));
+    } else {
+      res.children.forEach((c) => { pos[members[+c.id.slice(1)].name] = [Math.round(c.x), Math.round(c.y)]; });
+      routes = res.edges.map((ed, k) => {
+        const s = ed.sections && ed.sections[0];
+        const pts = s ? [s.startPoint].concat(s.bendPoints || [], [s.endPoint]).map((p) => [p.x, p.y]) : [];
+        return { key: E[k].key, a: E[k].e.a, b: E[k].e.b, kind: E[k].e.kind, pts, orig: pts };
+      }).filter((r) => r.pts.length > 1);
+    }
+    return { routes, pos, w: Math.ceil(res.width), h: Math.ceil(res.height), narrow: avail < 600 };
+  }
+
+  // ---------------------------------------------------------------- moving boxes by hand
+  // positions live in localStorage, per world map and per layout kind (wide / phone), only for the boxes that were moved
+  const POS_KEY = 'fspf_pos';
+  const loadPos = () => { try { return JSON.parse(localStorage.getItem(POS_KEY)) || {}; } catch (err) { return {}; } };
+  const savePos = (g) => {
+    try {
+      const all = loadPos();
+      const mine = {};
+      g.moved.forEach((n) => { mine[n] = g.cur[n]; });
+      if (g.moved.size) all[g.skey] = mine; else delete all[g.skey];
+      if (Object.keys(all).length) localStorage.setItem(POS_KEY, JSON.stringify(all)); else localStorage.removeItem(POS_KEY);
+    } catch (err) { /* ignore */ }
+  };
+  const centre = (g, n) => [g.cur[n][0] + NW / 2, g.cur[n][1] + NH / 2];
+  function routePts(g, r) {
+    return g.moved.has(r.a) || g.moved.has(r.b) || !r.orig ? [centre(g, r.a), centre(g, r.b)] : r.orig;
+  }
+  function fitCanvas(g) {
+    let w = g.w, h = g.h;
+    Object.keys(g.cur).forEach((n) => { w = Math.max(w, g.cur[n][0] + NW + 12); h = Math.max(h, g.cur[n][1] + NH + 12); });
+    g.canvas.style.width = w + 'px';
+    g.canvas.style.height = h + 'px';
+  }
+  function applyLayout(g) {
+    const saved = loadPos()[g.skey] || {};
+    g.cur = {};
+    g.moved = new Set();
+    Object.keys(g.pos).forEach((n) => {
+      if (saved[n]) { g.cur[n] = saved[n]; g.moved.add(n); } else g.cur[n] = g.pos[n];
     });
-    canvas.style.width = Math.ceil(res.width) + 'px';
-    canvas.style.height = Math.ceil(res.height) + 'px';
-    return res.edges.map((ed, k) => {
-      const s = ed.sections && ed.sections[0];
-      const pts = s ? [s.startPoint].concat(s.bendPoints || [], [s.endPoint]).map((p) => [p.x, p.y]) : [];
-      return { key: E[k].key, a: E[k].e.a, b: E[k].e.b, kind: E[k].e.kind, pts };
-    }).filter((r) => r.pts.length > 1);
+    g.canvas.querySelectorAll('.node').forEach((el) => {
+      const p = g.cur[el.dataset.name];
+      el.style.left = p[0] + 'px';
+      el.style.top = p[1] + 'px';
+    });
+    fitCanvas(g);
+    g.routes.forEach((r) => { r.pts = routePts(g, r); });
   }
 
   const graphs = [];
@@ -210,7 +264,11 @@
     });
     canvas.innerHTML = primaryAreas.map((r) => nodeHTML(r, r === master && !masterHere ? 'ghost' : '')).join('') +
       ghosts.map((g) => nodeHTML(g, 'dup ghost')).join('');
-    return { canvas, routes: await layoutCanvas(canvas, primaryAreas.concat(ghosts), primary, master) };
+    const g = await layoutCanvas(canvas, primaryAreas.concat(ghosts), primary, master);
+    g.canvas = canvas;
+    g.skey = canvas.parentElement.id + (g.narrow ? ':n' : ':w');
+    applyLayout(g);
+    return g;
   }
 
   let renderToken = 0;
@@ -293,6 +351,7 @@
       g.routes.forEach((r) => {
         const ln = document.createElementNS('http://www.w3.org/2000/svg', 'polyline');
         ln.setAttribute('points', r.pts.map((p) => (p[0] + ox).toFixed(1) + ',' + (p[1] + oy).toFixed(1)).join(' '));
+        ln._g = g; ln._r = r;
         ln.setAttribute('class', 'ln' + (r.kind === 'exit' ? ' exit' : ''));
         ln.dataset.a = r.a; ln.dataset.b = r.b;
         lineEls[lineEls[r.key] ? r.key + '#' + frag.childNodes.length : r.key] = ln;
@@ -691,9 +750,17 @@
     $('#rClear').addEventListener('click', clearRoute);
     $('#rSwap').addEventListener('click', () => { const t = from.value; from.value = to.value; to.value = t; if (from.value && to.value) go(); });
 
+    // on phones the level list is a drawer opened from the page bar
+    const showSide = (on) => {
+      document.body.classList.toggle('sideOpen', on);
+      $('#sideScrim').hidden = !on;
+      $('#levelsBtn').setAttribute('aria-expanded', String(on));
+    };
+    $('#levelsBtn').addEventListener('click', () => showSide(!document.body.classList.contains('sideOpen')));
+    $('#sideScrim').addEventListener('click', () => showSide(false));
     $('#tabs').addEventListener('click', (e) => {
       const b = e.target.closest('button[data-p]');
-      if (b) { hideCard(); unfocus(); renderPage(+b.dataset.p); window.scrollTo({ top: 0, behavior: 'smooth' }); }
+      if (b) { showSide(false); hideCard(); unfocus(); renderPage(+b.dataset.p); window.scrollTo({ top: 0, behavior: 'smooth' }); }
     });
     $('#tabs').addEventListener('toggle', (e) => {
       const d = e.target;
@@ -711,12 +778,13 @@
     };
     setTheme(document.documentElement.dataset.theme === 'game' ? 'game' : 'dark');
     themeBtn.addEventListener('click', () => setTheme(document.documentElement.dataset.theme === 'game' ? 'dark' : 'game'));
-    const hh = () => document.documentElement.style.setProperty('--hh', $('#top').offsetHeight + 'px');
+    // the header only sticks on wide screens; on phones it scrolls away and the page bar sticks to the top
+    const hh = () => document.documentElement.style.setProperty('--hh', getComputedStyle($('#top')).position === 'sticky' ? $('#top').offsetHeight + 'px' : '0px');
     hh(); window.addEventListener('resize', hh);
     $('#goLevel').addEventListener('change', (e) => {
       const l = +e.target.value;
       const p = D.pages.find((x) => l >= x.min && l <= x.max);
-      if (p) { hideCard(); unfocus(); renderPage(p.id); window.scrollTo({ top: 0, behavior: 'smooth' }); }
+      if (p) { showSide(false); hideCard(); unfocus(); renderPage(p.id); window.scrollTo({ top: 0, behavior: 'smooth' }); }
     });
     $('#worldStrip').addEventListener('click', (e) => {
       const w = e.target.closest('.w');
@@ -791,11 +859,78 @@
         showCard(n.dataset.name, e.clientX, e.clientY, true);
       }
     });
+    // drag a box to move it; the lines follow. A mouse drags at once, a finger after a short press (a quick swipe still scrolls).
+    let drag = null;
+    let justDragged = false;
+    const updateLines = (g, name) => {
+      g.routes.forEach((r) => { if (r.a === name || r.b === name) r.pts = routePts(g, r); });
+      const cr = g.canvas.getBoundingClientRect();
+      const base = map.getBoundingClientRect();
+      $('#edges').querySelectorAll('.ln').forEach((ln) => {
+        if (ln._g !== g || (ln._r.a !== name && ln._r.b !== name)) return;
+        ln.setAttribute('points', ln._r.pts.map((p) => (p[0] + cr.left - base.left).toFixed(1) + ',' + (p[1] + cr.top - base.top).toFixed(1)).join(' '));
+      });
+    };
+    map.addEventListener('pointerdown', (e) => {
+      if (e.button > 0 || e.target.closest('a')) return;
+      const n = e.target.closest('.node');
+      const g = n && graphs.find((x) => x.canvas.contains(n));
+      if (!g || !g.cur[n.dataset.name]) return;
+      const p = g.cur[n.dataset.name];
+      drag = { n, g, name: n.dataset.name, sx: e.clientX, sy: e.clientY, ox: p[0], oy: p[1], on: false, touch: e.pointerType === 'touch' };
+      const start = () => {
+        if (!drag || drag.on) return;
+        drag.on = true; n.classList.add('dragging'); hideCard(); unfocus();
+        if (navigator.vibrate) navigator.vibrate(12);
+      };
+      drag.start = start;
+      if (drag.touch) drag.timer = setTimeout(start, 350);
+    });
+    window.addEventListener('pointermove', (e) => {
+      if (!drag) return;
+      const dx = e.clientX - drag.sx;
+      const dy = e.clientY - drag.sy;
+      if (!drag.on) {
+        if (drag.touch) { if (Math.hypot(dx, dy) > 8) { clearTimeout(drag.timer); drag = null; } return; }
+        if (Math.hypot(dx, dy) < 5) return;
+        drag.start();
+      }
+      e.preventDefault();
+      const { g, name, n } = drag;
+      g.cur[name] = [Math.max(0, Math.round(drag.ox + dx)), Math.max(0, Math.round(drag.oy + dy))];
+      g.moved.add(name);
+      n.style.left = g.cur[name][0] + 'px';
+      n.style.top = g.cur[name][1] + 'px';
+      fitCanvas(g);
+      updateLines(g, name);
+    });
+    document.addEventListener('touchmove', (e) => { if (drag && drag.on && e.cancelable) e.preventDefault(); }, { passive: false });
+    const endDrag = (save) => {
+      if (!drag) return;
+      clearTimeout(drag.timer);
+      const d = drag;
+      drag = null;
+      d.n.classList.remove('dragging');
+      if (!d.on) return;
+      justDragged = true;
+      setTimeout(() => { justDragged = false; }, 60);
+      if (save) savePos(d.g);
+      drawEdges();
+      applyRoute();
+    };
+    window.addEventListener('pointerup', () => endDrag(true));
+    window.addEventListener('pointercancel', () => endDrag(false));
+    map.addEventListener('click', (e) => { if (justDragged) { e.stopPropagation(); e.preventDefault(); } }, true);
+    map.addEventListener('contextmenu', (e) => { if (drag && drag.on) e.preventDefault(); });
+    $('#resetBtn').addEventListener('click', () => {
+      try { localStorage.removeItem(POS_KEY); } catch (err) { /* ignore */ }
+      hideCard(); unfocus(); renderPage(state.page);
+    });
     document.addEventListener('click', (e) => {
       if (card.classList.contains('pinned') && !e.target.closest('#card') && !e.target.closest('.node')) hideCard();
     });
     document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') { hideCard(); if (!$('#legend').hidden) showLegend(false); if (!crBox.hidden) showCreatures(false); }
+      if (e.key === 'Escape') { showSide(false); hideCard(); if (!$('#legend').hidden) showLegend(false); if (!crBox.hidden) showCreatures(false); }
       if (e.key === '/' && !/INPUT|TEXTAREA/.test((document.activeElement || {}).tagName || '')) { e.preventDefault(); q.focus(); q.select(); }
     });
     card.addEventListener('click', (e) => {

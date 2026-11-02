@@ -145,7 +145,7 @@ button.ghost { background: transparent; }
 #tabs button.on { background: var(--gold); color: #1a1405; border-color: var(--gold); font-weight: 600; }
 #tabs button small { opacity: .7; }
 #pageTitle { font: 600 16px Georgia, serif; color: var(--title); }
-@media (max-width: 760px) { #side { width: 170px; } }
+#levelsBtn, #sideScrim { display: none; }
 #worldStrip { display: flex; flex-wrap: wrap; gap: 4px; align-items: center; flex: 1; }
 #worldStrip .w {
   padding: 3px 10px; border-radius: 6px; font-size: 12px; background: var(--panel); border: 1px solid var(--line);
@@ -172,7 +172,10 @@ button.ghost { background: transparent; }
 #crList .lv { color: var(--dim); font-size: 12px; align-self: center; }
 #crList .mt { grid-column: 2 / 4; color: var(--dim); font-size: 12px; }
 #crList .none { cursor: default; color: var(--dim); }
-#legendBtn { margin-left: 8px; }
+#legendBtn, #resetBtn { margin-left: 8px; }
+.node { -webkit-touch-callout: none; }
+.node.dragging { cursor: grabbing; transform: none; transition: none; z-index: 20; box-shadow: 0 0 0 2px var(--gold), 0 12px 24px rgba(0,0,0,.6); }
+body:has(.node.dragging) { cursor: grabbing; }
 
 #legend {
   display: flex; flex-wrap: wrap; gap: 14px 26px; align-items: center;
@@ -339,3 +342,64 @@ h4 .ico, #legend .ico { width: 16px; height: 16px; } h4 .ico img, h4 .ico svg, #
 .canvas .node.master .sub { font-size: 8.5px; margin-top: 0; }
 .canvas .node.dup { opacity: .6; }
 #routePanel .mv { color: var(--link); font-size: 11.5px; margin-left: 4px; }
+
+/* ------------------------------------------------------------ phones and small tablets */
+/* The header scrolls away, the page bar sticks to the top, the level list becomes a drawer, the hover card a bottom sheet.
+   The map keeps its size and scrolls sideways inside its own box. */
+@media (max-width: 760px) {
+  body { font-size: 15px; }
+  #top { position: static; flex-direction: column; padding: 12px 14px 10px; gap: 10px; align-items: stretch; }
+  .tools { flex: none; }
+  .brand h1 { font-size: 19px; }
+  .tools, .route { flex-direction: column; align-items: stretch; gap: 10px; }
+  .route { flex-wrap: nowrap; }
+  .route .field { width: 100%; }
+  .field input, button { min-height: 40px; }
+  .field input { font-size: 16px; } /* 16px stops iOS from zooming in on focus */
+  #rSwap { align-self: center; transform: rotate(90deg); }
+  #rGo, #rClear { width: 100%; }
+  #themeBtn { align-self: stretch; }
+  .sugg { min-width: 0; }
+
+  #pageBar { top: 0; padding: 8px 12px; gap: 8px 10px; }
+  #levelsBtn { display: inline-block; }
+  #pageBar button { padding: 6px 9px; font-size: 13px; }
+  #levelsBtn { order: 1; } #creatureBtn { order: 2; } #legendBtn { order: 3; } #resetBtn { order: 3; }
+  #pageTitle { order: 4; flex: 1 1 100%; min-width: 0; font-size: 15px; }
+  #worldStrip { order: 5; flex: 1 1 100%; flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; }
+  #creatureBtn { margin-left: 0; }
+  #legendBtn, #resetBtn { margin-left: 0; }
+  #creatures { position: fixed; left: 8px; right: 8px; top: 56px; width: auto; max-width: none; max-height: calc(100vh - 72px); max-height: calc(100dvh - 72px); }
+  #creatures select, #creatures input { font-size: 16px; min-height: 38px; }
+  #creatures .crRow label { flex: 1 1 140px; }
+  #legend { position: fixed; left: 0; right: 0; top: 56px; max-height: calc(100vh - 72px); max-height: calc(100dvh - 72px); padding: 12px 14px; }
+  #legend #lvBar { width: 100%; }
+
+  /* level list drawer */
+  #side {
+    position: fixed; top: 0; left: 0; bottom: 0; height: auto; width: min(300px, 85vw); z-index: 70;
+    transform: translateX(-102%); transition: transform .2s ease; box-shadow: none; padding-top: 14px; background: var(--bg2);
+  }
+  body.sideOpen #side { transform: none; box-shadow: 0 0 40px rgba(0,0,0,.6); }
+  #sideScrim { position: fixed; inset: 0; z-index: 65; background: rgba(0,0,0,.5); }
+  body.sideOpen #sideScrim:not([hidden]) { display: block; }
+  #goLevel { font-size: 16px; min-height: 40px; }
+  #tabs summary, #tabs button { min-height: 40px; align-items: center; }
+
+  #routePanel { margin: 0 10px; padding: 12px; top: 10px; }
+  #mapWrap { padding: 20px 8px 40px; -webkit-overflow-scrolling: touch; }
+  #map { min-width: 0; } /* the layout wraps into fewer, taller columns instead of scrolling sideways */
+  .world-head .meta { max-width: none; text-align: center; }
+  .world { padding: 14px 10px 18px; }
+  #foot { padding: 16px 14px 30px; }
+
+  /* tapping a realm pins its card at the bottom of the screen */
+  #card, #card.pinned {
+    left: 8px !important; right: 8px; top: auto !important; bottom: 8px; width: auto; max-width: none;
+    max-height: 70vh; max-height: 70dvh; z-index: 110;
+  }
+  #card .close { min-height: 0; padding: 0 12px; line-height: 30px; font-size: 18px; }
+  #card .acts button, #card .acts a { padding: 8px 12px; font-size: 13px; }
+  #card .cols { grid-template-columns: 1fr; }
+}
+@media (hover: none) { #card:not(.pinned) { display: none; } } /* no hover on touch screens; a tap pins the card */
