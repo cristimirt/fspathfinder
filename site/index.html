@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Fallen Sword Path Finder</title>
 <script>try { if (localStorage.getItem('fspf_theme') === 'game') document.documentElement.dataset.theme = 'game'; } catch (e) { /* no storage */ }</script>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -12,7 +13,7 @@
 <header id="top">
   <div class="brand">
     <h1>Fallen Sword <span>Path Finder</span></h1>
-    <p>Levels 1 &ndash; 6276 &middot; proof of concept</p>
+    <p>Levels 1 &ndash; 6276</p>
   </div>
 
   <div class="tools">
@@ -40,6 +41,7 @@
   </div>
   <button id="findBtn" type="button" class="ghost iconBtn" aria-expanded="false" aria-label="Find an area" title="Find an area"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg></button>
   <button id="routeBtn" type="button" class="ghost iconBtn" aria-expanded="false" aria-label="Find a route" title="Find a route between two areas"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="18" r="2.5"/><circle cx="18" cy="6" r="2.5"/><path d="M8.5 18H14a3.5 3.5 0 0 0 0-7h-4a3.5 3.5 0 0 1 0-7h5.5" stroke-dasharray="0"/></svg></button>
+  <button id="aboutBtn" type="button" class="ghost" title="About this tool">About</button>
   <button id="themeBtn" type="button" class="ghost" title="Switch between the dark theme and the game's parchment theme">Theme</button>
 </header>
 
@@ -76,6 +78,23 @@
     <div id="sections"></div>
   </div>
 </main>
+
+<dialog id="about" aria-labelledby="aboutTitle">
+  <form method="dialog"><button class="aboutX" aria-label="Close" title="Close">&times;</button></form>
+  <h2 id="aboutTitle">Fallen Sword <span>Path Finder</span></h2>
+  <p>Browse every realm of <a href="https://www.fallensword.com/" target="_blank" rel="noopener">Fallen Sword</a> by level, see how they connect and what they hold (creatures, shops, quests, relics, portals), and find the shortest way from one area to another.</p>
+  <h3>How to use it</h3>
+  <ul>
+    <li>Use <b>Route from / to</b> in the header to get step-by-step directions. Stairs, portals, world maps and the 25 stamina teleport to Mountain Path are all considered.</li>
+    <li>Hover or tap a realm for its info card. Drag realms to rearrange them; positions are kept in your browser and <b>Reset layout</b> puts them back.</li>
+    <li>Press <kbd>/</kbd> to search for an area.</li>
+  </ul>
+  <h3>Where the data comes from</h3>
+  <p>Collected from the <a href="https://guide.fallensword.com/" target="_blank" rel="noopener">Ultimate Fallen Sword Guide</a> and the <a href="https://wiki.fallensword.com/" target="_blank" rel="noopener">Fallen Sword Wiki</a>. It is community-maintained, so some stairs may be missing or out of date. Route lengths are estimates: walking is the straight-line distance and obstacles are ignored.</p>
+  <h3>Feedback</h3>
+  <p>Suggestions and bug reports are welcome on <a href="https://github.com/cristimirt/fspathfinder" target="_blank" rel="noopener">GitHub</a>; please <a href="https://github.com/cristimirt/fspathfinder/issues" target="_blank" rel="noopener">open an issue</a> there. Wrong or missing stairs are especially useful, with the realm names.</p>
+  <p class="aboutFoot">Created by <a href="https://www.fallensword.com/index.php?cmd=profile&amp;player_id=2094853" target="_blank" rel="noopener">Aurik16</a>. Not affiliated with Hunted Cow Studios.</p>
+</dialog>
 
 <footer id="foot"></footer>
 

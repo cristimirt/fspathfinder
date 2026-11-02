@@ -24,7 +24,7 @@
 
   // ---------------------------------------------------------------- icons
   const ICON = {
-    portal: '<span class="ico" title="Portal"><img src="https://cdn2.fallensword.com/ui/world/action-list-portal.png" alt="*" onerror="this.replaceWith(\'*\')"></span>',
+    portal: '<span class="ico" title="Portal"><img src="portal.png" alt="Portal"></span>',
     shop: '<span class="ico" title="Shop"><svg viewBox="0 0 16 16"><path d="M3 6.5h10l-1 8H4z" fill="#f0c24b" stroke="#6b4b00"/><path d="M5.5 6.5V4.8a2.5 2.5 0 0 1 5 0v1.7" fill="none" stroke="#6b4b00" stroke-width="1.2"/></svg></span>',
     quest: '<span class="ico" title="Quest"><svg viewBox="0 0 16 16"><circle cx="8" cy="8" r="7" fill="#ffd54a" stroke="#6b4b00"/><rect x="7.1" y="3.6" width="1.8" height="5.4" rx=".9" fill="#6b4b00"/><circle cx="8" cy="11.6" r="1.05" fill="#6b4b00"/></svg></span>',
     relic: '<span class="ico" title="Relic"><svg viewBox="0 0 16 16"><path d="M8 1.5l5 5-5 8-5-8z" fill="#7be0ff" stroke="#0b4a63"/><path d="M3 6.5h10M8 1.5l-2 5 2 8 2-8z" fill="none" stroke="#0b4a63" stroke-width=".7"/></svg></span>',
@@ -798,6 +798,9 @@
       try { localStorage.setItem('fspf_theme', name); } catch (err) { /* ignore */ }
     };
     setTheme(document.documentElement.dataset.theme === 'game' ? 'game' : 'dark');
+    const about = $('#about');
+    $('#aboutBtn').addEventListener('click', () => about.showModal());
+    about.addEventListener('click', (e) => { if (e.target === about) about.close(); }); // the backdrop
     themeBtn.addEventListener('click', () => setTheme(document.documentElement.dataset.theme === 'game' ? 'dark' : 'game'));
     // the header only sticks on wide screens; on phones it scrolls away and the page bar sticks to the top
     const hh = () => document.documentElement.style.setProperty('--hh', getComputedStyle($('#top')).position === 'sticky' ? $('#top').offsetHeight + 'px' : '0px');
@@ -985,6 +988,11 @@
   renderLegend();
   wire();
   renderPage(state.page);
-  $('#foot').innerHTML = 'Data from the Ultimate Fallen Sword Guide and the Fallen Sword Wiki, collected ' + esc(D.built) +
-    '. Community-maintained, so some stairs may be missing or out of date. ' + realms.length + ' realms and ' + masters.length + ' master realms, levels 1&ndash;' + LAST_LEVEL + '. Not affiliated with Hunted Cow Studios.';
+  $('#foot').innerHTML = 'A Path Finder tool for <a href="https://www.fallensword.com/" target="_blank" rel="noopener">Fallen Sword</a>, by ' +
+    '<a href="https://www.fallensword.com/index.php?cmd=profile&amp;player_id=2094853" target="_blank" rel="noopener">Aurik16</a>, ' +
+    'inspired by <a href="https://mowgliksmaps.bitbucket.io/" target="_blank" rel="noopener">Mowglik&rsquo;s References Fallen Sword Areas</a>. ' +
+    'Not affiliated with Hunted Cow Studios.';
+  const foot = () => document.documentElement.style.setProperty('--fh', $('#foot').offsetHeight + 'px');
+  foot();
+  window.addEventListener('resize', foot);
 })();

@@ -1,7 +1,7 @@
 // Tiny static server for local testing: node tools/serve.js [port]
 const http = require('http'), fs = require('fs'), path = require('path');
 const root = path.resolve(__dirname, '..', 'site');
-const types = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.css': 'text/css; charset=utf-8', '.json': 'application/json; charset=utf-8' };
+const types = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.css': 'text/css; charset=utf-8', '.json': 'application/json; charset=utf-8', '.svg': 'image/svg+xml' };
 http.createServer((req, res) => {
   let f = path.join(root, decodeURIComponent(req.url.split('?')[0]));
   if (f.endsWith(path.sep) || !path.extname(f)) f = path.join(root, 'index.html');

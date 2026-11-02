@@ -1,4 +1,4 @@
-# Fallen Sword Path Finder (proof of concept, levels 1-6276)
+# Fallen Sword Path Finder (levels 1-6276)
 
 A modern replacement for the old RFSA "Reference Fallen Sword Areas" site. Plain HTML/CSS/JS, no database, no build step for the page itself.
 
