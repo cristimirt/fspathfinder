@@ -20,6 +20,7 @@
 
   const norm = (s) => String(s).toLowerCase().replace(/[^a-z0-9]/g, '');
   const FREE_TO = 'Mountain Path';
+  const FREE_AT = [9, 11]; // the free teleport always puts you on this tile
 
   function create(D) {
     const byName = {};
@@ -86,7 +87,7 @@
           out.push({ e: { to: m.name, kind: 'portal', x: near.p.x, y: near.p.y, name: near.p.name }, walk: near.walk, cost: near.walk + 2, at: null });
         });
       }
-      if (name !== FREE_TO && byName[FREE_TO]) out.push({ e: { to: FREE_TO, kind: 'free' }, walk: 0, cost: 1, at: null });
+      if (name !== FREE_TO && byName[FREE_TO]) out.push({ e: { to: FREE_TO, kind: 'free', ax: FREE_AT[0], ay: FREE_AT[1] }, walk: 0, cost: 1, at: FREE_AT });
       return out;
     }
 

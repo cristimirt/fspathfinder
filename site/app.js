@@ -539,7 +539,7 @@
     const e = s.edge;
     const walk = s.walk ? ' <span class="mv">' + s.walk + ' move' + (s.walk === 1 ? '' : 's') + ' to get there</span>' : '';
     if (e.kind === 'free') {
-      return 'Teleport to ' + link(e.to) + ' <span class="sub">&mdash; free from anywhere</span>';
+      return 'Teleport to ' + link(e.to) + ' <span class="sub">&mdash; free from anywhere, you arrive at ' + coord(e.ax, e.ay) + '</span>';
     }
     if (e.kind === 'portal') {
       return 'In ' + link(s.from) + ', walk to the <b>' + esc(e.name) + '</b> ' + coord(e.x, e.y) + walk + ' and teleport to the ' + link(e.to) +
