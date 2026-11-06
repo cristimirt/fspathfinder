@@ -21,6 +21,10 @@
   const norm = (s) => String(s).toLowerCase().replace(/[^a-z0-9]/g, '');
   const FREE_TO = 'Mountain Path';
   const FREE_AT = [9, 11]; // the teleport always puts you on this tile
+  // World maps that really connect to each other (you can walk from one to the other). Being next to each other on the world map
+  // does not mean that: the guide and the wiki do not say which neighbours connect, so this list is filled in by hand.
+  // Each entry is a pair of master realm names, e.g. ['First Map', 'Second Map'].
+  const WORLD_LINKS = [];
   const TELEPORT_COST = 25; // it costs 25 stamina, about 25 moves
 
   function create(D) {
@@ -60,7 +64,10 @@
           addDrawn(m.name, n, 'exit');
         }
       });
-      if (m.nextWorld) { addEdge(m.name, m.nextWorld, 'world', {}); addEdge(m.nextWorld, m.name, 'world', {}); }
+      });
+    WORLD_LINKS.forEach(([a, b]) => {
+      if (!byName[a] || !byName[b]) throw new Error('WORLD_LINKS: unknown world map ' + (byName[a] ? b : a));
+      addEdge(a, b, 'world', {}); addEdge(b, a, 'world', {});
     });
 
     // Cost is in moves: walking inside a realm is the straight-line distance between the tile you arrive on and the tile of
