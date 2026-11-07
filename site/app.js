@@ -625,7 +625,7 @@
       panel.innerHTML = '<h2>Route</h2><div class="err">Pick both areas from the suggestion list.</div>';
       return;
     }
-    const steps = from === to ? [] : findRoute(from, to);
+    const steps = from === to ? [] : findRoute(from, to, null, { waysOnly: $('#rWays').checked });
     state.route = steps ? { from, to, steps } : null;
     panel.hidden = false;
     $('#rClear').hidden = false;
@@ -747,6 +747,13 @@
     attachAC(from, $('#rFromSugg'), onRoutePick);
     attachAC(to, $('#rToSugg'), onRoutePick);
     $('#rGo').addEventListener('click', go);
+    // the choice is remembered; changing it plans the route again
+    const ways = $('#rWays');
+    try { ways.checked = localStorage.getItem('fspf_waysOnly') === '1'; } catch (err) { /* ignore */ }
+    ways.addEventListener('change', () => {
+      try { localStorage.setItem('fspf_waysOnly', ways.checked ? '1' : '0'); } catch (err) { /* ignore */ }
+      if (from.value && to.value) go();
+    });
     $('#rClear').addEventListener('click', clearRoute);
     $('#rSwap').addEventListener('click', () => { const t = from.value; from.value = to.value; to.value = t; if (from.value && to.value) go(); });
 
