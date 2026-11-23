@@ -35,6 +35,7 @@ Open `site/index.html` in a browser (double-click works, it is all relative file
 ## Known gaps / assumptions
 - Wiki data is player-maintained and can be out of date.
 - Where a realm is entered from the world map comes from the wiki's `[World Area]` exits. Krul Island has none, so Mountain Path is set by hand.
+- "Use portals" (switch next to the route fields, on by default; `findRoute(from, to, tile, { portals: false })` for none; kept in `localStorage.fspf_portals`) turns every portal off for the route; "Only the Cathedral of Ways portal" then has no effect. The helper's Path Finder widget has the same switch.
 - "Only the Cathedral of Ways portal" (checkbox next to the route fields; `findRoute(from, to, tile, { waysOnly: true })`) drops every portal except the one in the Cathedral of Ways; the choice is kept in `localStorage.fspf_waysOnly`. The helper's Path Finder widget has the same option.
 - Route finder assumes world maps next to each other in the wiki's "World Area Navigation" can be crossed directly, and that stairs work both ways. A portal takes you to the world map of any master realm (cost 2 moves plus the walk to the portal), and Mountain Path can be reached from anywhere by teleporting (25 stamina, counted as 25 moves), so a route may start with a walk to a nearby portal or a teleport. Moves inside a realm are the straight-line distance between tiles (obstacles ignored); world-map walking is a flat estimate.
 - Special event areas are those the wiki marks as event-only.

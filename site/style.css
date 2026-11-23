@@ -97,6 +97,7 @@ a { color: var(--link); }
 .route .chk .sw::after { content: ""; position: absolute; top: 2px; left: 2px; width: 12px; height: 12px; border-radius: 50%; background: var(--dim); transition: transform .15s, background .15s; }
 .route .chk input:checked + .sw { background: var(--gold); border-color: var(--gold); }
 .route .chk input:checked + .sw::after { background: var(--bg); transform: translateX(12px); }
+.route .chk.off { opacity: .45; cursor: default; }
 .route .chk input:focus-visible + .sw { outline: 2px solid var(--gold2); outline-offset: 2px; }
 .field input {
   width: 230px; padding: 7px 10px; border-radius: 8px;

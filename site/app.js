@@ -625,7 +625,7 @@
       panel.innerHTML = '<h2>Route</h2><div class="err">Pick both areas from the suggestion list.</div>';
       return;
     }
-    const steps = from === to ? [] : findRoute(from, to, null, { waysOnly: $('#rWays').checked });
+    const steps = from === to ? [] : findRoute(from, to, null, { portals: $('#rPortals').checked, waysOnly: $('#rWays').checked });
     state.route = steps ? { from, to, steps } : null;
     panel.hidden = false;
     $('#rClear').hidden = false;
@@ -749,9 +749,18 @@
     $('#rGo').addEventListener('click', go);
     // the choice is remembered; changing it plans the route again
     const ways = $('#rWays');
-    try { ways.checked = localStorage.getItem('fspf_waysOnly') === '1'; } catch (err) { /* ignore */ }
+    const portals = $('#rPortals');
+    // "only the Cathedral of Ways portal" means nothing while portals are off
+    const syncWays = () => { ways.disabled = !portals.checked; $('#rWaysLbl').classList.toggle('off', !portals.checked); };
+    try { ways.checked = localStorage.getItem('fspf_waysOnly') === '1'; portals.checked = localStorage.getItem('fspf_portals') !== '0'; } catch (err) { /* ignore */ }
+    syncWays();
     ways.addEventListener('change', () => {
       try { localStorage.setItem('fspf_waysOnly', ways.checked ? '1' : '0'); } catch (err) { /* ignore */ }
+      if (from.value && to.value) go();
+    });
+    portals.addEventListener('change', () => {
+      try { localStorage.setItem('fspf_portals', portals.checked ? '1' : '0'); } catch (err) { /* ignore */ }
+      syncWays();
       if (from.value && to.value) go();
     });
     $('#rClear').addEventListener('click', clearRoute);

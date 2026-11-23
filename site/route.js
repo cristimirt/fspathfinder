@@ -75,7 +75,7 @@
     // the next stairs / portal (diagonals allowed, obstacles ignored). A portal reaches any master realm's world map, and you can
     // teleport to Mountain Path for 25 stamina, so the cheapest way may start by walking to a nearby portal instead.
     const cheb = (t, x, y) => (t && x != null ? Math.max(Math.abs(t[0] - x), Math.abs(t[1] - y)) : 0);
-    function moveOptions(name, tile, waysOnly) {
+    function moveOptions(name, tile, waysOnly, noPortals) {
       const out = [];
       adj[name].forEach((e) => {
         const walk = cheb(tile, e.x, e.y);
@@ -86,7 +86,7 @@
       });
       // a portal takes you to the world map of any master realm; every portal of a realm leads to the same places, so only the nearest one counts
       let near = null;
-      (waysOnly && name !== WAYS ? [] : byName[name].portals || []).forEach((p) => {
+      (noPortals || (waysOnly && name !== WAYS) ? [] : byName[name].portals || []).forEach((p) => {
         const walk = cheb(tile, p.x, p.y);
         if (!near || walk < near.walk) near = { p, walk };
       });
@@ -101,10 +101,11 @@
     }
 
     // Cheapest way from one area to another. `tile` is [x, y] of where you stand now (optional, makes the first walk exact).
-    // `opts.waysOnly`: no portals except the one in the Cathedral of Ways.
+    // `opts.portals === false`: no portals at all. `opts.waysOnly`: no portals except the one in the Cathedral of Ways.
     // Event-only areas are never used as a way through, only as the start or the destination.
     function findRoute(from, to, tile, opts) {
       const waysOnly = !!(opts && opts.waysOnly);
+      const noPortals = !!(opts && opts.portals === false);
       const key = (n, t) => n + '@' + (t ? t[0] + ',' + t[1] : '');
       const info = {};
       const dist = {};
@@ -120,7 +121,7 @@
         if (d > dist[k]) continue;
         const st = info[k];
         if (st.name === to) { goal = k; break; }
-        moveOptions(st.name, st.tile, waysOnly).forEach((o) => {
+        moveOptions(st.name, st.tile, waysOnly, noPortals).forEach((o) => {
           if (o.e.to !== to && byName[o.e.to].event) return;
           const nk = key(o.e.to, o.at);
           const nd = d + o.cost;
