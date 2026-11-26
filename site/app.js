@@ -77,7 +77,7 @@
   const nextPage = (a) => a.beyond.length > 0 || a.stairs.some((s) => byName[s.to] && pageOf(byName[s.to]).id !== pageOf(a).id);
 
   // ---------------------------------------------------------------- state
-  const state = { page: D.pages[0].id, pinned: null, hover: null, route: null, openGroup: null, lastGroup: null };
+  const state = { page: D.pages[0].id, pinned: null, hover: null, route: null, openGroup: null, lastGroup: null, here: null };
   const nodeEls = {};
   const lineEls = {};
 
@@ -324,6 +324,7 @@
     // an area can also appear as a copy in a neighbouring map (a ghost); the real box is the one that gets highlighted
     wrap.querySelectorAll('.node:not(.dup)').forEach((el) => { nodeEls[el.dataset.name] = el; });
     wrap.querySelectorAll('.node.dup').forEach((el) => { if (!nodeEls[el.dataset.name]) nodeEls[el.dataset.name] = el; });
+    markHere();
     renderTabs();
     renderStrip();
     renderLevelBar();
@@ -334,6 +335,9 @@
       applyRoute();
     });
   }
+
+  // the area the address named (#area=) keeps a moving border, on whichever page it is drawn
+  function markHere() { Object.keys(nodeEls).forEach((k) => nodeEls[k].classList.toggle('here', k === state.here)); }
 
   // ---------------------------------------------------------------- lines between areas
   function drawEdges() {
@@ -500,7 +504,7 @@
       // creatures
       const cr = a.creatures || [];
       h += section('Creatures (' + cr.length + ')', '', cr.length
-        ? '<ul class="cols">' + cr.map((c) => '<li>' + esc(c.name) + (c.rank ? '<span class="rk ' + esc(c.rank) + '">' + esc(c.rank) + '</span>' : '') + (c.race ? ' <span class="race">' + esc(c.race) + '</span>' : '') + '</li>').join('') + '</ul>' : '', 'No creatures listed');
+        ? '<ul class="cols">' + cr.map((c) => '<li>' + esc(c.name) + (c.level ? ' <span class="clv">Lv ' + c.level + '</span>' : '') + (c.rank ? '<span class="rk ' + esc(c.rank) + '">' + esc(c.rank) + '</span>' : '') + (c.race ? ' <span class="race">' + esc(c.race) + '</span>' : '') + '</li>').join('') + '</ul>' : '', 'No creatures listed');
       // shops
       const sp = a.shopSpots || [];
       const shopBody = sp.length
@@ -665,13 +669,13 @@
   }
 
   // ---------------------------------------------------------------- jump to an area
-  function goTo(name, pin) {
+  function goTo(name, pin, scroll) {
     const a = byName[name];
     if (!a) return;
-    if (pageOf(a).id !== state.page) { renderPage(pageOf(a).id).then(() => goTo(name, pin)); return; }
+    if (pageOf(a).id !== state.page) { renderPage(pageOf(a).id).then(() => goTo(name, pin, scroll)); return; }
     const el = nodeEls[name];
     if (!el) return;
-    el.scrollIntoView({ block: 'center', behavior: 'smooth' });
+    el.scrollIntoView({ block: 'center', behavior: scroll || 'smooth' });
     el.classList.remove('found');
     void el.offsetWidth;
     el.classList.add('found');
@@ -861,7 +865,7 @@
       hit.sort((x, y) => x.a.level - y.a.level || x.a.name.localeCompare(y.a.name));
       $('#crCount').textContent = hit.length ? hit.length + ' realm' + (hit.length === 1 ? '' : 's') : '';
       $('#crList').innerHTML = hit.length ? hit.map((h, i) => '<li data-n="' + esc(h.a.name) + '"><span class="id">Lv ' + h.a.level + '</span><span class="nm">' + esc(h.a.name) + '</span><span class="lv">' + esc(h.a.world) + '</span>' +
-        '<span class="mt">' + esc(h.m.slice(0, 4).map((c) => c.name).join(', ')) + (h.m.length > 4 ? ' +' + (h.m.length - 4) + ' more' : '') + '</span></li>').join('')
+        '<span class="mt">' + esc(h.m.slice(0, 4).map((c) => c.name + (c.level ? ' (Lv ' + c.level + ')' : '')).join(', ')) + (h.m.length > 4 ? ' +' + (h.m.length - 4) + ' more' : '') + '</span></li>').join('')
         : '<li class="none">' + (race || nm ? 'No realm has such creatures.' : 'Pick a race or type a creature name.') + '</li>';
     };
     const showCreatures = (on) => {
@@ -1003,7 +1007,20 @@
   // ---------------------------------------------------------------- start
   renderLegend();
   wire();
-  renderPage(state.page);
+  // An address ending in #area=<name> opens the page of that area, pins its card and gives it a moving border (the game widget
+  // links here with the area the player is in).
+  const areaFromHash = () => {
+    const m = /[#&]area=([^&]*)/.exec(location.hash);
+    if (!m) return null;
+    let t;
+    try { t = decodeURIComponent(m[1]); } catch (e) { return null; }
+    return byName[t] ? t : Object.keys(byName).find((k) => norm(k) === norm(t)) || null;
+  };
+  const wanted = areaFromHash();
+  if (wanted) { state.page = pageOf(byName[wanted]).id; state.here = wanted; }
+  const firstDraw = renderPage(state.page);
+  if (wanted) firstDraw.then(() => goTo(wanted, true, 'instant')); // no animation: the page has only just opened
+  window.addEventListener('hashchange', () => { const name = areaFromHash(); if (name) { hideCard(); unfocus(); state.here = name; markHere(); goTo(name, true, 'instant'); } });
   $('#foot').innerHTML = 'A Path Finder tool for <a href="https://www.fallensword.com/" target="_blank" rel="noopener">Fallen Sword</a>, by ' +
     '<a href="https://www.fallensword.com/index.php?cmd=profile&amp;player_id=2094853" target="_blank" rel="noopener">Aurik16</a>, ' +
     'inspired by <a href="https://mowgliksmaps.bitbucket.io/" target="_blank" rel="noopener">Mowglik&rsquo;s References Fallen Sword Areas</a>. ' +

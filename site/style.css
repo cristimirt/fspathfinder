@@ -294,8 +294,23 @@ h4 .ico, #legend .ico { width: 16px; height: 16px; } h4 .ico img, h4 .ico svg, #
 .node.ghost { opacity: .55; }
 .node.found { animation: pop 1.3s ease 2; }
 @keyframes pop { 0%,100% { box-shadow: 0 0 0 1px #000, 0 4px 10px rgba(0,0,0,.45); } 50% { box-shadow: 0 0 0 4px var(--hl), 0 0 28px 8px rgba(255,217,128,.7); } }
-#map.focus .node:not(.hl):not(.me) { opacity: .35; }
-#map.routing .node:not(.route) { opacity: .3; }
+/* the area the address named: dashes that march round it, and a ring that spreads from it */
+.node.here { --beacon: var(--gold2); z-index: 6; }
+:root[data-theme="game"] .node.here { --beacon: #a3160a; }
+.node.here::before, .node.here::after { content: ''; position: absolute; pointer-events: none; border-radius: 14px; }
+.node.here::after { inset: -12px;
+  background:
+    repeating-linear-gradient(90deg, var(--beacon) 0 8px, transparent 8px 14px) 0 0 / 14px 3px repeat-x,
+    repeating-linear-gradient(90deg, var(--beacon) 0 8px, transparent 8px 14px) 0 100% / 14px 3px repeat-x,
+    repeating-linear-gradient(0deg, var(--beacon) 0 8px, transparent 8px 14px) 0 0 / 3px 14px repeat-y,
+    repeating-linear-gradient(0deg, var(--beacon) 0 8px, transparent 8px 14px) 100% 0 / 3px 14px repeat-y;
+  border-radius: 0; animation: march .6s linear infinite; }
+.node.here::before { inset: -12px; border: 2px solid var(--beacon); animation: spread 1.6s ease-out infinite; }
+@keyframes march { to { background-position: 14px 0, -14px 100%, 0 -14px, 100% 14px; } }
+@keyframes spread { 0% { transform: scale(.92); opacity: .9; } 100% { transform: scale(1.28); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .node.here::after { animation: none; } .node.here::before { display: none; } }
+#map.focus .node:not(.hl):not(.me):not(.here) { opacity: .35; }
+#map.routing .node:not(.route):not(.here) { opacity: .3; }
 .node.route { box-shadow: 0 0 0 3px var(--route), 0 0 20px 4px rgba(255,183,3,.55); z-index: 6; }
 .node.hl { box-shadow: 0 0 0 2px var(--hl), 0 6px 16px rgba(0,0,0,.6); }
 
@@ -320,6 +335,7 @@ h4 .ico, #legend .ico { width: 16px; height: 16px; } h4 .ico img, h4 .ico svg, #
 #card .rk.Champion { color: #7fd1ff; } #card .rk.Elite { color: #7dff9a; } #card .rk.Super\ Elite { color: #ffb86b; }
 #card .rk.Legendary { color: #ff6b6b; } #card .rk.Titan { color: #d68cff; }
 #card .race { color: var(--dim); }
+#card .clv { font-size: 11px; font-weight: 600; color: var(--gold); font-variant-numeric: tabular-nums; white-space: nowrap; }
 #card .epic { color: var(--epic); }
 #card .evt { color: var(--evt); }
 #card .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 0 14px; }

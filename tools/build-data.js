@@ -34,6 +34,21 @@ const EVENT_NAME = /^(Forest of Yule|Springtime Forest|Grannies Cottage|Woodsman
 // Entries added by hand. An empty list means the world map has no way in from a realm (nothing is guessed for it).
 const ENTRY_OVERRIDE = { 'Krul Island': [] };
 
+// ---- creature levels, from the guide's creature list: id, name (with its rank), race, level. The realm pages only name the
+// creatures, so a level is found by name and race; of several with the same two, the one nearest to the realm's level.
+const creatureList = {};
+raw('creatures-').forEach((line) => {
+  const [, name, race, level] = line.split('¦');
+  const key = norm(name) + '|' + norm(race);
+  (creatureList[key] = creatureList[key] || []).push(+level);
+});
+const noLevel = new Set();
+const creatureLevel = (name, race, realmLevel) => {
+  const found = creatureList[norm(name) + '|' + norm(race)];
+  if (!found) { noLevel.add(name + ' (' + race + ')'); return null; }
+  return found.reduce((best, l) => (Math.abs(l - realmLevel) < Math.abs(best - realmLevel) ? l : best));
+};
+
 // ---- guide: name, level, shops, relics, quests, creatures
 const guide = {};
 raw('guide-').forEach((line) => {
@@ -52,7 +67,9 @@ raw('guide-').forEach((line) => {
       const clean = (c.match(/\(([^()]*)\)/g) || []).map((p) => p.slice(1, -1).trim());
       const rank = clean.find((p) => ranks.indexOf(p) !== -1) || '';
       const race = clean.filter((p) => p !== rank).pop() || '';
-      return { name: c.replace(/\s*\([^()]*\)/g, '').trim() || c, rank, race };
+      const full = race ? c.replace('(' + race + ')', '').trim() : c; // as the creature list writes it
+      const found = creatureLevel(full, race, +level);
+      return Object.assign({ name: c.replace(/\s*\([^()]*\)/g, '').trim() || c, rank, race }, found == null ? {} : { level: found });
     }),
   };
 });
@@ -398,6 +415,7 @@ fs.writeFileSync(path.join(root, 'site', 'route.json'), JSON.stringify(routeOut)
 const counts = {};
 areas.forEach((a) => { counts[a.kind] = (counts[a.kind] || 0) + 1; });
 console.log('areas', counts);
+console.log('creatures without a level:', noLevel.size, [...noLevel].slice(0, 15).join(', '));
 console.log('no world:', areas.filter((a) => a.kind === 'realm' && !a.world).map((a) => a.name).join(', ') || '-');
 console.log('no stairs:', areas.filter((a) => a.kind === 'realm' && !a.stairs.length).map((a) => a.name).join(', ') || '-');
 console.log('unreachable from a world map:', unreachable.join(', ') || '-');
