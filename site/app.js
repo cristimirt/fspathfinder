@@ -591,7 +591,7 @@
   }
 
   // ---------------------------------------------------------------- routing
-  // Cost is in moves: walking inside a realm is the straight-line distance between the tile you arrive on and the tile of
+  // Cost is in stamina, 1 a move: walking inside a realm is the straight-line distance between the tile you arrive on and the tile of
   // the next stairs / portal (diagonals allowed, obstacles ignored). A portal reaches any master realm's world map, and you can
   // teleport to Mountain Path for 25 stamina, so the cheapest way may start by walking to a nearby portal instead.
   const findRoute = R.findRoute;
@@ -606,7 +606,7 @@
     }
     if (e.kind === 'portal') {
       return 'In ' + link(s.from) + ', walk to the <b>' + esc(e.name) + '</b> ' + coord(e.x, e.y) + walk + ' and teleport to the ' + link(e.to) +
-        ' <span class="sub">&mdash; world map</span>';
+        ' <span class="sub">&mdash; world map, costs 25 stamina</span>';
     }
     if (e.kind === 'stairs') {
       return 'In ' + link(s.from) + ', take the stairs' + (e.x != null ? ' at ' + coord(e.x, e.y) : '') + walk + ' to ' + link(e.to) +
@@ -641,7 +641,7 @@
     const path = [from].concat(steps.map((s) => s.edge.to));
     const maxLv = Math.max.apply(null, path.map((n) => byName[n].level));
     panel.innerHTML =
-      '<h2>' + link(from) + ' &rarr; ' + link(to) + '<small>' + steps.length + ' step' + (steps.length === 1 ? '' : 's') + ' &middot; about ' + Math.round(steps.total) + ' moves &middot; highest minimum level on the way: ' + maxLv + '</small></h2>' +
+      '<h2>' + link(from) + ' &rarr; ' + link(to) + '<small>' + steps.length + ' step' + (steps.length === 1 ? '' : 's') + ' &middot; total stamina: <span title="An estimate: 1 a move, 25 a portal or teleport">' + Math.round(steps.total) + '</span> &middot; highest minimum level on the way: ' + maxLv + '</small></h2>' +
       '<ol><li><span>Start in ' + link(from) + ' <span class="sub">(level ' + fa.level + ')</span></span></li>' +
       steps.map((s) => '<li><span>' + stepText(s) + '</span></li>').join('') +
       '<li><span>You are in ' + link(to) + '</span></li></ol>';

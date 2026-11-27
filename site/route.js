@@ -1,6 +1,6 @@
 // Routing over the Path Finder data. No DOM here: the website and the helper userscript both use this file.
 //   const R = FSRoute.create(data);   // data = window.FSAR (data.js) or the parsed route.json
-//   R.findRoute('Mountain Path', 'Ramdal', [3, 8])  ->  steps (or null), steps.total = estimated moves
+//   R.findRoute('Mountain Path', 'Ramdal', [3, 8])  ->  steps (or null), steps.total = estimated stamina
 (function (root, factory) {
   if (typeof module === 'object' && module.exports) module.exports = factory();
   else root.FSRoute = factory();
@@ -26,7 +26,8 @@
   // Each entry is a pair of master realm names, e.g. ['First Map', 'Second Map'].
   const WORLD_LINKS = [];
   const WAYS = 'Cathedral of Ways'; // the one portal that is kept when the other portals are switched off
-  const TELEPORT_COST = 25; // it costs 25 stamina, about 25 moves
+  const TELEPORT_COST = 25; // stamina (a move on foot costs 1)
+  const PORTAL_COST = 25; // stamina, as the game's portal window says
 
   function create(D) {
     const byName = {};
@@ -71,7 +72,7 @@
       addEdge(a, b, 'world', {}); addEdge(b, a, 'world', {});
     });
 
-    // Cost is in moves: walking inside a realm is the straight-line distance between the tile you arrive on and the tile of
+    // Cost is in stamina, 1 a move: walking inside a realm is the straight-line distance between the tile you arrive on and the tile of
     // the next stairs / portal (diagonals allowed, obstacles ignored). A portal reaches any master realm's world map, and you can
     // teleport to Mountain Path for 25 stamina, so the cheapest way may start by walking to a nearby portal instead.
     const cheb = (t, x, y) => (t && x != null ? Math.max(Math.abs(t[0] - x), Math.abs(t[1] - y)) : 0);
@@ -93,7 +94,7 @@
       if (near) {
         masters.forEach((m) => {
           if (m.name === name) return;
-          out.push({ e: { to: m.name, kind: 'portal', x: near.p.x, y: near.p.y, name: near.p.name }, walk: near.walk, cost: near.walk + 2, at: null });
+          out.push({ e: { to: m.name, kind: 'portal', x: near.p.x, y: near.p.y, name: near.p.name }, walk: near.walk, cost: near.walk + PORTAL_COST, at: null });
         });
       }
       if (byName[FREE_TO]) out.push({ e: { to: FREE_TO, kind: 'free', ax: FREE_AT[0], ay: FREE_AT[1] }, walk: 0, cost: TELEPORT_COST, at: FREE_AT });
